@@ -1,4 +1,4 @@
-<script type="application/ld+json">{
+{
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -9064,16 +9064,4 @@
       }
     }
   ]
-}</script>
-
-📊 Generation Summary:
-   • 45 events generated
-   • Lessons: 45 valid / Workshops: 0 valid
-   • 23 events with reviews
-   • 45 events with performer
-   • 23 events with offers
-   • Region coverage: 100%
-   • 🔁 EventSeries Created: 2 (Camera course for beginners, Lightroom photo editing)
-
-✅ Valid - Schema.org compliant (45 events)
-📍 Location Enrichment Active — Regions and Geo auto-filled via keyword inference.
+}

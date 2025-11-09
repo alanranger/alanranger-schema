@@ -1,4 +1,4 @@
-<script type="application/ld+json">{
+{
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -14473,16 +14473,4 @@
       }
     }
   ]
-}</script>
-
-📊 Generation Summary:
-   • 71 events generated
-   • Lessons: 0 valid / Workshops: 71 valid
-   • 57 events with reviews
-   • 71 events with performer
-   • 63 events with offers
-   • Region coverage: 100%
-   • 🔁 EventSeries Created: 2 (Bluebell photography workshop, Batsford arboretum autumn photography workshop)
-
-✅ Valid - Schema.org compliant (71 events)
-📍 Location Enrichment Active — Regions and Geo auto-filled via keyword inference.
+}
