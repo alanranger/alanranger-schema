@@ -49,9 +49,8 @@ Validate hosted JSON files with:
 
 ```
 alanranger-schema/
-├── public/
-│   ├── lessons-schema.json
-│   └── workshops-schema.json
+├── lessons-schema.json
+├── workshops-schema.json
 ├── .github/
 │   └── workflows/
 │       └── update-schema.yml
