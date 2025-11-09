@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'public/*.json'
+      - '*.json'
   watch:
     types: [started]
 
@@ -27,12 +27,12 @@ jobs:
       - name: Check for changes
         id: check
         run: |
-          git diff --exit-code public/*.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code *.json || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit & Push updates
         if: steps.check.outputs.changed == 'true'
         run: |
-          git add public/*.json
+          git add *.json
           git commit -m "Auto-update schema JSON files from generator [skip ci]" || exit 0
           git push
 
