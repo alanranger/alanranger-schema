@@ -65,6 +65,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -76,8 +77,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1760450014219-MXR6APN2KH0VGLM4JMAM/rps+distinctions+panel+peter+orton+arps.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -104,6 +104,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/john-simpson-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -115,8 +116,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1760447858923-8TW49Q2SYYZNPG12P7I3/final+panel+layour+john+simpson+rps+distinctions-2.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -143,6 +143,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/five-creative-autumn-photography-projects"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -154,8 +155,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1731843789178-1QF5ZG0PM5KU93NYYUY2/Autumn+Photography+Projects.jpg",
           "articleSection": "tip-of-the-day",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -182,6 +182,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/autumn-photography-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -192,8 +193,7 @@
             "caption": "Free Autumn Photography Tips | Equipment | Approach"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1602765902956-JXNLBR7VUQ204HCMT2NV/photography-workshops+%283%29.jpg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       },
       {
@@ -220,6 +220,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photographing-autumn-uk-landscape-photography-guide"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -231,8 +232,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704615437736-5D3FG54ZKUBNGARMCRX4/Cheddar%2BGorge%2B%252311%2B-%2BNov%2B2021.jpg",
           "articleSection": "news",
-          "keywords": "tips, photography tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips, photography tips"
         }
       },
       {
@@ -259,6 +259,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/the-way-of-wu-wei-philosophy"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -270,8 +271,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1547318555564-DSX81CF0M15HPHKAWG9C/out+of+the+mist-Alan-Ranger-Photography.jpg",
           "articleSection": "news",
-          "keywords": "composition-curiousness",
-          "inLanguage": "en-GB"
+          "keywords": "composition-curiousness"
         }
       },
       {
@@ -298,6 +298,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/composition-curiousness-part-1"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -309,8 +310,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1471805938209-P1Q2E9J2BE8T9M0WSCB2/_DSC4240-1165.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition-curiousness",
-          "inLanguage": "en-GB"
+          "keywords": "composition-curiousness"
         }
       },
       {
@@ -337,6 +337,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/composition-curiousness-part-2"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -348,8 +349,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1480371255048-M1650RJFM1P2OWFQ7240/_DSC4934-Edit-Edit.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition-curiousness",
-          "inLanguage": "en-GB"
+          "keywords": "composition-curiousness"
         }
       },
       {
@@ -376,6 +376,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-seasonal-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -387,8 +388,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723916326389-OY3B06K0NKKC6ZXVRT56/seasonal+photography-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, bonus module"
         }
       },
       {
@@ -415,6 +415,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-iso-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -426,8 +427,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1718786790415-WKCECXKVNJENHZ8OI7YR/what+is+iso+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -454,6 +454,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photo-print-sizes-resize-photos"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -465,8 +466,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1558626426960-EHUIE7HHF1S6KC1ZOV0D/viewing+distances+for+photographs.png",
           "articleSection": "photography-courses",
-          "keywords": "tips, printing, one-vision, photo print sizes, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, printing, one-vision, photo print sizes, bonus module"
         }
       },
       {
@@ -493,6 +493,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/composition-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -504,8 +505,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1753542254720-XIQAVWWDSVS7MY92WSMB/Composition+in+Photography+Why+the+Camera+Isn%E2%80%99t+the+Artist.jpg",
           "articleSection": "photography-tips",
-          "keywords": "bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "bonus module"
         }
       },
       {
@@ -532,6 +532,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -543,8 +544,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722790145206-99R7V2CGKFNKXYV1ZTTX/What+is+DYNAMIC+RANGE+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -571,6 +571,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -582,8 +583,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719951218600-FS33AJ905EIUW0EP9FWQ/what+is+framing+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -610,6 +610,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -621,8 +622,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1742562035404-6D956VURI67PPZR3U6TD/photography-exposure-calculator-thumbnail.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, bonus module"
         }
       },
       {
@@ -649,6 +649,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-styles-trends-and-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -659,8 +660,7 @@
             "caption": "Photography Styles: Trends, Tips &amp; Finding Your Fit (2025"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1717147899095-F5OH4VMVKPUP7HMF36FS/photography+styles.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -687,6 +687,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -698,8 +699,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724273423711-MD9DHKOI2UIQF74IXESG/how+to+find+your+photography+style-.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -726,6 +726,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -737,8 +738,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707913176049-NTEUVPYWAF0KDZ2KME2K/storytelling+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -765,6 +765,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/the-history-of-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -776,8 +777,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0e516650-d873-4c5f-9059-a2386075c385/history+of+photography+1+A_historical_illustration_of_Aristotle_using_a_cam.jpg.jpg",
           "articleSection": "online photography course",
-          "keywords": "bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "bonus module"
         }
       },
       {
@@ -804,6 +804,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/creative-photography-workshops-unlocking-your-potential"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -814,8 +815,7 @@
             "caption": "Creative Photography Workshops: Unlocking Your Potential"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709721467073-PZTFKPY31NBXTA70B5TY/creative+photography+workshops.jpg",
-          "articleSection": "photography-basics",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-basics"
         }
       },
       {
@@ -842,6 +842,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -853,8 +854,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723837380026-U35IU8KYNC858D1E6CR3/Architecture+Photography.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre, tips",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre, tips"
         }
       },
       {
@@ -881,6 +881,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-a-guide-for-photographers"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -892,8 +893,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707390543472-BGWRBMURY81CWAWJM7CW/exposure+bracketing-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "bracketing, hdr, photography tips, camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "bracketing, hdr, photography tips, camera settings for photography"
         }
       },
       {
@@ -920,6 +920,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-exposure-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -931,8 +932,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719229330512-B5JRHUZ81AJZEX2NL2SQ/what+is+exposure+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -959,6 +959,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-is-an-art-of-observation"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -970,8 +971,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724056442602-W9GXKL03X3E4HBLWZ7ST/Photography+is+an+Art+of+Observation.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -998,6 +998,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1009,8 +1010,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722190310524-XH9T3DIB4S2EFIEX6B85/what+is+minimalism+in+photography.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre"
         }
       },
       {
@@ -1037,6 +1037,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1048,8 +1049,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723391417218-CZIDV4QZUI82Y3OEM22B/what+is+portrait+photography.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre"
         }
       },
       {
@@ -1076,6 +1076,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/master-photography-with-a-photography-tutor"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1086,8 +1087,7 @@
             "caption": "Master Photography with a Professional Photography Tutor"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713534722971-MO0T4B2C9GVY4YVEG071/photography+tutor.jpg",
-          "articleSection": "photography-courses",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-courses"
         }
       },
       {
@@ -1114,6 +1114,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/street-photography-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1125,8 +1126,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723817982637-3JL00SIGNZZY64TL8UZY/Street+Photography+Tips.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre, tips",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre, tips"
         }
       },
       {
@@ -1153,6 +1153,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1164,8 +1165,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721663762952-CLMBGTIQZCZUKBDVITP3/what+is+focus+in+photography-4.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1192,6 +1192,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/10-basic-camera-settings-for-camera"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1203,8 +1204,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1691760565486-GWG4STJOIQ8KO7QYDIS8/best+camera+settings-8.jpg",
           "articleSection": "photography-basics",
-          "keywords": "photography-made-easy, tips, learn-photography, essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "photography-made-easy, tips, learn-photography, essential gear guides"
         }
       },
       {
@@ -1231,6 +1231,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/product-photography-setup"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1242,8 +1243,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721638470544-P5BAQI5BKVYGWCRQFX13/product+photography+setup-3.jpg",
           "articleSection": "photography-courses",
-          "keywords": "photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre"
         }
       },
       {
@@ -1270,6 +1270,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1281,8 +1282,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723654005875-M83CBXL7QKVYNGMTJG7H/compositional+balance.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -1309,6 +1309,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1320,8 +1321,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723314184523-WPHD21J6O0ODEAAWA2SH/what+is+contrast+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -1348,6 +1348,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/best-camera-bags-for-different-trips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1359,8 +1360,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722760005459-C49VSF86VTVXNQV5I4F4/best+camera+bags.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides, camera bags",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides, camera bags"
         }
       },
       {
@@ -1387,6 +1387,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-still-life-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1398,8 +1399,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723561618044-NQVQ4G1GRMN316G8JZ09/What+is+Still+Life+Photography.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre"
         }
       },
       {
@@ -1426,6 +1426,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-aperture-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1437,8 +1438,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719145505005-A9NEME5057E1VNMXYY2W/what+is+aperture+in+photography-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1465,6 +1465,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-take-long-exposure-photos"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1476,8 +1477,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723802953111-YF113CGU2N2OOE0DXWRK/how+to+take+long+exposure+photos.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre, tips",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre, tips"
         }
       },
       {
@@ -1504,6 +1504,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1515,8 +1516,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724327440734-LOQFVBS64MSDW3VIEYWE/How+to+Improve+Your+Photography+Composition.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -1543,6 +1543,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1554,8 +1555,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709059571999-IOMYYJ5794EK776TMR7U/macro+photography-2.jpg",
           "articleSection": "photography-basics",
-          "keywords": "macro, photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "macro, photography genre"
         }
       },
       {
@@ -1582,6 +1582,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-focal-length-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1593,8 +1594,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723043869177-6Z5KZF0SZHUR75Z8GTMR/What+is+focal+length+in+photography-2-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1621,6 +1621,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/camera-lenses-hire-or-buy"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1632,8 +1633,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724407803056-LBV66GVCL0Z57HL6PB1R/camera+lenses.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides, tips",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides, tips"
         }
       },
       {
@@ -1660,6 +1660,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/jpeg-vs-raw-the-key-differences"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1671,8 +1672,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722869740604-JCJNWW5QGCHC6655MKD9/JPEG+vs+RAW-5.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1699,6 +1699,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-shutter-speed"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1710,8 +1711,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719133496617-136EEL7CXJEVM4WVR521/what+is+shutter+speed.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1738,6 +1738,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1749,8 +1750,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723379780823-0HVFHMKGG5P36T6HWIQQ/what+is+negative+space+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -1777,6 +1777,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1788,8 +1789,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707655963676-XW6F2BPCLUE3CZRTJWOX/camera+sensor+clean+-+Dust+Spots.jpg",
           "articleSection": "photography-tips",
-          "keywords": "sensor cleaning, dust spots, photography tips, tips, camera care, essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "sensor cleaning, dust spots, photography tips, tips, camera care, essential gear guides"
         }
       },
       {
@@ -1816,6 +1816,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/top-tips-for-photographing-bluebells"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1827,8 +1828,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1577785209795-ZFCBGDB3Q8L2QPWCL5CH/bluebell+sways.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography tips, bluebells",
-          "inLanguage": "en-GB"
+          "keywords": "photography tips, bluebells"
         }
       },
       {
@@ -1855,6 +1855,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-landscape-photography-tips-and-techniques"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1866,8 +1867,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713885462416-KNHSI9IDJMXY70INX44P/Mastering+Landscape+Photography.jpg",
           "articleSection": "photography-courses",
-          "keywords": "photography genre",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre"
         }
       },
       {
@@ -1894,6 +1894,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-photography-composition-rules"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1905,8 +1906,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1717603176244-5J6GZFKG2GTUYM58ARNC/_-46.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -1933,6 +1933,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1944,8 +1945,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722798718583-WQL4FJX135PNK0Y8CV37/what+is+white+balance+in+photography-3.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -1972,6 +1972,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-for-beginners"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -1983,8 +1984,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723909198844-9SKJTWE5O04YX2K9PKUV/black+and+white+photography+for+beginners.jpg",
           "articleSection": "online photography course",
-          "keywords": "photography genre, tips",
-          "inLanguage": "en-GB"
+          "keywords": "photography genre, tips"
         }
       },
       {
@@ -2011,6 +2011,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/learn-photography-online-photography-classes"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2021,8 +2022,7 @@
             "caption": "Learn photography from home - Online Photography Classes"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1702382965699-QUGDTYG2A8QEZQBR6NWU/photography+lessons+online--10.jpg",
-          "articleSection": "photography-courses",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-courses"
         }
       },
       {
@@ -2049,6 +2049,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/top-bluebell-woodland-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2060,8 +2061,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1703326308392-JXI12VUFWE054K6HFTWV/bluebell+trumpet.jpg",
           "articleSection": "photography-tips",
-          "keywords": "bluebells, spring",
-          "inLanguage": "en-GB"
+          "keywords": "bluebells, spring"
         }
       },
       {
@@ -2088,6 +2088,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-are-camera-drive-modes"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2099,8 +2100,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722862774522-S03JPDU6HO2RTWFHRBJN/Camera+Drive+Modes.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -2127,6 +2127,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2138,8 +2139,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1412761392173-01A5V0SHTJIUBK15109O/image-asset.jpeg",
           "articleSection": "photography-tips",
-          "keywords": "bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "bonus module"
         }
       },
       {
@@ -2166,6 +2166,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/full-frame-vs-cropped-sensor"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2177,8 +2178,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722882474535-8W9CQH8XY1TA4YU74RSD/full+frame+vs+cropped+sensor-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -2205,6 +2205,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/7-essential-camera-accessories"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2216,8 +2217,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724426232729-JN3J7J9U3T6AIREDI1TL/essential+camera+accessories-.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides, tips",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides, tips"
         }
       },
       {
@@ -2244,6 +2244,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-depth-of-field"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2255,8 +2256,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1716562425681-31Y0AJYRYSOG286D5RO8/UNDERSTANDING+DEPTH+OF+FIELD+IN+PHOTOGRAPHY.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -2283,6 +2283,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/are-mirrorless-cameras-better-than-dslrs"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2294,8 +2295,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723994482511-1N4HPV0H6XXUJJ8BHZ6W/are+mirrorless+cameras+better+than+dslrs-.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides"
         }
       },
       {
@@ -2322,6 +2322,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photo-editing-software"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2333,8 +2334,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724351442710-E20EP63HX1TTNRSLBX2N/photo+editing+software.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides, tips",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides, tips"
         }
       },
       {
@@ -2361,6 +2361,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-much-do-photographers-earn"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2371,8 +2372,7 @@
             "caption": "How Much Do Photographers Earn: 2025 Industry Report UK"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1730924654748-55PGAMJ8QIM35PSREHZN/How+Much+Do+Photographers+Earn-3.jpg",
-          "articleSection": "professional photographer",
-          "inLanguage": "en-GB"
+          "articleSection": "professional photographer"
         }
       },
       {
@@ -2399,6 +2399,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-woodland-pictures"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2409,8 +2410,7 @@
             "caption": "How to Improve your Woodland Photography | Woodland Pictures"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704311442483-JYQDST757ZWEQK6MXM5Z/Derbyshire+Dales+%2306+-+Nov+2022.jpg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       },
       {
@@ -2437,6 +2437,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/midlands-photography-workshops-with-alan-ranger"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2447,8 +2448,7 @@
             "caption": "Discover the Midlands Photography Workshops with Alan Ranger"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711381118419-EPUU3W7D7N9XFI904AKT/midlands+photography+workshop+locations.jpg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -2475,6 +2475,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/secrets-to-woodland-photography-masterclass"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2486,8 +2487,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1687446166725-01UG61ABE6VZ6SICRT46/Plant%2BHill%2BWoods%2B%252311%2B-%2BJan%2B2022.jpg",
           "articleSection": "news",
-          "keywords": "news",
-          "inLanguage": "en-GB"
+          "keywords": "news"
         }
       },
       {
@@ -2514,6 +2514,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/professional-commercial-photography-in-coventry"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2524,8 +2525,7 @@
             "caption": "Power of Professional Commercial Photography in Coventry"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712491410832-07ME5DFA0LGJ2XEC8X61/Commercial+Photography+in+Coventry+.jpg",
-          "articleSection": "professional photographer",
-          "inLanguage": "en-GB"
+          "articleSection": "professional photographer"
         }
       },
       {
@@ -2552,6 +2552,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-winter-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2563,8 +2564,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1702903360986-RJHHWRISNF3AFX5F6TFT/winter+photography+tips.jpg",
           "articleSection": "photography-tips",
-          "keywords": "winter photography",
-          "inLanguage": "en-GB"
+          "keywords": "winter photography"
         }
       },
       {
@@ -2591,6 +2591,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-are-leading-lines-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2602,8 +2603,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722362958443-DD53QQ9XSJPL5N3E2QW0/What+Are+Leading+Lines+in+Photography-2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -2630,6 +2630,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2641,8 +2642,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723492489601-NVAOH7MDRVJ3IPEPHJ10/what+do+camera+lens+filters+do.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides"
         }
       },
       {
@@ -2669,6 +2669,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-back-up-photos"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2680,8 +2681,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1726597205541-N8EEGVQTPNZ4I8ATOAWT/Backing+up+photos.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, bonus module"
         }
       },
       {
@@ -2708,6 +2708,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2719,8 +2720,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719945289821-RFAYPSPOKIQT0PCDTHC4/what+is+manual+exposure+in+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -2747,6 +2747,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/tripod-for-cameras-essential-guide"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2758,8 +2759,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1720770960867-1FQIGWZQSQEDOSCQ2DY1/Tripod+for+Cameras+Guide+Which%2C+Why+and+How+to+Use+A+Tripod.jpg",
           "articleSection": "photography-tips",
-          "keywords": "essential gear guides, tripod",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides, tripod"
         }
       },
       {
@@ -2786,6 +2786,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-abstract-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2797,8 +2798,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723981355299-CCAP6ONEGTAWTQBIVQWL/Abstract+Photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, bonus module"
         }
       },
       {
@@ -2825,6 +2825,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/are-camera-uv-filters-worth-it"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2836,8 +2837,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1412597314304-F7NM410M80ZZI9NO70U6/image-asset.jpeg",
           "articleSection": "photography-tips",
-          "keywords": "filters, lee-filters, uv-filters, kase filters, essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "filters, lee-filters, uv-filters, kase filters, essential gear guides"
         }
       },
       {
@@ -2864,6 +2864,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/what-is-metering-in-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2875,8 +2876,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719395525023-89KVGBGLO5KP6J9T6CSU/what+is+metering+in+photography+2.jpg",
           "articleSection": "photography-tips",
-          "keywords": "camera settings for photography",
-          "inLanguage": "en-GB"
+          "keywords": "camera settings for photography"
         }
       },
       {
@@ -2903,6 +2903,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2914,8 +2915,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723974976957-DC2AQCWAENLMBDYSKA0M/Mastering+the+Art+of+Shadow+Photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, bonus module"
         }
       },
       {
@@ -2942,6 +2942,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/guide-preparing-for-your-photography-workshop"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2953,8 +2954,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1692710712303-G7W335RODFOJBH93WSLM/Preparing+For+Your+Photography+Workshop.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography tips, news",
-          "inLanguage": "en-GB"
+          "keywords": "photography tips, news"
         }
       },
       {
@@ -2981,6 +2981,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-evening-classes-fun-informative"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -2991,8 +2992,7 @@
             "caption": "Photography Evening Classes: In Coventry with Alan Ranger"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711458455485-OEXACL3HNQ2F0OU1HSY1/photography+evening+classes.jpg",
-          "articleSection": "photography-courses",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-courses"
         }
       },
       {
@@ -3019,6 +3019,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/beyond-a-point-and-shoot-camera"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3030,8 +3031,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1703351769412-6PEN0VKVZM71LD06BI4C/_-4-6.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, photography tips, learn-photography, bonus module",
-          "inLanguage": "en-GB"
+          "keywords": "tips, photography tips, learn-photography, bonus module"
         }
       },
       {
@@ -3058,6 +3058,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/landscape-fine-art-photography-prints"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3068,8 +3069,7 @@
             "caption": "Explore the world of Landscape Fine Art Photography Prints"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1702833158494-62R83QEV6VCQ71369Q1Y/landscape+fine+art+photography.jpg",
-          "articleSection": "recommended-products",
-          "inLanguage": "en-GB"
+          "articleSection": "recommended-products"
         }
       },
       {
@@ -3096,6 +3096,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3107,8 +3108,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1733493862026-KWN0XET02O8VJJW53TZ8/Best+Product+Photography+Tripod.jpg",
           "articleSection": "recommended-products",
-          "keywords": "essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides"
         }
       },
       {
@@ -3135,6 +3135,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/selecting-the-ideal-product-photographer"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3145,8 +3146,7 @@
             "caption": "Selecting the Ideal Product Photographer for Your Business"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1730302207991-TPI4DK0MZOS2MNTKRV9D/product+photography+setup-3.jpg",
-          "articleSection": "commercial photography",
-          "inLanguage": "en-GB"
+          "articleSection": "commercial photography"
         }
       },
       {
@@ -3173,6 +3173,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/kentfaith-concept-square-filter-system"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3184,8 +3185,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1730135341502-R6JL0VSTKSRL240T2NU7/K%26F+CONCEPT+Square+System+Pro+Kit.jpg",
           "articleSection": "recommended-products",
-          "keywords": "essential gear guides",
-          "inLanguage": "en-GB"
+          "keywords": "essential gear guides"
         }
       },
       {
@@ -3212,6 +3212,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/know-your-camera-filters"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3223,8 +3224,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557650419904-DDPSWIBQUGMLLSNDIE6X/LEE_Filters_NDGSSET_Graduated_Neutral_Density_Soft_292653.jpg",
           "articleSection": "photography-tips",
-          "keywords": "filters, lee-filters, recommended-products, uv-filters, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "filters, lee-filters, recommended-products, uv-filters, NIK"
         }
       },
       {
@@ -3251,6 +3251,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/secrets-of-lake-district-landscape-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3261,8 +3262,7 @@
             "caption": "The Secrets of Lake District Landscape Photography"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1691230704770-U9XOAKYROP3XKT7FX26J/Ble+Tarn+Calm.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -3289,6 +3289,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/tripods-a-photographers-best-friend"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3300,8 +3301,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649858874-575XJD5P4O5R3QQC1H0D/CF-Tripod-Size-Comparison.png",
           "articleSection": "photography-tips",
-          "keywords": "tripod, recommended-products, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "tripod, recommended-products, NIK"
         }
       },
       {
@@ -3328,6 +3328,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/manfrotto-befree-tripod-review"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3339,8 +3340,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721581255801-S6VCG7RSJ4CGAY1OF2QL/Manfrotto+Befree+Tripod-6.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tripod",
-          "inLanguage": "en-GB"
+          "keywords": "tripod"
         }
       },
       {
@@ -3367,6 +3367,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/alistair-willis-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3378,8 +3379,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721291448290-753YS967OXMJ37PSWTLS/_-2-25.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -3406,6 +3406,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/lightroom-classic-latest-version-whats-new"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3416,8 +3417,7 @@
             "caption": "Lightroom Classic Latest Version 13.3 - What's New"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1716541561477-4IDUA8JMVAP8I1Q05IIZ/lightroom+classic+latest+version.jpg",
-          "articleSection": "recommended-products",
-          "inLanguage": "en-GB"
+          "articleSection": "recommended-products"
         }
       },
       {
@@ -3444,6 +3444,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/creative-potential-with-nik-collection-7"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3454,8 +3455,7 @@
             "caption": "Unleash Your Creative Potential with Nik Collection 7"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1716299196648-V2LYZOWUA9SPJ87LKE03/NIK+Collection+7.jpg",
-          "articleSection": "recommended-products",
-          "inLanguage": "en-GB"
+          "articleSection": "recommended-products"
         }
       },
       {
@@ -3482,6 +3482,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-mirrorless-cameras-are-shaping-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3491,8 +3492,7 @@
             "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713953973957-KIJGIM5MKJ3U1JDCXUH3/_.jpg",
             "caption": "How Mirrorless Cameras Are Shaping Photography's Future"
           },
-          "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713953973957-KIJGIM5MKJ3U1JDCXUH3/_.jpg",
-          "inLanguage": "en-GB"
+          "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713953973957-KIJGIM5MKJ3U1JDCXUH3/_.jpg"
         }
       },
       {
@@ -3519,6 +3519,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-barbara-voules-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3530,8 +3531,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1710152024929-3YUUAD6JSRLC7DP8WOB4/_-11.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -3558,6 +3558,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-ian-slater-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3569,8 +3570,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709977223849-8S5YRNS49NGD9DXGY0KV/_-11.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -3597,6 +3597,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-take-professional-photos"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3608,8 +3609,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1693737222965-ARTMYQJBIQTI2RUSTLV3/how+to+take+professional+photos.jpg",
           "articleSection": "photography-basics",
-          "keywords": "professional, news, photography tips",
-          "inLanguage": "en-GB"
+          "keywords": "professional, news, photography tips"
         }
       },
       {
@@ -3636,6 +3636,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/beginners-photography-course-in-coventry"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3647,8 +3648,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1703002737962-5EO6Z8OBZ4RB9LMENQIB/_-613.jpg",
           "articleSection": "photography-basics",
-          "keywords": "learn-photography, photography-made-easy, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "learn-photography, photography-made-easy, NIK"
         }
       },
       {
@@ -3675,6 +3675,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/learn-landscape-photography-techniques"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3685,8 +3686,7 @@
             "caption": "Landscape Photography-Learn Landscape Photography Techniques"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1702465958871-GP315S6F68K5J89787PU/learn+landscape+photography+techniques.jpg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -3713,6 +3713,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/prepare-for-photography-courses"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3724,8 +3725,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1692718409848-KLWLNJW467EGXBNQTPL3/Preparation%2BTips%2BFor%2B%2B-%2BPhotography%2BCourses%2Bfor%2BBeginners.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography tips, news",
-          "inLanguage": "en-GB"
+          "keywords": "photography tips, news"
         }
       },
       {
@@ -3752,6 +3752,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/professional-commercial-photography-elevate-your-business"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3762,8 +3763,7 @@
             "caption": "Professional Commercial Photography: Elevate Your Business"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1702548746520-6E6ZVRUPOKJFE493T2NS/_-2-8.jpg",
-          "articleSection": "commercial photography",
-          "inLanguage": "en-GB"
+          "articleSection": "commercial photography"
         }
       },
       {
@@ -3790,6 +3790,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-photos"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3801,8 +3802,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649211771-OZI4RLE4TLGY8HA7TOVQ/comparison_Human_Eye.jpg",
           "articleSection": "photography-tips",
-          "keywords": "filters, bracketing, hdr",
-          "inLanguage": "en-GB"
+          "keywords": "filters, bracketing, hdr"
         }
       },
       {
@@ -3829,6 +3829,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/learn-photography-basics-with-a-mentor"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3840,8 +3841,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1691836908960-49338E77ZZB450YLBIK3/photo+classes.jpg",
           "articleSection": "photography-basics",
-          "keywords": "photography-made-easy, tips, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "photography-made-easy, tips, learn-photography"
         }
       },
       {
@@ -3868,6 +3868,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/the-perfect-travel-tripod-benro-cyanbird"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3879,8 +3880,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1697727430350-6D9CK6YZADSI6DJHPM4Y/Benro+CyanBird+Carbon-Aluminum+5+Section+Tripod+with+N00P+Ballhead.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, tripod",
-          "inLanguage": "en-GB"
+          "keywords": "tips, tripod"
         }
       },
       {
@@ -3907,6 +3907,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/alternative-long-exposure-photography-techniques"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3918,8 +3919,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594894650620-BT34U7SG6FX4HR4V8GYY/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography, long-exposure",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography, long-exposure"
         }
       },
       {
@@ -3946,6 +3946,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/whats-new-in-lightroom-classic-13"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3957,8 +3958,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1697115003230-N6Z8Q0VLEOWO46C7AA6T/WHAT%27S+NEW+IN+LIGHTROOM+CLASSIC+13+%282024%29%2B.jpg",
           "articleSection": "lightroom",
-          "keywords": "lightroom, editing-photos, news",
-          "inLanguage": "en-GB"
+          "keywords": "lightroom, editing-photos, news"
         }
       },
       {
@@ -3985,6 +3985,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/northumberland-landscape-photography-why-northumbria"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -3996,8 +3997,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1694681358684-6PRA89PYDUOB64T8DE8C/northumberland+landscape+photography+workshops.jpg",
           "articleSection": "photography-workshops",
-          "keywords": "news, landscapes, seascape, northumberland",
-          "inLanguage": "en-GB"
+          "keywords": "news, landscapes, seascape, northumberland"
         }
       },
       {
@@ -4024,6 +4024,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/north-devon-photography-workshops-why-devon"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4035,8 +4036,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1694101353102-9WCFB3G36UDAYF79PKWC/North+Devon+Photography+Workshops.jpg",
           "articleSection": "photography-workshops",
-          "keywords": "landscapes, hartland quay, seascape",
-          "inLanguage": "en-GB"
+          "keywords": "landscapes, hartland quay, seascape"
         }
       },
       {
@@ -4063,6 +4063,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/why-snowdonia-landscape-photography-workshops"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4074,8 +4075,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1693903346725-FT6933LRQLR13AHPBHUN/Snowdonia+photography+workshop.jpg",
           "articleSection": "photography-workshops",
-          "keywords": "news, Snowdonia, landscapes",
-          "inLanguage": "en-GB"
+          "keywords": "news, Snowdonia, landscapes"
         }
       },
       {
@@ -4102,6 +4102,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4112,8 +4113,7 @@
             "caption": "Lee Filters - 15% Off for clients - Grab a deal today"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1403082135368-LIZJ6HVZD07KUSBVXT0S/linhof+offer.JPG",
-          "articleSection": "photography-offers",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-offers"
         }
       },
       {
@@ -4140,6 +4140,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/social-media-for-photographers-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4151,8 +4152,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1692428271962-C2QMB1O8VT0IKU1F7B9G/is+social+media+good+for+photographers.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography tips, news",
-          "inLanguage": "en-GB"
+          "keywords": "photography tips, news"
         }
       },
       {
@@ -4179,6 +4179,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/enhancing-your-photography-with-kase-filters"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4190,8 +4191,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712474982299-8EV96NGNTB9PF6GTOJS0/_-693.jpg",
           "articleSection": "photography-tips",
-          "keywords": "filters, tips",
-          "inLanguage": "en-GB"
+          "keywords": "filters, tips"
         }
       },
       {
@@ -4218,6 +4218,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/ultimate-guide-to-summer-landscape-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4229,8 +4230,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690201652587-9BFVF0IQISYIMB5MKIPW/summer%2Blandscape%2Bphotography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "100-tips-for-better-landscapes",
-          "inLanguage": "en-GB"
+          "keywords": "100-tips-for-better-landscapes"
         }
       },
       {
@@ -4257,6 +4257,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-how-to-improve-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4268,8 +4269,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690205140460-H80T9TSCICIADZ9ZVKE1/photography-tips+%282%29.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography-made-easy",
-          "inLanguage": "en-GB"
+          "keywords": "photography-made-easy"
         }
       },
       {
@@ -4296,6 +4296,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/creative-editing-with-nik-collection-6"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4307,8 +4308,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690211064151-7UPP0Y2E2H11O0HCGJXC/dxo+nik+6.jpg",
           "articleSection": "lightroom",
-          "keywords": "news, editing-photos, lightroom, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "news, editing-photos, lightroom, NIK"
         }
       },
       {
@@ -4335,6 +4335,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4346,8 +4347,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1479132023717-SD06UXY2AXTET6COBC2D/_-115.jpg",
           "articleSection": "news",
-          "keywords": "els, jlr",
-          "inLanguage": "en-GB"
+          "keywords": "els, jlr"
         }
       },
       {
@@ -4374,6 +4374,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/become-a-better-photographer"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4385,8 +4386,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1413458342877-NKKZBB7CUMXWBLNBLQRC/image-asset.jpeg",
           "articleSection": "photography-tips",
-          "keywords": "tuition, tips",
-          "inLanguage": "en-GB"
+          "keywords": "tuition, tips"
         }
       },
       {
@@ -4413,6 +4413,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/camera-bag-review-of-manfrotto-backpack"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4424,8 +4425,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1684586718183-4JOW4AGHCUU52B6TUM58/camera-backpack-manfrotto--advanced-3-mb-ma3-bp-fm-full-access.jpg",
           "articleSection": "photography-tips",
-          "keywords": "news, reviews",
-          "inLanguage": "en-GB"
+          "keywords": "news, reviews"
         }
       },
       {
@@ -4452,6 +4452,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/kase-filters-and-lightroom-queen-deals"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4463,8 +4464,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690634569753-INMRWGV3DZRP2JNU1F36/_-526.jpg",
           "articleSection": "news",
-          "keywords": "news, filters",
-          "inLanguage": "en-GB"
+          "keywords": "news, filters"
         }
       },
       {
@@ -4491,6 +4491,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4502,8 +4503,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1692449129702-TG3G0XE9LK532S5HRZ6L/Photography+Concepts+for+Beginners.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photography tips, news",
-          "inLanguage": "en-GB"
+          "keywords": "photography tips, news"
         }
       },
       {
@@ -4530,6 +4530,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/used-cameras-and-lenses"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4541,8 +4542,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1598621743612-IF0AM1NVWWOHY8UTHZFI/usedlens.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -4569,6 +4569,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/5-stages-to-improve-your-photography"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4579,8 +4580,7 @@
             "caption": "5 Stages To Improve Your Photography | A Professional Guide"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/975783f8-d3eb-4de4-8c50-91de7ee530e5/Screenshot+2023-01-27+103646.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -4607,6 +4607,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4618,8 +4619,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1614415772186-MKBJKDOE2M50PKH7XCWF/sensor+cleaning+alan+ranger+photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "tips, NIK"
         }
       },
       {
@@ -4646,6 +4646,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/shooting-in-low-light"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4657,8 +4658,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1579076892798-1QI3WJQE4UUXFM0G34IU/-Alan-Ranger-Photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "long-exposure",
-          "inLanguage": "en-GB"
+          "keywords": "long-exposure"
         }
       },
       {
@@ -4685,6 +4685,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-janice-jordan-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4696,8 +4697,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674578445626-45F0BPEEG06MRWKAT5D9/_-11.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -4724,6 +4724,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/top-6-tips-for-photographing-fireworks"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4734,8 +4735,7 @@
             "caption": "Top 6 Tips for Photographing Fireworks from a Professional"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1415211289918-UEV33I5BY0H30DA7SISI/image-asset.jpeg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -4762,6 +4762,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-tips-10-things-to-know"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4773,8 +4774,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369792911-0VHT3Q4XLL9ZOPHB6E3F/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography"
         }
       },
       {
@@ -4801,6 +4801,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4812,8 +4813,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1663081850091-BGEQWKVO7QCUCLYK3JL0/kirsten+pearce+LRPS+hanging+plan.jpg",
           "articleSection": "photography-courses",
-          "keywords": "rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "rps-panel, rps distinctions"
         }
       },
       {
@@ -4840,6 +4840,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4851,8 +4852,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1644774446565-QY32LJZUG8RU9BVN4ZA7/Overstrand+-+Sep+2020+-+4-Alan-Ranger-Photography-4569.jpg",
           "articleSection": "news",
-          "keywords": "news",
-          "inLanguage": "en-GB"
+          "keywords": "news"
         }
       },
       {
@@ -4879,6 +4879,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-lessons-for-beginners"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4890,8 +4891,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1548001988746-ECFL7N70EJRM7THBC1TG/passage+way-Alan-Ranger-Photography.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -4918,6 +4918,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/expressive-photography-hard-often-frustrating"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4928,8 +4929,7 @@
             "caption": "Expressive Photography-Hard, often frustrating but rewarding"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1653928353524-Z1SGPOFBMOHRLB0B6MDT/photography-workshops+and+courses.jpg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       },
       {
@@ -4956,6 +4956,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -4966,8 +4967,7 @@
             "caption": "The camera is an instrument to teaches people how to see"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418394735515-JAMPSOM33AV1HLIP4G2V/kids.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -4994,6 +4994,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/recommended-travel-lightweight-tripods"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5005,8 +5006,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1630831798522-JTLHBXMK6NHOLVA15WML/Benro+Rhino+Tripod.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tripod",
-          "inLanguage": "en-GB"
+          "keywords": "tripod"
         }
       },
       {
@@ -5033,6 +5033,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-max-dobres-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5044,8 +5045,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1650368583558-98S9EK26POGQK7Z6SP6F/-Maxim%2BDobres%2BLRPS%2BHanging%2BPlan-Max%2BDobres%2BLRPS.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -5072,6 +5072,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/camera-care-guide"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5083,8 +5084,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1444145564834-125TPQVIZ2C48WP0XDNS/image-asset.png",
           "articleSection": "photography-tips",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -5111,6 +5111,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5122,8 +5123,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1646666533359-A4022HFW4QB1RIRGQY3O/Jack+Rosin+Hanging+Plan.jpg",
           "articleSection": "student-photos",
-          "keywords": "news",
-          "inLanguage": "en-GB"
+          "keywords": "news"
         }
       },
       {
@@ -5150,6 +5150,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/winter-photography-magic"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5160,8 +5161,7 @@
             "caption": "Shoot the magic of landscape winter photography | Guide"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1422890902660-NIIP77I354DNPHE2EBBG/image-asset.jpeg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -5188,6 +5188,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-dennis-jeffrey-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5199,8 +5200,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1635151584983-8C4XM4720PGRWGTIA3VI/Dennis+Jeffrey+LRPS+Hanging+Plan.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -5227,6 +5227,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/choosing-a-camera"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5237,8 +5238,7 @@
             "caption": "Choosing a camera - Considerations and Comparisons"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1402577772333-X1B5VLZF6ENAFQUQCTWT/snapsort1.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -5265,6 +5265,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/rps-distinctions-group-cfp5t"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5275,8 +5276,7 @@
             "caption": "RPS Distinctions: Gain Licentiate &amp; Associate Mentoring"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629807705432-6ULWO64R7TXVXC8ZCS82/RPS-Distinctions-photography-course.jpg",
-          "articleSection": "photography-courses",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-courses"
         }
       },
       {
@@ -5303,6 +5303,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5314,8 +5315,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1409834621204-U52RF813VLM77TWZGN1X/image-asset.png",
           "articleSection": "photography-tips",
-          "keywords": "tripod",
-          "inLanguage": "en-GB"
+          "keywords": "tripod"
         }
       },
       {
@@ -5342,6 +5342,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5353,8 +5354,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png",
           "articleSection": "photography-offers",
-          "keywords": "printing, tips",
-          "inLanguage": "en-GB"
+          "keywords": "printing, tips"
         }
       },
       {
@@ -5381,6 +5381,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/using-a-nd-filter"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5392,8 +5393,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649557896-5Y3L9JYK5RK8N1BAKAMI/ND%2BFilters%2B%E2%80%93%2BIn%2BDepth%2BGuide%2BFor%2BBeginners.jpg",
           "articleSection": "photography-tips",
-          "keywords": "filters",
-          "inLanguage": "en-GB"
+          "keywords": "filters"
         }
       },
       {
@@ -5420,6 +5420,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/learn-photography-how"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5430,8 +5431,7 @@
             "caption": "Learn Photography - How? - 10,000 Hours of Practice"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1547643149639-4C8L99PSX3CR58JLHSUW/Brain-Overload.jpg",
-          "articleSection": "a-journey",
-          "inLanguage": "en-GB"
+          "articleSection": "a-journey"
         }
       },
       {
@@ -5458,6 +5458,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/tripods-gitzo-vs-benro-review"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5469,8 +5470,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1552343838781-N14QJMMBS9K4RBJ642R4/DSC_6414-663.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tripod",
-          "inLanguage": "en-GB"
+          "keywords": "tripod"
         }
       },
       {
@@ -5497,6 +5497,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5508,8 +5509,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1620933273491-S39D0BQG1K5TIUVYKE82/5-4+Viewing+Frame-Main+Image.jpg",
           "articleSection": "photography-tips",
-          "keywords": "composition guide",
-          "inLanguage": "en-GB"
+          "keywords": "composition guide"
         }
       },
       {
@@ -5536,6 +5536,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/ten-tips-towards-better-composition"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5547,8 +5548,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369829319-GY8N5YVSIA12ZHOW3AOW/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography"
         }
       },
       {
@@ -5575,6 +5575,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5586,8 +5587,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369603773-86EOK8W3AQM1OI9OFJCD/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, tripod, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "tips, tripod, learn-photography"
         }
       },
       {
@@ -5614,6 +5614,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5625,8 +5626,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1536682008940-WARIBCCKFKPZU32F0UYN/brain+overload.JPG",
           "articleSection": "photography-tips",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -5653,6 +5653,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-photo-projects"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5664,8 +5665,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369873430-ZPAM8XCWYC923RNEOB5N/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, tripod, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "tips, tripod, learn-photography"
         }
       },
       {
@@ -5692,6 +5692,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-janet-boulter-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5703,8 +5704,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1615116954569-Q0HUZRS3P8E2X2TXJ4EW/Janet+Boulter+LRPS+Hanging+Plan.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -5731,6 +5731,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/which-lens-should-i-buy-next"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5742,8 +5743,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649696245-KARQ2S8WYQZDUWW9JWXA/what_lens_to_buy.jpg.optimal.jpg",
           "articleSection": "news",
-          "keywords": "lenses, gear, recommended-products, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "lenses, gear, recommended-products, NIK"
         }
       },
       {
@@ -5770,6 +5770,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-editing"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5781,8 +5782,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369973007-5AUHDJCQEUR9J5YXIN9V/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography"
         }
       },
       {
@@ -5809,6 +5809,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5820,8 +5821,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369714189-10W0A2BOW321HDAGVYEP/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography, lightroom",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography, lightroom"
         }
       },
       {
@@ -5848,6 +5848,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/top-10-composition-mistakes-beginners-make"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5858,8 +5859,7 @@
             "caption": "Top 10 composition mistakes - Guide To Great Composition"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1572599056637-HBKMRMT0KJ6QXG3YWTJT/top%2B10%2Bcomposition%2Bmistakes%2Bbeginners%2Bcan%2Bmake.jpg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -5886,6 +5886,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/advanced-editing-with-nik-collection"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5897,8 +5898,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369894381-JCMYVTL3JHJFXGAPK1EZ/photography-tips+%282%29.jpg",
           "articleSection": "photography-basics",
-          "keywords": "tips, learn-photography, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "tips, learn-photography, NIK"
         }
       },
       {
@@ -5925,6 +5925,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-jacki-rosin"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5936,8 +5937,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1434537592097-VCWD0HR8O8ISW3VUSDDA/image-asset.jpeg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, a photographic journey",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, a photographic journey"
         }
       },
       {
@@ -5964,6 +5964,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/hartland-quay-devon-coastal-workshop"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -5974,8 +5975,7 @@
             "caption": "North Devon Coastal Workshop | Why I love Hartland Quay"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1554191496488-R8OFSY9G0IA6SJO7AW9R/_DSC9937-2-2-2-2.jpg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -6002,6 +6002,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6013,8 +6014,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1588749383470-I34S9W50YBLIAV120TNV/virtual-bluebell-photography-workshop.jpg",
           "articleSection": "covid-19-support",
-          "keywords": "bluebells, news",
-          "inLanguage": "en-GB"
+          "keywords": "bluebells, news"
         }
       },
       {
@@ -6041,6 +6041,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-chris-shaw"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6052,8 +6053,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1432900632646-IKPOCE0GRFKBQB1MCNMW/image-asset.jpeg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, a photographic journey",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, a photographic journey"
         }
       },
       {
@@ -6080,6 +6080,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-show-buying-advice"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6091,8 +6092,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1583778616619-O6A2X26KI87JQXCAOD7I/photography-shop-logo-2020.jpg",
           "articleSection": "news",
-          "keywords": "recommended-products",
-          "inLanguage": "en-GB"
+          "keywords": "recommended-products"
         }
       },
       {
@@ -6119,6 +6119,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-francis-peckham-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6130,8 +6131,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674578390871-ITHWM1SE83SEHH73U62P/Screenshot+2023-01-24+162812.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6158,6 +6158,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6168,8 +6169,7 @@
             "caption": "Avoid Camera Shake - Use a remote release or self-timer"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423468534383-DPL6EQWNR7B4MO9QY6F4/image-asset.jpeg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -6196,6 +6196,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-vincenzo-albano-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6207,8 +6208,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1572095104344-UT16TZY2IB8URYICUOTW/_-16.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6235,6 +6235,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-jacki-rosin-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6246,8 +6247,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1571327108764-A4X896MCC6BKEAEZZUZT/jacki+rosin+hanging+plan.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6274,6 +6274,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/ireland-photography-workshop-recce-report"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6284,8 +6285,7 @@
             "caption": "Ireland Photography Workshop Recce Report | Dingle to Kerry"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1568763842143-IVRDASNBW4XSQSQ1ODCR/Coumeenoole%2BNorth%2B-%2BSlea%2BHead%2BParking%2B2.jpg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -6312,6 +6312,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6323,8 +6324,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png",
           "articleSection": "photography-offers",
-          "keywords": "printing, one-vision",
-          "inLanguage": "en-GB"
+          "keywords": "printing, one-vision"
         }
       },
       {
@@ -6351,6 +6351,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-anne-watkinson-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6362,8 +6363,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1562512646894-AUD2W243KMA0LWXEH3ME/_-2.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6390,6 +6390,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-paul-kirby-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6401,8 +6402,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1562505416374-R5HHQM3DUF71OKXS6DGS/_-11.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6429,6 +6429,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james-rps-distinctions"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6440,8 +6441,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1562499409562-YL2LYU1L1Y85BI76NOCC/_-11.jpg",
           "articleSection": "photography-courses",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -6468,6 +6468,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photographers-rights-in-the-uk"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6479,8 +6480,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1577614742242-ZCBSFQJKN3EO24ZYOINO/_-26.jpg",
           "articleSection": "photography-tips",
-          "keywords": "photographers-rights",
-          "inLanguage": "en-GB"
+          "keywords": "photographers-rights"
         }
       },
       {
@@ -6507,6 +6507,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6518,8 +6519,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1515607381547-HVA4DQV6F2QSDTDV1S24/-Alan-Ranger-Photography-139.jpg",
           "articleSection": "lightroom",
-          "keywords": "masterclasses, editing-photos",
-          "inLanguage": "en-GB"
+          "keywords": "masterclasses, editing-photos"
         }
       },
       {
@@ -6546,6 +6546,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6557,8 +6558,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1544112178354-DPKL15UOUN4JQTQH7M28/crisis+christmas+day.jpg",
           "articleSection": "news",
-          "keywords": "help-portrait",
-          "inLanguage": "en-GB"
+          "keywords": "help-portrait"
         }
       },
       {
@@ -6585,6 +6585,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/how-to-make-moving-photographs"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6596,8 +6597,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1469633159716-RZEBK4PVONBWYOAMMKDB/_-112.jpg",
           "articleSection": "photography-tips",
-          "keywords": "tips",
-          "inLanguage": "en-GB"
+          "keywords": "tips"
         }
       },
       {
@@ -6624,6 +6624,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/suffolk-punch-personal-perspective"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6634,8 +6635,7 @@
             "caption": "Suffolk Punch - A personal perspective &amp; Background"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1522607913318-9YSIHIRFU8UMJOMU7158/Herringfleet+Mill+II-Alan-Ranger-Photography.jpg",
-          "articleSection": "photography-workshops",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-workshops"
         }
       },
       {
@@ -6662,6 +6662,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6673,8 +6674,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1501580893184-M97OK3GTS62X4YSOBD04/_-120-2.jpg",
           "articleSection": "news",
-          "keywords": "news, copyright",
-          "inLanguage": "en-GB"
+          "keywords": "news, copyright"
         }
       },
       {
@@ -6701,6 +6701,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-coventry-report"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6712,8 +6713,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1512387457668-5QY0QYCG2TIGCU2ZGJTB/untitled-390.jpg",
           "articleSection": "news",
-          "keywords": "help-portrait",
-          "inLanguage": "en-GB"
+          "keywords": "help-portrait"
         }
       },
       {
@@ -6740,6 +6740,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry-school-shoot"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6751,8 +6752,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1499247778770-PK5BX81UA976MQGUU1F6/_-139.jpg",
           "articleSection": "news",
-          "keywords": "news, help-portrait",
-          "inLanguage": "en-GB"
+          "keywords": "news, help-portrait"
         }
       },
       {
@@ -6779,6 +6779,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/schools-photo-project"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6790,8 +6791,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1494506318179-WFKA1NB9BUPDVOPMV926/_-125-2.jpg",
           "articleSection": "news",
-          "keywords": "kids",
-          "inLanguage": "en-GB"
+          "keywords": "kids"
         }
       },
       {
@@ -6818,6 +6818,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/shooting-night-time-photography-tips"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6828,8 +6829,7 @@
             "caption": "Night time photography - Shooting in Low Light Tips"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423142089702-WSFROKGCJCBTXR9HDSHY/image-asset.jpeg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -6856,6 +6856,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/rubys-first-photo-project"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6867,8 +6868,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1490692629529-3FBS4VQCHQGTEVPJZ0CC/_-134.jpg",
           "articleSection": "news",
-          "keywords": "kids",
-          "inLanguage": "en-GB"
+          "keywords": "kids"
         }
       },
       {
@@ -6895,6 +6895,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6906,8 +6907,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1489924632541-RCYTZCXF82KGWOXBGSUL/HP_Logo_Tall_RGB.jpg",
           "articleSection": "news",
-          "keywords": "help-portrait",
-          "inLanguage": "en-GB"
+          "keywords": "help-portrait"
         }
       },
       {
@@ -6934,6 +6934,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/learn-how-to-use-lightroom"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6944,8 +6945,7 @@
             "caption": "Learn how to use Lightroom to edit  | Professional Guide"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1473412232518-RE056IX469VFR7LFGXP0/before+and+after.jpg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       },
       {
@@ -6972,6 +6972,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -6983,8 +6984,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674576556747-HV6YDCL24NUX2609QB6U/Mike+Ford+hanging+plan.jpg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, rps-panel, rps distinctions",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, rps-panel, rps distinctions"
         }
       },
       {
@@ -7011,6 +7011,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7022,8 +7023,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557650061063-VBSXO2SYM8AILS70IZXS/67897506_max.jpg",
           "articleSection": "photography-tips",
-          "keywords": "recommended-products, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "recommended-products, NIK"
         }
       },
       {
@@ -7050,6 +7050,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7061,8 +7062,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557648655192-VCSDD9IP79KT4Z9CDG4S/Annotation+2019-05-12+091000.jpg",
           "articleSection": "photography-tips",
-          "keywords": "recommended-products, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "recommended-products, NIK"
         }
       },
       {
@@ -7089,6 +7089,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7100,8 +7101,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1424970922072-LEPTLLPJ3OC4OTVSYG3Z/image-asset.jpeg",
           "articleSection": "photography-tips",
-          "keywords": "recommended-products, NIK",
-          "inLanguage": "en-GB"
+          "keywords": "recommended-products, NIK"
         }
       },
       {
@@ -7128,6 +7128,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7138,8 +7139,7 @@
             "caption": "Phone Camera Vs the Digital Camera | Is the mobile good?"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1408788432297-RI6C0CLWVWWLR5F02WUG/image-asset.jpeg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -7166,6 +7166,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-the-epitome-of-art"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7176,8 +7177,7 @@
             "caption": "Photography – The Epitome of Art - Stories without words"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418989808676-APIPRC5E7NNFAF1PW21I/image-asset.jpeg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       },
       {
@@ -7204,6 +7204,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-mike-ford"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7215,8 +7216,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1436047446507-YY6O7I4IPE8V2OEO5CZ1/image-asset.jpeg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, a photographic journey",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, a photographic journey"
         }
       },
       {
@@ -7243,6 +7243,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7254,8 +7255,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1436088887590-SWYEGYMMBCPM2LAG0PTX/image-asset.jpeg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, a photographic journey",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, a photographic journey"
         }
       },
       {
@@ -7282,6 +7282,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/photography-for-kids"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7292,8 +7293,7 @@
             "caption": "Help children take photos - Photography For Kids Guide"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1426168880084-GS5DCXQ466HVB4NU8NJU/image-asset.jpeg",
-          "articleSection": "photography-tips",
-          "inLanguage": "en-GB"
+          "articleSection": "photography-tips"
         }
       },
       {
@@ -7320,6 +7320,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7331,8 +7332,7 @@
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1433768259631-31U2YHXXNUV0YKUULW7Q/image-asset.jpeg",
           "articleSection": "student-photos",
-          "keywords": "case-studies, a photographic journey",
-          "inLanguage": "en-GB"
+          "keywords": "case-studies, a photographic journey"
         }
       },
       {
@@ -7359,6 +7359,7 @@
             "@id": "https://www.alanranger.com/blog-on-photography/abstract-photography-1"
           },
           "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
           "copyrightHolder": {
             "@type": "Organization",
             "name": "Alan Ranger Photography"
@@ -7369,8 +7370,7 @@
             "caption": "Abstract Photography - Visual Reference | Professional Guide"
           },
           "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423745294947-WUONKDZFF3CZAUX5BKU9/image-asset.jpeg",
-          "articleSection": "news",
-          "inLanguage": "en-GB"
+          "articleSection": "news"
         }
       }
     ]
