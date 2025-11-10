@@ -6,6 +6,7 @@ Public repository hosting structured data (JSON-LD) for alanranger.com Squarespa
 
 - `lessons-schema.json` → `/beginners-photography-lessons`
 - `workshops-schema.json` → `/photographic-workshops-near-me`
+- `blog-schema.json` → `/blog-on-photography`
 
 ## Hosting
 
@@ -35,6 +36,14 @@ Add these script tags to your Squarespace page header code:
 </script>
 ```
 
+**For Blog Index Page** (`/blog-on-photography`):
+```html
+<!-- Blog Index Schema -->
+<script type="application/ld+json"
+        src="https://schema.alanranger.com/blog-schema.json">
+</script>
+```
+
 ### Auto-Sync
 
 Schema files are automatically synced from the local Event Schema Generator tool via GitHub Actions. When you export schema JSON files, they are automatically pushed to this repository and deployed to GitHub Pages.
@@ -51,6 +60,7 @@ Validate hosted JSON files with:
 alanranger-schema/
 ├── lessons-schema.json
 ├── workshops-schema.json
+├── blog-schema.json
 ├── .github/
 │   └── workflows/
 │       └── update-schema.yml
