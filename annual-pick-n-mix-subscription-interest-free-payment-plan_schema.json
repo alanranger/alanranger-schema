@@ -40,7 +40,8 @@
           "name": "Annual Pick N Mix Subscription | Interest Free Payment Plan",
           "item": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/annual-pick-n-mix-subscription#breadcrumbs"
     },
     {
       "@type": [
@@ -67,6 +68,11 @@
           "name": "1 x £1200 = £1200",
           "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -101,6 +107,11 @@
           "name": "1 x £1500 = £1500",
           "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -135,6 +146,11 @@
           "name": "1 x £2000 = £2000",
           "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -169,6 +185,11 @@
           "name": "1 x £2500 = £2500",
           "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -203,6 +224,11 @@
           "name": "1 x £3000 = £3000",
           "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

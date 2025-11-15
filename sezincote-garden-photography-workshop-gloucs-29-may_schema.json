@@ -40,7 +40,8 @@
           "name": "Sezincote Garden Photography Workshop - Gloucs 29 May",
           "item": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/sezincote-garden-photography-workshop#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

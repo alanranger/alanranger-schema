@@ -40,7 +40,8 @@
           "name": "Beginners Portrait Photography Course - Coventry - 1 Day",
           "item": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

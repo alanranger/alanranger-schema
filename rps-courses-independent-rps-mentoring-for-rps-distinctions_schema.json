@@ -40,7 +40,8 @@
           "name": "Rps Courses - Independent Rps Mentoring for Rps Distinctions",
           "item": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/rps-mentoring-photography-course#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "RPS Distinctions Course - 6 Sessions",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "RPS Extend 6 Months (No Extra Sessions)",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -141,6 +152,11 @@
           "name": "RPS Extend 2 classes within 3 months",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -175,6 +191,11 @@
           "name": "RPS Extend 4 classes within 6 months",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -209,6 +230,11 @@
           "name": "RPS Extend 6 classes 12 months Extra",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

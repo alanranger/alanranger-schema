@@ -40,7 +40,8 @@
           "name": "Quarterly Pick N Mix Subscription | Interest Free Payments",
           "item": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/quarterly-pick-n-mix-subscription#breadcrumbs"
     },
     {
       "@type": [
@@ -67,6 +68,11 @@
           "name": "4 x £250 = £1000",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -101,6 +107,11 @@
           "name": "4 x £300 = £1200",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -135,6 +146,11 @@
           "name": "4 x £350 = £1400",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -169,6 +185,11 @@
           "name": "4 x 400 = £1600",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -203,6 +224,11 @@
           "name": "4 x £500 = £2000",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -237,6 +263,11 @@
           "name": "4 x £750 = £3000",
           "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

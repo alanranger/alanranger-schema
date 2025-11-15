@@ -40,7 +40,8 @@
           "name": "Burnham On Sea Long Exposure Photography Workshop 2 May",
           "item": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/long-exposure-photography-workshops-burnham#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham",
         "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

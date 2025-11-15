@@ -40,7 +40,8 @@
           "name": "Online Photography Classes 121 - Zoom - Package Options",
           "item": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/private-online-photography-classes-zoom#breadcrumbs"
     },
     {
       "@type": [
@@ -67,6 +68,11 @@
           "name": "Zoom 1 x 1hr - 9am 5pm - Mon-Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -101,6 +107,11 @@
           "name": "Zoom Package 4 x 1hr (15% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -135,6 +146,11 @@
           "name": "Zoom Package 6 x 1hr (20% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -169,6 +185,11 @@
           "name": "Zoom Package 8 x 1hr (25% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -203,6 +224,11 @@
           "name": "Zoom Package 12 x 1hr (25% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

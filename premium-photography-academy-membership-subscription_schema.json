@@ -40,7 +40,8 @@
           "name": "Premium Photography Academy Membership Subscription",
           "item": "https://www.alanranger.com/photography-services-near-me/premium-photography-academy-membership"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/premium-photography-academy-membership#breadcrumbs"
     },
     {
       "@type": [
@@ -65,6 +66,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photography-services-near-me/premium-photography-academy-membership",
         "@id": "https://www.alanranger.com/photography-services-near-me/premium-photography-academy-membership#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

@@ -40,7 +40,8 @@
           "name": "Christmas Photography Seasonal Workshops | Warwickshire",
           "item": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/christmas-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Mon 16 Dec 18:30 - 21:00 - Stratford Upon Avon",
           "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Sun 29 Dec 08:45 - 15:30 - Lapworth",
           "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

@@ -40,7 +40,8 @@
           "name": "Fairy Glen and Fairy Falls Long Exposure Photography",
           "item": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/long-exposure-photography-workshop-fairy-glen#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Sat 7th Mar 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Fri 8th May 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -141,6 +152,11 @@
           "name": "Sat 3rd Oct 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

@@ -40,7 +40,8 @@
           "name": "4 x 2hr Private Photography Classes - Face to Face Coventry",
           "item": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/four-private-photography-classes#breadcrumbs"
     },
     {
       "@type": [
@@ -70,6 +71,11 @@
         },
         "url": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes",
         "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

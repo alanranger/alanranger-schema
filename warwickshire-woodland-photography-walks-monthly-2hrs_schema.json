@@ -40,7 +40,8 @@
           "name": "Warwickshire Woodland Photography Walks - Monthly - 2hrs",
           "item": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/woodland-photography-walk-warwickshire#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Fri Nov 7 - Crackley Wood, Kenilworth",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Fri Dec 5 - Hay Wood - Lapworth",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -141,6 +152,11 @@
           "name": "Mon Dec 8 - Tile Hill Nature Reserve - Coventry",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -175,6 +191,11 @@
           "name": "Fri Jan 2 Hay Woods - Solihull",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -209,6 +230,11 @@
           "name": "Mon Feb 2 - Tile Hill Nature Reserve - Coventry",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -243,6 +269,11 @@
           "name": "Sun May 3 - Millisons Wood, Meriden",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -277,6 +308,11 @@
           "name": "Fri Oct 16 - Piles Coppice, Coventry",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

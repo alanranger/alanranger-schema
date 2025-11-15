@@ -40,7 +40,8 @@
           "name": "Poppy Fields Photography Workshops | Worcestershire",
           "item": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/poppy-fields-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Sat 8 Jun 19:15-21:45",
           "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Sun 9 Jun 05:00-07:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

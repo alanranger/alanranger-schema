@@ -40,7 +40,8 @@
           "name": "Wales Photography Workshop | Lake Vyrnwy 30 – 31 May",
           "item": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/wales-photography-workshop-pistyll-rhaeadr#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
         "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

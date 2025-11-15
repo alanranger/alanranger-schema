@@ -40,7 +40,8 @@
           "name": "Lavender Field Photography Workshop - Gloucestershire July",
           "item": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/photography-workshops-lavender-fields#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Sat 4th Jul 2026 - 17:00 20:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Sat 11th Jul 2026 - 17:00 20:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

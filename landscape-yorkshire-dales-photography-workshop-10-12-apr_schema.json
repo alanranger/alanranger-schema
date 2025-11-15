@@ -40,7 +40,8 @@
           "name": "Landscape Yorkshire Dales Photography Workshop - 10 – 12 Apr",
           "item": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/yorkshire-dales-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

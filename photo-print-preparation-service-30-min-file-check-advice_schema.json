@@ -40,7 +40,8 @@
           "name": "Photo Print Preparation Service 30-min – File Check & Advice",
           "item": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/photo-print-preparation-service-30min#breadcrumbs"
     },
     {
       "@type": [
@@ -65,6 +66,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min",
         "@id": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

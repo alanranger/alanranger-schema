@@ -40,7 +40,8 @@
           "name": "Landscape Photography Snowdonia - Sat 7th - Sun 8th Mar 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/landscape-photography-snowdonia-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

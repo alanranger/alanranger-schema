@@ -40,7 +40,8 @@
           "name": "Macro Photography Workshops Warwickshire - Feb and Mar",
           "item": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/abstract-and-macro-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Sat 8 Nov 10:00 - 12:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Sun 17 May 10:00 - 12:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

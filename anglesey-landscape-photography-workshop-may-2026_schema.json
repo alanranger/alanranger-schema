@@ -40,7 +40,8 @@
           "name": "Anglesey Landscape Photography Workshop - May 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

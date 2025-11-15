@@ -40,7 +40,8 @@
           "name": "Landscape Photography Devon Workshops - Various Dates",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Fri 26th Sep - Sun 28th Sep 2025 - 3 Days/2 Nights",
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
           "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Thu 19th 12:30 - Sun 22nd 12:30 Feb 2026 - 4 Days/3 Nights",
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
           "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

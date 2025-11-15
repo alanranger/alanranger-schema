@@ -40,7 +40,8 @@
           "name": "The Art of Garden Photography - Coventry - May and July",
           "item": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/garden-photography-workshop#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Sun May 17 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Sun Jul 12 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

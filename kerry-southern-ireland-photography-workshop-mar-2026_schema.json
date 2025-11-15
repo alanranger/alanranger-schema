@@ -40,7 +40,8 @@
           "name": "Kerry - Southern Ireland Photography Workshop - Mar 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/ireland-photography-workshops-dingle#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
         "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

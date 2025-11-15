@@ -40,7 +40,8 @@
           "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
           "item": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
         "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

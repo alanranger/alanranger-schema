@@ -40,7 +40,8 @@
           "name": "Fine Art Photography Prints - Canvas wrap-round - Multi Size",
           "item": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/fine-art-photography-prints-canvas#breadcrumbs"
     },
     {
       "@type": [
@@ -67,6 +68,11 @@
           "name": "16x12 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -101,6 +107,11 @@
           "name": "24x16 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -135,6 +146,11 @@
           "name": "30x20 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -169,6 +185,11 @@
           "name": "36x24 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -203,6 +224,11 @@
           "name": "40x30 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -237,6 +263,11 @@
           "name": "48x36 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -271,6 +302,11 @@
           "name": "60x40 Canvas Wrap Round",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

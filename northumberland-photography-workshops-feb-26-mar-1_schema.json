@@ -40,7 +40,8 @@
           "name": "Northumberland Photography Workshops - Feb 26 - Mar 1",
           "item": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/coastal-northumberland-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

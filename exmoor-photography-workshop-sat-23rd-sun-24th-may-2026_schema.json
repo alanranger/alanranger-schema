@@ -40,7 +40,8 @@
           "name": "Exmoor Photography Workshop - Sat 23rd - Sun 24th May 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/exmoor-photography-workshops-lynmouth#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
         "@id": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

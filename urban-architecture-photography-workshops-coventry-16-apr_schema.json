@@ -40,7 +40,8 @@
           "name": "Urban Architecture Photography Workshops - Coventry 16 Apr",
           "item": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/urban-architecture-photography-workshops-coventry#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
         "@id": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

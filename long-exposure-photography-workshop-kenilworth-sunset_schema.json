@@ -40,7 +40,8 @@
           "name": "Long Exposure Photography Workshop Kenilworth Sunset",
           "item": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/long-exposure-photography-kenilworth#breadcrumbs"
     },
     {
       "@type": [
@@ -77,6 +78,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -115,6 +121,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -153,6 +164,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -191,6 +207,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

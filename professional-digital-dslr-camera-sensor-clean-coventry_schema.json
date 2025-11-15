@@ -40,7 +40,8 @@
           "name": "Professional Digital Dslr Camera Sensor Clean | Coventry",
           "item": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/camera-sensor-clean#breadcrumbs"
     },
     {
       "@type": [
@@ -65,6 +66,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
         "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

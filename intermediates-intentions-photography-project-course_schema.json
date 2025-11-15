@@ -40,7 +40,8 @@
           "name": "Intermediates Intentions Photography Project Course",
           "item": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/intermediates-intentions-photography-project-course#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

@@ -40,7 +40,8 @@
           "name": "Monthly Photography Mentoring Sessions - Online - Zoom",
           "item": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/monthly-online-photography-mentoring#breadcrumbs"
     },
     {
       "@type": [
@@ -65,6 +66,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
         "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

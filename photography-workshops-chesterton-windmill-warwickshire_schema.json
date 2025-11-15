@@ -40,7 +40,8 @@
           "name": "Photography Workshops Chesterton Windmill - Warwickshire",
           "item": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/photography-workshops-chesterton-windmill#breadcrumbs"
     },
     {
       "@type": [
@@ -77,6 +78,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -115,6 +121,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -153,6 +164,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -191,6 +207,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

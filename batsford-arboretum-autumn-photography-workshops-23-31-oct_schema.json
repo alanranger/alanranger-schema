@@ -40,7 +40,8 @@
           "name": "Batsford Arboretum Autumn Photography Workshops 23 – 31 Oct",
           "item": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography-workshops#breadcrumbs"
     },
     {
       "@type": [
@@ -77,6 +78,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -115,6 +121,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -153,6 +164,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -191,6 +207,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -229,6 +250,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -267,6 +293,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -305,6 +336,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -343,6 +379,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer8",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -381,6 +422,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer9",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -419,6 +465,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer10",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -457,6 +508,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer11",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -495,6 +551,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer12",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -533,6 +594,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer13",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -571,6 +637,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer14",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -609,6 +680,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer15",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -647,6 +723,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer16",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -685,6 +766,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer17",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -723,6 +809,11 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer18",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

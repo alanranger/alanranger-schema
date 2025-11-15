@@ -40,7 +40,8 @@
           "name": "Beginners Photography Course | 3 Weekly Evening Classes",
           "item": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/beginners-photography-course#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "3wks Thursdays - Dec 4 - Dec 18 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "3wks Tuesdays - Jan 6 - Jan 20 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -141,6 +152,11 @@
           "name": "3wks Wednesdays - Feb 4 - Feb 18 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -175,6 +191,11 @@
           "name": "3wks Mondays - Feb 9 - Feb 23 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -209,6 +230,11 @@
           "name": "3wks Thursdays - Mar 5 - Mar 19 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -243,6 +269,11 @@
           "name": "3wks Mondays - Mar 9 - Mar 23 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -277,6 +308,11 @@
           "name": "3wks Wednesdays - Apr 1 - Apr 15 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -311,6 +347,11 @@
           "name": "3wks Thursdays - Apr 2 - Apr 16 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer8",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -345,6 +386,11 @@
           "name": "3wks Wednesdays - May 5 - May 19 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer9",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -379,6 +425,11 @@
           "name": "3wks Thursdays - May 7 - May 21 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer10",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

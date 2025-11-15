@@ -40,7 +40,8 @@
           "name": "Dartmoor Photography Workshop - Landscapes - 9th - 11th Oct",
           "item": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/dartmoor-photography-landscape-workshop#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

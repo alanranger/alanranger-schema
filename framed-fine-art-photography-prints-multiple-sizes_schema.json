@@ -40,7 +40,8 @@
           "name": "Framed Fine Art Photography Prints - Multiple Sizes",
           "item": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/framed-fine-art-photography-prints#breadcrumbs"
     },
     {
       "@type": [
@@ -67,6 +68,11 @@
           "name": "16x12 Print (with Frame 20x16)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -101,6 +107,11 @@
           "name": "24x16 Print (with Frame 30x20)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -135,6 +146,11 @@
           "name": "30x20 Print (with Frame 40x30)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -169,6 +185,11 @@
           "name": "36x24 Print (with Frame 48x36)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

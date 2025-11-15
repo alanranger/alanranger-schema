@@ -40,7 +40,8 @@
           "name": "Lightroom Courses for Beginners Photo Editing - Coventry",
           "item": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/lightroom-courses-for-beginners-coventry#breadcrumbs"
     },
     {
       "@type": [
@@ -73,6 +74,11 @@
           "name": "Coventry 3 wks - Tue 4 Nov - 18 Nov 2025",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -107,6 +113,11 @@
           "name": "Coventry 3 wks - Wed 7 Jan - 21 Jan 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -141,6 +152,11 @@
           "name": "Coventry 3 wks - Wed 4 Mar - 18 Mar 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",
@@ -175,6 +191,11 @@
           "name": "Coventry 3 wks - Wed 13 May - 27 May 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
             "doesNotShip": "http://schema.org/True",

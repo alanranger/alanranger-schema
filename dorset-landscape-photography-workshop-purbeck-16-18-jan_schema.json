@@ -40,7 +40,8 @@
           "name": "Dorset Landscape Photography Workshop Purbeck 16 – 18 Jan",
           "item": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/dorset-landscape-photography-workshop#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

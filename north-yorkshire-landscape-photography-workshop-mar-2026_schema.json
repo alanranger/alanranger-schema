@@ -40,7 +40,8 @@
           "name": "North Yorkshire Landscape Photography Workshop - Mar 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/north-yorkshire-landscape-photography#breadcrumbs"
     },
     {
       "@type": [
@@ -75,6 +76,11 @@
         },
         "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
         "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

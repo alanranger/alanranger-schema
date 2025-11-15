@@ -40,7 +40,8 @@
           "name": "Nant Mill Woodlands and Waterfalls Photo Workshop 30 May",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/landscape-photography-workshops-nant-mill#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",

@@ -40,7 +40,8 @@
           "name": "Gower Landscape Photography Wales - 30 Jan - 1 Feb 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop"
         }
-      ]
+      ],
+      "@id": "https://www.alanranger.com/landscape-photography-wales-photo-workshop#breadcrumbs"
     },
     {
       "@type": [
@@ -71,6 +72,11 @@
         "priceValidUntil": "2026-11-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
           "doesNotShip": "http://schema.org/True",
