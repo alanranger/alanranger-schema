@@ -1,0 +1,233 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Art of Garden Photography - Coventry - May and July",
+          "item": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "name": "The Art of GARDEN PHOTOGRAPHY  - Coventry -  May and July",
+      "sku": "SQ0939451",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "Join us for an unforgettable journey into macro and abstract on this garden photography workshop. Secure your spot today and embark on a transformative learning experience in garden photography.SummaryLocation: Coventry - CV4Dates:2026 DatesSun May 17th 2026 - 15:00 - 17:00Sun Jul 12th 2026 - 15:00 - 17:00Participants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: Garden PhotographyDescription: Elevate Your Garden Photography Skills With Garden Photography WorkshopsImmerse yourself in the ...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709974516534-UJBRDOK5RXR4QNLPTECD/_-677.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
+      "offers": [
+        {
+          "@type": "Offer",
+          "sku": "SQ0939451",
+          "price": "35.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Sun May 17 - 15:00 - 17:00",
+          "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer1",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3644687",
+          "price": "35.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Sun Jul 12 - 15:00 - 17:00",
+          "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        }
+      ],
+      "startDate": "2026-07-12",
+      "endDate": "2026-07-12",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Coventry",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "addressCountry": "GB"
+        }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "email": "info@alanranger.com",
+        "telephone": "+44 781 701 7994",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Tait"
+          },
+          "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. You would think that 3 hours of listening and trying to understand the very basics of photography would drag,  but actually the time went fast. Alan was knowledgeable, keen to impart that knowledge,  and all 11 of us in the room made some small or large contribution to the evening. I have come away knowing a lot more than I knew when I started, and am looking forward to recharging those camera batteries to take photographs  (not snaps!) that have been created, not snapped with hopefulness!  As a stand alone evening this was a great start. There is the opportunity to continue on the 5 week course at a discounted rate if booked on the evening, however my personal feeling was that I would prefer to start practicing with my Bridge camera before committing a further  £175 (£200 if booked after the easy photography evening). Thanks Alan for teaching the basics.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-01-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah Griffiths"
+          },
+          "reviewBody": "A good theory base but a few practical exercises would have broken up the evening  - even if it was just handling our own camera and trying different settings under guidance. Will now work on the practical exercises in the class notes.  Would have liked to have been shown examples of the Pocket Guide Series.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tricia Entwistle"
+          },
+          "reviewBody": "As a complete beginner I booked my workshop at Batford Arboretum with considerable aprehension. I needn't have worried.  Alan was very patient and explained the rudiments of manual photography in a very non technical way. I went on to have a very enjoyable and relaxing afternoon taking some lovely photos.  I have gained greatly in both knowledge and confidence.  Thank you Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.33",
+        "reviewCount": 3
+      },
+      "@id": "https://www.alanranger.com/garden-photography-workshop#schema"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Landscape Photography Devon Workshops - Various Dates",
+          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "name": "Landscape Photography DEVON Workshops - Various Dates",
+      "sku": "SQ2516659",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "Hartland Quay - Landscape Photography Devon Workshop - Join me for this photo workshop to the best coastal and dramatic parts of Devon.SummaryLocation: North Devon - Hartland QuayDates:Fri 26th Sep - Sun 28th Sep 2025 - 3 Days/2 NightsThu 19th 12:30 - Sun 22nd 12:30 Feb 2026 - 4 Days/3 NightsParticipants: Max 4Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera, Tripod and ND FiltersPhotography Workshop Event Details: DevonDescription: Our landscape photography devon workshops are carefully crafted to provide you with an immersive and educat...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714299365471-K36RWNIKFNGJ4C70UEXB/Atlantic+Force.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
+      "offers": [
+        {
+          "@type": "Offer",
+          "sku": "SQ2516659",
+          "price": "750.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Fri 26th Sep - Sun 28th Sep 2025 - 3 Days/2 Nights",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer1",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3856406",
+          "price": "895.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Thu 19th 12:30 - Sun 22nd 12:30 Feb 2026 - 4 Days/3 Nights",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer2",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        }
+      ],
+      "startDate": "2026-01-16",
+      "endDate": "2026-01-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Dorset",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "addressCountry": "GB"
+        }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "email": "info@alanranger.com",
+        "telephone": "+44 781 701 7994",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert Griffiths"
+          },
+          "reviewBody": "Despite absolutely appalling weather, I had an amazing weekend at Hartland Quay and its environs with Alan. His enthusiasm to capture images and learn photography in the most challenging conditions was infectious.   If we were unable to venture outside, we spent our time learning some extremely useful methods in Lightroom & Photoshop together with a variety of other software packages.  I would highly recommend Alan if you are wanting to not only have a great experience in stunning scenery on his workshops, but also in the classroom to improve your photography beyond expectation. You won't be disappointed.  Thank you Alan",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KP"
+          },
+          "reviewBody": "Really enjoyable workshop in Devon despite the very challenging weather. Alan was able to adapt to the conditions that we were faced with to ensure that it was still a great experience.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Graham"
+          },
+          "reviewBody": "Despite of the weather a really great workshop. Alan was really patient with me and I am sure I got a lot out of it. Nice accommodation, leader and other attendees. Hope the photos turn out as well as I feel",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice Jordan"
+          },
+          "reviewBody": "What a windy weekend !  Although some of the conditions were challenging, Alan had a range of options to keep us busy.  We made use of a wet afternoon to do some individual photo reviews (in the bar) which I found really useful.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-09-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": 4
+      },
+      "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#schema"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fine Art Photography Prints - Canvas wrap-round - Multi Size",
+          "item": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product"
+      ],
+      "name": "Fine Art Photography Prints - Canvas wrap-round - Multi Size",
+      "sku": "SQ0105911",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "description": "Fine Art Photography Prints - Canvas wrap-round creates a contemporary finish to your photo- available in seven sizes. Include in the image title when ordering",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1572426141642-UH9GBUDOUFH8QMTUA0KA/cavas%2Bsizes.jpg",
+      "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+      "offers": [
+        {
+          "@type": "Offer",
+          "sku": "SQ0105911",
+          "price": "135.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "16x12 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer1",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ4206024",
+          "price": "177.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "24x16 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer2",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ0781804",
+          "price": "219.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "30x20 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer3",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3982814",
+          "price": "306.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "36x24 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer4",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ8209269",
+          "price": "336.65",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "40x30 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer5",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7901040",
+          "price": "414.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "48x36 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer6",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7260825",
+          "price": "459.95",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "60x40 Canvas Wrap Round",
+          "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+          "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas#offer7",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        }
+      ],
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Tracey"
+          },
+          "reviewBody": "Had a two half hour shoot with Alan, thought me so much in such a short time. Will be back for more I'm sure. Well worth the money.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-06-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Viktoria B."
+          },
+          "reviewBody": "I attended only one evening workshop but it was a good session to practice and review what you've previously learned. Good opportunity to consciously think about application of all the photography elements, not just snap away. Also good opportunity to meet fellow enthusiasts and exchange experience and learn from that too.   Would recommend the workshops.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-12-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lucy st"
+          },
+          "reviewBody": "Alan not only shares his expert knowledge with his students, but will offer guidance and advice which which enables you to develop your skills with confidence.  Alan is enthusiastic,  approachable and welcoming his courses are informative as well as being fun. You will walk away from any of Alans courses with more enthusiasm, new ideas and skills to go out and start taking better photos.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-10-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": 3
+      },
+      "@id": "https://www.alanranger.com/fine-art-photography-prints-canvas#schema"
+    }
+  ]
+}

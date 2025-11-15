@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Intermediates Intentions Photography Project Course",
+          "item": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Course"
+      ],
+      "name": "Intermediates Intentions Photography Project Course",
+      "sku": "SQ9898707",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "Embark on a six-month photography project and showcase your images in a public exhibition in Warwickshire on this photography course | Coventry | 6-ClassesNO DATES SET FOR 2025 - Check back soon",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707220703945-94B0SK8PWUMOS78FTJMO/photography+project+-+intentions+photography+course.jpg",
+      "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
+      "offers": {
+        "@type": "Offer",
+        "sku": "SQ9898707",
+        "price": "400.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-11-15",
+        "priceValidUntil": "2026-11-15",
+        "priceSpecification": {
+          "price": "400.00",
+          "priceCurrency": "GBP"
+        },
+        "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
+        "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course#offer",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "InPerson",
+        "startDate": "2026-01-16",
+        "endDate": "2026-01-18",
+        "location": {
+          "@type": "Place",
+          "name": "Dorset"
+        }
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Amies"
+          },
+          "reviewBody": "I was encouraged that Alan Ranger believes good photographs should be produced in the main by a combination of the photographer and the camera and not by hours of post-shoot processing in Photoshop.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-02-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "francis"
+          },
+          "reviewBody": "I was impressed with Alan's approach and felt he pitched the course at just the right level for me. I've done some exploratory work regarding DSLR photography but nothing more and the way he explains and describes techniques, tools and his attitude to photography was fun, engaging and left me wanting more. I also felt the course material was well thought out and simple  enough for me to get to grips with. I left feeling far more confident and looking forward to getting the camera out and playing with it!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-02-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Penny  Simpson"
+          },
+          "reviewBody": "A very friendly evening, well presented and informative with powerpoint presentation but plenty of time to ask questions and explain any points of interest.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alan K"
+          },
+          "reviewBody": "Alan appears to be extremely well informed in all matters photographic. Pair this with a very accomplished, but relaxed, presentational ability and you get an excellent introduction to the subject from the course that I attended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrian W"
+          },
+          "reviewBody": "Alan's 3 hour introduction to photography course was the ideal opportunity for me to learn more about what my DSLR can do.  Alan's experience and engaging style of tuition was thoroughly enjoyable.  Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": 5
+      },
+      "@id": "https://www.alanranger.com/intermediates-intentions-photography-project-course#schema"
+    }
+  ]
+}

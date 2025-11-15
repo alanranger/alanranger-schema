@@ -1,0 +1,697 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lightroom Courses for Beginners Photo Editing - Coventry",
+          "item": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Course"
+      ],
+      "name": "Lightroom Courses for Beginners Photo Editing - Coventry",
+      "sku": "SQ7526725",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with LightroomAdobe Lightroom Classic Courses for Beginners - CoventrySummaryLocation: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HWDuration: 3 Weekly 2hr Evening Classes - All evening classes are from 19:00 to 21:00Participants: Max 3Lightroom Courses Event Details: Editing CourseCoventry 3 wks - Tue 4 Nov - 18 Nov 2025Coventry 3 wks - Wed 7 Jan - 21 Jan 2026Coventry 3 wks - Wed 4 Mar - 18 Mar 2026Coventry 3 wks - Wed 13 May - 27 May...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/fe40a5e1-7fa2-4057-982e-555479b97022/Lightroom+courses+-+photo+editing+course.png",
+      "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+      "offers": [
+        {
+          "@type": "Offer",
+          "sku": "SQ7526725",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Coventry 3 wks - Tue 4 Nov - 18 Nov 2025",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6831161",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Coventry 3 wks - Wed 7 Jan - 21 Jan 2026",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6876661",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Coventry 3 wks - Wed 4 Mar - 18 Mar 2026",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ0415856",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-15",
+          "priceValidUntil": "2026-11-15",
+          "name": "Coventry 3 wks - Wed 13 May - 27 May 2026",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": "http://schema.org/True",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        }
+      ],
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "InPerson",
+        "startDate": "2025-11-18",
+        "endDate": "2025-11-18",
+        "location": {
+          "@type": "Place",
+          "name": "Coventry"
+        }
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anisha Gohil"
+          },
+          "reviewBody": "An insightful session on Lightroom course. Will be implementing this into our teaching practice.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Schoenfeld"
+          },
+          "reviewBody": "I finally got my longstanding issues resolved.  I should have consulted Alan a long time ago considering all the time I spent trying to fix things myself.  I had thousands of missing photographs in the Lightroom Classic catalog.  This is fixed now.  Also enjoyed working with Alan.  We got on fine.  Excellent experience entirely.  Would recommend Alan to a friend and consult with him again.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-08-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick B"
+          },
+          "reviewBody": "Only one paid for session so far, but Alan was thoughtful, helpful and professional.  He listened carefully to what I needed and made sure I got it,  The free 20 min session beforehand ensured I am using his skills appropriately - it was very helpful.  UPDATE: since then I got in a muddle with files in Lightroom. Alan sorted it out online in one session and ensured I knew what to do to stop it happening again!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-07-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Walter Jarvis"
+          },
+          "reviewBody": "Took the opportunity to outline how he could help me improve my photography and make better use of Lightroom. Alan was very helpful and I'm looking forward to my 2 hour slot in February",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-01-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lettoch Films"
+          },
+          "reviewBody": "Alan is great to work with. Just had a really enjoyable and helpful 2 hours 1-1 coaching on Lightroom. I have lots more to learn and won't hesitate to pick this up again with Alan to help me progress to the next level. He taught me so much more than just how to use Lightroom. Thanks Alan. I'll be back soon.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-11-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ARTHUR"
+          },
+          "reviewBody": "Alan is a realy nice guy learnt a lot. Very informative loads of information /  handouts for  future reference. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen Maddison"
+          },
+          "reviewBody": "I am new to photography and feel as though I got a lot from the course already.  It was explained in an easy to understand way and not too much 'technical' jargon for beginners.  Alan was very friendly and happy to answer questions from the whole group.  I am really excited to be starting the beginner course.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pauli"
+          },
+          "reviewBody": "Excellent tuition with a knowledgeable instructor. Lots of tips, interaction and practical knowledge to help begin the photography journey",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Welly"
+          },
+          "reviewBody": "Excellent course that was pitched at the right level.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David McGuire"
+          },
+          "reviewBody": "After completing the beginners course, I wasn't sure what do do next, so I signed up for some 1-2-1 sessions with Alan. His expertise and constructive critique during the first session enabled him to tailor a session suitable for me for No 2. We discussed black and white photography and concentrated on editing some of my previous shots using software add-ons to the Lightroom program, which I already use. While I am by no means anywhere near expert quality, Alans teaching style has given me the confidence to take my photography to the next level. Alan offers as many 1-2-1 sessions as you feel you will need, but for me, I have chosen to use my other 2 sessions in a workshop situation, allowing me to get out and about with other photographers in the field and learn more techniques with guidance from Alan. One real positive that has come from this was an immediate solution to a problem I had been suffering with my photo editing. This was due to Lightroom being updated recently and my Mac not being able to cope. Since upgrading my RAM, following Alans recommendation, the performance and speed of my software has been much improved, allowing my to spend more time doing decent edits instead of waiting like I was before. Many thanks for all your help so far, and looking forward to the next one.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-12-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nuria Alonso"
+          },
+          "reviewBody": "The Lightroom course provided by Alan is a brilliant course covering quite a lot but giving enough practical exercises to take away. Excellent content and Alan is a very knowledgeable trainer. Small group means you can learn so much more.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-11-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nuria Alonso"
+          },
+          "reviewBody": "Alan is a great teacher and the class was well structured. A lot of information provided which gives you a good fundation.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-09-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Butler"
+          },
+          "reviewBody": "As a complete beginner, it was very helpful and informative. Now to get started putting it in to practice.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Emmanuel-Hunt"
+          },
+          "reviewBody": "I learn a lot from the get off auto course, I would recommend.  I would do the rest of course but it’s to far to drive",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S O"
+          },
+          "reviewBody": "Great introduction to ‘Getting off auto’  Thank you",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aidan"
+          },
+          "reviewBody": "The course is excellent with plenty of detail to cover all Lightroom’s array of tools, but not to detailed so that Users can get stuck into using Lightroom from week 1. Great course with Alan. Would recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy Morris"
+          },
+          "reviewBody": "Great content, learnt lots of tips and tricks even though I’d been using Lightroom for 18 months. I found the module on preset recipes particularly useful.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Duncan Harris"
+          },
+          "reviewBody": "An excellent course which opens so many more doors with your photograph editing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Geoff"
+          },
+          "reviewBody": "Alan provided informed and very valuable advice when I attend his Lightroom tuition. Well worth it and well explained",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-04-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aidan"
+          },
+          "reviewBody": "Great choice of courses available for amateur to professional levels. The courses and classes have a great level of content and Q&A is always welcome from Alan. Courses are both detailed yet easily accessible and understandable. The speed and content can be tailored to the group at the time, and if there is anything specific that is requested in more detail, Alan is happy to investigate and help explain further for the benefit of those interested. I booked one course with Alan Ranger, then promptly booked another. Thoroughly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-04-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Len Sutton"
+          },
+          "reviewBody": "The several courses I have done with Alan i.e.  a photography masterclass, Adobe Lightroom have all been educational, informational, and above all fun and enjoyable.  Alan goes beyond just the teaching of all aspects of photography but provides advice and support at whatever level of experience you are at.  I highly recommend any course with Alan and look forward to taking another course with him to improve, enhance my knowledge and ability on how to take a ' good photo' Len Sutton -  Birmingham - 06/04/18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-04-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer"
+          },
+          "reviewBody": "I can't explain how much Alan has improved my photography, my images of today are miles away from what I used to take. I've been on a few of Alan's different offerings from 1-2-1 tuition in Lightroom, weekends away and mentoring sessions. I would recommend all of them.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice Jordan"
+          },
+          "reviewBody": "I joined one of Alan's groups as a complete beginner, not even knowing I could take my camera off auto settings. Over the last 2 years I have attended many of Alan's workshops both technical and field based and have enjoyed every single one and met some great people.  I have learned so much from how to use the settings on my camera and the technical aspects of photography to photo composition and processing in Lightroom. I would recommend Alan to any level of photographer, he really does have something to offer everyone who wants to learn more.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "Alan is very knowledgeable, skilled, friendly and helpful. He sets up some excellent workshops and explains any technical aspects of photography in a clear, concise and easy to understand way. I would recommend his workshops to anyone who wants to improve their level of skill in photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amar Majid"
+          },
+          "reviewBody": "I enrolled onto the 4-week beginner's course with Alan, run from Kenilworth. I had attended a prior 1-day course with another company, and so my expectations were set around what I had experienced. However, after attending this course I was truly blown away.  Alan has clearly a lot of passion for photography which is incredibly motivating and refreshing for someone like me who wants to get into the field and make a career through it.  I found Alan's teaching technique refreshing, not patronising and very useful. The structure was well formed and study material very useful. No question was too much for Alan and he was able to constructively break down the teaching into chunks that made sense, with some practical exercises to help elaborate.  If you're looking to get into the field of photography or just need a fresher or a point to start from, I would highly recommend this course. I'm going to also join Alan's Lightroom course and potentially a workshop in the near future.  There are flexible payment options available and I approached Alan initially to discuss my needs and he tailored a plan suitable for what I wanted to achieve.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-12-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.84",
+        "reviewCount": 25
+      },
+      "@id": "https://www.alanranger.com/lightroom-courses-for-beginners-coventry#schema"
+    }
+  ]
+}

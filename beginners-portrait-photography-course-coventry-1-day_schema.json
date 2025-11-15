@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Beginners Portrait Photography Course - Coventry - 1 Day",
+          "item": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Course"
+      ],
+      "name": "Beginners Portrait Photography Course - Coventry - 1 Day",
+      "sku": "SQ2592535",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "Beginners Portrait Photography Course - Suitable for any amateur who wants to learn the fundamentals of portrait photography - Coventry - 1-Day Course",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707238641610-VHWSAVN4IPEHPVRGJNQZ/portrait+photography+course.jpg",
+      "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+      "offers": {
+        "@type": "Offer",
+        "sku": "SQ2592535",
+        "price": "195.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/OutOfStock",
+        "validFrom": "2025-11-15",
+        "priceValidUntil": "2026-11-15",
+        "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "InPerson",
+        "startDate": "2025-12-08",
+        "endDate": "2025-12-08",
+        "location": {
+          "@type": "Place",
+          "name": "Coventry"
+        }
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nuria Alonso"
+          },
+          "reviewBody": "I have throughly enjoyed all courses delivered by Alan. Great content and excellent delivery.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-02-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": 1
+      },
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#schema"
+    }
+  ]
+}

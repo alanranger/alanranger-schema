@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gower Landscape Photography Wales - 30 Jan - 1 Feb 2026",
+          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "name": "GOWER Landscape Photography Wales - 30 Jan - 1 Feb 2026",
+      "sku": "SQ5141863",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "sameAs": "https://www.alanranger.com"
+      },
+      "description": "Stunning shorelines and beauty of South Wales and the Gower Peninsular. Max 3 places for this residential photography workshop - landscape photography walesSummaryLocation: South Wales - Gower PeninsularDates:Fri 30th Jan - Sun 1st Feb 2026 - 3 Days/2 NightsParticipants: Max 3Fitness: 3. HardExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodLandscape photography Wales Photography Workshop Event Details: GowerDescription: Just a short distance away from Swansea, the Gower Peninsula is a remarkable sight for landscape photography in Wales.Gower is a t...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715702409761-590M3MJ45KYXBDH1KSM0/Gower+%2305+-+May+2024.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
+      "offers": {
+        "@type": "Offer",
+        "sku": "SQ5141863",
+        "price": "825.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-11-15",
+        "priceValidUntil": "2026-11-15",
+        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop#offer",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "startDate": "2026-01-16",
+      "endDate": "2026-01-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Dorset",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "addressCountry": "GB"
+        }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "email": "info@alanranger.com",
+        "telephone": "+44 781 701 7994",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hardeep Nagra"
+          },
+          "reviewBody": "Alan undertook some house shoots for me. He was excellent in his communication before, during and after the shoot. End product was as described. Would love to use again",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lonnie morris"
+          },
+          "reviewBody": "I love Alan's workshops.  I've been to 2 3day workshops. Alan is helpful when you need it but let's you get on with it at other times. I have learnt a lot from his sessions and enjoyed them. His feedback is valuable. He's well organised and thorough. His work before the workshops makes for a really good experience.  He chooses nice places to stay and the social aspect is good too. I'd recommend the workshops although the Gower in June is going to be a challenge because of the time of year. Although it's nicer to stand outdoors in the summer, workshops in autumn and winter would be my preference. Anyway, if you're thinking of booking or buying a gift for someone.....do it!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paula Greenlees"
+          },
+          "reviewBody": "I learnt so much from the 'Get Off Auto' course. The sessions were well explained with visual examples, along with a printed guide to everything that was covered. Each week's homework challenged my skills and I will use these to continue to improve my photography. I think I am now looking at composition in a more complex way and hope to join some of the workshops in the field.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Pitt"
+          },
+          "reviewBody": "Great session on macro photography. Alan was very helpful in his explanations and advice. To be recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick Oleary"
+          },
+          "reviewBody": "Alan is a superb photographer. Very professional and delivers exactly what I require.  Efficient and great value with a quality result.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": 5
+      },
+      "@id": "https://www.alanranger.com/landscape-photography-wales-photo-workshop#schema"
+    }
+  ]
+}
