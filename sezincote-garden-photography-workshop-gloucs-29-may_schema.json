@@ -160,7 +160,11 @@
         "ratingValue": "5.0",
         "reviewCount": 1
       },
-      "@id": "https://www.alanranger.com/sezincote-garden-photography-workshop#schema"
+      "@id": "https://www.alanranger.com/sezincote-garden-photography-workshop#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop"
+      }
     }
   ]
 }

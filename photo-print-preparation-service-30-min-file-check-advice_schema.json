@@ -94,7 +94,11 @@
           }
         }
       },
-      "@id": "https://www.alanranger.com/photo-print-preparation-service-30min#schema"
+      "@id": "https://www.alanranger.com/photo-print-preparation-service-30min#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min"
+      }
     }
   ]
 }

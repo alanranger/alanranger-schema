@@ -236,7 +236,11 @@
         "ratingValue": "4.8",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#schema"
+      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
+      }
     }
   ]
 }

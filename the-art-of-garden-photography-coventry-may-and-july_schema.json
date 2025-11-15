@@ -238,7 +238,11 @@
         "ratingValue": "4.33",
         "reviewCount": 3
       },
-      "@id": "https://www.alanranger.com/garden-photography-workshop#schema"
+      "@id": "https://www.alanranger.com/garden-photography-workshop#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
+      }
     }
   ]
 }

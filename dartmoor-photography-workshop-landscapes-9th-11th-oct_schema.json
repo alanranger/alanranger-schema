@@ -178,7 +178,11 @@
         "ratingValue": "4.5",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/dartmoor-photography-landscape-workshop#schema"
+      "@id": "https://www.alanranger.com/dartmoor-photography-landscape-workshop#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop"
+      }
     }
   ]
 }

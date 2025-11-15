@@ -1354,7 +1354,11 @@
         "ratingValue": "5.0",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/batsford-arboretum-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
+      }
     }
   ]
 }

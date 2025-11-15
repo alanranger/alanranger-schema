@@ -276,7 +276,11 @@
         "ratingValue": "5.0",
         "reviewCount": 3
       },
-      "@id": "https://www.alanranger.com/framed-fine-art-photography-prints#schema"
+      "@id": "https://www.alanranger.com/framed-fine-art-photography-prints#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints"
+      }
     }
   ]
 }

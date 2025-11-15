@@ -237,7 +237,11 @@
         "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/yorkshire-dales-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/yorkshire-dales-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
+      }
     }
   ]
 }

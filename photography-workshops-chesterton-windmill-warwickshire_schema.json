@@ -406,7 +406,11 @@
         "ratingValue": "4.71",
         "reviewCount": 7
       },
-      "@id": "https://www.alanranger.com/photography-workshops-chesterton-windmill#schema"
+      "@id": "https://www.alanranger.com/photography-workshops-chesterton-windmill#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
+      }
     }
   ]
 }

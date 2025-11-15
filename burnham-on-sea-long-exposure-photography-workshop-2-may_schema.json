@@ -159,7 +159,11 @@
         "ratingValue": "4.0",
         "reviewCount": 1
       },
-      "@id": "https://www.alanranger.com/long-exposure-photography-workshops-burnham#schema"
+      "@id": "https://www.alanranger.com/long-exposure-photography-workshops-burnham#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham"
+      }
     }
   ]
 }

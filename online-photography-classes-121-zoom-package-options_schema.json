@@ -468,7 +468,11 @@
         "ratingValue": "5.0",
         "reviewCount": 11
       },
-      "@id": "https://www.alanranger.com/private-online-photography-classes-zoom#schema"
+      "@id": "https://www.alanranger.com/private-online-photography-classes-zoom#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom"
+      }
     }
   ]
 }

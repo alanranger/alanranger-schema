@@ -136,7 +136,11 @@
         "ratingValue": "5.0",
         "reviewCount": 1
       },
-      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#schema"
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
+      }
     }
   ]
 }

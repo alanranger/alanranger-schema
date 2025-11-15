@@ -2128,7 +2128,11 @@
         "ratingValue": "4.96",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/bluebell-woodlands-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/bluebell-woodlands-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops"
+      }
     }
   ]
 }

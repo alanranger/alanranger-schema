@@ -239,7 +239,11 @@
         "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/north-yorkshire-landscape-photography#schema"
+      "@id": "https://www.alanranger.com/north-yorkshire-landscape-photography#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography"
+      }
     }
   ]
 }

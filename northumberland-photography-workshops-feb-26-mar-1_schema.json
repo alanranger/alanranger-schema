@@ -305,7 +305,11 @@
         "ratingValue": "4.78",
         "reviewCount": 9
       },
-      "@id": "https://www.alanranger.com/coastal-northumberland-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/coastal-northumberland-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops"
+      }
     }
   ]
 }

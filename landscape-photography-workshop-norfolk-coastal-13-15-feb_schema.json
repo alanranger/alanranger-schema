@@ -217,7 +217,11 @@
         "ratingValue": "4.75",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/landscape-photography-workshop-norfolk#schema"
+      "@id": "https://www.alanranger.com/landscape-photography-workshop-norfolk#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
+      }
     }
   ]
 }

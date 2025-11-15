@@ -291,7 +291,11 @@
         "ratingValue": "4.9",
         "reviewCount": 10
       },
-      "@id": "https://www.alanranger.com/four-private-photography-classes#schema"
+      "@id": "https://www.alanranger.com/four-private-photography-classes#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes"
+      }
     }
   ]
 }

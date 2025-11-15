@@ -110,7 +110,11 @@
           "name": "Coventry"
         }
       },
-      "@id": "https://www.alanranger.com/black-and-white-photography-course#schema"
+      "@id": "https://www.alanranger.com/black-and-white-photography-course#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course"
+      }
     }
   ]
 }

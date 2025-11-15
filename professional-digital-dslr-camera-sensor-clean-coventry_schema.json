@@ -174,7 +174,11 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/camera-sensor-clean#schema"
+      "@id": "https://www.alanranger.com/camera-sensor-clean#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean"
+      }
     }
   ]
 }

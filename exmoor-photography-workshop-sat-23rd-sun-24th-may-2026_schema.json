@@ -160,7 +160,11 @@
         "ratingValue": "5.0",
         "reviewCount": 1
       },
-      "@id": "https://www.alanranger.com/exmoor-photography-workshops-lynmouth#schema"
+      "@id": "https://www.alanranger.com/exmoor-photography-workshops-lynmouth#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth"
+      }
     }
   ]
 }

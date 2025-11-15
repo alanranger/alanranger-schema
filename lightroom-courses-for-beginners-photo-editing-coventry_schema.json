@@ -712,7 +712,11 @@
         "ratingValue": "4.84",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/lightroom-courses-for-beginners-coventry#schema"
+      "@id": "https://www.alanranger.com/lightroom-courses-for-beginners-coventry#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry"
+      }
     }
   ]
 }

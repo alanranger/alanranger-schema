@@ -946,7 +946,11 @@
         "ratingValue": "4.96",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/beginners-photography-course#schema"
+      "@id": "https://www.alanranger.com/beginners-photography-course#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
+      }
     }
   ]
 }

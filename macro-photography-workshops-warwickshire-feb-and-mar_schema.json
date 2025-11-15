@@ -334,7 +334,11 @@
         "ratingValue": "4.75",
         "reviewCount": 8
       },
-      "@id": "https://www.alanranger.com/abstract-and-macro-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/abstract-and-macro-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
+      }
     }
   ]
 }

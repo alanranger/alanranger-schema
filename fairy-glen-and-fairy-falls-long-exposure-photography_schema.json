@@ -259,7 +259,11 @@
         "ratingValue": "5.0",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/long-exposure-photography-workshop-fairy-glen#schema"
+      "@id": "https://www.alanranger.com/long-exposure-photography-workshop-fairy-glen#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen"
+      }
     }
   ]
 }

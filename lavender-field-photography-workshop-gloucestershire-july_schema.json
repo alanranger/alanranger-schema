@@ -255,7 +255,11 @@
         "ratingValue": "4.75",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/photography-workshops-lavender-fields#schema"
+      "@id": "https://www.alanranger.com/photography-workshops-lavender-fields#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields"
+      }
     }
   ]
 }

@@ -353,7 +353,11 @@
         "ratingValue": "4.67",
         "reviewCount": 3
       },
-      "@id": "https://www.alanranger.com/quarterly-pick-n-mix-subscription#schema"
+      "@id": "https://www.alanranger.com/quarterly-pick-n-mix-subscription#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription"
+      }
     }
   ]
 }

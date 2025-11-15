@@ -178,7 +178,11 @@
         "ratingValue": "5.0",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/landscape-photography-workshops-nant-mill#schema"
+      "@id": "https://www.alanranger.com/landscape-photography-workshops-nant-mill#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill"
+      }
     }
   ]
 }

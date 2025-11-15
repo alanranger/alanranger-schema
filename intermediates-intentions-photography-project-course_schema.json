@@ -213,7 +213,11 @@
         "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/intermediates-intentions-photography-project-course#schema"
+      "@id": "https://www.alanranger.com/intermediates-intentions-photography-project-course#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course"
+      }
     }
   ]
 }

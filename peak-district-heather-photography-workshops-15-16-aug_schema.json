@@ -304,7 +304,11 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/peak-district-heather-photography-workshop#schema"
+      "@id": "https://www.alanranger.com/peak-district-heather-photography-workshop#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop"
+      }
     }
   ]
 }

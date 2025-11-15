@@ -236,7 +236,11 @@
         "ratingValue": "4.6",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#schema"
+      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
+      }
     }
   ]
 }

@@ -518,7 +518,11 @@
         "ratingValue": "4.92",
         "reviewCount": 13
       },
-      "@id": "https://www.alanranger.com/long-exposure-photography-kenilworth#schema"
+      "@id": "https://www.alanranger.com/long-exposure-photography-kenilworth#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth"
+      }
     }
   ]
 }

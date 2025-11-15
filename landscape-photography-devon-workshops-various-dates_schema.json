@@ -259,7 +259,11 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#schema"
+      "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay"
+      }
     }
   ]
 }

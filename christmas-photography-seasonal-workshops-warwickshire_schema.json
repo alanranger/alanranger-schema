@@ -219,7 +219,11 @@
         "ratingValue": "5.0",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/christmas-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/christmas-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops"
+      }
     }
   ]
 }

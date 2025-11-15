@@ -332,7 +332,11 @@
         "ratingValue": "5.0",
         "reviewCount": 3
       },
-      "@id": "https://www.alanranger.com/rps-mentoring-photography-course#schema"
+      "@id": "https://www.alanranger.com/rps-mentoring-photography-course#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course"
+      }
     }
   ]
 }

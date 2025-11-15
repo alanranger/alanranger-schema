@@ -179,7 +179,11 @@
         "ratingValue": "5.0",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/ireland-photography-workshops-dingle#schema"
+      "@id": "https://www.alanranger.com/ireland-photography-workshops-dingle#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle"
+      }
     }
   ]
 }

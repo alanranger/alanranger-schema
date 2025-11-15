@@ -391,7 +391,11 @@
         "ratingValue": "4.82",
         "reviewCount": 11
       },
-      "@id": "https://www.alanranger.com/poppy-fields-photography-workshops#schema"
+      "@id": "https://www.alanranger.com/poppy-fields-photography-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops"
+      }
     }
   ]
 }

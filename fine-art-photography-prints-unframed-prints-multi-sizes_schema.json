@@ -431,7 +431,11 @@
         "ratingValue": "4.8",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/fine-art-photography-prints-unframed#schema"
+      "@id": "https://www.alanranger.com/fine-art-photography-prints-unframed#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed"
+      }
     }
   ]
 }

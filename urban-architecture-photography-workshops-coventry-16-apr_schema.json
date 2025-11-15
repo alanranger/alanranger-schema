@@ -272,7 +272,11 @@
         "ratingValue": "4.86",
         "reviewCount": 7
       },
-      "@id": "https://www.alanranger.com/urban-architecture-photography-workshops-coventry#schema"
+      "@id": "https://www.alanranger.com/urban-architecture-photography-workshops-coventry#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry"
+      }
     }
   ]
 }

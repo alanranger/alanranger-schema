@@ -370,7 +370,11 @@
         "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/landscape-peak-district-photography-workshops-derbyshire#schema"
+      "@id": "https://www.alanranger.com/landscape-peak-district-photography-workshops-derbyshire#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire"
+      }
     }
   ]
 }

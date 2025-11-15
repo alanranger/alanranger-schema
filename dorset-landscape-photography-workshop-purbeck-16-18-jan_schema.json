@@ -217,7 +217,11 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/dorset-landscape-photography-workshop#schema"
+      "@id": "https://www.alanranger.com/dorset-landscape-photography-workshop#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop"
+      }
     }
   ]
 }

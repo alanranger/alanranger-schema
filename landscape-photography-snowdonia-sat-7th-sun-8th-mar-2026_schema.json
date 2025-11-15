@@ -251,7 +251,11 @@
         "ratingValue": "5.0",
         "reviewCount": 6
       },
-      "@id": "https://www.alanranger.com/landscape-photography-snowdonia-workshops#schema"
+      "@id": "https://www.alanranger.com/landscape-photography-snowdonia-workshops#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
+      }
     }
   ]
 }

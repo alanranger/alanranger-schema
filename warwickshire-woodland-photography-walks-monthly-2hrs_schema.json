@@ -853,7 +853,11 @@
         "ratingValue": "4.92",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/woodland-photography-walk-warwickshire#schema"
+      "@id": "https://www.alanranger.com/woodland-photography-walk-warwickshire#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
+      }
     }
   ]
 }

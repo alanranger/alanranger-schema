@@ -176,7 +176,11 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/monthly-online-photography-mentoring#schema"
+      "@id": "https://www.alanranger.com/monthly-online-photography-mentoring#schema",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring"
+      }
     }
   ]
 }
