@@ -2,7 +2,26 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Organization",
+      "@id": "https://www.alanranger.com#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "telephone": "+44 781 701 7994",
+      "email": "info@alanranger.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
       "@type": "LocalBusiness",
+      "@id": "https://www.alanranger.com/#localbusiness",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -44,20 +63,12 @@
       "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#breadcrumbs"
     },
     {
-      "@type": [
-        "Product",
-        "Event"
-      ],
+      "@type": "Product",
       "name": "Landscape Photography DEVON Workshops - Various Dates",
       "sku": "SQ2516659",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
-      },
-      "provider": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "sameAs": "https://www.alanranger.com"
       },
       "description": "Hartland Quay - Landscape Photography Devon Workshop - Join me for this photo workshop to the best coastal and dramatic parts of Devon.SummaryLocation: North Devon - Hartland QuayDates:Fri 26th Sep - Sun 28th Sep 2025 - 3 Days/2 NightsThu 19th 12:30 - Sun 22nd 12:30 Feb 2026 - 4 Days/3 NightsParticipants: Max 4Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera, Tripod and ND FiltersPhotography Workshop Event Details: DevonDescription: Our landscape photography devon workshops are carefully crafted to provide you with an immersive and educat...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714299365471-K36RWNIKFNGJ4C70UEXB/Atlantic+Force.jpg",
@@ -142,40 +153,6 @@
           }
         }
       ],
-      "startDate": "2026-01-16",
-      "endDate": "2026-01-18",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Dorset",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "addressCountry": "GB"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "email": "info@alanranger.com",
-        "telephone": "+44 781 701 7994",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        }
-      },
-      "performer": {
-        "@type": "Person",
-        "name": "Alan Ranger"
-      },
       "review": [
         {
           "@type": "Review",
@@ -259,11 +236,7 @@
         "ratingValue": "5.0",
         "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/landscape-photography-devon-hartland-quay#schema",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay"
-      }
+      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#product"
     }
   ]
 }

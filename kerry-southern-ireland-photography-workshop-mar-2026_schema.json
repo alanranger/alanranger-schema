@@ -2,7 +2,26 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Organization",
+      "@id": "https://www.alanranger.com#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "telephone": "+44 781 701 7994",
+      "email": "info@alanranger.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
       "@type": "LocalBusiness",
+      "@id": "https://www.alanranger.com/#localbusiness",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -44,20 +63,12 @@
       "@id": "https://www.alanranger.com/ireland-photography-workshops-dingle#breadcrumbs"
     },
     {
-      "@type": [
-        "Product",
-        "Event"
-      ],
+      "@type": "Product",
       "name": "KERRY - Southern Ireland Photography Workshop - Mar 2026",
       "sku": "SQ7419716",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
-      },
-      "provider": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "sameAs": "https://www.alanranger.com"
       },
       "description": "Photograph amazing areas in South Kerry, Dingle, and Killarney National Park on this 5-day Ireland photography workshopSummaryLocation: Dingle and Killarney - Kerry Southern IrelandDates: Thu 5th - Mon 10th Mar 2026 - 5 Days/4 NightsParticipants: Max 4Fitness: 2. Easy-ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: DingleDescription: We will be based near Dingle and visit some of the top spots around the Dingle Peninsula, South Kerry (Skellig Ring) and finally Killarney National Park.There is a wide vari...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1710060195646-WLFJL2H358FJD4GKV1CP/Coumeenoole+Strand+2.jpg",
@@ -99,40 +110,6 @@
             "currency": "GBP"
           }
         }
-      },
-      "startDate": "2026-01-16",
-      "endDate": "2026-01-18",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Dorset",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "addressCountry": "GB"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "email": "info@alanranger.com",
-        "telephone": "+44 781 701 7994",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        }
-      },
-      "performer": {
-        "@type": "Person",
-        "name": "Alan Ranger"
       },
       "review": [
         {
@@ -179,11 +156,7 @@
         "ratingValue": "5.0",
         "reviewCount": 2
       },
-      "@id": "https://www.alanranger.com/ireland-photography-workshops-dingle#schema",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle"
-      }
+      "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle#product"
     }
   ]
 }

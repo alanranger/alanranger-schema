@@ -2,7 +2,26 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Organization",
+      "@id": "https://www.alanranger.com#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "telephone": "+44 781 701 7994",
+      "email": "info@alanranger.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
       "@type": "LocalBusiness",
+      "@id": "https://www.alanranger.com/#localbusiness",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -44,20 +63,12 @@
       "@id": "https://www.alanranger.com/bluebell-woodlands-photography-workshops#breadcrumbs"
     },
     {
-      "@type": [
-        "Product",
-        "Event"
-      ],
+      "@type": "Product",
       "name": "BLUEBELL WOODLANDS Photography - Warks - 20 Apr- 01 May",
       "sku": "SQ8599409",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
-      },
-      "provider": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "sameAs": "https://www.alanranger.com"
       },
       "description": "Bluebell woodlands photography workshop - Choose a sunrise or mid-morning 4hr bluebell photography shoot or both sessions at this private bluebell woodland with exclusive accessSummaryLocation: Warwickshire (Near Stratford Upon Avon)Dates (are subject to the timing of the bluebell flowering and their peek display - you will be contacted nearer the time to consider alt-dates, please pick your initial first date choice but be flexible if nearer the time it needs to change)Mon-20-Apr-26Tue-21-Apr-26Wed-22-Apr-26Thu-23-Apr-26Fri-24-Apr-26Sat-25-Apr-26Sun-26-Apr-26Mon-27-Apr-26Tue-28-Apr-26Wed-2...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707309659883-DPISYTNT0T584VPXCK39/bluebell+photography+workshops.jpg",
@@ -1612,40 +1623,6 @@
           }
         }
       ],
-      "startDate": "2025-12-05",
-      "endDate": "2025-12-05",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Solihull",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "addressCountry": "GB"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "email": "info@alanranger.com",
-        "telephone": "+44 781 701 7994",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        }
-      },
-      "performer": {
-        "@type": "Person",
-        "name": "Alan Ranger"
-      },
       "review": [
         {
           "@type": "Review",
@@ -2128,11 +2105,7 @@
         "ratingValue": "4.96",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/bluebell-woodlands-photography-workshops#schema",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops"
-      }
+      "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#product"
     }
   ]
 }

@@ -2,7 +2,26 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Organization",
+      "@id": "https://www.alanranger.com#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "telephone": "+44 781 701 7994",
+      "email": "info@alanranger.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
       "@type": "LocalBusiness",
+      "@id": "https://www.alanranger.com/#localbusiness",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -44,20 +63,12 @@
       "@id": "https://www.alanranger.com/beginners-photography-course#breadcrumbs"
     },
     {
-      "@type": [
-        "Product",
-        "Course"
-      ],
+      "@type": "Product",
       "name": "Beginners Photography Course | 3 Weekly Evening Classes",
       "sku": "SQ3173144",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
-      },
-      "provider": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "sameAs": "https://www.alanranger.com"
       },
       "description": "Beginners Photography Course CoventrySummary - Camera Courses For Beginners - Key InformationLocation: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HWParticipants: Max 4Time: 19:00 - 21:00Multi Course Start Dates: Beginners Photography Course3wks Thursdays - Dec 4- Dec 18 Coventry3wks Tuesdays - Jan 6 - Jan 20 Coventry3wks Wednesdays - Feb 4 - Feb 18 Coventry3wks Mondays - Feb 9 - 23 Feb Coventry3wks Thursdays - Mar 5 - Mar 19 Coventry3wks Mondays - Mar 9 - Mar 23 Coventry3wks Wednesdays - Apr 1 - Apr 15 Coventry3wks Thursdays - Apr 2 - Apr 16 Coventry3wks Tuesdays - May 5 - May 19 C...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/bceae6f2-91b8-4012-a00b-7b7b177d346f/Beginners+Photography+Classes.png",
@@ -454,16 +465,6 @@
           }
         }
       ],
-      "hasCourseInstance": {
-        "@type": "CourseInstance",
-        "courseMode": "InPerson",
-        "startDate": "2026-01-16",
-        "endDate": "2026-01-18",
-        "location": {
-          "@type": "Place",
-          "name": "Dorset"
-        }
-      },
       "review": [
         {
           "@type": "Review",
@@ -946,11 +947,7 @@
         "ratingValue": "4.96",
         "reviewCount": 25
       },
-      "@id": "https://www.alanranger.com/beginners-photography-course#schema",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
-      }
+      "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#product"
     }
   ]
 }
