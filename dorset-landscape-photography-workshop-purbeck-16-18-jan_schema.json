@@ -68,8 +68,8 @@
         "price": "925.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2025-11-15",
-        "priceValidUntil": "2026-11-15",
+        "validFrom": "2025-11-16",
+        "priceValidUntil": "2026-11-16",
         "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop#offer",
         "seller": {

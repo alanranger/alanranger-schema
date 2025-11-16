@@ -69,8 +69,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-15",
-          "priceValidUntil": "2026-11-15",
+          "validFrom": "2025-11-16",
+          "priceValidUntil": "2026-11-16",
           "name": "Padley and Bolehill Sat 16th May 2026 - 09:30 - 16:00",
           "priceSpecification": {
             "price": "150.00",
@@ -112,8 +112,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-15",
-          "priceValidUntil": "2026-11-15",
+          "validFrom": "2025-11-16",
+          "priceValidUntil": "2026-11-16",
           "name": "Padley and Bolehill Sat 17th Oct  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -155,8 +155,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-15",
-          "priceValidUntil": "2026-11-15",
+          "validFrom": "2025-11-16",
+          "priceValidUntil": "2026-11-16",
           "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -198,8 +198,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-15",
-          "priceValidUntil": "2026-11-15",
+          "validFrom": "2025-11-16",
+          "priceValidUntil": "2026-11-16",
           "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
