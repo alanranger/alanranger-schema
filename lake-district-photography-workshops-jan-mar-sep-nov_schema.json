@@ -80,8 +80,8 @@
           "price": "975.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-16",
-          "priceValidUntil": "2026-11-16",
+          "validFrom": "2025-11-21",
+          "priceValidUntil": "2026-11-21",
           "name": "Fri 23 Jan - 25 Jan - 3 Days 2026",
           "priceSpecification": {
             "price": "975.00",
@@ -123,8 +123,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-16",
-          "priceValidUntil": "2026-11-16",
+          "validFrom": "2025-11-21",
+          "priceValidUntil": "2026-11-21",
           "name": "Fri 20 Mar - Sun 22 Mar - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -166,8 +166,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-16",
-          "priceValidUntil": "2026-11-16",
+          "validFrom": "2025-11-21",
+          "priceValidUntil": "2026-11-21",
           "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -209,8 +209,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-16",
-          "priceValidUntil": "2026-11-16",
+          "validFrom": "2025-11-21",
+          "priceValidUntil": "2026-11-21",
           "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",

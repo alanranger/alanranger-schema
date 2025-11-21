@@ -79,8 +79,8 @@
         "price": "360.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2025-11-16",
-        "priceValidUntil": "2026-11-16",
+        "validFrom": "2025-11-21",
+        "priceValidUntil": "2026-11-21",
         "name": "4 x 2hr sessions - weekday daytime",
         "priceSpecification": {
           "price": "360.00",
