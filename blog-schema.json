@@ -46,6 +46,44 @@
         "position": 1,
         "item": {
           "@type": "BlogPosting",
+          "headline": "Exposure Triangle Mastery Photography Practice Assignment",
+          "url": "https://www.alanranger.com/blog-on-photography/exposure-triangle-mastery-photography-practice-assignment",
+          "datePublished": "2025-11-23T00:00:00+00:00",
+          "dateModified": "2025-11-23T00:00:00+00:00",
+          "description": "Exposure Triangle Mastery Photography Practice Assignment",
+          "author": {
+            "@type": "Person",
+            "name": "Alan Ranger",
+            "url": "https://www.alanranger.com/about-alan-ranger"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography"
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/exposure-triangle-mastery-photography-practice-assignment"
+          },
+          "isPartOf": "https://www.alanranger.com/blog-on-photography",
+          "inLanguage": "en-GB",
+          "copyrightHolder": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763916906718-NFTL0OZUDFY9NNM24PW3/exposure-triangle-mastery-thumbnail.png",
+            "caption": "Exposure Triangle Mastery Photography Practice Assignment"
+          },
+          "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763916906718-NFTL0OZUDFY9NNM24PW3/exposure-triangle-mastery-thumbnail.png",
+          "keywords": "Technical Foundations"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "BlogPosting",
           "headline": "Best Tripod for Landscape Photography Benro Mammoth + GD36PT",
           "url": "https://www.alanranger.com/blog-on-photography/best-tripod-for-landscape-photography",
           "datePublished": "2025-11-14T00:00:00+00:00",
@@ -82,7 +120,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 3,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Peter Orton - ARPS | RPS Distinctions Panel",
@@ -121,7 +159,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 4,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - John Simpson - LRPS | RPS Distinctions Panel",
@@ -160,7 +198,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 5,
         "item": {
           "@type": "BlogPosting",
           "headline": "Five Creative Autumn Photography Projects: To Inspire You",
@@ -199,7 +237,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 6,
         "item": {
           "@type": "NewsArticle",
           "headline": "Free Autumn Photography Tips | Equipment | Approach",
@@ -237,7 +275,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 7,
         "item": {
           "@type": "NewsArticle",
           "headline": "Photographing Autumn - UK landscape photography guide",
@@ -276,7 +314,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 8,
         "item": {
           "@type": "NewsArticle",
           "headline": "The Way of Wu Wei Philosophy - A Personal Reflection",
@@ -315,7 +353,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 8,
+        "position": 9,
         "item": {
           "@type": "BlogPosting",
           "headline": "Composition Curiousness - Part 1 | Professional Guide",
@@ -354,7 +392,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 9,
+        "position": 10,
         "item": {
           "@type": "BlogPosting",
           "headline": "Composition Curiousness - Part 2 | Professional Guide",
@@ -393,7 +431,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 10,
+        "position": 11,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering the Art of Seasonal Photography: Nature's Rhythms",
@@ -432,7 +470,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 11,
+        "position": 12,
         "item": {
           "@type": "BlogPosting",
           "headline": "04 What is ISO in Photography: A Guide for Beginners.",
@@ -471,7 +509,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 12,
+        "position": 13,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photo Print Sizes - Photo Sizing - Print Resolution Guide",
@@ -510,7 +548,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 13,
+        "position": 14,
         "item": {
           "@type": "BlogPosting",
           "headline": "Composition in Photography: Why the Camera Isn’t the Artist",
@@ -549,7 +587,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 14,
+        "position": 15,
         "item": {
           "@type": "BlogPosting",
           "headline": "10 What is DYNAMIC RANGE in photography: A Beginners Guide",
@@ -588,7 +626,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 15,
+        "position": 16,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is FRAMING in photography: A Guide for Beginners",
@@ -627,7 +665,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 16,
+        "position": 17,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering Exposure: Outdoor Photography Exposure Calculator",
@@ -666,7 +704,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 17,
+        "position": 18,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Styles: Trends, Tips &amp; Finding Your Fit (2025",
@@ -704,7 +742,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 18,
+        "position": 19,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to find your Photography Style: Identify and Develop it",
@@ -743,7 +781,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 19,
+        "position": 20,
         "item": {
           "@type": "BlogPosting",
           "headline": "The Art of STORYTELLING PHOTOGRAPHY: Capturing Moments",
@@ -782,7 +820,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 20,
+        "position": 21,
         "item": {
           "@type": "BlogPosting",
           "headline": "The History of Photography - Origin of Photography to Today",
@@ -821,7 +859,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 21,
+        "position": 22,
         "item": {
           "@type": "BlogPosting",
           "headline": "Creative Photography Workshops: Unlocking Your Potential",
@@ -859,7 +897,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 22,
+        "position": 23,
         "item": {
           "@type": "BlogPosting",
           "headline": "ARCHITECTURE Photography Guide: Step-by-Step for Beginners",
@@ -898,7 +936,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 23,
+        "position": 24,
         "item": {
           "@type": "BlogPosting",
           "headline": "07 Explaining EXPOSURE BRACKETING: A Guide for Beginners",
@@ -937,7 +975,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 24,
+        "position": 25,
         "item": {
           "@type": "BlogPosting",
           "headline": "01 What is EXPOSURE in photography: A Guide for Beginners",
@@ -976,7 +1014,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 25,
+        "position": 26,
         "item": {
           "@type": "BlogPosting",
           "headline": "Why Photography is an Art of Observation: A Deep Dive",
@@ -1015,7 +1053,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 26,
+        "position": 27,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is MINIMALIST PHOTOGRAPHY: Key Concepts for Beginners",
@@ -1054,7 +1092,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 27,
+        "position": 28,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is PORTRAIT PHOTOGRAPHY:  Essential Tips for Beginners",
@@ -1093,7 +1131,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 28,
+        "position": 29,
         "item": {
           "@type": "BlogPosting",
           "headline": "Master Photography with a Professional Photography Tutor",
@@ -1131,7 +1169,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 29,
+        "position": 30,
         "item": {
           "@type": "BlogPosting",
           "headline": "STREET PHOTOGRAPHY Tips That Every Traveller Should Know",
@@ -1170,7 +1208,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 30,
+        "position": 31,
         "item": {
           "@type": "BlogPosting",
           "headline": "08 What is FOCUS in Photography: Key Concepts Explained",
@@ -1209,7 +1247,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 31,
+        "position": 32,
         "item": {
           "@type": "BlogPosting",
           "headline": "10 Things to Do with Your New Camera - Basic camera settings",
@@ -1248,7 +1286,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 32,
+        "position": 33,
         "item": {
           "@type": "BlogPosting",
           "headline": "PRODUCT PHOTOGRAPHY Setup: A Simple Guide for Beginners",
@@ -1287,7 +1325,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 33,
+        "position": 34,
         "item": {
           "@type": "BlogPosting",
           "headline": "Finding Your Compositional Balance: A Guide For Beginner's",
@@ -1326,7 +1364,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 34,
+        "position": 35,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is CONTRAST in Photography: A Guide for Beginners",
@@ -1365,7 +1403,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 35,
+        "position": 36,
         "item": {
           "@type": "BlogPosting",
           "headline": "BEST CAMERA BAGS for Different Trips :  My 2024 Picks",
@@ -1404,7 +1442,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 36,
+        "position": 37,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is STILL LIFE PHOTOGRAPHY: A Guide For Beginners",
@@ -1443,7 +1481,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 37,
+        "position": 38,
         "item": {
           "@type": "BlogPosting",
           "headline": "02 What is APERTURE in photography: A Guide for Beginners",
@@ -1482,7 +1520,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 38,
+        "position": 39,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to take LONG EXPOSURE photos: A Guide For Beginners",
@@ -1521,7 +1559,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 39,
+        "position": 40,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to Improve Your Photography Composition: A Guide",
@@ -1560,7 +1598,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 40,
+        "position": 41,
         "item": {
           "@type": "BlogPosting",
           "headline": "Unlocking the Art of MACRO PHOTOGRAPHY: Techniques and Tips",
@@ -1599,7 +1637,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 41,
+        "position": 42,
         "item": {
           "@type": "BlogPosting",
           "headline": "15 What is FOCAL LENGTH in photography: A Beginners Guide",
@@ -1638,7 +1676,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 42,
+        "position": 43,
         "item": {
           "@type": "BlogPosting",
           "headline": "Camera Lenses: When to Buy New, Used, or Rent: A Guide",
@@ -1677,7 +1715,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 43,
+        "position": 44,
         "item": {
           "@type": "BlogPosting",
           "headline": "13 JPEG vs RAW: The Key Differences: A Guide for Beginners",
@@ -1716,7 +1754,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 44,
+        "position": 45,
         "item": {
           "@type": "BlogPosting",
           "headline": "03 What is SHUTTER SPEED in photography: Guide for Beginners",
@@ -1755,7 +1793,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 45,
+        "position": 46,
         "item": {
           "@type": "BlogPosting",
           "headline": "What is NEGATIVE SPACE in photography: A Guide for Beginners",
@@ -1794,7 +1832,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 46,
+        "position": 47,
         "item": {
           "@type": "BlogPosting",
           "headline": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide",
@@ -1833,7 +1871,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 47,
+        "position": 48,
         "item": {
           "@type": "BlogPosting",
           "headline": "Top Tips for photographing bluebells | A Professional Guide",
@@ -1872,7 +1910,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 48,
+        "position": 49,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering LANDSCAPE PHOTOGRAPHY: Tips and Techniques",
@@ -1911,7 +1949,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 49,
+        "position": 50,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography COMPOSITION RULES: A Guide for Beginners",
@@ -1950,7 +1988,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 50,
+        "position": 51,
         "item": {
           "@type": "BlogPosting",
           "headline": "11 What is WHITE BALANCE in photography: A Beginners Guide",
@@ -1989,7 +2027,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 51,
+        "position": 52,
         "item": {
           "@type": "BlogPosting",
           "headline": "BLACK and WHITE Photography for Beginners:  A Guide",
@@ -2028,7 +2066,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 52,
+        "position": 53,
         "item": {
           "@type": "BlogPosting",
           "headline": "Learn photography from home - Online Photography Classes",
@@ -2066,7 +2104,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 53,
+        "position": 54,
         "item": {
           "@type": "BlogPosting",
           "headline": "Capturing Springs Blue Charm: Top Bluebell Woodland Tips",
@@ -2105,7 +2143,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 54,
+        "position": 55,
         "item": {
           "@type": "BlogPosting",
           "headline": "12 What are CAMERA DRIVE MODES: A Guide for Beginners",
@@ -2144,7 +2182,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 55,
+        "position": 56,
         "item": {
           "@type": "BlogPosting",
           "headline": "Take the free online colour test - how good is your vision?",
@@ -2183,7 +2221,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 56,
+        "position": 57,
         "item": {
           "@type": "BlogPosting",
           "headline": "14 FULL FRAME VS CROPPED SENSOR: Which One reigns Supreme?",
@@ -2222,7 +2260,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 57,
+        "position": 58,
         "item": {
           "@type": "BlogPosting",
           "headline": "7 Essential Camera Accessories You Need in Your Kit",
@@ -2261,7 +2299,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 58,
+        "position": 59,
         "item": {
           "@type": "BlogPosting",
           "headline": "09 What is DEPTH OF FIELD in Photography: A Beginners Guide",
@@ -2300,7 +2338,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 59,
+        "position": 60,
         "item": {
           "@type": "BlogPosting",
           "headline": "Are Mirrorless Cameras Better Than DSLRs: A Comparison",
@@ -2339,7 +2377,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 60,
+        "position": 61,
         "item": {
           "@type": "BlogPosting",
           "headline": "2025 Photo Editing Software: Which One is Right for You",
@@ -2378,7 +2416,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 61,
+        "position": 62,
         "item": {
           "@type": "BlogPosting",
           "headline": "How Much Do Photographers Earn: 2025 Industry Report UK",
@@ -2416,7 +2454,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 62,
+        "position": 63,
         "item": {
           "@type": "NewsArticle",
           "headline": "How to Improve your Woodland Photography | Woodland Pictures",
@@ -2454,7 +2492,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 63,
+        "position": 64,
         "item": {
           "@type": "NewsArticle",
           "headline": "Discover the Midlands Photography Workshops with Alan Ranger",
@@ -2492,7 +2530,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 64,
+        "position": 65,
         "item": {
           "@type": "NewsArticle",
           "headline": "The Secrets To Woodland Photography-1-Day Masterclass",
@@ -2531,7 +2569,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 65,
+        "position": 66,
         "item": {
           "@type": "BlogPosting",
           "headline": "Power of Professional Commercial Photography in Coventry",
@@ -2569,7 +2607,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 66,
+        "position": 67,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering the Art of Winter Photography: An In-depth Guide",
@@ -2608,7 +2646,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 67,
+        "position": 68,
         "item": {
           "@type": "BlogPosting",
           "headline": "What Are LEADING LINES in Photography: A How-To-Guide",
@@ -2647,7 +2685,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 68,
+        "position": 69,
         "item": {
           "@type": "BlogPosting",
           "headline": "What do CAMERA LENS FILTERS DO: A Guide for Beginners",
@@ -2686,7 +2724,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 69,
+        "position": 70,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to Back Up Photos: The Best 3-2-1 Backup Method Guide",
@@ -2725,7 +2763,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 70,
+        "position": 71,
         "item": {
           "@type": "BlogPosting",
           "headline": "05 What is MANUAL EXPOSURE in photography:Guide for beginner",
@@ -2764,7 +2802,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 71,
+        "position": 72,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tripod for Camera: Guide To Which, Why, How to Use A Tripod",
@@ -2803,7 +2841,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 72,
+        "position": 73,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering Abstract Photography: Beginner Techniques and Tips",
@@ -2842,7 +2880,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 73,
+        "position": 74,
         "item": {
           "@type": "BlogPosting",
           "headline": "Are camera UV filters worth it? Pros and cons explained",
@@ -2881,7 +2919,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 74,
+        "position": 75,
         "item": {
           "@type": "BlogPosting",
           "headline": "06 What is METERING in photography: A Guide for Beginners",
@@ -2920,7 +2958,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 75,
+        "position": 76,
         "item": {
           "@type": "BlogPosting",
           "headline": "Mastering the Art of Shadow Photography: Light and Darkness",
@@ -2959,7 +2997,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 76,
+        "position": 77,
         "item": {
           "@type": "BlogPosting",
           "headline": "Comprehensive Guide: Preparing for Your Photography Workshop",
@@ -2998,7 +3036,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 77,
+        "position": 78,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Evening Classes: In Coventry with Alan Ranger",
@@ -3036,7 +3074,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 78,
+        "position": 79,
         "item": {
           "@type": "BlogPosting",
           "headline": "Beyond A Point and Shoot Camera: Unlocking DSLR Photography",
@@ -3075,7 +3113,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 79,
+        "position": 80,
         "item": {
           "@type": "BlogPosting",
           "headline": "Explore the world of Landscape Fine Art Photography Prints",
@@ -3113,7 +3151,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 80,
+        "position": 81,
         "item": {
           "@type": "BlogPosting",
           "headline": "The Best Product Photography Tripod: Review and Features",
@@ -3152,7 +3190,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 81,
+        "position": 82,
         "item": {
           "@type": "BlogPosting",
           "headline": "Selecting the Ideal Product Photographer for Your Business",
@@ -3190,7 +3228,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 82,
+        "position": 83,
         "item": {
           "@type": "BlogPosting",
           "headline": "Review of Kent Faith CONCEPT Square Filter System Pro Kit",
@@ -3229,7 +3267,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 83,
+        "position": 84,
         "item": {
           "@type": "BlogPosting",
           "headline": "Do You Know Your Camera Filters? | Professional Guide",
@@ -3268,7 +3306,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 84,
+        "position": 85,
         "item": {
           "@type": "BlogPosting",
           "headline": "The Secrets of Lake District Landscape Photography",
@@ -3306,7 +3344,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 85,
+        "position": 86,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tripods – Photographers Best Friend or Creativity Stifler",
@@ -3345,7 +3383,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 86,
+        "position": 87,
         "item": {
           "@type": "BlogPosting",
           "headline": "Manfrotto Befree Tripod Review: A Compact Travel Companion",
@@ -3384,7 +3422,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 87,
+        "position": 88,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Alistair Willis - ARPS | RPS Distinctions Panel",
@@ -3423,7 +3461,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 88,
+        "position": 89,
         "item": {
           "@type": "BlogPosting",
           "headline": "Lightroom Classic Latest Version 13.3 - What's New",
@@ -3461,7 +3499,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 89,
+        "position": 90,
         "item": {
           "@type": "BlogPosting",
           "headline": "Unleash Your Creative Potential with Nik Collection 7",
@@ -3499,7 +3537,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 90,
+        "position": 91,
         "item": {
           "@type": "BlogPosting",
           "headline": "How Mirrorless Cameras Are Shaping Photography's Future",
@@ -3536,7 +3574,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 91,
+        "position": 92,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Barbara Voules - LRPS | RPS Distinctions Panel",
@@ -3575,7 +3613,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 92,
+        "position": 93,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Ian Slater - LRPS | RPS Distinctions Panel",
@@ -3614,7 +3652,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 93,
+        "position": 94,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to Take Professional Photos : Beginners Guide - FREE",
@@ -3653,7 +3691,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 94,
+        "position": 95,
         "item": {
           "@type": "BlogPosting",
           "headline": "Kickstart 2024: Beginners Photography Course in Coventry",
@@ -3692,7 +3730,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 95,
+        "position": 96,
         "item": {
           "@type": "BlogPosting",
           "headline": "Landscape Photography-Learn Landscape Photography Techniques",
@@ -3730,7 +3768,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 96,
+        "position": 97,
         "item": {
           "@type": "BlogPosting",
           "headline": "Guide: How to Prepare for Photography Courses for Beginners",
@@ -3769,7 +3807,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 97,
+        "position": 98,
         "item": {
           "@type": "BlogPosting",
           "headline": "Professional Commercial Photography: Elevate Your Business",
@@ -3807,7 +3845,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 98,
+        "position": 99,
         "item": {
           "@type": "BlogPosting",
           "headline": "Exposure Bracketing Photos - Dynamic Range | A Guide",
@@ -3846,7 +3884,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 99,
+        "position": 100,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photo Classes | Learn Photography Basics | With a Mentor",
@@ -3885,7 +3923,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 100,
+        "position": 101,
         "item": {
           "@type": "BlogPosting",
           "headline": "The Perfect Travel Tripod: Benro Cyanbird Tripod Review",
@@ -3924,7 +3962,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 101,
+        "position": 102,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tip of the day -  Alternative Long Exposure Photography",
@@ -3963,7 +4001,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 102,
+        "position": 103,
         "item": {
           "@type": "BlogPosting",
           "headline": "What's new in Lightroom Classic 13 (2024) - First Glance",
@@ -4002,7 +4040,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 103,
+        "position": 104,
         "item": {
           "@type": "BlogPosting",
           "headline": "Northumberland Landscape Photography  | Why Northumbria?",
@@ -4041,7 +4079,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 104,
+        "position": 105,
         "item": {
           "@type": "BlogPosting",
           "headline": "Hartland Quay - Devon Photography Workshops | Why Devon?",
@@ -4080,7 +4118,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 105,
+        "position": 106,
         "item": {
           "@type": "BlogPosting",
           "headline": "Why Go on Snowdonia Landscape Photography Workshops ?",
@@ -4119,7 +4157,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 106,
+        "position": 107,
         "item": {
           "@type": "BlogPosting",
           "headline": "Lee Filters - 15% Off for clients - Grab a deal today",
@@ -4157,7 +4195,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 107,
+        "position": 108,
         "item": {
           "@type": "BlogPosting",
           "headline": "Social Media for Photographers -  My Insights and Tips",
@@ -4196,7 +4234,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 108,
+        "position": 109,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photographic Filters:Enhancing Your Photos with Kase Filters",
@@ -4235,7 +4273,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 109,
+        "position": 110,
         "item": {
           "@type": "BlogPosting",
           "headline": "The Ultimate Guide to Summer Landscape Photography",
@@ -4274,7 +4312,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 110,
+        "position": 111,
         "item": {
           "@type": "BlogPosting",
           "headline": "Beginners Photography Basics-How to improve your photography",
@@ -4313,7 +4351,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 111,
+        "position": 112,
         "item": {
           "@type": "NewsArticle",
           "headline": "Creative Photo Editing with DXO NIK Collection 6 -",
@@ -4352,7 +4390,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 112,
+        "position": 113,
         "item": {
           "@type": "NewsArticle",
           "headline": "Official Jaguar Land Rover Training Partner and ELS Scheme",
@@ -4391,7 +4429,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 113,
+        "position": 114,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to develop your skills | Become a better photographer",
@@ -4430,7 +4468,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 114,
+        "position": 115,
         "item": {
           "@type": "BlogPosting",
           "headline": "Camera Bags - Review of Manfrotto Backpack Advanced Fast III",
@@ -4469,7 +4507,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 115,
+        "position": 116,
         "item": {
           "@type": "NewsArticle",
           "headline": "Kase Filters and Adobe Lightroom Queen Partner Deals |",
@@ -4508,7 +4546,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 116,
+        "position": 117,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Concepts for Beginners - 3 Basic Components",
@@ -4547,7 +4585,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 117,
+        "position": 118,
         "item": {
           "@type": "BlogPosting",
           "headline": "Used Camera Equipment cameras and Lenses - From UK retailers",
@@ -4586,7 +4624,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 118,
+        "position": 119,
         "item": {
           "@type": "BlogPosting",
           "headline": "5 Stages To Improve Your Photography | A Professional Guide",
@@ -4624,7 +4662,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 119,
+        "position": 120,
         "item": {
           "@type": "BlogPosting",
           "headline": "Camera Maintenance – DSLR Sensor Cleaning | A Guide",
@@ -4663,7 +4701,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 120,
+        "position": 121,
         "item": {
           "@type": "BlogPosting",
           "headline": "Shooting In Low Light | Long Exposure Photography Guide",
@@ -4702,7 +4740,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 121,
+        "position": 122,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Janice Jordan - LRPS | RPS Distinctions",
@@ -4741,7 +4779,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 122,
+        "position": 123,
         "item": {
           "@type": "BlogPosting",
           "headline": "Top 6 Tips for Photographing Fireworks from a Professional",
@@ -4779,7 +4817,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 123,
+        "position": 124,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Tips | 10 Things I Wish I Knew Earlier",
@@ -4818,7 +4856,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 124,
+        "position": 125,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Kirsten Pearce - LRPS | RPS Distinctions",
@@ -4857,7 +4895,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 125,
+        "position": 126,
         "item": {
           "@type": "NewsArticle",
           "headline": "the traditional pairing of a haiku with a picture - Shahai",
@@ -4896,7 +4934,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 126,
+        "position": 127,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Lessons for beginners to learn and practice",
@@ -4935,7 +4973,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 127,
+        "position": 128,
         "item": {
           "@type": "NewsArticle",
           "headline": "Expressive Photography-Hard, often frustrating but rewarding",
@@ -4973,7 +5011,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 128,
+        "position": 129,
         "item": {
           "@type": "BlogPosting",
           "headline": "The camera is an instrument to teaches people how to see",
@@ -5011,7 +5049,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 129,
+        "position": 130,
         "item": {
           "@type": "BlogPosting",
           "headline": "Recommended Lightweight Tripods | Professional Guide",
@@ -5050,7 +5088,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 130,
+        "position": 131,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Max Dobres - LRPS | RPS Distinctions Panel",
@@ -5089,7 +5127,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 131,
+        "position": 132,
         "item": {
           "@type": "BlogPosting",
           "headline": "Extend the life of your camera | Camera Care Guide",
@@ -5128,7 +5166,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 132,
+        "position": 133,
         "item": {
           "@type": "BlogPosting",
           "headline": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery",
@@ -5167,7 +5205,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 133,
+        "position": 134,
         "item": {
           "@type": "BlogPosting",
           "headline": "Shoot the magic of landscape winter photography | Guide",
@@ -5205,7 +5243,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 134,
+        "position": 135,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Dennis Jeffrey LRPS | RPS Distinctions",
@@ -5244,7 +5282,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 135,
+        "position": 136,
         "item": {
           "@type": "BlogPosting",
           "headline": "Choosing a camera - Considerations and Comparisons",
@@ -5282,7 +5320,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 136,
+        "position": 137,
         "item": {
           "@type": "BlogPosting",
           "headline": "RPS Distinctions: Gain Licentiate &amp; Associate Mentoring",
@@ -5320,7 +5358,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 137,
+        "position": 138,
         "item": {
           "@type": "BlogPosting",
           "headline": "5 Reasons why a tripod will help you to become better",
@@ -5359,7 +5397,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 138,
+        "position": 139,
         "item": {
           "@type": "BlogPosting",
           "headline": "Order Prints with One Vision Imaging - 12% off All Products",
@@ -5398,7 +5436,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 139,
+        "position": 140,
         "item": {
           "@type": "BlogPosting",
           "headline": "Using a ND Filter for Long Exposure Photography | A Guide",
@@ -5437,7 +5475,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 140,
+        "position": 141,
         "item": {
           "@type": "BlogPosting",
           "headline": "Learn Photography - How? - 10,000 Hours of Practice",
@@ -5475,7 +5513,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 141,
+        "position": 142,
         "item": {
           "@type": "BlogPosting",
           "headline": "Benro Review - Head to Head with Gitzo and Manfrotto Tripods",
@@ -5514,7 +5552,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 142,
+        "position": 143,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photographers Composition Aides - Viewing frames launched",
@@ -5553,7 +5591,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 143,
+        "position": 144,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tip of the day - Ten tips towards better composition",
@@ -5592,7 +5630,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 144,
+        "position": 145,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to use a tripod correctly | Professional Guide",
@@ -5631,7 +5669,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 145,
+        "position": 146,
         "item": {
           "@type": "BlogPosting",
           "headline": "Seven Tips On How To Become A Better Photographer?",
@@ -5670,7 +5708,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 146,
+        "position": 147,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tip of the day- 10 Creative Photo Projects To Do Today",
@@ -5709,7 +5747,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 147,
+        "position": 148,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Janet Boulter LRPS | RPS Distinctions",
@@ -5748,7 +5786,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 148,
+        "position": 149,
         "item": {
           "@type": "NewsArticle",
           "headline": "Buying a lens.... Which lens should I buy next? | Guide",
@@ -5787,7 +5825,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 149,
+        "position": 150,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tip of the day - photography basics - Creative Editing",
@@ -5826,7 +5864,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 150,
+        "position": 151,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to delete duplicate photos in Lightroom Classic",
@@ -5865,7 +5903,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 151,
+        "position": 152,
         "item": {
           "@type": "BlogPosting",
           "headline": "Top 10 composition mistakes - Guide To Great Composition",
@@ -5903,7 +5941,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 152,
+        "position": 153,
         "item": {
           "@type": "BlogPosting",
           "headline": "Tip of the day - Advanced Photo Editing with NIK Collection",
@@ -5942,7 +5980,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 153,
+        "position": 154,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Jacki Rosin - Client A Photographic Journey",
@@ -5981,7 +6019,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 154,
+        "position": 155,
         "item": {
           "@type": "BlogPosting",
           "headline": "North Devon Coastal Workshop | Why I love Hartland Quay",
@@ -6019,7 +6057,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 155,
+        "position": 156,
         "item": {
           "@type": "NewsArticle",
           "headline": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
@@ -6058,7 +6096,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 156,
+        "position": 157,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Chris Shaw - Client A Photographic Journey",
@@ -6097,7 +6135,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 157,
+        "position": 158,
         "item": {
           "@type": "NewsArticle",
           "headline": "photography show buying guide | Professional Guide",
@@ -6136,7 +6174,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 158,
+        "position": 159,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Francis Peckham LRPS | RPS Distinctions",
@@ -6175,7 +6213,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 159,
+        "position": 160,
         "item": {
           "@type": "BlogPosting",
           "headline": "Avoid Camera Shake - Use a remote release or self-timer",
@@ -6213,7 +6251,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 160,
+        "position": 161,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Vincenzo Albano ARPS | RPS Distinctions",
@@ -6252,7 +6290,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 161,
+        "position": 162,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Jacki Rosin ARPS | RPS Distinctions Panel",
@@ -6291,7 +6329,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 162,
+        "position": 163,
         "item": {
           "@type": "BlogPosting",
           "headline": "Ireland Photography Workshop Recce Report | Dingle to Kerry",
@@ -6329,7 +6367,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 163,
+        "position": 164,
         "item": {
           "@type": "BlogPosting",
           "headline": "Partnership with One Vision Imaging - 12% off All Products",
@@ -6368,7 +6406,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 164,
+        "position": 165,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Anne Watkinson LRPS | RPS Distinctions",
@@ -6407,7 +6445,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 165,
+        "position": 166,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Paul Kirby LRPS | RPS Distinctions Panel",
@@ -6446,7 +6484,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 166,
+        "position": 167,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Joyce James LRPS | RPS Distinctions Panel",
@@ -6485,7 +6523,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 167,
+        "position": 168,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photographers Rights in the UK - What are the Facts?",
@@ -6524,7 +6562,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 168,
+        "position": 169,
         "item": {
           "@type": "BlogPosting",
           "headline": "Creative Photo Editing MasterClass | Professional Tuition",
@@ -6563,7 +6601,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 169,
+        "position": 170,
         "item": {
           "@type": "NewsArticle",
           "headline": "A Christmas Day memory for those less fortunate. | Crisis",
@@ -6602,7 +6640,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 170,
+        "position": 171,
         "item": {
           "@type": "BlogPosting",
           "headline": "How to Make Images That are Moving | Moving Photographs",
@@ -6641,7 +6679,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 171,
+        "position": 172,
         "item": {
           "@type": "BlogPosting",
           "headline": "Suffolk Punch - A personal perspective &amp; Background",
@@ -6679,7 +6717,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 172,
+        "position": 173,
         "item": {
           "@type": "NewsArticle",
           "headline": "Photographers Copyright - digital images and the internet",
@@ -6718,7 +6756,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 173,
+        "position": 174,
         "item": {
           "@type": "NewsArticle",
           "headline": "Help Portrait - Coventry Report | Giving Pictures Not Taking",
@@ -6757,7 +6795,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 174,
+        "position": 175,
         "item": {
           "@type": "NewsArticle",
           "headline": "Help Portrait - UK-Coventry-School-Shoot | Giving Pictures",
@@ -6796,7 +6834,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 175,
+        "position": 176,
         "item": {
           "@type": "NewsArticle",
           "headline": "Schools Photo Project - Photography for kids with learning",
@@ -6835,7 +6873,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 176,
+        "position": 177,
         "item": {
           "@type": "BlogPosting",
           "headline": "Night time photography - Shooting in Low Light Tips",
@@ -6873,7 +6911,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 177,
+        "position": 178,
         "item": {
           "@type": "NewsArticle",
           "headline": "Ruby's First Photo Project | The start of her journey",
@@ -6912,7 +6950,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 178,
+        "position": 179,
         "item": {
           "@type": "NewsArticle",
           "headline": "Help Portrait | UK Coventry Event | Giving Pictures",
@@ -6951,7 +6989,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 179,
+        "position": 180,
         "item": {
           "@type": "NewsArticle",
           "headline": "Learn how to use Lightroom to edit  | Professional Guide",
@@ -6989,7 +7027,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 180,
+        "position": 181,
         "item": {
           "@type": "BlogPosting",
           "headline": "My LRPS journey – Mike Ford | Client RPS Distinctions",
@@ -7028,7 +7066,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 181,
+        "position": 182,
         "item": {
           "@type": "BlogPosting",
           "headline": "Don't be wonky - Get your camera leveling right | Guide",
@@ -7067,7 +7105,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 182,
+        "position": 183,
         "item": {
           "@type": "BlogPosting",
           "headline": "Struggle to see your camera screen | Professional guide",
@@ -7106,7 +7144,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 183,
+        "position": 184,
         "item": {
           "@type": "BlogPosting",
           "headline": "Photography Equipment for Beginners | Professional Guide",
@@ -7145,7 +7183,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 184,
+        "position": 185,
         "item": {
           "@type": "BlogPosting",
           "headline": "Phone Camera Vs the Digital Camera | Is the mobile good?",
@@ -7183,7 +7221,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 185,
+        "position": 186,
         "item": {
           "@type": "NewsArticle",
           "headline": "Photography – The Epitome of Art - Stories without words",
@@ -7221,7 +7259,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 186,
+        "position": 187,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Mike Ford shares a photographic journey",
@@ -7260,7 +7298,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 187,
+        "position": 188,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Joyce James shares a photographic journey",
@@ -7299,7 +7337,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 188,
+        "position": 189,
         "item": {
           "@type": "BlogPosting",
           "headline": "Help children take photos - Photography For Kids Guide",
@@ -7337,7 +7375,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 189,
+        "position": 190,
         "item": {
           "@type": "BlogPosting",
           "headline": "Case Study - Kirsten Pearce shares a photographic journey",
@@ -7376,7 +7414,7 @@
       },
       {
         "@type": "ListItem",
-        "position": 190,
+        "position": 191,
         "item": {
           "@type": "NewsArticle",
           "headline": "Abstract Photography - Visual Reference | Professional Guide",
