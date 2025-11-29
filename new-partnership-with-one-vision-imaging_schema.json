@@ -1,0 +1,186 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging",
+      "name": "Partnership with One Vision Imaging - 12% off All Products",
+      "description": "am delighted to announce that I have agreed on an extended partnership with One Vision Imaging Ltd.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Partnership with One Vision Imaging - 12% off All Products",
+          "item": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#blogposting",
+      "headline": "Partnership with One Vision Imaging - 12% off All Products",
+      "alternativeHeadline": "Partnership with One Vision Imaging - 12% off All Products | Alan Ranger Photography",
+      "description": "am delighted to announce that I have agreed on an extended partnership with One Vision Imaging Ltd.",
+      "url": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#webpage"
+      },
+      "datePublished": "2019-08-28T00:00:00+00:00",
+      "dateCreated": "2019-08-28T00:00:00+00:00",
+      "dateModified": "2019-08-28T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "PARTNERSHIP WITH ONE VISION IMAGING - 12% OFF ALL PRODUCTSONE VISION IMAGING LTDI am delighted to announce that I have agreed on an extended partnership with One Vision Imaging Ltd. One Vision Imaging are a professional print lab that I have used for many years for all my prints.https://www.onevisionimaging.com/12% off for Alan Ranger Photography ClientsOne Vision Imaging provides a full and professional print service that is unrivalled in range of products, quality of print and professional service. They are based in my home town of Coventry but have a great online portal for clients to upload images remotely and order their prints, with overmount or frames or whatever product you would like your photographs printed on.As a preferred partner, I am delighted to be able to share an ongoing offer with you for a 12% discount on any order you place with One Vision Imaging.To take advantage of this ongoing discount offer you need to register your account or create one on the One Vision website and then follow these steps.The 12% Discount will be applied automatically to your account for all orders placed through the website portal.To take advantage of this offer, follow these steps: 1. Register your Free Account at One Vision Imaging - https://www.onevisionimaging.com/account/register , if you already have an account, go to step 2 2. Contact Adam Edwards at One Vision .To take advantage of this offer, follow these steps: 1. Register your Free Account at One Vision Imaging - https://www.onevisionimaging.com/account/register , if you already have an account, go to step 2 2. Contact Adam Edwards at One Vision Imaging via email to confirm you are an Alan Ranger client. adam.edwards@onevisionimaging.com Adam will check with me that you are a client. 3. Adam will add an automatic discount of 12% to your one vision imaging account for all future orders placed through the account.That’s it, simple!----------------------------------------photography-offers , photography-tips , recommended-products Alan Ranger 28 August 2019Alan Ranger Photography printing , one-vision LinkedIn0 Pinterest0",
+      "wordCount": 326,
+      "timeRequired": "PT2M",
+      "readingTime": "PT2M",
+      "genre": "Photography Guide",
+      "articleSection": "Photography Tips",
+      "keywords": [
+        "printing",
+        "one-vision"
+      ],
+      "learningResourceType": "Article",
+      "educationalLevel": "Intermediate",
+      "proficiencyLevel": "Intermediate",
+      "typicalAgeRange": "18-99",
+      "educationalUse": "Learning",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": "0"
+      },
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "Photographer",
+        "audienceType": "Student"
+      },
+      "educationalAlignment": {
+        "@type": "AlignmentObject",
+        "alignmentType": "educationalFramework",
+        "educationalFramework": "Photography Skills",
+        "targetName": "Intermediate"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Photography"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Partnership with One Vision Imaging - 12% off All Products"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png",
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#webpage"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ],
+        "cssSelector": [
+          "h1",
+          ".intro"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2019,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "relatedLink": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "subjectOf": {
+        "@type": "Blog",
+        "@id": "https://www.alanranger.com/blog-on-photography#blog"
+      },
+      "isRelatedTo": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography"
+        }
+      },
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
