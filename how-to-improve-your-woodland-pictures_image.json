@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704311442483-JYQDST757ZWEQK6MXM5Z/Derbyshire+Dales+%2306+-+Nov+2022.jpg#imageobject",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704311442483-JYQDST757ZWEQK6MXM5Z/Derbyshire+Dales+%2306+-+Nov+2022.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "How to Improve your Woodland Photography | Woodland Pictures",
+  "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704311442483-JYQDST757ZWEQK6MXM5Z/Derbyshire+Dales+%2306+-+Nov+2022.jpg",
+  "encodingFormat": "image/jpeg",
+  "contentLocation": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-woodland-pictures#webpage"
+  }
+}
