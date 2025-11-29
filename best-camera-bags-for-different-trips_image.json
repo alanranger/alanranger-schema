@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722760005459-C49VSF86VTVXNQV5I4F4/best+camera+bags.jpg#imageobject",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722760005459-C49VSF86VTVXNQV5I4F4/best+camera+bags.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "BEST CAMERA BAGS for Different Trips :  My 2024 Picks",
+  "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1722760005459-C49VSF86VTVXNQV5I4F4/best+camera+bags.jpg",
+  "encodingFormat": "image/jpeg",
+  "contentLocation": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/best-camera-bags-for-different-trips#webpage"
+  }
+}
