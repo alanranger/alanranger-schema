@@ -1,0 +1,188 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake",
+      "name": "Avoid Camera Shake - Use a remote release or self-timer",
+      "description": "- = SHOTSRemote cable shutter releases removes the risk of blurred and sometimes indecipherable shots.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423468534383-DPL6EQWNR7B4MO9QY6F4/image-asset.jpeg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Avoid Camera Shake - Use a remote release or self-timer",
+          "item": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#blogposting",
+      "headline": "Avoid Camera Shake - Use a remote release or self-timer",
+      "alternativeHeadline": "Avoid Camera Shake - Use a remote release or self-timer | Alan Ranger Photography",
+      "description": "- = SHOTSRemote cable shutter releases removes the risk of blurred and sometimes indecipherable shots.",
+      "url": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#webpage"
+      },
+      "datePublished": "2020-01-16T00:00:00+00:00",
+      "dateCreated": "2020-01-16T00:00:00+00:00",
+      "dateModified": "2020-01-16T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "AVOID CAMERA SHAKE - USE A REMOTE RELEASE OR SELF-TIMERAVOID CAMERA SHAKE - REMOTE RELEASE = SHARP SHOTSRemote cable shutter releases removes the risk of blurred and sometimes indecipherable shots. When taking photos that require a longer exposure than you can hold the camera perfectly still for you need to ensure the camera is on a tripod or solid support and avoid any camera movement that can easily be caused by pressing the shutter down.This is why I recommend the shutter cable release. By half pressing on the button you can autofocus your camera, ready to take that all-important shot. There of course many variants of cable releases which can include timers, lights and audible signals. Personally given that I have lost, drowned and wrecked a few in my time I always opt for a simple cheap version and think of it merely as set of batteries that will have a limited life. So I always carry a spare in my camera bag too.Each camera manufacturer has a different connection type so you just need to buy one that is compatible with your camera model./photography-equipmentCanon/photography-equipmentSony/photography-equipmentNikonYou can purchase this from my amazon store , along with a number of other useful pieces of photography equipment.The Pixel RC-201 shutter cable release is a welcomed addition to any photographer’s bag. Saving your shots from blur and allowing them to take centre stage in your portfolio.photography-tip amazon store , along with a number of other useful pieces of photography equipment.The Pixel RC-201 shutter cable release is a welcomed addition to any photographer’s bag. Saving your shots from blur and allowing them to take centre stage in your portfolio.photography-tips , recommended-products Alan Ranger 0 Tumblr 0 Likes",
+      "wordCount": 282,
+      "timeRequired": "PT1M",
+      "readingTime": "PT1M",
+      "genre": "Photography Guide",
+      "articleSection": "Photography Tips",
+      "keywords": [
+        "Avoid",
+        "Camera",
+        "Shake",
+        "Photography"
+      ],
+      "learningResourceType": "Article",
+      "educationalLevel": "Intermediate",
+      "proficiencyLevel": "Intermediate",
+      "typicalAgeRange": "18-99",
+      "educationalUse": "Learning",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": "0"
+      },
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "Photographer",
+        "audienceType": "Student"
+      },
+      "educationalAlignment": {
+        "@type": "AlignmentObject",
+        "alignmentType": "educationalFramework",
+        "educationalFramework": "Photography Skills",
+        "targetName": "Intermediate"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Exposure (photography)"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423468534383-DPL6EQWNR7B4MO9QY6F4/image-asset.jpeg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Avoid Camera Shake - Use a remote release or self-timer"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423468534383-DPL6EQWNR7B4MO9QY6F4/image-asset.jpeg",
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#webpage"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ],
+        "cssSelector": [
+          "h1",
+          ".intro"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2020,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "relatedLink": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "subjectOf": {
+        "@type": "Blog",
+        "@id": "https://www.alanranger.com/blog-on-photography#blog"
+      },
+      "isRelatedTo": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography"
+        }
+      },
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
