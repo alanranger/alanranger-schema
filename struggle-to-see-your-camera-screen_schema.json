@@ -1,0 +1,186 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen",
+      "name": "Struggle to see your camera screen | Professional guide",
+      "description": "Every photographer who has been outside in bright sunlight will tell you that's it pretty hard to review your image on the camera screen.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557648655192-VCSDD9IP79KT4Z9CDG4S/Annotation+2019-05-12+091000.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Struggle to see your camera screen | Professional guide",
+          "item": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#blogposting",
+      "headline": "Struggle to see your camera screen | Professional guide",
+      "alternativeHeadline": "Struggle to see your camera screen | Professional guide | Alan Ranger Photography",
+      "description": "Every photographer who has been outside in bright sunlight will tell you that's it pretty hard to review your image on the camera screen.",
+      "url": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#webpage"
+      },
+      "datePublished": "2016-01-31T00:00:00+00:00",
+      "dateCreated": "2016-01-31T00:00:00+00:00",
+      "dateModified": "2016-01-31T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "STRUGGLE TO SEE YOUR CAMERA SCREEN | PROFESSIONAL GUIDEEvery photographer who has been outside in bright sunlight will tell you that's it pretty hard to review your image on the camera screen. Not all camera's allow you to review the image you have taken through the viewfinder - assuming your camera even has a viewfinder!LCD VIEWFINDER - CAMERA SCREENThere are a couple of alternative devices to solve this problem. They both basically do the same thing./photography-equipmentMATIN M-6296 2X LCD VIEWFINDER KIT TO FIT 3.2 INCH SCREEN/photography-equipmentAvailable from my recommended products through Amazon Associates Store at £38.This device will cover a LCD screen up to 3.2\" which covers pretty much most camera types.It also allows for 2 x magnification so helps you see those details and check sharpness/focus and depth of field even more accurately.-5 to +3 diopter adjustment for those who wear glasses.It comes supplied with a pouch and neck strap.HOODMAN HOODLOUPE/photography-equipmentAvailable from my recommended products through Amazon Associates Store at £87.Works exactly the same as the Matin above - so why the extra £50?I don't know the answer to that other than it uses minimal magnification to prevent eliminate visual pixilation of your image and comes with with ¼ 20 mounting solution thread----------------------------------------Anyone who has attended one of my workshops Matin above - so why the extra £50?I don't know the answer to that other than it uses minimal magnification to prevent eliminate visual pixilation of your image and comes with with ¼ 20 mounting solution thread----------------------------------------Anyone who has attended one of my workshops will tell you how I bang the drum repeatedly about reviewing your image on the camera screen to check for all those silly mistakes, imperfections and opportunities to re-take and improve the shot both technically and creatively. These devices can really make the difference of that process being achievable or not so if you care about getting it right don't go on a shoot without one.My Amazon Associates Store contains many products I recommend and personally use - click on this store link to see what you can add to your kit bag to make like easier and your photography easier to do.photography-tips , recommended-products Alan Ranger 31 January 2016recommended-products , NIK LinkedIn0 Pinterest0",
+      "wordCount": 369,
+      "timeRequired": "PT2M",
+      "readingTime": "PT2M",
+      "genre": "Product Review",
+      "articleSection": "Gear Reviews",
+      "keywords": [
+        "recommended-products",
+        "NIK"
+      ],
+      "learningResourceType": "Article",
+      "educationalLevel": "Intermediate",
+      "proficiencyLevel": "Advanced",
+      "typicalAgeRange": "18-99",
+      "educationalUse": "Learning",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": "0"
+      },
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "Photographer",
+        "audienceType": "Student"
+      },
+      "educationalAlignment": {
+        "@type": "AlignmentObject",
+        "alignmentType": "educationalFramework",
+        "educationalFramework": "Photography Skills",
+        "targetName": "Intermediate"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Photography"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557648655192-VCSDD9IP79KT4Z9CDG4S/Annotation+2019-05-12+091000.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Struggle to see your camera screen | Professional guide"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557648655192-VCSDD9IP79KT4Z9CDG4S/Annotation+2019-05-12+091000.jpg",
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#webpage"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ],
+        "cssSelector": [
+          "h1",
+          ".intro"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2016,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "relatedLink": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "subjectOf": {
+        "@type": "Blog",
+        "@id": "https://www.alanranger.com/blog-on-photography#blog"
+      },
+      "isRelatedTo": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography"
+        }
+      },
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
