@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition",
+      "name": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery",
+      "description": "EXHIBITIONGuest Post by Jacki Rosin ARPSBrowsing through my emails a few weeks ago, I came across some correspondence from the Royal Horticultural Society.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1646666533359-A4022HFW4QB1RIRGQY3O/Jack+Rosin+Hanging+Plan.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery",
+          "item": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#blogposting",
+      "headline": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery",
+      "alternativeHeadline": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery | Alan Ranger Photography",
+      "description": "EXHIBITIONGuest Post by Jacki Rosin ARPSBrowsing through my emails a few weeks ago, I came across some correspondence from the Royal Horticultural Society.",
+      "url": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#webpage"
+      },
+      "datePublished": "2022-03-07T00:00:00+00:00",
+      "dateCreated": "2022-03-07T00:00:00+00:00",
+      "dateModified": "2022-03-07T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "JACKI ROSIN ARPS - RHS EXHIBITION AT THE SAATCHI GALLERYRHS EXHIBITIONGuest Post by Jacki Rosin ARPSBrowsing through my emails a few weeks ago, I came across some correspondence from the Royal Horticultural Society about their photographic competition. Further investigation showed there were several photographic categories that could be entered, including a Portfolio for a RHS ExhibitionThis category is for a compilation of six images in a series or on a common theme, with 'stylistic integrity throughout the display' and is judged for RHS Medals at the Botanical Art and Photography Show.I still had the images that I submitted or shortlisted for my ARPS on my hard drive and thought I had nothing to lose by submitting six of them.It was very much a spur of the moment decision! Three weeks later I received an email to say that the images had been shortlisted out of over a 100 entries and I would be taking part in the RHS exhibition at the Saatchi Gallery in London.Since then, I’ve had to fill in a lot of paperwork and forms. The images are now with One Vision Imaging for printing and mounting and will soon be on their way to the gallery.The RHS exhibition runs from the 9th -29th April at the Saatchi Gallery, Kings Road, Londonhttps://www.saatchigallery.com/exhibition/rhs2022#_> Couldn’t have done it without Alan’s help for my ARPS so thank you!Jacki Rosin.Well done, Jacki; I am very proud of this great achievement, and I hope it spurs you on to m rom the 9th -29th April at the Saatchi Gallery, Kings Road, Londonhttps://www.saatchigallery.com/exhibition/rhs2022#_> Couldn’t have done it without Alan’s help for my ARPS so thank you!Jacki Rosin.Well done, Jacki; I am very proud of this great achievement, and I hope it spurs you on to more accolades like this and maybe a new project soon! Alan R----------------------------------------Images selected for exhibition. Click on an image to view full screenView fullsizeView fullsizeView fullsizeView fullsizeView fullsizeView fullsizestudent-photos Guest Blogger 7 March 2022Alan Ranger Photography news LinkedIn0 Pinterest0",
+      "wordCount": 330,
+      "timeRequired": "PT2M",
+      "readingTime": "PT2M",
+      "genre": "Photography Case Study",
+      "articleSection": "RPS Distinctions",
+      "keywords": [
+        "news"
+      ],
+      "learningResourceType": "CaseStudy",
+      "educationalLevel": "Intermediate",
+      "proficiencyLevel": "Intermediate",
+      "typicalAgeRange": "18-99",
+      "educationalUse": "Learning",
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "GBP",
+        "value": "0"
+      },
+      "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": "Photographer",
+        "audienceType": "Student"
+      },
+      "educationalAlignment": {
+        "@type": "AlignmentObject",
+        "alignmentType": "educationalFramework",
+        "educationalFramework": "Photography Skills",
+        "targetName": "Intermediate"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Associate of the Royal Photographic Society (ARPS)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "ARPS"
+        }
+      ],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1646666533359-A4022HFW4QB1RIRGQY3O/Jack+Rosin+Hanging+Plan.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Jacki Rosin ARPS - RHS exhibition at the Saatchi Gallery"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1646666533359-A4022HFW4QB1RIRGQY3O/Jack+Rosin+Hanging+Plan.jpg",
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#webpage"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ],
+        "cssSelector": [
+          "h1",
+          ".intro"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/jacki-rosin-arps-rhs-exhibition#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2022,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "relatedLink": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "subjectOf": {
+        "@type": "Blog",
+        "@id": "https://www.alanranger.com/blog-on-photography#blog"
+      },
+      "isRelatedTo": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.alanranger.com/blog-on-photography"
+        }
+      ],
+      "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography"
+        }
+      },
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
