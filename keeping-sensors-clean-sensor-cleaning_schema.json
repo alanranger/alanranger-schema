@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning",
+      "name": "Camera Maintenance – DSLR Sensor Cleaning | A Guide",
+      "description": "– CLEANIf you’re like me, you won’t be happy using your camera unless it’s working at full capacity.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1614415772186-MKBJKDOE2M50PKH7XCWF/sensor+cleaning+alan+ranger+photography.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Camera Maintenance – DSLR Sensor Cleaning | A Guide",
+          "item": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning#blogposting",
+      "headline": "Camera Maintenance – DSLR Sensor Cleaning | A Guide",
+      "alternativeHeadline": "Camera Maintenance – DSLR Sensor Cleaning | A Guide | Alan Ranger Photography",
+      "description": "– CLEANIf you’re like me, you won’t be happy using your camera unless it’s working at full capacity.",
+      "url": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning#webpage"
+      },
+      "datePublished": "2023-01-11T00:00:00+00:00",
+      "dateCreated": "2023-01-11T00:00:00+00:00",
+      "dateModified": "2023-01-11T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "CAMERA MAINTENANCE – DSLR SENSOR CLEANING | A GUIDEDSLR SENSOR CLEANINGCAMERA MAINTENANCE – KEEPING SENSORS CLEANIf you’re like me, you won’t be happy using your camera unless it’s working at full capacity. If you do attempt to take photographs without having your camera maintained, you’ll notice all the little issues which will in turn frustrate you and distract you from the creative process and find it even more difficult to make that perfect shot.Maintaining your camera is paramount to successful photography ventures so you should always check your camera for faults. Keeping your camera's sensor clean is vital in ensuring your camera produces the best photos without those pesky dust spots.View fullsizedust spots on the sensorBy cleaning your lens and sensor, you can avoid the annoying problem of dust spots ruining the quality of your shots. Cleaning your camera regularly ensures you won’t need to waste time post-production, editing out the imperfections of your images.A lot of services will require you to send your camera off by post, meaning you won’t be able to practice your photography for possibly weeks at a time. Nevertheless, hiring a professional to clean your camera sensor is a necessity.That’s why I offer this service for you without the hassle of sending your camera off by post. My Camera Surgery is tailored to provide your camera with the maintenance it needs to perform at maximum capacity. I offer bo ertheless, hiring a professional to clean your camera sensor is a necessity.That’s why I offer this service for you without the hassle of sending your camera off by post. My Camera Surgery is tailored to provide your camera with the maintenance it needs to perform at maximum capacity. I offer both professional camera sensor cleaning and can also test your camera lens for focal point accuracy and sharpness, calibrating it if necessary. Taking around 30 minutes to complete, it’s a relatively quick process that will ensure your camera performs at 100% accuracy.photography-tips Alan Ranger 11 January 2023tips , NIK LinkedIn0 Pinterest0",
+      "wordCount": 335,
+      "keywords": [
+        "tips",
+        "NIK"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Photography"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1614415772186-MKBJKDOE2M50PKH7XCWF/sensor+cleaning+alan+ranger+photography.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Camera Maintenance – DSLR Sensor Cleaning | A Guide"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1614415772186-MKBJKDOE2M50PKH7XCWF/sensor+cleaning+alan+ranger+photography.jpg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/keeping-sensors-clean-sensor-cleaning#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2023,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
