@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/photo-print-sizes-resize-photos#howto",
+  "name": "Photo Print Sizes - Photo Sizing - Print Resolution Guide",
+  "description": "Updated 19 Aug 2025WANT.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Printing a 3:2 photo on A4 will crop or add borders unless resized to fit.\"",
+      "text": "Printing a 3:2 photo on A4 will crop or add borders unless resized to fit.\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Ensure image resolutions meet minimum requirements. 2. Upload full-resolution images to your print lab. 3. Confirm correct aspect ratios for your prints. 4. Select a suitable paper type for your photos. Get it right first time. Download the UK Print Size & DPI Cheat-Sheet (free PDF).",
+      "text": "Ensure image resolutions meet minimum requirements. 2. Upload full-resolution images to your print lab. 3. Confirm correct aspect ratios for your prints. 4. Select a suitable paper type for your photos. Get it right first time. Download the UK Print Size & DPI Cheat-Sheet (free PDF)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Alternatively, this can be expressed as the width of the image being 1.5 times the height of the image. How do aspect ratios relate to cropping?  The image below is a full-frame 3:2 image.  If we printed this as a 6×4” print, it would not need cropping, but what if we wanted this image in another standard print format – a 10×8”?   This would, unfortunately, mean cropping part of the image –possibly a vital part of the composition.  The reason is that although the 10×8” print is significantly larger than a 6×4”, its aspect ratio is 5:4.  In other words, the larger 10×8” print’s aspect ratio is squarer. Common Photograph Sizes - Aspect Ratio",
+      "text": "Alternatively, this can be expressed as the width of the image being 1.5 times the height of the image. How do aspect ratios relate to cropping?  The image below is a full-frame 3:2 image.  If we printed this as a 6×4” print, it would not need cropping, but what if we wanted this image in another standard print format – a 10×8”?   This would, unfortunately, mean cropping part of the image –possibly a vital part of the composition.  The reason is that although the 10×8” print is significantly larger than a 6×4”, its aspect ratio is 5:4.  In other words, the larger 10×8” print’s aspect ratio is squarer. Common Photograph Sizes - Aspect Ratio"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "(1600/200=8). So, there you have it. A file size of 2,000 pixels X 1600 pixels can be printed to make a good quality 10 X 8 photo when printed at 200 DPI. If you decide to make a print at 300DPI from the same image file, you will have a print with better resolution. However, the maximum size for a quality print will be smaller.  The maths would be.... 2,000/300=6.8. Next, 1,600/300=5.3. So, if you round the numbers out, the maximum standard size for that print will be about 7 X 5.  The key connection to viewing distance here is that due to the optics of the human eye, a print that is 3x farther away requires exactly 3x less resolution to maintain the same visible quality! So, in the case of the 36\" x 54\" image, having 1/3 of the resolution at 100 PPI is equally compensated for by the 3x longer viewing distance. Though printing a fine art photograph at 100 PPI is considered completely unacceptable to some, if a photographer intends for a large print to only be viewed from 8 feet away or more, this is reasonable.",
+      "text": "(1600/200=8). So, there you have it. A file size of 2,000 pixels X 1600 pixels can be printed to make a good quality 10 X 8 photo when printed at 200 DPI. If you decide to make a print at 300DPI from the same image file, you will have a print with better resolution. However, the maximum size for a quality print will be smaller.  The maths would be.... 2,000/300=6.8. Next, 1,600/300=5.3. So, if you round the numbers out, the maximum standard size for that print will be about 7 X 5.  The key connection to viewing distance here is that due to the optics of the human eye, a print that is 3x farther away requires exactly 3x less resolution to maintain the same visible quality! So, in the case of the 36\" x 54\" image, having 1/3 of the resolution at 100 PPI is equally compensated for by the 3x longer viewing distance. Though printing a fine art photograph at 100 PPI is considered completely unacceptable to some, if a photographer intends for a large print to only be viewed from 8 feet away or more, this is reasonable."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "specify the target longest edge size of the image 2.     divided by the aspect ratio longest side3.     to give you a scaling factor of nn4.     then multiple the smaller sides aspect ratio by nn to calculate the short dimension. Example when wanting a print size of around 12 inches on the longest side with an image in 2:3 aspect ratio 1.      12 inches2.     Divided by 3 (longest edge aspect ratio) = 43.     4 is the scaling factor (nn)4.     2 x 4 (2 is the shortest side aspect ratio, 4 is nn factor) = 8 Result is 8 x 12 inches To calculate the image resolution and megapixels for the image dimensions. 1.                Longest edge multiplied by 300 (300 being PPI)2.               Shortest edge multiplied by 300 Result: Pixel DimensionsNext multiple the x & y dimensions to calculate the Megapixels needed for 300 PPI. Example: 2:3 aspect ratio printed at 8 x 12 inches. 1.      12 x 300 = 3,6002.     8 x 300 = 2,400 Result pixel dimensions 2,400 x 3,600 Megapixels = 2,400 x 3,600 = 8.64 million I recommend a 16 x 12 inches mount (Approx. A3) with Max photo width of 12 inches (Approx. A4 image size) as below:",
+      "text": "specify the target longest edge size of the image 2.     divided by the aspect ratio longest side3.     to give you a scaling factor of nn4.     then multiple the smaller sides aspect ratio by nn to calculate the short dimension. Example when wanting a print size of around 12 inches on the longest side with an image in 2:3 aspect ratio 1.      12 inches2.     Divided by 3 (longest edge aspect ratio) = 43.     4 is the scaling factor (nn)4.     2 x 4 (2 is the shortest side aspect ratio, 4 is nn factor) = 8 Result is 8 x 12 inches To calculate the image resolution and megapixels for the image dimensions. 1.                Longest edge multiplied by 300 (300 being PPI)2.               Shortest edge multiplied by 300 Result: Pixel DimensionsNext multiple the x & y dimensions to calculate the Megapixels needed for 300 PPI. Example: 2:3 aspect ratio printed at 8 x 12 inches. 1.      12 x 300 = 3,6002.     8 x 300 = 2,400 Result pixel dimensions 2,400 x 3,600 Megapixels = 2,400 x 3,600 = 8.64 million I recommend a 16 x 12 inches mount (Approx. A3) with Max photo width of 12 inches (Approx. A4 image size) as below:"
+    }
+  ],
+  "totalTime": "PT11M",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1558626426960-EHUIE7HHF1S6KC1ZOV0D/viewing+distances+for+photographs.png",
+    "width": 1500,
+    "height": 1000,
+    "caption": "Photo Print Sizes - Photo Sizing - Print Resolution Guide"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/photo-print-sizes-resize-photos#webpage"
+  }
+}
