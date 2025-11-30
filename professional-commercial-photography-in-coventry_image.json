@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712491410832-07ME5DFA0LGJ2XEC8X61/Commercial+Photography+in+Coventry+.jpg#imageobject",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712491410832-07ME5DFA0LGJ2XEC8X61/Commercial+Photography+in+Coventry+.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Power of Professional Commercial Photography in Coventry",
+  "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712491410832-07ME5DFA0LGJ2XEC8X61/Commercial+Photography+in+Coventry+.jpg",
+  "encodingFormat": "image/jpeg",
+  "contentLocation": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/professional-commercial-photography-in-coventry#webpage"
+  }
+}
