@@ -1,0 +1,144 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners",
+      "name": "Photography Equipment for Beginners | Professional Guide",
+      "description": "BEGINNERSIf you’re only just entering the world of photography, understanding what equipment is essential, useful or simply just an accessory.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1424970922072-LEPTLLPJ3OC4OTVSYG3Z/image-asset.jpeg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Photography Equipment for Beginners | Professional Guide",
+          "item": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#blogposting",
+      "headline": "Photography Equipment for Beginners | Professional Guide",
+      "alternativeHeadline": "Photography Equipment for Beginners | Professional Guide | Alan Ranger Photography",
+      "description": "BEGINNERSIf you’re only just entering the world of photography, understanding what equipment is essential, useful or simply just an accessory.",
+      "url": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#webpage"
+      },
+      "datePublished": "2016-01-27T00:00:00+00:00",
+      "dateCreated": "2016-01-27T00:00:00+00:00",
+      "dateModified": "2016-01-27T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "PHOTOGRAPHY EQUIPMENT FOR BEGINNERS | PROFESSIONAL GUIDEPHOTOGRAPHY EQUIPMENT FOR BEGINNERSIf you’re only just entering the world of photography, understanding what equipment is essential, useful or simply just an accessory. At first, every piece of equipment seems vital to producing the high quality shots you aspire to create. Still, every photographer should start with the basics.Here are my tips and guidelines to help you understand photography equipment.A camera, lens and a creative imaginationThese are the only 3 things you need to start your photography journey. This is the starting point of most professional photographers; a humble beginning that led to their specially honed skills.View fullsizeLandscape PhotographylensBut how do you know what camera to choose? With so many various types available, it can be difficult deciding which will best serve your needs. I have many tips for choosing a camera but for a beginner a simple, amateur camera should help you get started. I would always recommend one of these entry level cameras if you’re serious about making photography your new hobby. As for lenses, sticking to the lens that comes with your first camera is always a safe bet. When you become more knowledgeable and experienced in photography, then you can go out and experiment with the variety of lenses available to you. Practicing and seeing out making photography your new hobby. As for lenses, sticking to the lens that comes with your first camera is always a safe bet. When you become more knowledgeable and experienced in photography, then you can go out and experiment with the variety of lenses available to you. Practicing and seeing how your camera operates is the best thing you can do when you first start out.I would argue however that the most important tools you need for photography are creativity and enthusiasm. Creativity can be developed as you experiment with different angles, light and subjects; enthusiasm is more difficult. Just focus on what interests you and you’ll be going in the right direction.My favourite form of photography is landscape; diverse, always changing and always sparking curiosity in my mind. Finding your niche can only be found through experimentation so don’t be afraid to try all aspects of photography until you find a genre you love!Pick the right equipment for youOnce you’ve got a feel for how your camera works, you can experiment with the plethora of equipment available to photographers. All of these pieces of equipment aim to improve your all-important shots but do take care when picking the right equipment for your requirements.For first time photographers, keeping the camera steady can be a challenge. If you have an unsteady hand I would highly recommend investing in a tripod and remote release.Remote releases remove the risk of movement whilst shooting and have the exact same features as the button already on your camera. These are great for shots which require longer exposure. When combined with a tripod, you won’t need to strain your hands as you attempt to hold the camera in a steady position. By purchasing a remote release you can greatly reduce camera shake and improve the quality of your images.Like remote releases, tripods greatly reduce blurred and off focus images. One handy use of tripods is that you can potentially reach angles and positions you couldn’t with your hands alone. Whether your shot is higher than your usual reach or uncomfortably low to the ground, most tripods can be adjusted to any height and can be placed in any position. Purchasing a tripod is definitely one of my tools of choice when going out into the field.tripodThere’s more than physical equipment you can utilise. Editing software can also be useful in giving your images that extra um-mph needed to draw the attention of others. I’d always urge people to check over every detail in a shot whilst shooting, rather than editing it on software. However I’ve found that Adobe Lightroom can greatly enhance the colours and smaller details of a shot.This piece of software can be complicated at first glance but I find joy in offering Adobe Lightroom tuition to help aspiring photographers perfect their images.----------------------------------------Keep experimenting and keep growingOnce you start compiling your equipment together, you will eventually have your very own kit bag that will accompany you on all your photography endeavours. As you grow from your very first camera, your kit bag will grow with you.Get your kit bag ready for your photography journey and even join me in a beginner’s course where I’ll show you the wonders of photography. You can even see my amazon store where I have all you need u grow from your very first camera, your kit bag will grow with you.Get your kit bag ready for your photography journey and even join me in a beginner’s course where I’ll show you the wonders of photography. You can even see my amazon store where I have all you need for a photography kit bag .I look forward to seeing you grow into a proficient photographer!photography-tips Alan Ranger 27 January 2016recommended-products , NIK LinkedIn0 Pinterest0",
+      "wordCount": 841,
+      "keywords": [
+        "recommended-products",
+        "NIK"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Exposure (photography)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Landscape photography"
+        },
+        {
+          "@type": "Thing",
+          "name": "Adobe Lightroom"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Lightroom"
+        }
+      ],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1424970922072-LEPTLLPJ3OC4OTVSYG3Z/image-asset.jpeg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Photography Equipment for Beginners | Professional Guide"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1424970922072-LEPTLLPJ3OC4OTVSYG3Z/image-asset.jpeg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2016,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
