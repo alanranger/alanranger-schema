@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography#howto",
+  "name": "08 What is FOCUS in Photography: Key Concepts Explained",
+  "description": "Updated 25 Aug 2025FOCUS — “ ” KEEPERSSoft portraits, missed eyes, back-focused wildlife, front-focused macro… most aren’t lens faults — they’re focus setup.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "However, if a subject moves slightly forward or backwards away from this line, it will fall out of focus. The width of this plane of focus can be adjusted by changing the aperture: a lower f-stop number (like f1.4) results in a narrower plane, while a higher f-stop number broadens the focus area.Depth of FieldDepth of field (DoF) describes the extent of the area in the photograph that appears acceptably sharp. It extends in front of and behind the plane of focus and is influenced by several factors, including aperture size, the distance between the camera and the subject, and the lens’s focal length.Aperture: Smaller apertures (higher f-stop numbers) increase the depth of field, rendering a larger area of the scene in focus. Conversely, larger apertures (smaller f-stop numbers) create a shallow depth of field, focusing sharply on the plane of focus while blurring the foreground photography and background.Distance to Subject: The closer the subject is to the camera, the shallower the depth of field. Moving the subject away from the camera increases the depth of field.Focal Length: Longer focal lengths reduce the depth of field, making it easier to isolate the subject from distracting backgrounds with a pleasing blur. Shorter focal lengths increase the depth of field, keeping more of the scene in focus.By mastering these concepts, photographers can manipulate the plane of focus and depth of field to create images that isolate the subject dramatically or include detailed context by keeping the entire scene in sharp focus. Experimentation with these settings allows photographers to achieve their desired artistic effects, whether capturing the intricate details of a portrait or the expansive beauty of a landscape.",
+      "text": "However, if a subject moves slightly forward or backwards away from this line, it will fall out of focus. The width of this plane of focus can be adjusted by changing the aperture: a lower f-stop number (like f1.4) results in a narrower plane, while a higher f-stop number broadens the focus area.Depth of FieldDepth of field (DoF) describes the extent of the area in the photograph that appears acceptably sharp. It extends in front of and behind the plane of focus and is influenced by several factors, including aperture size, the distance between the camera and the subject, and the lens’s focal length.Aperture: Smaller apertures (higher f-stop numbers) increase the depth of field, rendering a larger area of the scene in focus. Conversely, larger apertures (smaller f-stop numbers) create a shallow depth of field, focusing sharply on the plane of focus while blurring the foreground photography and background.Distance to Subject: The closer the subject is to the camera, the shallower the depth of field. Moving the subject away from the camera increases the depth of field.Focal Length: Longer focal lengths reduce the depth of field, making it easier to isolate the subject from distracting backgrounds with a pleasing blur. Shorter focal lengths increase the depth of field, keeping more of the scene in focus.By mastering these concepts, photographers can manipulate the plane of focus and depth of field to create images that isolate the subject dramatically or include detailed context by keeping the entire scene in sharp focus. Experimentation with these settings allows photographers to achieve their desired artistic effects, whether capturing the intricate details of a portrait or the expansive beauty of a landscape."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Back-button focus (BBF): assign AF to AF-ON. In AF-C, hold to track; release to lock. In AF-S, tap to lock then reframe if DoF allows.",
+      "text": "Back-button focus (BBF): assign AF to AF-ON. In AF-C, hold to track; release to lock. In AF-S, tap to lock then reframe if DoF allows."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Stabilise: IBIS/VR tames hand shake (not subject motion). Use support when speeds drop.",
+      "text": "Stabilise: IBIS/VR tames hand shake (not subject motion). Use support when speeds drop."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "What does focus mean in photography?Focus in photography refers to the area of the image that appears sharpest. It is crucial for drawing attention to a specific object, person, or scene, and is a fundamental aspect of photography alongside ISO, aperture, and shutter speed. Photographers can choose between automatic or manual focusing techniques.2. What is the general rule for setting focus in photography?When using a wide-angle lens, the focus point should generally be positioned about one-third of the way up from the bottom of the frame. If using a telephoto lens, the focus should typically be on the nearest or most significant element in the frame.3. What should be the primary focus in a photograph?In portrait photography, the eyes of the subject are usually the most compelling focal point, as they tend to draw the viewer's attention first. This holds true regardless of the aperture setting, unless the artistic intent of the photograph dictates otherwise.4. What are focus modes in photography?Focus modes in cameras determine whether the camera uses autofocus or manual focus. This setting can often be adjusted using a physical switch marked \"AF/MF\" or through a specific dial and/or button on the camera.",
+      "text": "What does focus mean in photography?Focus in photography refers to the area of the image that appears sharpest. It is crucial for drawing attention to a specific object, person, or scene, and is a fundamental aspect of photography alongside ISO, aperture, and shutter speed. Photographers can choose between automatic or manual focusing techniques.2. What is the general rule for setting focus in photography?When using a wide-angle lens, the focus point should generally be positioned about one-third of the way up from the bottom of the frame. If using a telephoto lens, the focus should typically be on the nearest or most significant element in the frame.3. What should be the primary focus in a photograph?In portrait photography, the eyes of the subject are usually the most compelling focal point, as they tend to draw the viewer's attention first. This holds true regardless of the aperture setting, unless the artistic intent of the photograph dictates otherwise.4. What are focus modes in photography?Focus modes in cameras determine whether the camera uses autofocus or manual focus. This setting can often be adjusted using a physical switch marked \"AF/MF\" or through a specific dial and/or button on the camera."
+    }
+  ],
+  "totalTime": "PT11M",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721663762952-CLMBGTIQZCZUKBDVITP3/what+is+focus+in+photography-4.jpg",
+    "width": 1500,
+    "height": 1000,
+    "caption": "08 What is FOCUS in Photography: Key Concepts Explained"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography#webpage"
+  }
+}
