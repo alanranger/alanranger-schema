@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-",
+      "name": "The camera is an instrument to teaches people how to see",
+      "description": "“ IS AN TO A .”This revealing quote was from American portraitist Dorothea Lange.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418394735515-JAMPSOM33AV1HLIP4G2V/kids.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The camera is an instrument to teaches people how to see",
+          "item": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#blogposting",
+      "headline": "The camera is an instrument to teaches people how to see",
+      "alternativeHeadline": "The camera is an instrument to teaches people how to see | Alan Ranger Photography",
+      "description": "“ IS AN TO A .”This revealing quote was from American portraitist Dorothea Lange.",
+      "url": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#webpage"
+      },
+      "datePublished": "2022-05-11T00:00:00+00:00",
+      "dateCreated": "2022-05-11T00:00:00+00:00",
+      "dateModified": "2022-05-11T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "THE CAMERA IS AN INSTRUMENT TO TEACHES PEOPLE HOW TO SEE“THE CAMERA IS AN INSTRUMENT THAT TEACHES PEOPLE HOW TO SEE WITHOUT A CAMERA.”This revealing quote was from American portraitist Dorothea Lange. quoted in: Los Angeles Times (13 Aug. 1978).By Alan Ranger 2006My experience has taught me that it can take a long time for us mere mortals of photography to learn the art of seeing rather than snapping. It's a principle that I try to instill into all my students when helping them to develop their eye for a shot.Over the years the camera has allowed me to not only capture moments but, importantly, recognise the photographic opportunity in the first place. This is not simply a case of applying formulaic rules of composition because the photograph needs to communicate more than just the position of subjects in a frame. For me at least, it absolutely starts with seeing something that catches my eye or I feel would translate well into a photographic format. One of the key elements I think about is of course framing and that generally means simplicity to me - less is often more and in the case of a photograph I find my own preference leans towards images that keep the content and subject unambiguous. Of course the resulting photograph doesn't tell us everything - it can't. However it should in my opinion provide us enough information to connect to it on an emotional level and ask the viewer to look for longer than 3 seconds.Spending more than a few seconds loo ontent and subject unambiguous. Of course the resulting photograph doesn't tell us everything - it can't. However it should in my opinion provide us enough information to connect to it on an emotional level and ask the viewer to look for longer than 3 seconds.Spending more than a few seconds looking at something before you press the shutter will, over time, improve your eye for seeing, feeling and learning how to create a photograph rather than simply taking one. It's an evolving journey and one that fascinates me as I witness how my own eye has evolved over the years - as a result of looking at the world through the camera the world now looks back at me in a different way.PLEASE LIKE AND SHARE THIS POST IF YOU FOUND IT USEFUL USING THE SHARE LINK BELOWphotography-tips Alan Ranger 0 Tumblr 0 Likes",
+      "wordCount": 402,
+      "keywords": [
+        "Camera",
+        "Instrument",
+        "Teaches",
+        "Photography"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Photographic composition"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418394735515-JAMPSOM33AV1HLIP4G2V/kids.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "The camera is an instrument to teaches people how to see"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418394735515-JAMPSOM33AV1HLIP4G2V/kids.jpg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2022,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
