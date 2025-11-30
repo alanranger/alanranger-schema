@@ -1,0 +1,134 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame",
+      "name": "Photographers Composition Aides - Viewing frames launched",
+      "description": "- IS IT?A viewing frame, composition guide, is a piece of mount card with a window cut out (aperture) of the centre at a specific aspect ratio.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1620933273491-S39D0BQG1K5TIUVYKE82/5-4+Viewing+Frame-Main+Image.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Photographers Composition Aides - Viewing frames launched",
+          "item": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#blogposting",
+      "headline": "Photographers Composition Aides - Viewing frames launched",
+      "alternativeHeadline": "Photographers Composition Aides - Viewing frames launched | Alan Ranger Photography",
+      "description": "- IS IT?A viewing frame, composition guide, is a piece of mount card with a window cut out (aperture) of the centre at a specific aspect ratio.",
+      "url": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#webpage"
+      },
+      "datePublished": "2021-06-27T00:00:00+00:00",
+      "dateCreated": "2021-06-27T00:00:00+00:00",
+      "dateModified": "2021-06-27T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "PHOTOGRAPHERS COMPOSITION AIDES - VIEWING FRAMES LAUNCHEDCOMPOSITION GUIDE - PHOTOGRAPHERS VIEWING FRAME FAQWHAT IS IT?A viewing frame, composition guide, is a piece of mount card with a window cut out (aperture) of the centre at a specific aspect ratio. (An aspect ratio is a proportional relationship between an image's width and height. Essentially, it describes an image's shape. Aspect ratios are written as a formula of width to height, like this: 3:2. For example, a square image has an aspect ratio of 1:1, since the height and width are the same)WHY IS IT USED?The viewing window is used by photographers to help them eliminate surroundings and objects in a scene to help them frame a composition. Because it is small and lightweight and portable it can be easily used to help frame a subject without using the camera and lens. The viewing cards come in a range of aspect ratio sizes to help identify which aspect ratio to use in-camera or to crop the image to once the image is in computer software.HOW IS IT USED?1. Hold the viewing frame at approximately 25cm away from one eye (which is approximately your elbow at a right angle)2. and close the other eye, as you do when looking through a camera viewfinder. This will help you to isolate your subject within the inner frame and work out your height, perspective, and framing options.Holding the viewing card at 25cm away from your eye is equivalent to the field of view of a 35mm focal length on your lens. (it do when looking through a camera viewfinder. This will help you to isolate your subject within the inner frame and work out your height, perspective, and framing options.Holding the viewing card at 25cm away from your eye is equivalent to the field of view of a 35mm focal length on your lens. (it is 25cm because this is approximately the equivalent of the minimum focus distancing of the human eye, referred to as the near point). Therefore, the more you extend your arm away from your eye the longer the focal length beyond 35mm (full-frame sensor) you will use to create the same frame in the camera that you see with the viewing card.WHEN IS IT USED?1. Whenever you are out with your camera and eyeing up a potential shot. Yes, you could do this using your camera viewfinder but that involves your camera and changing aspect ratio settings on your camera to achieve the cropped perspective. The beauty of this accessory is that it allows you to work pre-camera in a way that concentrates the mind on that window of vision without using the camera.2. Surely, I can just crop the frame when back home to any of these aspect ratios… Yes, that’s true and all of us do that to some extent, but working the dimensions by the eye than in-camera not only preserves maximum resolution/pixels it enables us to see a better composition pre “post-production” and helps us chose the right lens focal length, DoF and perspective/angle before setting up the camera and tripod----------------------------------------BUY YOUR SET OF PHOTOGRAPHERS COMPOSITION FRAMESThe black frames come as a set covering six aspect ratios; * 3:2 ratio. Outer dimensions: 5.9\" x 4.6\", 1\" margin on each edge * 7:5 ratio. Outer dimensions: 5.9\" x 4.8\", 1\" margin on each edge * 5:4 ratio. Outer dimensions: 5.9\" x 5.1\", 1\" margin on each edge * 16:9 ratio. Outer dimensions: 5.9\" x 4.2\", 1\" margin on each edge * 2:1 ratio. Outer dimensions: 5.9\" x 3.9\", 1\" margin on each edge * 4:3 ratio. Outer dimensions: 5.9\" x 4.9\", 1\" margin on each edgeThe six frames are provided in a black envelope made from recyclable 160gsm paper, this C5 wallet is thick and strong for long time use. The wear resistance envelope is perfect to keep your viewing frames stored together inside your jacket pocket or camera bag. The envelope can be biodegraded and recycled, reducing pollution to our environment. Each viewing frame has the aspect ratio marked on for easy identification.Price excludes post and packaging which will be calculated during checkout based on the delivery address.Composition-Aide ----------------------------------------photography-tips , photography-offers , recommended-products , tip-of-the-day Alan Ranger 27 June 2021Alan Ranger Photography composition guide LinkedIn0 LinkedIn0 Pinterest0",
+      "wordCount": 709,
+      "keywords": [
+        "composition guide"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Aperture (photography)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Photographic composition"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1620933273491-S39D0BQG1K5TIUVYKE82/5-4+Viewing+Frame-Main+Image.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Photographers Composition Aides - Viewing frames launched"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1620933273491-S39D0BQG1K5TIUVYKE82/5-4+Viewing+Frame-Main+Image.jpg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2021,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
