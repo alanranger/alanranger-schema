@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#howto",
-  "name": "Storytelling Narrative Photography Assignment - Free",
-  "description": "PHOTOGRAPHYThis assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative elements in your images.",
+  "name": "Storytelling Narrative Photography Assignment",
+  "description": "- FREE PHOTOGRAPHYThis assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative elements in your images.",
   "step": [
     {
       "@type": "HowToStep",
@@ -36,14 +36,7 @@
       "text": "Review your captured images and refine your technique based on the results and feedback from the article."
     }
   ],
-  "totalTime": "PT4M",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763928532338-8ZGBYKBM9Z772HYJLKSC/storytelling-and-narrative-thumbnail.png",
-    "width": 1500,
-    "height": 1000,
-    "caption": "Storytelling Narrative Photography Assignment - Free"
-  },
+  "totalTime": "PT10M",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage"
