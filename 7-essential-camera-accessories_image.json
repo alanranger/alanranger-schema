@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724426232729-JN3J7J9U3T6AIREDI1TL/essential+camera+accessories-.jpg#imageobject",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724426232729-JN3J7J9U3T6AIREDI1TL/essential+camera+accessories-.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "7 Essential Camera Accessories You Need in Your Kit",
+  "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1724426232729-JN3J7J9U3T6AIREDI1TL/essential+camera+accessories-.jpg",
+  "encodingFormat": "image/jpeg",
+  "contentLocation": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/7-essential-camera-accessories#webpage"
+  }
+}
