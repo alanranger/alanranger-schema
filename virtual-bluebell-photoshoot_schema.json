@@ -1,0 +1,140 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot",
+      "name": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
+      "description": "Virtual bluebell PhotoshootFirst of all thank you to those who have emailed me in the last few days to check I am ok and healthy because the lack of blog.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1588749383470-I34S9W50YBLIAV120TNV/virtual-bluebell-photography-workshop.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
+          "item": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#blogposting",
+      "headline": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
+      "alternativeHeadline": "Virtual Bluebell Photoshoot for the NHS | Money Raised | Alan Ranger Photography",
+      "description": "Virtual bluebell PhotoshootFirst of all thank you to those who have emailed me in the last few days to check I am ok and healthy because the lack of blog.",
+      "url": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#webpage"
+      },
+      "datePublished": "2020-04-25T00:00:00+00:00",
+      "dateCreated": "2020-04-25T00:00:00+00:00",
+      "dateModified": "2020-04-25T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "VIRTUAL BLUEBELL PHOTOSHOOT FOR THE NHS | MONEY RAISEDVirtual bluebell PhotoshootFirst of all thank you to those who have emailed me in the last few days to check I am ok and healthy because the lack of blog posts may have made you think, something is wrong. I appreciate your concern and fear not, normal service of daily or bi-daily posts will resume soon enough. I know you have missed me filling up your inboxes for the last several days but I have been working on a mini-project. When I say “mini-project” that’s how it started off and like most projects it wasn’t long before scope creep became a major factor and took me out of my comfort zone of still photography, Lightroom and Photoshop into a new product for me, Adobe Premiere Pro. Software designed to blend and produce a video from multiple media assets.A steep learning curve over 72 hrs but with the help of Con McHugh and various YouTube tutorials I have managed to cobble, and hopefully “craft”, something together that ultimately brings the bluebell woodlands to you this spring. Today *Friday 24th April) was the first day of my scheduled bluebell woodland workshops (i’m glad I got the timing right again), it’s such a pity that I can’t run these as planned and enable you to marvel at the spectacle of the amazing sight of a woodland covered in a dense carpet of these blue annual shows-offs. I went there on Tuesday (21st Apr) at sunrise to record the NHS worker/singers in the woods and took a few images early morni pity that I can’t run these as planned and enable you to marvel at the spectacle of the amazing sight of a woodland covered in a dense carpet of these blue annual shows-offs. I went there on Tuesday (21st Apr) at sunrise to record the NHS worker/singers in the woods and took a few images early morning before they arrived. I don’t mind admitting that the sight of watching them sing in the bluebell woodlands brought tears to my eyes. I hope this video does that emotion some justice.VIRTUAL BLUEBELL PHOTOSHOOT WOODLANDS 2020 WITH AN NHS JUNIOR DOCTORThis video has been produced bring the bluebell woodlands you as I know many of you can’t go to them, let alone photograph and enjoy them. We hope that instead of you being able to visit you can make a donation to SWFT Charity - South Warwickshire NHS > SWFT Charity funds enhancements beyond the NHS standard for Warwick, Leamington Spa, Stratford and Ellen Badger Hospital as well as out of hospital community services across the whole of Warwickshire. With your help we can make our services the best that they can be for patients, families and carers when they need it most. Any support that you are able to give to our charity will make such a difference and adds valuable support for developments, departments and wards across South Warwickshire and beyond. * PLEASE DONATE IF YOU CAN. HTTPS://WWW.JUSTGIVING.COM/FUNDRAISING/BLUEBELLVIRTUALWALK * PLEASE SHARE ON ALL YOUR SOCIAL MEDIA ACCOUNTS TO HELP RAISE AS MUCH MONEY AS POSSIBLE FOR OUR NHS HEROES. covid-19-support , photography-workshops , what's-behind-the-image , news Alan Ranger 25 April 2020bluebells , news LinkedIn0 Pinterest0",
+      "wordCount": 539,
+      "keywords": [
+        "bluebells",
+        "news"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Woodland photography"
+        },
+        {
+          "@type": "Thing",
+          "name": "Adobe Lightroom"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Lightroom"
+        }
+      ],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1588749383470-I34S9W50YBLIAV120TNV/virtual-bluebell-photography-workshop.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "Virtual Bluebell Photoshoot for the NHS | Money Raised"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1588749383470-I34S9W50YBLIAV120TNV/virtual-bluebell-photography-workshop.jpg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2020,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
