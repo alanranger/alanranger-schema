@@ -1,0 +1,130 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#webpage",
+      "url": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai",
+      "name": "the traditional pairing of a haiku with a picture - Shahai",
+      "description": "Shahai is a less familiar term than haiga – the traditional pairing of a haiku with a picture, which dates to the times of early Japanese prints.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1644774446565-QY32LJZUG8RU9BVN4ZA7/Overstrand+-+Sep+2020+-+4-Alan-Ranger-Photography-4569.jpg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.alanranger.com/blog-on-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "the traditional pairing of a haiku with a picture - Shahai",
+          "item": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#blogposting",
+      "headline": "the traditional pairing of a haiku with a picture - Shahai",
+      "alternativeHeadline": "the traditional pairing of a haiku with a picture - Shahai | Alan Ranger Photography",
+      "description": "Shahai is a less familiar term than haiga – the traditional pairing of a haiku with a picture, which dates to the times of early Japanese prints.",
+      "url": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#webpage"
+      },
+      "datePublished": "2022-08-18T00:00:00+00:00",
+      "dateCreated": "2022-08-18T00:00:00+00:00",
+      "dateModified": "2022-08-18T00:00:00+00:00",
+      "inLanguage": "en-GB",
+      "articleBody": "THE TRADITIONAL PAIRING OF A HAIKU WITH A PICTURE - SHAHAIShahai is a less familiar term than haiga – the traditional pairing of a haiku with a picture, which dates back to the times of early Japanese prints. Shahai is a haiga where the picture is a photographic image, and this modern interpretation creates striking and expressive work!----------------------------------------HAIKUI am pleased to announce that I am working on a second collaboration with Karen and Alan, who run “Call of the Page” courses. I will provide the photographic critique for those enrolled on the six-assignment course starting 1st Sep 2022 and ending 1st Dec 2022. There are limited places left so if you fancy trying your hand at creating a short poem to overlay onto your own photograph, don’t delay.Course Description: Shahai is a less familiar term than haiga – the traditional pairing of a haiku with a picture. Shahai is a haiga where the picture is a photographic image.There are different ways and styles of making shahai, and in this course we concentrate on landscape photography, with the poems added onto the picture, or under it, in graphic text. It's a longer shahai course than we have run before, and that is because the aim is to make a small portfolio of six pieces of work. There is an optional pre-assignment to help guide you in making choices about how your work will come together.Format: Participants submit a shahai every two weeks. These are added to a dedicated online galle n before, and that is because the aim is to make a small portfolio of six pieces of work. There is an optional pre-assignment to help guide you in making choices about how your work will come together.Format: Participants submit a shahai every two weeks. These are added to a dedicated online gallery, which is private to the course participants, where the poetry tutor and the photography tutor will add feedback notes in the intervening weeks. We will have an informal review at the end of the course, where participants can re-upload their work to show each other changes that they might have made after the feedback.More Course Information Marcie Wessels Shahai from the last course.news Alan Ranger 18 August 2022Alan Ranger Photography news LinkedIn0 Pinterest0",
+      "wordCount": 375,
+      "keywords": [
+        "news"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Landscape photography"
+        }
+      ],
+      "mentions": [],
+      "hasPart": [],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1644774446565-QY32LJZUG8RU9BVN4ZA7/Overstrand+-+Sep+2020+-+4-Alan-Ranger-Photography-4569.jpg",
+        "width": 1500,
+        "height": 1000,
+        "caption": "the traditional pairing of a haiku with a picture - Shahai"
+      },
+      "thumbnailUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1644774446565-QY32LJZUG8RU9BVN4ZA7/Overstrand+-+Sep+2020+-+4-Alan-Ranger-Photography-4569.jpg",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "//h1"
+        ]
+      },
+      "discussionUrl": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#comments",
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.alanranger.com/#alanranger",
+        "name": "Alan Ranger",
+        "url": "https://www.alanranger.com/about-alan-ranger",
+        "jobTitle": "Photographer & Photography Educator",
+        "sameAs": [
+          "https://www.alanranger.com",
+          "https://www.linkedin.com/in/alanrangerphotography"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+          "width": 300,
+          "height": 100
+        }
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "copyrightHolder": {
+        "@type": "Organization",
+        "@id": "https://www.alanranger.com#organization",
+        "name": "Alan Ranger Photography"
+      },
+      "copyrightYear": 2022,
+      "sameAs": [
+        "https://www.alanranger.com/blog-on-photography"
+      ],
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/CommentAction",
+        "userInteractionCount": 0
+      },
+      "commentCount": 0
+    }
+  ]
+}
