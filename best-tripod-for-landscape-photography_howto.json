@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/best-tripod-for-landscape-photography#howto",
+  "name": "Best Tripod for Landscape Photography Benro Mammoth + GD36PT",
+  "description": "Table of Contents ShowINTROTripods are one of the most important tools for landscape photography – and one of the easiest to overlook.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "What I look for in a landscape tripodFor the kind of landscape work I do – seascapes, woodland, long exposures and changeable light – my tripod needs to:Stay rock solid in wind and on uneven groundReach a comfortable eye-level height without a centre columnGo very low for foreground-driven compositionsHandle heavier lenses with a good safety marginAllow precise composition without constant fiddlingI’ll use that lens to compare the heads and legs.",
+      "text": "What I look for in a landscape tripodFor the kind of landscape work I do – seascapes, woodland, long exposures and changeable light – my tripod needs to:Stay rock solid in wind and on uneven groundReach a comfortable eye-level height without a centre columnGo very low for foreground-driven compositionsHandle heavier lenses with a good safety marginAllow precise composition without constant fiddlingI’ll use that lens to compare the heads and legs."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Tripod legs comparison – Mammoth TMTH44C vs C3770TN",
+      "text": "Tripod legs comparison – Mammoth TMTH44C vs C3770TN"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Combined setup comparison – old vs new Benro kit",
+      "text": "Combined setup comparison – old vs new Benro kit"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Verdict – is the Mammoth + GD36PT the best tripod for landscape photography?Putting it all together:As a set of legs, the Benro Mammoth TMTH44C is outstanding. For landscape photography it ticks almost every box: stability, height, very low shooting positions, and a bowl that makes levelling fast. I’d happily call it one of the best tripods for landscape photography in its class, especially for serious users who aren’t counting every gram.As a head, the Benro GD36PT is a more nuanced story. The hybrid concept works well and the geared motion is lovely to use within its range, but the limited pitch movement and the snagging on the tripod mounting plate mean it doesn’t fully replace my GD3WH for more extreme compositions.If you’re building or upgrading a serious tripod for landscape photography, my honest conclusion would be:✅ Mammoth TMTH44C – highly recommended⚖️ GD36PT – good within limits, but I’d like a taller spacer and more geared range💡 GD3WH – still excellent when you need full-range geared control",
+      "text": "Verdict – is the Mammoth + GD36PT the best tripod for landscape photography?Putting it all together:As a set of legs, the Benro Mammoth TMTH44C is outstanding. For landscape photography it ticks almost every box: stability, height, very low shooting positions, and a bowl that makes levelling fast. I’d happily call it one of the best tripods for landscape photography in its class, especially for serious users who aren’t counting every gram.As a head, the Benro GD36PT is a more nuanced story. The hybrid concept works well and the geared motion is lovely to use within its range, but the limited pitch movement and the snagging on the tripod mounting plate mean it doesn’t fully replace my GD3WH for more extreme compositions.If you’re building or upgrading a serious tripod for landscape photography, my honest conclusion would be:✅ Mammoth TMTH44C – highly recommended⚖️ GD36PT – good within limits, but I’d like a taller spacer and more geared range💡 GD3WH – still excellent when you need full-range geared control"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Further reading and tripod guides",
+      "text": "Further reading and tripod guides"
+    }
+  ],
+  "totalTime": "PT10M",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763041729750-K7FI6GLUC759UCDJ5KMR/Best+Tripod+for+Landscape+Photography+Benro+Mammoth+%2B+GD36PT-2.jpg",
+    "width": 1500,
+    "height": 1000,
+    "caption": "Best Tripod for Landscape Photography Benro Mammoth + GD36PT"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.alanranger.com/blog-on-photography/best-tripod-for-landscape-photography#webpage"
+  }
+}
