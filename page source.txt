@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-GB"  >
   <head>
@@ -77,12 +76,10 @@ narrative" />
     "/beginners-photography-lessons": "https://schema.alanranger.com/lessons-schema.json",
     "/photographic-workshops-near-me": "https://schema.alanranger.com/workshops-schema.json"
   };
-
   // normalise path (remove trailing slash except root)
   var path = location.pathname.replace(/\/$/, "") || "/";
   var url = map[path];
   if (!url) return; // not a page we annotate
-
   fetch(url, { cache: "no-store" })
     .then(r => r.json())
     .then(data => {
@@ -94,8 +91,6 @@ narrative" />
     .catch(console.error);
 })();
 </script>
-
-
 <!-- MS Clarity Heatmap -->
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
@@ -104,12 +99,8 @@ narrative" />
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "p0ysappeml");
 </script>
-
-
-
 <!-- JQUERY, do not add other versions!!! -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
-
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -117,9 +108,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5CGB73Z');</script>
 <!-- End Google Tag Manager -->
-
-
-
 <!-- Replace Text with Icons in Accordion Button from *Will-Myers.com* -->
 <script>
   window.accordionIcons = [
@@ -198,12 +186,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   function replaceAccordionTitleWithIcon() {
     let elements = document.querySelectorAll(".accordion-item button *");
     let classes = 'accordion-icon';
-
     for (let element of elements) {
       if (element.childNodes.length === 1 && element.childNodes[0].nodeType === 3) {
         let textNode = element.childNodes[0];
         let replacedText = textNode.nodeValue;
-
         for (let replacement of accordionIcons) {
           if (!replacedText.includes(replacement.text)) continue;
           replacedText = replacedText.replace(replacement.text, replacement.svg);
@@ -215,13 +201,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       }
     }
   }
-
   setTimeout(replaceAccordionTitleWithIcon, 0);
   window.addEventListener('load', replaceAccordionTitleWithIcon)
 </script>
-
-
-
 <!-- ==========================
   Table of Contents Generator (Adlytic)
   Original: https://www.adlyticmarketing.com/s/toc.js
@@ -234,7 +216,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   var expandText = "Show";
   var collapseText = "Hide";
 </script>
-
 <!-- ==========================
   Deferred Table of Contents Initialisation
   Purpose:
@@ -265,14 +246,8 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <!-- ========================== END Deferred TOC Initialisation ========================== -->
-
-
-
 <!-- Section Loader Supreme From Will-Myers.com -->
 <link href="https://cdn.jsdelivr.net/gh/willmyethewebsiteguy/sectionLoader@1/sectionLoader.min.css" rel="stylesheet">
-
-
-
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="Alan Ranger Photography">
 <meta name="og:description" content="Photography Workshops, Courses and Private Lessons - all levels catered for. BIPP Qualified Tutor and professional photographer">
@@ -285,12 +260,8 @@ document.addEventListener("DOMContentLoaded", function() {
 <meta name="msvalidate.01" content="4EF432E11E9CB44A52E21FA1AB6F8903" />
 <meta name="p:domain_verify" content="a3412e119e4f5abffa8b1ebb06539e27"/>
 <meta name="alexaVerifyID" content="UCRrB_FUjv_DEUSdW0igIkBtGXo"/>
-
-
 <!--Header Injection Tab - Universal Filter + Tables-->
 <link rel="stylesheet" href="//assets.squarewebsites.org/css-combo/custom-tables/style.css,custom-filter/custom-filter.min.css"/>
-
-
 <script type="text/javascript">
   (function() {
     var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
@@ -298,30 +269,19 @@ document.addEventListener("DOMContentLoaded", function() {
     var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-
 <!-- Estimated Reading Time Blog Posts -->
 <script>
-
 $(function () {
-
     var txt = $("article")[0].textContent,
-
     wordCount = txt.replace( /[^\w ]/g, "" ).split( /\s+/ ).length;
-
     var readingTimeInMinutes = Math.floor(wordCount / 228) + 1;
-
     var readingTimeAsString = readingTimeInMinutes + " min";
-
     $('article .reading-time').html(readingTimeAsString);
-
 });
-
 </script>
 <!-- END Estimated Reading Time Blog Posts --
-
 <!-- BACK TO TOP BUTTON (7.0 & 7.1) -->
 <a href="#" class="btt"> <span class="btt-icon"></span> </a>
-
 <!-- Sliding imge banner -->
 <link href="https://cdn.jsdelivr.net/gh/willmyethewebsiteguy/sectionSlider@3.3/styles.min.css" rel="stylesheet"/>
 <!-- Google Icons -->
@@ -420,11 +380,8 @@ window.customFilterSettings = {
 };
 </script>
 <script src="//assets.squarewebsites.org/custom-filter/custom-filter.min.js"></script>
-
-
 <script>
 const path = window.location.pathname;
-
 // BLOG INDEX ONLY
 if (path === "/blog-on-photography/") {
   (async () => {
@@ -442,26 +399,22 @@ if (path === "/blog-on-photography/") {
   })();
 }
 </script>
-
 <!-- Auto-load Blog Schema Files (GitHub) -->
 <script>
 (function () {
   try {
     const path = window.location.pathname;
-
     // Only run on blog post URLs
     if (!path.startsWith("/blog-on-photography/")) {
       console.log("Blog schema loader: not a blog post.");
       return;
     }
-
     // Extract slug
     const slug = path.split("/blog-on-photography/")[1]?.replace(/\/$/, "");
     if (!slug) {
       console.warn("Blog schema loader: no slug found.");
       return;
     }
-
     // All possible schema files
     const files = [
       `${slug}_schema.json`,
@@ -469,13 +422,10 @@ if (path === "/blog-on-photography/") {
       `${slug}_faq.json`,
       `${slug}_image.json`
     ];
-
     const base = "https://schema.alanranger.com/";
-
     // Load each schema if it exists
     files.forEach(file => {
       const url = base + file;
-
       fetch(url, { method: "GET" })
         .then(res => {
           if (!res.ok) {
@@ -486,17 +436,14 @@ if (path === "/blog-on-photography/") {
         })
         .then(json => {
           if (!json) return;
-
           const s = document.createElement("script");
           s.type = "application/ld+json";
           s.textContent = JSON.stringify(json);
           document.head.appendChild(s);
-
           console.log("Loaded:", file);
         })
         .catch(err => console.warn("Loader error:", err));
     });
-
   } catch (e) {
     console.warn("Schema loader exception:", e);
   }
@@ -512,10 +459,8 @@ if (path === "/blog-on-photography/") {
       </div>
     </div>
     <div class="Loader"></div>
-
     <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
   <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
-
     <div data-nc-container="top-left">
       <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
         
@@ -566,7 +511,6 @@ if (path === "/blog-on-photography/") {
   <a href="/cart" class="Cart sqs-custom-cart" data-nc-element="cart" data-test="template-cart">
     <span class="Cart-inner">
       <span class="Cart-label">Cart</span>
-
       <svg class="Icon Icon--bag-alt" viewBox="0 0 28 28">
         <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon-alt--odd"></use>
         <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon-alt--even"></use>
@@ -583,11 +527,9 @@ if (path === "/blog-on-photography/") {
         <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon--odd"></use>
         <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon--even"></use>
       </svg>
-
       <span class="sqs-cart-quantity">0</span>
     </span>
   </a>
-
     </div>
     <div data-nc-container="bottom-right">
       
@@ -601,7 +543,6 @@ if (path === "/blog-on-photography/") {
   <use class="use--odd" xlink:href="/assets/ui-icons.svg#accounts-icon--odd"></use>
   <use class="use--even" xlink:href="/assets/ui-icons.svg#accounts-icon--even"></use>
 </svg>
-
           </div>
         </div>
       
@@ -612,7 +553,6 @@ if (path === "/blog-on-photography/") {
       </a>
     </div>
   </div>
-
   <div class="Mobile-overlay">
     <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
       <div class="Mobile-overlay-menu-main">
@@ -696,7 +636,6 @@ if (path === "/blog-on-photography/") {
     
     
   
-
         </nav>
         <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
           
@@ -726,7 +665,6 @@ if (path === "/blog-on-photography/") {
       </a>
     
   
-
         </nav>
       </div>
       <div class="Mobile-overlay-folders" data-content-field="navigation">
@@ -825,7 +763,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-workshops">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-workshops">
@@ -864,7 +801,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-services">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-services">
@@ -927,7 +863,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-hire-me">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-hire-me">
@@ -960,7 +895,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-gallery">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-gallery">
@@ -975,7 +909,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-blog">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-blog">
@@ -1016,7 +949,6 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
   
     <div class="Mobile-overlay-folder" data-controller-folder="mega-about">
       <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="mega-about">
@@ -1049,14 +981,10 @@ if (path === "/blog-on-photography/") {
       
     </div>
   
-
         
   
-
   
-
   
-
       </div>
     </div>
     <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
@@ -1067,8 +995,6 @@ if (path === "/blog-on-photography/") {
     <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
   </div>
 </div>
-
-
     <div class="Parallax-host-outer">
       <div class="Parallax-host" data-parallax-host>
         
@@ -1078,14 +1004,11 @@ if (path === "/blog-on-photography/") {
         
       </div>
     </div>
-
     <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
       <div class="sqs-announcement-bar-dropzone"></div>
-
       <header class="Header Header--top">
         <div class="Header-inner Header-inner--top" data-nc-group="top">
           <div data-nc-container="top-left">
-
             <div class="Header-search" data-nc-element="search">
               <form class="Header-search-form" action="/search" method="get">
                 <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
@@ -1099,7 +1022,6 @@ if (path === "/blog-on-photography/") {
                 </button>
               </form>
             </div>
-
           </div>
           <div data-nc-container="top-center">
             
@@ -1113,7 +1035,6 @@ if (path === "/blog-on-photography/") {
   <use class="use--odd" xlink:href="/assets/ui-icons.svg#accounts-icon--odd"></use>
   <use class="use--even" xlink:href="/assets/ui-icons.svg#accounts-icon--even"></use>
 </svg>
-
                 </div>
               </div>
             
@@ -1165,17 +1086,14 @@ if (path === "/blog-on-photography/") {
       </a>
     </div>
   </nav>
-
               </div>
             
           </div>
           <div data-nc-container="top-right">
-
             
   <a href="/cart" class="Cart sqs-custom-cart" data-nc-element="cart" data-test="template-cart">
     <span class="Cart-inner">
       <span class="Cart-label">Cart</span>
-
       <svg class="Icon Icon--bag-alt" viewBox="0 0 28 28">
         <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon-alt--odd"></use>
         <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon-alt--even"></use>
@@ -1192,18 +1110,13 @@ if (path === "/blog-on-photography/") {
         <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon--odd"></use>
         <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon--even"></use>
       </svg>
-
       <span class="sqs-cart-quantity">0</span>
     </span>
   </a>
-
-
           </div>
         </div>
       </header>
-
       <div class="Site-inner">
-
         <header class="Header Header--bottom">
           <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
             <div data-nc-container="bottom-left">
@@ -1211,9 +1124,7 @@ if (path === "/blog-on-photography/") {
                 
   <div class="Header-nav-inner">
     <span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-courses" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Courses</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1282,9 +1193,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-workshops" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Workshops</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1311,9 +1220,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-services" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Services</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1358,9 +1265,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-hire-me" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Hire Me</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1381,9 +1286,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-gallery" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Gallery</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1392,9 +1295,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-blog" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Advice</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1423,9 +1324,7 @@ if (path === "/blog-on-photography/") {
         
       </span>
     </span><span class="Header-nav-item Header-nav-item--folder">
-
       <a href="/mega-about" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">About</a>
-
       <span class="Header-nav-folder">
         
           
@@ -1449,11 +1348,9 @@ if (path === "/blog-on-photography/") {
       </span>
     </span>
   </div>
-
               </nav>
             </div>
             <div data-nc-container="bottom-center">
-
               <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
                 
                   
@@ -1462,34 +1359,26 @@ if (path === "/blog-on-photography/") {
                 
               </a>
               
-
             </div>
             <div data-nc-container="bottom-right">
-
               <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
                 
   <div class="Header-nav-inner">
     <a href="/search" class="Header-nav-item">?</a><a href="/contact-us-alan-ranger-photography" class="Header-nav-item" data-test="template-nav">Contact</a><a href="/online-photography-course" class="Header-nav-item">Academy</a>
   </div>
-
               </nav>
-
             </div>
           </div>
         </header>
-
         <div class="Content-outer">
           
-
           <main class="Main Main--blog-item" >
             
               <section class="Main-content" data-content-field="main-content">
                 <article id="post-6923698083fc9e1feba33c2e" class="BlogItem hentry tag-composition-creative author-alan-ranger post-type-text has-tags" data-item-id="6923698083fc9e1feba33c2e">
-
     
       <h1 class="BlogItem-title" data-content-field="title">Storytelling Narrative Photography Assignment - Free</h1>
     
-
     <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1763928551942" id="item-6923698083fc9e1feba33c2e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ffc03930-c151-43da-a80e-c860c3d47e73_38/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ffc03930-c151-43da-a80e-c860c3d47e73_38/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" id="block-yui_3_17_2_1_1763927788165_28082"><div class="sqs-block-content"><div
   class="sqs-code-container"
   
@@ -1502,7 +1391,6 @@ if (path === "/blog-on-photography/") {
     <link rel="canonical" href="https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography">
 <!-- AR Practice Pack Assignment Blog Block -->
 <!-- Paste this entire block into a Squarespace Code Block -->
-
 <div style="text-align:right;margin:0 0 20px 0;float:right;">
   <a href="https://www.alanranger.com/free-online-photography-course" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/alanranger/alanranger-schema/main/Assignments/15-storytelling-and-narrative/Storytelling-Narrative-Photography-academy-logo.jpg" alt="Storytelling Narrative Photography Assignment – Alan Ranger Photography Academy" style="max-width:200px;height:auto;display:block;margin-left:auto;">
@@ -1627,65 +1515,44 @@ if (path === "/blog-on-photography/") {
   
 </div>
 </div></div></div></div></div>
-
     <div class="Blog-meta BlogItem-meta">
       <!--
-
       Author
-
       --><a href="/blog-on-photography?author=5013f4b2c4aaa4752ac69b19" class="Blog-meta-item Blog-meta-item--author">Alan Ranger</a><!--
-
       Date
-
       --><time class="Blog-meta-item Blog-meta-item--date" datetime="2025-11-23">23 November 2025</time><!--
-
       Tags
-
       --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/blog-on-photography/tag/Composition+%26+Creative" class="Blog-meta-item-tag">Composition & Creative</a></span>
     </div>
-
     <div class="BlogItem-share">
-
 <div class="Share sqs-share-buttons" data-item-identifier="6923698083fc9e1feba33c2e" data-item-path="blog-on-photography/storytelling-narrative-photography-assignment">
-
   <div class="Share-buttons">
-
     <!--
-
       Facebook
-
     --><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.alanranger.com%2Fblog-on-photography%2Fstorytelling-narrative-photography-assignment" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="facebook">
         <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
           <use xlink:href="/universal/svg/social-accounts.svg#facebook-icon"></use>
         </svg><span class="Share-buttons-item-label">Facebook</span><span class="Share-buttons-item-count">0</span>
       </a><!--
-
       LinkedIn
-
     --><a href="https://www.linkedin.com/shareArticle?mini=true&source=Alan+Ranger+Photography&summary=Storytelling+Narrative+Photography.+This+...&url=https%3A%2F%2Fwww.alanranger.com%2Fblog-on-photography%2Fstorytelling-narrative-photography-assignment" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="linkedin">
         <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
           <use xlink:href="/universal/svg/social-accounts.svg#linkedin-icon"></use>
         </svg><span class="Share-buttons-item-label">LinkedIn</span><span class="Share-buttons-item-count">0</span>
       </a><!--
-
       Tumblr
-
     --><a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.alanranger.com%2Fblog-on-photography%2Fstorytelling-narrative-photography-assignment" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="tumblr">
         <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
           <use xlink:href="/universal/svg/social-accounts.svg#tumblr-icon"></use>
         </svg><span class="Share-buttons-item-label">Tumblr</span>
       </a><!--
-
       Pinterest
-
     --><a href="https://www.pinterest.com/pin/create/link/?description=Storytelling+Narrative+Photography.+This+...&media=https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763928532338-8ZGBYKBM9Z772HYJLKSC/storytelling-and-narrative-thumbnail.png&url=https%3A%2F%2Fwww.alanranger.com%2Fblog-on-photography%2Fstorytelling-narrative-photography-assignment" class="Share-buttons-item Share-buttons-item--social" target="_blank" data-service="pinterest">
         <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
           <use xlink:href="/universal/svg/social-accounts.svg#pinterest-icon"></use>
         </svg><span class="Share-buttons-item-label">Pinterest</span><span class="Share-buttons-item-count">0</span>
       </a><!--
-
       Simple Like
-
     --><a href="#" class="Share-buttons-item Share-buttons-item--like" data-item-identifier="6923698083fc9e1feba33c2e" data-like-count="0" data-service="squarespace-like">
         <svg class="Share-buttons-item-icon" viewBox="0 0 64 64">
           <g class="svg-icon">
@@ -1694,26 +1561,15 @@ if (path === "/blog-on-photography/") {
         </svg><span class="Share-buttons-item-label"><span class="Share-buttons-item-label-count">0</span> Likes</span>
       </a>
     
-
   </div>
-
 </div>
 </div>
-
     <section id="comments-6923698083fc9e1feba33c2e" class="BlogItem-comments">
       
   <div class="squarespace-comments" id="comments-6923698083fc9e1feba33c2e" data-item-id="6923698083fc9e1feba33c2e" data-public-comment-count="0" data-comment-state="2"></div>
-
     </section>
-
   </article>
-
-
-
-
-
   <nav class="BlogItem-pagination clear">
-
     
       <a href="/blog-on-photography/colour-theory-in-photography-practise-assignment" class="BlogItem-pagination-link BlogItem-pagination-link--prev">
         <svg class="BlogItem-pagination-link-icon" viewBox="0 0 23 48">
@@ -1726,23 +1582,16 @@ if (path === "/blog-on-photography/") {
           <h4 class="BlogItem-pagination-link-title">Colour Theory in Photography practise Assignment - Free</h4>
           <div class="BlogItem-pagination-link-meta">
             <!--
-
             Author
-
             --><span class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--author">Alan Ranger</span><!--
-
             Date
-
             --><time class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--date" datetime="2025-11-23">23 November 2025</time><!--
-
             Tags
-
             --><span class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--tags">Composition & Creative</span>
           </div>
         </div>
       </a>
     
-
     
       <a href="/blog-on-photography/shadows-and-contrast-photography-practice-assignment" class="BlogItem-pagination-link BlogItem-pagination-link--next">
         <div class="BlogItem-pagination-link-content">
@@ -1750,17 +1599,11 @@ if (path === "/blog-on-photography/") {
           <h4 class="BlogItem-pagination-link-title">Shadows and Contrast Photography Practice Assignment</h4>
           <div class="BlogItem-pagination-link-meta">
             <!--
-
             Author
-
             --><span class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--author">Alan Ranger</span><!--
-
             Date
-
             --><time class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--date" datetime="2025-11-23">23 November 2025</time><!--
-
             Tags
-
             --><span class="BlogItem-pagination-link-meta-item BlogItem-pagination-link-meta-item--tags">Composition & Creative</span>
           </div>
         </div><!--
@@ -1771,46 +1614,17 @@ if (path === "/blog-on-photography/") {
         </svg>
       </a>
     
-
   </nav>
               </section>
             
           </main>
-
         </div>
       </div>
-
       <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
-
   <div class="Footer-inner clear">
-
     <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1726675552096" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block newsletter-block sqs-block-newsletter" data-block-type="51" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1672572822342_5989"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
-
-
-
-
 <div class="newsletter-form-wrapper
    newsletter-form-show-name
   newsletter-form-wrapper--layoutFloat
@@ -1906,10 +1720,8 @@ if (path === "/blog-on-photography/") {
   </form>
 </div>
 </div></div></div></div></div>
-
     <div class="Footer-middle">
       <div class="Footer-business">
-
         
           <div class="Footer-business-info">
             
@@ -1926,7 +1738,6 @@ if (path === "/blog-on-photography/") {
             
           </div>
         
-
         
           
             <div class="Footer-business-hours">
@@ -1941,95 +1752,21 @@ if (path === "/blog-on-photography/") {
             </div>
           
         
-
       </div>
-
       <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1672841862840" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
-
       
   <nav class="Footer-nav" data-content-field="navigation">
-
     <div class="Footer-nav-group"><a href="/contact-us-alan-ranger-photography" class="Footer-nav-item">Contact Us</a><a href="/help-site-map" class="Footer-nav-item">Help - Site Map</a><a href="/free-online-photography-course" class="Footer-nav-item">Free Online Photography Course</a><a href="/photography-lessons-online-121" class="Footer-nav-item">Online - Zoom Lessons</a><a href="/private-photography-lessons" class="Footer-nav-item">Private Lessons</a><a href="/photo-workshops-uk" class="Footer-nav-item">Photo Workshops</a><a href="/photography-gift-vouchers" class="Footer-nav-item">Gift Vouchers</a><a href="/free-photography-tips" class="Footer-nav-item">Photography Tips</a><a href="/schedule-an-appointment" class="Footer-nav-item">Schedule an appointment</a></div>
-
   </nav>
-
     </div>
-
     <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1737627610086" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1673777489589_10700"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <h2 style="text-align:center;white-space:pre-wrap;">Proud to be a member of</h2>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
-
-
-
 </div></div><div class="row sqs-row"><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1672840621358_29834"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
-
     
   
     <div
@@ -2043,9 +1780,7 @@ if (path === "/blog-on-photography/") {
         "
         data-test="image-block-inline-outer-wrapper"
     >
-
       
-
       
         <figure
             class="
@@ -2057,7 +1792,6 @@ if (path === "/blog-on-photography/") {
           
         
         
-
         
           <a
               class="
@@ -2077,7 +1811,6 @@ if (path === "/blog-on-photography/") {
               data-animation-role="image"
               
   
-
           >
             <div class="sqs-image-shape-container-element
               
@@ -2100,70 +1833,20 @@ if (path === "/blog-on-photography/") {
                 
                 
                 <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png" data-image="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="more trees" data-load="false" elementtiming="system-image-block"  src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png" width="1600" height="1600" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/aaed19eb-2243-41f6-8c74-83cf1b07070e/THG_MORETREES+-+Icon+Logos+-+Member+Logo+v2+-+Square+-+Transp+BG_Black+Typ.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
             </div>
           </div>
         
           </a>
         
-
         
       
         </figure>
       
-
     </div>
   
-
-
   
-
-
 </div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1672840621358_44892"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
-
     
   
     <div
@@ -2177,9 +1860,7 @@ if (path === "/blog-on-photography/") {
         "
         data-test="image-block-inline-outer-wrapper"
     >
-
       
-
       
         <figure
             class="
@@ -2191,7 +1872,6 @@ if (path === "/blog-on-photography/") {
           
         
         
-
         
           <a
               class="
@@ -2211,7 +1891,6 @@ if (path === "/blog-on-photography/") {
               data-animation-role="image"
               
   
-
           >
             <div class="sqs-image-shape-container-element
               
@@ -2234,70 +1913,20 @@ if (path === "/blog-on-photography/") {
                 
                 
                 <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png" data-image="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png" data-image-dimensions="91x81" data-image-focal-point="0.5,0.5" alt="nature first" data-load="false" elementtiming="system-image-block"  src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png" width="91" height="81" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/64d7ddac-4a72-41e9-981f-a2ea9fbf23a1/nature+first.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
             </div>
           </div>
         
           </a>
         
-
         
       
         </figure>
       
-
     </div>
   
-
-
   
-
-
 </div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1672840621358_16559"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
-
     
   
     <div
@@ -2311,9 +1940,7 @@ if (path === "/blog-on-photography/") {
         "
         data-test="image-block-inline-outer-wrapper"
     >
-
       
-
       
         <figure
             class="
@@ -2325,7 +1952,6 @@ if (path === "/blog-on-photography/") {
           
         
         
-
         
           <a
               class="
@@ -2345,7 +1971,6 @@ if (path === "/blog-on-photography/") {
               data-animation-role="image"
               
   
-
           >
             <div class="sqs-image-shape-container-element
               
@@ -2368,59 +1993,25 @@ if (path === "/blog-on-photography/") {
                 
                 
                 <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png" data-image="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png" data-image-dimensions="91x91" data-image-focal-point="0.5,0.5" alt="carbon free company" data-load="false" elementtiming="system-image-block"  src="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png" width="91" height="91" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0c9413bd-8462-425a-8162-480a13051675/carbon+free+company.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
             </div>
           </div>
         
           </a>
         
-
         
       
         </figure>
       
-
     </div>
   
-
-
   
-
-
 </div></div></div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_35_1494256701762_6177"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p style="text-align:center;white-space:pre-wrap;" class=""><a href="/copyright-policy-alan-ranger" target="">Copyright</a> © 2008-2025 &nbsp;<a href="/about-alan-ranger">Alan Ranger</a> All Rights Reserved.  <a href="/terms-and-conditions">The Legal Stuff</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
-
-
-
 </div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1651564402332_6670"><div class="sqs-block-content">
-
-
-
 <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-medium social-icons-style-regular " >
   <style>
     #block-yui_3_17_2_1_1651564402332_6670 .social-icons-style-border .sqs-svg-icon--wrapper {
@@ -2470,47 +2061,17 @@ if (path === "/blog-on-photography/") {
   </nav>
 </div>
 </div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-yui_3_17_2_1_1675277862360_8707"><div class="sqs-block-content">
-
 <div class="sqs-html-content" data-sqsp-text-block-content>
   <p style="text-align:center;white-space:pre-wrap;" class=""><a href="tel:(44) 781-7017994">(44) 781-7017994</a> | <a href="mailto:info@alanranger.com">info@alanranger.com</a></p><p style="text-align:center;white-space:pre-wrap;" class="">45 Hathaway Road, Coventry, West Midlands, CV4 9HW, United Kingdom</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
-
-
-
 </div></div></div></div></div>
-
   </div>
-
 </footer>
-
-
     </div>
-
     <script src="https://static1.squarespace.com/static/ta/5013f4b2c4aaa4752ac69b17/604/scripts/site-bundle.js" type="text/javascript"></script>
     <script type="text/javascript" src="https://static1.squarespace.com/static/ta/5013f4b2c4aaa4752ac69b17/604/scripts/combo/?json-ld-generation.js"></script>
-
     <!-- =============================================================
  GLOBAL FOOTER INJECTION — Alan Ranger Photography
  Version: v1.9.1-FULL-MERGED (2025-11-05)
@@ -2525,33 +2086,20 @@ if (path === "/blog-on-photography/") {
    CTA click tracking, Live Chat launcher.
  - Keep placeholders like {{page_title}} / {{page_url}} for runtime replacement.
  ============================================================= -->
-
 <!-- Section Loader Supreme From Will-Myers.com -->
 <script src="https://cdn.jsdelivr.net/gh/willmyethewebsiteguy/sectionLoader@1/sectionLoader.min.js"></script>
-
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CGB73Z"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
-
-
-
-
-
-
-
-
 <!-- Block Squarespace-injected Product schemas only -->
 <script>
 (function () {
   const removeProductSchema = () => {
     const scripts = document.querySelectorAll('script[type="application/ld+json"]');
-
     scripts.forEach((script) => {
       try {
         const json = JSON.parse(script.textContent);
-
         if (
           json['@type'] === 'Product' ||
           (Array.isArray(json['@type']) && json['@type'].includes('Product'))
@@ -2567,30 +2115,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       }
     });
   };
-
   // Run once on DOM ready
   document.addEventListener("DOMContentLoaded", removeProductSchema);
-
   // Run continuously for any future injections
   const observer = new MutationObserver(() => {
     removeProductSchema();
   });
-
   observer.observe(document.body, {
     childList: true,
     subtree: true
   });
 })();
 </script>
-
-
-
 <!--Lazy Summaries -->
 <script>
 !function(){window.self===window.top||window.top.document.getElementById("lazy-summaries-admin")||function(e,t,s,i,a){if(s.querySelector("#"+t))i&&i(this);else{var n=document.createElement("script");n.src=e+"?cache="+((new Date).getTime()+"").substr(0,8),n.id=t,n.onload=function(){a&&this.remove(),i&&i(this)},s.appendChild(n)}}("https://assets.squarewebsites.org/lazy-summaries/lazy-summaries-admin.js","lazy-summaries-admin",window.top.document.getElementsByTagName("head")[0])}();
 </script>
 <!--<script src="//assets.squarewebsites.org/lazy-summaries/lazy-summaries.min.js"></script>-->
-
 <!--Register Interest Start -->
 <!--<style>.register-interest-button{display: none!important}</style>-->
 <script>
@@ -2613,7 +2154,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 <!--Register Interest End   -->
 <script async src="https://assets.squarewebsites.org/custom-register-interest/custom-register-interest-new.js"></script>
-
 <!--Blogs CSV-->
 <script>
 !(function() {
@@ -2635,15 +2175,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
 })();
 </script>
-
 <!-- Sync iCal && Events Dates in Descr -->
 <script>document.addEventListener('DOMContentLoaded', function(){
 	setTimeout(function(){window.self!==window.top&&(window.top.document.getElementById("sqs-admin-hooks")||window.top.Y.Get.js("https://assets.squarewebsites.org/utils/sqs-admin-hooks/sqs-admin-hooks.js?time="+(new Date).getTime(),function(e,o){e?console.log("Error loading Admin Hooks Script: "+e[0].error,"error"):(console.log("Admin Hooks Init"),o&&o.nodes[0].setAttribute("id","sqs-admin-hooks"))}),window.top.document.getElementById("sqs-admin-hooks-date-to-events")||window.top.Y.Get.js("https://assets.squarewebsites.org/utils/sqs-admin-hooks/prepend-date-to-events-descr-hook/date-to-events-descr-hook.js?time="+(new Date).getTime(),function(e,o){e?console.log("Error loading Admin Hooks Script: "+e[0].error,"error"):(console.log("Add date if same description Init"),o&&o.nodes[0].setAttribute("id","sqs-admin-hooks-date-to-events"))}),window.top.document.getElementById("events-collection-sync")||window.top.Y.Get.js("https://assets.squarewebsites.org/utils/events-ical/alanranger-com.min.js?time="+(new Date).getTime(),function(e,o){e?console.log("Error loading Admin Hooks Script: "+e[0].error,"error"):(console.log("Sync Calendar Events"),o&&o.nodes[0].setAttribute("id","events-collection-sync"))}))}, 200)  
 });</script>
-
 <!--Courses markup -->
-
-
 <!-- Collections Index -->
 <script>
 window.collectionsSyncConfig = {
@@ -2694,7 +2230,6 @@ window.collectionsSyncConfig = {
 var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 var locations = ["batsford","coventry","cumbria","devon","dorset","glencoe","hope-valley","kenilworth","lake- district","norfolk","northumbria","solihull","somerset","suffolk","warwickshire","worcestershire","yorkshire","wales","residential","ireland"];
 </script>
-
 <style>.custom-filter-container.custom-filter-view-dropdowns .customFiltersWrapper .sqs-block {
   max-width: 33.33%
   }</style>
@@ -3025,24 +2560,18 @@ window.customFilterSettings = {
     ]
 };
 </script>
-
 <script src="https://plugins.squarewebsites.org/js-combo/utils/schema-generator/course-jsonld.min.js,lazy-summaries/lazy-summaries.min.js,custom-filter/custom-filter.min.js,custom-tables/custom-table.js"></script>
-
-
 <!--Admin UI Tweaks-->
 <script>
 !function(){window.self===window.top||window.document.getElementById("sqstp-UI-theme-script")||function(e,t,s,i,a){if(s.querySelector("#"+t))i&&i(this);else{var n=document.createElement("script");n.src=e+"?cache="+((new Date).getTime()+"").substr(0,8),n.async=!0,n.id=t,n.onload=function(){a&&this.remove(),i&&i(this)},s.appendChild(n)}}("https://plugins.squarewebsites.org/sqstools-ext/themes/modern.min.js","sqstp-UI-theme-script",window.document.getElementsByTagName("head")[0])}();
 </script>
 <!--End Admin UI Tweaks-->
-
-
 <!--Estimated Reading Time Blog Posts  -->
 <div class="reading-time"></div>
 <script>
 $( ".reading-time" ).insertBefore( "h1.BlogItem-title" );
 </script>
 <!--End Estimated Reading Time Blog Posts  -->
-
 <!-- BACK TO TOP BUTTON ANIMATION (7.0 & 7.1) -->
 <script>
   var scrolled = 400; $(window).scroll(function() {
@@ -3059,13 +2588,11 @@ $( ".reading-time" ).insertBefore( "h1.BlogItem-title" );
     return false;
   });
 </script>
-
 <!--Mega Menu 7.0 -->
 <script>
 $(document).ready(function () {
     // Define the hover timeout duration in milliseconds
     var hoverTimeoutDuration = 3000; // Example: 3000ms (3 seconds)
-
     $('.Header-nav-folder-title[href^="/mega-"]').each(function () {
         var e = $(this).attr("href").slice(6);
         $(this).parent().addClass("mega-menu");
@@ -3114,7 +2641,6 @@ $(document).ready(function () {
             function () {
                 a.find("#" + e).addClass("hover");
                 clearTimeout(hoverTimeout);
-
                 // Monitor mouse movement to reset hover timeout
                 $(document).on("mousemove.megaMenuContent", function () {
                     clearTimeout(hoverTimeout);
@@ -3143,33 +2669,25 @@ $(document).ready(function () {
 });
 </script>
 <!--end Mega Menu 7.0 -->
-
-
 <!-- SLIDESHOW HEIGHT ON MOBILE - by beatrizcaraballo.com -->
 <script>
   setTimeout(function() {
     var $galleryContainer = $('.sqs-gallery-design-stacked');
     var $slides = $galleryContainer.find('.slide');
-
     function setGalleryHeight() {
       var maxHeight = 0;
-
       $slides.each(function() {
         var slideHeight = $(this).outerHeight();
         maxHeight = Math.max(maxHeight, slideHeight);
       });
-
       $galleryContainer.css('height', maxHeight);
     }
-
     setGalleryHeight();
-
     $(window).on('resize', function() {
       setGalleryHeight();
     });
   }, 2000);
 </script>
-
 <!-- SUMMARY CAROUSEL STYLING - by beatrizcaraballo.com -->
 <script>
   var addWrapper = new MutationObserver(function() {
@@ -3180,8 +2698,6 @@ $(document).ready(function () {
     childList: true
 });
 </script>
-
-
 <script>
   function wrapItems() {
     $('.sqs-gallery-design-carousel .summary-item').each(function() {
@@ -3189,12 +2705,10 @@ $(document).ready(function () {
     });
   };
 </script>
-
 <!--Footer Injection Tab-->
 <script>
 !function(){window.self===window.top||window.top.document.getElementById("custom-table-admin")||function(e,t,s,i,a){if(s.querySelector("#"+t))i&&i(this);else{var n=document.createElement("script");n.src=e+"?cache="+((new Date).getTime()+"").substr(0,7),n.id=t,n.onload=function(){a&&this.remove(),i&&i(this)},s.appendChild(n)}}("https://assets.squarewebsites.org/custom-tables/custom-table-admin.js","custom-table-admin",window.top.document.getElementsByTagName("head")[0])}();
 </script>
-
 <!-- Add BlueSky Icon -->
 <script>
   document.addEventListener('DOMContentLoaded', () => {
@@ -3206,7 +2720,6 @@ $(document).ready(function () {
 </symbol>`;
         symbolContainer.insertAdjacentHTML('beforeend', symbolDef);
       }
-
       // Find all Bluesky icons and replace their content
       const bskyHeaderLinks = document.querySelectorAll('.icon[href*="https://bsky.app"], .sqs-svg-icon--wrapper[href*="https://bsky.app"]');
       console.log(bskyHeaderLinks)
@@ -3218,7 +2731,6 @@ $(document).ready(function () {
     replaceBskyIcons();
   })
 </script>
-
 <!-- Replace broken Links -->
 <script>
 const linksToReplace = {"/5-steps-to-improve-your-photography":{"r":"/online-photography-course"},"/awards":{"r":"/awards-and-qualifications"},"/batsford":{"r":"/batsford-arboretum-photography"},"/beginners-lightroom-course":{"r":"/photo-editing-course-coventry"},"/beginners-photography-course":{"r":"/beginners-photography-classes"},"/blog-on-photography/lee-filter-15-percent-off":{"r":"/blog-on-photography/know-your-camera-filters/"},"/blogs/5-reasons-to-use-a-tripod":{"r":"/blog-on-photography/5-reasons-to-use-a-tripod"},"/blogs/art-of-macro-photography":{"r":"/blog-on-photography/art-of-macro-photography"},"/blogs/avoid-camera-shake":{"r":"/blog-on-photography/avoid-camera-shake"},"/blogs/choosing-a-camera":{"r":"/blog-on-photography/choosing-a-camera"},"/blogs/exposure-bracketing-a-guide-for-photographers":{"r":"/blog-on-photography/exposure-bracketing-a-guide-for-photographers"},"/blogs/finding-your-compositional-balance":{"r":"/blog-on-photography/finding-your-compositional-balance"},"/blogs/full-frame-vs-cropped-sensor":{"r":"/blog-on-photography/full-frame-vs-cropped-sensor"},"/blogs/how-to-find-your-photography-style":{"r":"/blog-on-photography/how-to-find-your-photography-style"},"/blogs/how-to-take-long-exposure-photos":{"r":"/blog-on-photography/how-to-take-long-exposure-photos"},"/blogs/jpeg-vs-raw-the-key-differences":{"r":"/blog-on-photography/jpeg-vs-raw-the-key-differences"},"/blogs/know-your-camera-filters":{"r":"/blog-on-photography/know-your-camera-filters/"},"/blogs/landscape-fine-art-photography-prints":{"r":"/blog-on-photography/landscape-fine-art-photography-prints"},"/blogs/learn-photography-how":{"r":"/blog-on-photography/learn-photography-how"},"/blogs/mastering-photography-composition-rules":{"r":"/blog-on-photography/mastering-photography-composition-rules"},"/blogs/mastering-the-art-of-shadow-photography":{"r":"/blog-on-photography/mastering-the-art-of-shadow-photography"},"/blogs/new-partnership-with-one-vision-imaging-12-off-all-products":{"r":"/blog-on-photography/know-your-camera-filters/"},"/blogs/photographers-rights-in-the-uk":{"r":"/blog-on-photography/photographers-rights-in-the-uk"},"/blogs/photography-is-an-art-of-observation":{"r":"/blog-on-photography/photography-is-an-art-of-observation"},"/blogs/product-photography-setup":{"r":"/blog-on-photography/product-photography-setup"},"/blogs/recommended-lightweight-travel-tripods":{"r":"/blog-on-photography/recommended-lightweight-travel-tripods"},"/blogs/rubys-first-photo-project":{"r":"/blog-on-photography/rubys-first-photo-project"},"/blogs/shooting-in-low-light":{"r":"/blog-on-photography/shooting-in-low-light"},"/blogs/the-art-of-storytelling-photography":{"r":"/blog-on-photography/the-art-of-storytelling-photography"},"/blogs/top-tips-for-photographing-bluebells":{"r":"/blog-on-photography/top-tips-for-photographing-bluebells"},"/blogs/tripod-for-cameras-essential-guide":{"r":"/blog-on-photography/tripod-for-cameras-essential-guide"},"/blogs/using-a-nd-filter":{"r":"/blog-on-photography/using-a-nd-filter"},"/blogs/uv-or-not-to-uv":{"r":"/blog-on-photography/are-camera-uv-filters-worth-it"},"/blogs/what-are-leading-lines-in-photography":{"r":"/blog-on-photography/what-are-leading-lines-in-photography"},"/blogs/what-do-camera-lens-filters-do":{"r":"/blog-on-photography/what-do-camera-lens-filters-do"},"/blogs/what-is-aperture-in-photography":{"r":"/blog-on-photography/what-is-aperture-in-photography"},"/blogs/what-is-contrast-in-photography":{"r":"/blog-on-photography/what-is-contrast-in-photography"},"/blogs/what-is-depth-of-field":{"r":"/blog-on-photography/what-is-depth-of-field"},"/blogs/what-is-dynamic-range-in-photography":{"r":"/blog-on-photography/what-is-dynamic-range-in-photography"},"/blogs/what-is-exposure-in-photography":{"r":"/blog-on-photography/what-is-exposure-in-photography"},"/blogs/what-is-focal-length-in-photography":{"r":"/blog-on-photography/what-is-focal-length-in-photography"},"/blogs/what-is-focus-in-photography":{"r":"/blog-on-photography/what-is-focus-in-photography"},"/blogs/what-is-framing-in-photography":{"r":"/blog-on-photography/what-is-framing-in-photography"},"/blogs/what-is-iso-in-photography":{"r":"/blog-on-photography/what-is-iso-in-photography"},"/blogs/what-is-metering-in-photography":{"r":"/blog-on-photography/what-is-metering-in-photography"},"/blogs/what-is-minimalist-photography":{"r":"/blog-on-photography/what-is-minimalist-photography"},"/blogs/what-is-negative-space-in-photography":{"r":"/blog-on-photography/what-is-negative-space-in-photography"},"/blogs/what-is-portrait-photography":{"r":"/blog-on-photography/what-is-portrait-photography"},"/blogs/what-is-shutter-speed":{"r":"/blog-on-photography/what-is-shutter-speed"},"/blogs/what-is-white-balance-in-photography":{"r":"/blog-on-photography/what-is-white-balance-in-photography"},"/bluebell-woodlands-workshops":{"r":"/bluebell-woods-near-me/"},"/contact-us":{"r":"/contact-us-alan-ranger-photography/"},"/course-finder":{"r":"/course-finder-photography-classes-near-me/"},"/events-calendar":{"r":"/photography-tuition-services/"},"/fine-art-prints/latest-images":{"r":"/fine-art-prints/latest-photography-images/"},"/four-private-photography-lessons":{"r":"/private-photography-lessons/"},"/gallery-fine-art-prints":{"r":"/gallery-image-portfolios/"},"/get-off-auto":{"r":"/beginners-photography-classes"},"/get-off-auto-beginner-photography-classes":{"r":"/newsletter-signup-form/"},"/get-updates":{"r":"/newsletter-signup-form/"},"/intermediates-intentions-course":{"r":"/intentions-course-six-month-photography-project/"},"/intermediates-rps-course":{"r":"/rps-courses-mentoring-distinctions/"},"/my-ethics":{"r":"/my-ethical-policy/"},"/photographers-composition-viewing-frames":{"r":"/free-photography-tips/"},"/photographic-mentoring":{"r":"/photography-mentoring-online-assignments/"},"/photographic-workshops":{"r":"/photographic-workshops-near-me/"},"/photographic-workshops/dingle-kerry-ireland-photography-workshop":{"r":"/photographic-workshops-near-me/dingle-kerry-ireland-photography-workshop/"},"/photographic-workshops/hartland-quay-devon-seascapes-ynfcl":{"r":"/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl/"},"/photographic-workshops/landscape-photography-snowdonia-workshop":{"r":"/photographic-workshops-near-me/"},"/photography-classes":{"r":"/beginners-photography-lessons/"},"/photography-courses":{"r":"/photography-courses-coventry/"},"/photography-courses-finder":{"r":"/course-finder-photography-classes-near-me/"},"/photography-equipment":{"r":"/photography-equipment-recommendations/"},"/photography-lessons-online-1-2-1":{"r":"/photography-lessons-online-121/"},"/photography-services/1-2-1-private-photography-lessons":{"r":"/private-photography-lessons/"},"/photography-services/camera-sensor-clean":{"r":"/photography-services-near-me/camera-sensor-clean/"},"/photography-services/lens-calibration":{"r":"/photography-services-near-me/camera-sensor-clean/"},"/photography-shop":{"r":"/photography-shop-services/"},"/photography-support-services":{"r":"/photography-shop-services/"},"/photography-tuition":{"r":"/photography-tuition-services/"},"/photography-workshops-near-me-residential":{"r":"/photography-workshops-near-me/"},"/photo-workshops":{"r":"/photo-workshops-uk/"},"/testimonials":{"r":"/testimonials-customer-reviews/"},"/which-photography-courses":{"r":"/photography-courses-coventry/"},"/woodland-photo-walks":{"r":"/photo-workshops-uk/woodland-photography-walk-warwickshire/"}};
@@ -3232,24 +2744,18 @@ if (docLinks && docLinks.length) {
         }
     }
 }
-
 </script>
-
 <script type="module">
   import('https://cdn.jsdelivr.net/gh/alanranger/alanranger-reviews@main/reviews-1.js')
     .then(({ default: reviews }) => {
       const container = document.getElementById('testimonial-widget');
       if (!container) return;
-
       const MAX_DISPLAY = 5;
-
       const filtered = reviews
         .filter(r => r.rating >= 4) // Only 4-star and 5-star
         .sort((a, b) => new Date(b.date) - new Date(a.date)) // Most recent first
         .slice(0, MAX_DISPLAY);
-
       container.innerHTML = '';
-
       filtered.forEach(r => {
         const div = document.createElement('div');
         div.className = 'testimonial';
@@ -3264,7 +2770,6 @@ if (docLinks && docLinks.length) {
       });
     });
 </script>
-
 <!-- Accordion Icons Reliability Fix — 2025-11-05 (body-safe version) -->
 <script>
 (function(){
@@ -3275,7 +2780,6 @@ if (docLinks && docLinks.length) {
       '.sqs-block-accordion, .accordion-block, .accordion, .accordion-item'
     );
     if(!roots.length) return;
-
     roots.forEach(function(root){
       if(root.__iconsApplied) return;
       var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
@@ -3290,7 +2794,6 @@ if (docLinks && docLinks.length) {
       });
       var toProcess=[];
       while(walker.nextNode()) toProcess.push(walker.currentNode);
-
       toProcess.forEach(function(textNode){
         var original=textNode.nodeValue, replaced=original;
         for(var i=0;i<icons.length;i++){
@@ -3309,17 +2812,14 @@ if (docLinks && docLinks.length) {
       root.__iconsApplied=true;
     });
   }
-
   function safeRun(){
     try{ replaceAccordionIcons(); }catch(e){} 
   }
-
   function startWhenReady(){
     if(!document.body){ setTimeout(startWhenReady, 150); return; }
     safeRun();
     window.addEventListener('load', safeRun);
     [500,1200,2500,4000].forEach(function(t){ setTimeout(safeRun,t); });
-
     // MutationObserver (now guaranteed valid)
     try{
       var mo=new MutationObserver(function(muts){
@@ -3330,12 +2830,9 @@ if (docLinks && docLinks.length) {
       mo.observe(document.body,{childList:true,subtree:true});
     }catch(e){}
   }
-
   startWhenReady();
 })();
 </script>
-
-
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll("a[data-cta]").forEach(function(link) {
@@ -3351,7 +2848,6 @@ if (docLinks && docLinks.length) {
     });
   });
 </script>
-
 <!-- Live Chat -->
 <!-- Alan Ranger Assistant: embed launcher -->
 <script async src="https://alan-chat-proxy.vercel.app/embed.js"
@@ -3360,28 +2856,23 @@ if (docLinks && docLinks.length) {
         data-color="#4CAF50"
         data-size="680x860"
         data-offset="24"></script>
-
 <!-- ARP Blog Schema Loader v5.4 — Full Multi-Schema Injection (incl. Person) -->
 <script>
 (function () {
   try {
     var path = (window.location && window.location.pathname) ? window.location.pathname : "";
-
     // Only run on blog articles
     if (!/\/blog-on-photography\//.test(path)) {
       return;
     }
-
     // Remove trailing slash and extract slug
     path = path.replace(/\/+$/, "");
     var slug = path.split("/").pop();
     if (!slug) {
       return;
     }
-
     // Base URL for hosted JSON schema files
     var baseUrl = "https://schema.alanranger.com/";
-
     // JSON schema kinds for all blog posts
     // Expected files:
     //   <slug>_schema.json
@@ -3392,38 +2883,30 @@ if (docLinks && docLinks.length) {
     //   <slug>_breadcrumb.json
     //   <slug>_person.json
     var kinds = ["schema", "blogposting", "image", "howto", "faq", "breadcrumb", "person"];
-
     // Inject JSON-LD block into <head>
     function injectJson(kind, data) {
       var id = "arp-schema-" + slug + "-" + kind;
-
       // Remove existing block if present
       var existing = document.getElementById(id);
       if (existing && existing.parentNode) {
         existing.parentNode.removeChild(existing);
       }
-
       var script = document.createElement("script");
       script.type = "application/ld+json";
       script.id = id;
-
       try {
         script.text = JSON.stringify(data);
       } catch (e) {
         return;
       }
-
       document.head.appendChild(script);
     }
-
     // Load a specific schema kind from GitHub
     function loadKind(kind) {
       var url = baseUrl + slug + "_" + kind + ".json";
-
       function handleJson(json) {
         injectJson(kind, json);
       }
-
       if (window.fetch) {
         fetch(url, { cache: "no-store" })
           .then(function (res) {
@@ -3439,17 +2922,50 @@ if (docLinks && docLinks.length) {
           });
       }
     }
-
     // Load ALL schema kinds for this slug
     kinds.forEach(function (kind) {
       loadKind(kind);
     });
-
   } catch (e) {
     // Silent catch for Squarespace safety
   }
 })();
 </script><script data-sqs-type="imageloader-bootstrapper">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="youtube-unauth-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></symbol><symbol id="youtube-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"/></symbol><symbol id="linkedin-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="url-icon" viewBox="0 0 64 64"><path d="M40.038 24c2.203 0 4.08.801 5.633 2.404C47.224 27.956 48 29.834 48 32.038c0 2.203-.776 4.106-2.329 5.709-1.552 1.552-3.43 2.328-5.633 2.328h-6.46v-3.08h6.46c1.352 0 2.504-.475 3.455-1.427 1.002-1.002 1.502-2.178 1.502-3.53 0-1.353-.5-2.504-1.502-3.456-.952-1.001-2.103-1.502-3.455-1.502h-6.46V24h6.46zm-14.423 9.615V30.46h12.77v3.155h-12.77zm-5.183-5.033c-.952.952-1.427 2.103-1.427 3.456 0 1.352.475 2.529 1.427 3.53 1.002.952 2.178 1.427 3.53 1.427h6.46v3.08h-6.46c-2.203 0-4.08-.776-5.633-2.329C16.776 36.145 16 34.241 16 32.038c0-2.204.776-4.082 2.329-5.634C19.88 24.8 21.759 24 23.962 24h6.46v3.08h-6.46c-1.352 0-2.529.5-3.53 1.502z"/></symbol><symbol id="url-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0v64h64V0zM45.671 26.404C44.12 24.8 42.241 24 40.038 24h-6.46v3.08h6.46c1.352 0 2.504.5 3.455 1.502 1.002.952 1.502 2.103 1.502 3.456 0 1.352-.5 2.529-1.502 3.53-.952.952-2.103 1.427-3.455 1.427h-6.46v3.08h6.46c2.203 0 4.08-.776 5.633-2.329C47.224 36.145 48 34.241 48 32.038c0-2.204-.776-4.082-2.329-5.634zm-7.286 4.056h-12.77v3.155h12.77V30.46zm-19.38 1.578c0-1.353.475-2.504 1.427-3.456 1.002-1.001 2.178-1.502 3.53-1.502h6.46V24h-6.46c-2.203 0-4.08.801-5.633 2.404C16.776 27.956 16 29.834 16 32.038c0 2.203.776 4.106 2.329 5.709 1.552 1.552 3.43 2.328 5.633 2.328h6.46v-3.08h-6.46c-1.352 0-2.529-.475-3.53-1.427-.952-1.002-1.427-2.178-1.427-3.53z"/></symbol></svg>
-
   </body>
 </html>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage","url":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment","name":"Storytelling Narrative Photography Assignment - Free","description":"Webpage for a blog article on Alan Ranger Photography.","inLanguage":"en-GB","isPartOf":{"@id":"https://www.alanranger.com/#website"},"breadcrumb":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#breadcrumb"},"mainEntity":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#blogposting"},"datePublished":"2025-11-23","dateModified":"2025-11-23","primaryImageOfPage":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage"}}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#howto","name":"Storytelling Narrative Photography Assignment - Free","description":"Storytelling Narrative Photography. This assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative.","step":[{"@type":"HowToStep","position":1,"name":"Prepare equipment","text":"Prepare your camera equipment and any necessary accessories for the photography technique described in this article."},{"@type":"HowToStep","position":2,"name":"Evaluate scene and lighting","text":"Evaluate the scene and lighting conditions to determine the best approach for capturing the images."},{"@type":"HowToStep","position":3,"name":"Apply technique","text":"Apply the photography technique described in the article, following the guidance and recommendations provided."},{"@type":"HowToStep","position":4,"name":"Capture images","text":"Capture images following the advice and tips outlined in the post, adjusting settings as needed."},{"@type":"HowToStep","position":5,"name":"Review and refine","text":"Review your captured images and refine your technique based on the results and feedback from the article."}],"totalTime":"PT10M","image":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage"},"mainEntityOfPage":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage"}}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#faq","mainEntity":[{"@type":"Question","name":"What is this photography technique about?","acceptedAnswer":{"@type":"Answer","text":"This article covers storytelling narrative photography assignment - free. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."}},{"@type":"Question","name":"How do I apply these techniques?","acceptedAnswer":{"@type":"Answer","text":"Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."}},{"@type":"Question","name":"What camera settings should I use?","acceptedAnswer":{"@type":"Answer","text":"The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."}},{"@type":"Question","name":"Do I need special equipment?","acceptedAnswer":{"@type":"Answer","text":"The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."}},{"@type":"Question","name":"How can I improve my results?","acceptedAnswer":{"@type":"Answer","text":"Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."}},{"@type":"Question","name":"Is this suitable for beginners?","acceptedAnswer":{"@type":"Answer","text":"The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."}},{"@type":"Question","name":"What are the most common mistakes to avoid?","acceptedAnswer":{"@type":"Answer","text":"Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."}},{"@type":"Question","name":"Where can I practice these techniques?","acceptedAnswer":{"@type":"Answer","text":"You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."}}]}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ImageObject","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage","url":"http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6923698083fc9e1feba33c2e/1763928552085/storytelling-and-narrative-thumbnail.png?format=1500w","contentUrl":"http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6923698083fc9e1feba33c2e/1763928552085/storytelling-and-narrative-thumbnail.png?format=1500w","width":1500,"height":1000,"caption":"Storytelling Narrative Photography Assignment - Free","representativeOfPage":true,"inLanguage":"en-GB"}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#howto","name":"Storytelling Narrative Photography Assignment - Free","description":"Storytelling Narrative Photography. This assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative.","step":[{"@type":"HowToStep","position":1,"name":"Prepare equipment","text":"Prepare your camera equipment and any necessary accessories for the photography technique described in this article."},{"@type":"HowToStep","position":2,"name":"Evaluate scene and lighting","text":"Evaluate the scene and lighting conditions to determine the best approach for capturing the images."},{"@type":"HowToStep","position":3,"name":"Apply technique","text":"Apply the photography technique described in the article, following the guidance and recommendations provided."},{"@type":"HowToStep","position":4,"name":"Capture images","text":"Capture images following the advice and tips outlined in the post, adjusting settings as needed."},{"@type":"HowToStep","position":5,"name":"Review and refine","text":"Review your captured images and refine your technique based on the results and feedback from the article."}],"totalTime":"PT10M","image":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage"},"mainEntityOfPage":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage"}}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ImageObject","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage","url":"http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6923698083fc9e1feba33c2e/1763928552085/storytelling-and-narrative-thumbnail.png?format=1500w","contentUrl":"http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6923698083fc9e1feba33c2e/1763928552085/storytelling-and-narrative-thumbnail.png?format=1500w","width":1500,"height":1000,"caption":"Storytelling Narrative Photography Assignment - Free","representativeOfPage":true,"inLanguage":"en-GB"}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#faq","mainEntity":[{"@type":"Question","name":"What is this photography technique about?","acceptedAnswer":{"@type":"Answer","text":"This article covers storytelling narrative photography assignment - free. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."}},{"@type":"Question","name":"How do I apply these techniques?","acceptedAnswer":{"@type":"Answer","text":"Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."}},{"@type":"Question","name":"What camera settings should I use?","acceptedAnswer":{"@type":"Answer","text":"The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."}},{"@type":"Question","name":"Do I need special equipment?","acceptedAnswer":{"@type":"Answer","text":"The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."}},{"@type":"Question","name":"How can I improve my results?","acceptedAnswer":{"@type":"Answer","text":"Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."}},{"@type":"Question","name":"Is this suitable for beginners?","acceptedAnswer":{"@type":"Answer","text":"The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."}},{"@type":"Question","name":"What are the most common mistakes to avoid?","acceptedAnswer":{"@type":"Answer","text":"Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."}},{"@type":"Question","name":"Where can I practice these techniques?","acceptedAnswer":{"@type":"Answer","text":"You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."}}]}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://www.alanranger.com/blog-on-photography"},{"@type":"ListItem","position":2,"name":"Storytelling Narrative Photography Assignment","item":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment"}]}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage","url":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment","name":"Storytelling Narrative Photography Assignment - Free","description":"Webpage for a blog article on Alan Ranger Photography.","inLanguage":"en-GB","isPartOf":{"@id":"https://www.alanranger.com/#website"},"breadcrumb":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#breadcrumb"},"mainEntity":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#blogposting"},"datePublished":"2025-11-23","dateModified":"2025-11-23","primaryImageOfPage":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage"}}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#blogposting","headline":"Storytelling Narrative Photography Assignment - Free","alternativeHeadline":"Storytelling Narrative Photography Assignment - Free | Alan Ranger Photography","description":"Storytelling Narrative Photography. This assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative.","url":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment","mainEntityOfPage":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#webpage"},"datePublished":"2025-11-23T00:00:00.000Z","dateModified":"2025-11-23T00:00:00.000Z","dateCreated":"2025-11-23T00:00:00.000Z","inLanguage":"en-GB","articleBody":"STORYTELLING NARRATIVE PHOTOGRAPHY ASSIGNMENT - FREEhttps://www.alanranger.com/free-online-photography-courseSTORYTELLING NARRATIVE PHOTOGRAPHYThis assignment teaches the art of storytelling through photography by focusing on capturing emotions and narrative elements in your images. Students will explore composition, lighting, and intentional framing to convey meaningful stories.LEARNING OBJECTIVES * Develop the ability to visualize and plan a narrative before shooting. * Master the use of composition techniques to enhance storytelling. * Learn to employ lighting and gesture to evoke emotions in photographs.WANT FEEDBACK ON YOUR ASSIGNMENT?Join Foundation Plus and get personalised monthly critique plus full access to all assignments.Learn More & Join Download Assignment PDF BEFORE YOU SHOOT * Identify a personal story or theme you wish to convey in your photographs. * Scout locations that resonate with the narrative you want to portray. * Gather props or elements that can enhance the story you're telling. * Plan your shot list to include different angles and compositions that support the narrative. * Set your camera to either aperture priority or shutter priority mode with ISO fixed at 200.THE ASSIGNMENTTECHNICAL FOCUS . * Gather props or elements that can enhance the story you're telling. * Plan your shot list to include different angles and compositions that support the narrative. * Set your camera to either aperture priority or shutter priority mode with ISO fixed at 200.THE ASSIGNMENTTECHNICAL FOCUS * Use aperture priority mode at f/4 with ISO 200 fixed, allowing the camera to adjust shutter speed for depth of field control. * Experiment with different focal lengths to capture varied perspectives of the same subject. * Focus on balancing light and shadow to create mood and atmosphere in your images. * Utilize leading lines in your composition to guide the viewer's eye through the story. * Incorporate depth in your images by including foreground, middle ground, and background elements.CREATIVE FOCUS * Look for candid moments that reveal emotions and relationships between subjects. * Use color and contrast to enhance the emotional tone of your photographs. * Experiment with negative space to emphasize your subject and the story it tells. * Capture gestures and body language that convey interaction and connection. * Try to tell a story in a single frame by focusing on a decisive moment.ASSIGNMENT TASKS 1. Photograph a series of portraits that express different emotions, using aperture priority mode at f/2.8 with ISO 200 fixed. 2. Create a photo essay that follows a day in the life of a local community member, using shutter priority mode at 1/250s with ISO 200 fixed. 3. Capture a moment of interaction between two people, focusing on their gestures and expressions while in aperture priority mode at f/5.6 with ISO 200 fixed. 4. Shoot an environmental portrait that tells a story about the subject's life through the use of props and background elements, using aperture priority mode at f/4 with ISO 200 fixed. 5. Document an event or gathering, capturing candid moments that convey the atmosphere, using shutter priority mode at 1/125s with ISO 200 fixed. 6. Create a series of images that depict a specific theme or concept, ensuring each photo contributes to the overall narrative, using aperture priority mode at f/3.5 with ISO 200 fixed.💡 Stretch Tasks * Develop a multimedia storytelling project that incorporates both photography and audio or written elements. * Create a photo series that captures a narrative arc, with a clear beginning, middle, and end.DO / DON'TDO * ✓ Do take time to observe the scene before shooting to understand the mood and relationships. * ✓ Do include a variety of shots (wide, medium, close-up) to enrich the narrative. * ✓ Do pay attention to the background and eliminate distractions that could detract from the story. * ✓ Do engage with your subjects to elicit authentic emotions and reactions. * ✓ Do review your images critically to assess how well they convey the intended story.DON'T * ✗ Don't rely solely on posed shots; seek out genuine, candid moments. * ✗ Don't ignore the impact of lighting; use it consciously to enhance the mood. * ✗ Don't overcomplicate your composition; keep it focused on the story. * ✗ Don't shoot without a clear intention or theme in mind. * ✗ Don't forget to experiment with different angles and perspectives to find the best storytelling shot.REFLECTION QUESTIONS * How did your choice of composition influence the narrative you were trying to convey? * What emotions did you aim to capture, and how successful were you in doing so? * In what ways to experiment with different angles and perspectives to find the best storytelling shot.REFLECTION QUESTIONS * How did your choice of composition influence the narrative you were trying to convey? * What emotions did you aim to capture, and how successful were you in doing so? * In what ways did lighting affect the mood of your photographs? * What challenges did you face in telling a story through your images, and how did you overcome them?📚 RELATED READINGBefore you start, read these related blog posts to deepen your understanding: * → The Art Of Storytelling Photography * → How To Find Your Photography Style For Foundation Plus members: Submit 3 images from this assignment for personalised feedback in your next Zoom session. You should upload to the shared Dropbox folder - link provided by Alan when you joined Foundation Plus.Alan Ranger 23 November 2025Composition & Creative LinkedIn0 Pinterest0","wordCount":893,"publisher":{"@id":"https://www.alanranger.com/#org"},"author":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#person"},"image":{"@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#heroimage"},"thumbnailUrl":"http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6923698083fc9e1feba33c2e/1763928552085/storytelling-and-narrative-thumbnail.png?format=1500w","about":[{"@type":"Thing","name":"Aperture (photography)"},{"@type":"Thing","name":"Shutter speed"},{"@type":"Thing","name":"Photographic composition"}]}</script>
+<!-- Inserted by https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","@id":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#person","name":"Alan Ranger","url":"https://www.alanranger.com/about","jobTitle":"Photographer & Tutor","worksFor":{"@id":"https://www.alanranger.com/#org"},"sameAs":["https://www.instagram.com/alanrangerphotography/","https://www.youtube.com/@alanrangerphotography","https://www.linkedin.com/in/alanranger","https://www.facebook.com/alanrangerphotography/","https://bsky.app/profile/alanranger.bsky.social"]}</script>
+<!-- Inserted by https://www.googletagmanager.com/gtm.js?id=GTM-5CGB73Z -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.alanranger.com"},{"@type":"ListItem","position":2,"name":"Blog On Photography","item":"https://www.alanranger.com/blog-on-photography"},{"@type":"ListItem","position":3,"name":"Storytelling Narrative Photography Assignment","item":"https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment"}]}</script>
