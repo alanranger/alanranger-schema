@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment#person",
+  "name": "Alan Ranger",
+  "url": "https://www.alanranger.com/about",
+  "jobTitle": "Photographer & Tutor",
+  "worksFor": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "sameAs": [
+    "https://www.instagram.com/alanrangerphotography/",
+    "https://www.youtube.com/@alanrangerphotography",
+    "https://www.linkedin.com/in/alanranger",
+    "https://www.facebook.com/alanrangerphotography/",
+    "https://bsky.app/profile/alanranger.bsky.social"
+  ]
+}
