@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide",
+  "name": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide",
+  "description": "A comprehensive guide on camera sensor cleaning techniques, preventive measures, and the importance of removing dust spots for maintaining image quality.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#blogposting"
+  }
+}
