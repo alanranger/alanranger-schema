@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography",
+  "name": "Mastering the Art of Shadow Photography: Light and Darkness",
+  "description": "Mastering the Art of Shadow Photography: Get Creative with Light and Darkness with this beginners guide on how to use light and shadow in creative image making.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography#blogposting"
+  }
+}
