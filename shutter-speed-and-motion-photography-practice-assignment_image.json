@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/shutter-speed-and-motion-photography-practice-assignment#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/692355045e0ece1f277659e5/1763923629822/shutter-speed-and-motion-thumbnail.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Shutter Speed and Motion Photography Practice Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
