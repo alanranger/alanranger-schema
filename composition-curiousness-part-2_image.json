@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/composition-curiousness-part-2#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1480371255048-M1650RJFM1P2OWFQ7240/_DSC4934-Edit-Edit.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Composition Curiousness - Part 2 | Professional Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
