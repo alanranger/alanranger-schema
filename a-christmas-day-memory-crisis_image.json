@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1544112178354-DPKL15UOUN4JQTQH7M28/crisis+christmas+day.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "A Christmas Day memory for those less fortunate. | Crisis",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
