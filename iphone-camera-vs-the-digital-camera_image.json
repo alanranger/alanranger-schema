@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1408788432297-RI6C0CLWVWWLR5F02WUG/image-asset.jpeg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Phone Camera Vs the Digital Camera | Is the mobile good?",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
