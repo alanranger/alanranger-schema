@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs",
+  "name": "Photographers Copyright - digital images and the internet",
+  "description": "I get asked the question on photographers copyright on numerous occasions by clients, so thought I'd share this with the community. | photography news blog |.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#blogposting"
+  }
+}

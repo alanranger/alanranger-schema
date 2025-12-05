@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#blogposting",
+  "headline": "Photographers Copyright - digital images and the internet",
+  "alternativeHeadline": "Photographers Copyright - digital images and the internet | Alan Ranger Photography",
+  "description": "I get asked the question on photographers copyright on numerous occasions by clients, so thought I'd share this with the community. | photography news blog |.",
+  "url": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs",
+  "datePublished": "2018-01-28T00:00:00.000Z",
+  "dateModified": "2018-01-28T00:00:00.000Z",
+  "dateCreated": "2018-01-28T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "PHOTOGRAPHERS COPYRIGHT - DIGITAL IMAGES AND THE INTERNETPHOTOGRAPHERS COPYRIGHTCOPYRIGHT NOTICE: DIGITAL IMAGES, PHOTOGRAPHS AND THE INTERNETPHOTOGRAPHERS COPYRIGHT GUIDANCEI get asked the question on copyright on numerous occasions by clients so thought I'd share this with the community.It covers pretty much everything so worth reading and implementing a copyright notice on your website if you have one or at least knowing the legal position if you find your images being copyright infringed.There's a lot of misinformation, myth and even paranoia regarding photo copyright so hopefully this will dispel and clarify some key points for you.Copyright notice: digital images, photographs and the internet There are several websites that now provide a scanning service to discover if your images have been used, without your permission. It may take some time for them to scan and match infringements and generally they are only interested in a legal case on your behalf if the infringement for commercial or business use. If they find commercial infringement they will take the case on your behalf and deduct a service fee from any royalty/usage fee they receive from the offender.----------------------------------------/s/copyright-notice-digital-images-photographs-and-the-internet.pdfnews , photography-tips A educt a service fee from any royalty/usage fee they receive from the offender.----------------------------------------/s/copyright-notice-digital-images-photographs-and-the-internet.pdfnews , photography-tips Alan Ranger 28 January 2018Alan Ranger Photography news , copyright LinkedIn0 Pinterest0",
+  "wordCount": 212,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
+}
