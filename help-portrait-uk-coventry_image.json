@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1489924632541-RCYTZCXF82KGWOXBGSUL/HP_Logo_Tall_RGB.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Help Portrait | UK Coventry Event | Giving Pictures  ",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
