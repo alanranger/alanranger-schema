@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#blogposting",
+  "headline": "Creative Photo Editing MasterClass | Professional Tuition",
+  "alternativeHeadline": "Creative Photo Editing MasterClass | Professional Tuition | Alan Ranger Photography",
+  "description": "Creative photo editing masterclass: \"To date, this was the most inspiring session I have attended as it brought so many things together.\" Photography News Blog.",
+  "url": "https://www.alanranger.com/blog-on-photography/creative-photo-editing",
+  "datePublished": "2019-02-11T00:00:00.000Z",
+  "dateModified": "2019-02-11T00:00:00.000Z",
+  "dateCreated": "2019-02-11T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "CREATIVE PHOTO EDITING MASTERCLASS | PROFESSIONAL TUITIONCREATIVE PHOTO EDITING MASTERCLASS\"TO DATE, THIS WAS THE MOST INSPIRING SESSION I HAVE ATTENDED SO FAR AS IT BROUGHT SO MANY THINGS TOGETHER FOR ME.\"> Con McHugh 9th Jan 2018Con and Janet have been regular clients for a while now, so it was a real privilege to have them attend my Creative Editing Masterclass earlier this week. They have both got to grips with basic editing in Lightroom and doing the \"hygiene\" edits to photos but were both looking to take their editing to the next stage. As Janet remarked to me at the start of the class, \"I know what I want to do, but just don't know how to do it, my images don't look like others I see.\"The first half of the masterclass we discussed many concepts around visualisation, understanding what you want from an image and bridging the gap between critical analysis of an image to artistic and individual interpretation. The latter is always the hardest part for many as there are endless choices to be made, let alone endless ways and methods of producing it.The creative editing masterclass tries to help bridge that understanding and what with the how. We use a mixture of Lightroom and NIK software to help an image realise it's potential in whatever way the photographer interprets it.The second half of the class we used attendees images to discuss the \"hygiene\" alterations which included crops, exposure adjustments and tone curves to prepare the image for fur re of Lightroom and NIK software to help an image realise it's potential in whatever way the photographer interprets it.The second half of the class we used attendees images to discuss the \"hygiene\" alterations which included crops, exposure adjustments and tone curves to prepare the image for further edits in NIK or Photoshop.As I explained on the night, the toughest part of the creative process is in the editing. I've seen many a good shot in camera from clients, not realise it's potential due to either lack of experience and knowledge of using the right tool for the job and/or just not having a clear idea in your head before you process of how you want the image to look and feel.CREATIVE PHOTO EDITING * A. Imitate Learn to use the instrument competently. The Mechanics of it * B. Assimilate Make choices about the subject matter, genre, and personal style. The Reason for it * C. Innovate Develop a body of work that ties together your own vision. The Personal Execution of itThe analogy doesn't just apply to composition and making the image in camera but also to what and how you process an image in Lightroom, Photoshop or any other tools at your disposal.The Creative Photo Editing Masterclass focuses attention on \"what do you want your image to look like and say\" and then through consultation, we go through the editing process step by step.Janet and Con were both asked to bring five images each along to the class. The original image and the version they had edited. Based on these two comparisons we took the image through a series further edits to bring out elements that they felt were lacking or wanted further input on.\"ATTENDED A MASTERCLASS ON CREATIVE PHOTO EDITING WHICH WAS EXCELLENT. ALAN PROVIDED BOTH TECHNICAL AND ARTIST GUIDANCE TO HELP DEVELOP MY PHOTOGRAPHY.\"> Janet Boulter 9th Jan 2018Here is a sample of the before and after - so you can see how, with this class, we were able to take the image closer to how the photographer intended it and wanted it to look.----------------------------------------View fullsizeView fullsizeView fullsizeIf you would like to learn either the basics of Lightroom or the next stage of more creative photo editing then take a look at my upcoming courses and masterclasses and get yourself booked in.----------------------------------------lightroom , photography-courses , student-photos Alan Ranger 11 February 2019Alan Ranger Photography masterclasses , editing-photos LinkedIn0 Pinterest0 Pinterest0",
+  "wordCount": 654,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adobe Lightroom"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Lightroom"
+    }
+  ]
+}
