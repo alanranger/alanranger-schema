@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/top-bluebell-woodland-tips#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1703326308392-JXI12VUFWE054K6HFTWV/bluebell+trumpet.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Capturing Springs Blue Charm: Top Bluebell Woodland Tips",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
