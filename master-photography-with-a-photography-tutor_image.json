@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/master-photography-with-a-photography-tutor#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713534722971-MO0T4B2C9GVY4YVEG071/photography+tutor.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Master Photography with a Professional Photography Tutor",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
