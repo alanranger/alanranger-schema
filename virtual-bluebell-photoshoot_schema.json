@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot",
+  "name": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
+  "description": "24-04-20 - You can’t attend the bluebell photoshoot workshops this year so I am bringing them to you with an NHS Junior Doctor. Please watch and share.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#blogposting"
+  }
+}
