@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do",
+  "name": "What do CAMERA LENS FILTERS DO: A Guide for Beginners",
+  "description": "What do camera lens filters do? This guide walks you through UV filters, ND Filters, Polariser Filters and Graduated filter systems and my best suggestions.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do#blogposting"
+  }
+}
