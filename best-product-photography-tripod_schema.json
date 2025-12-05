@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+  "name": "The Best Product Photography Tripod: Review and Features",
+  "description": "Discover the Best Product Photography Tripod: 94\"/2.4m Overhead Camera Tripod with K&amp;F Concept 3-Way Geared Tripod Head for precise, stable overhead shots.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod#blogposting"
+  }
+}
