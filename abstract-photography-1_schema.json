@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/abstract-photography-1#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/abstract-photography-1",
+  "name": "Abstract Photography - Visual Reference | Professional Guide",
+  "description": "Abstract photography is the art of showing a subject independent of the visual references in the world. Sign up for abstract photo classes | Photography Blog.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/abstract-photography-1#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/abstract-photography-1#blogposting"
+  }
+}
