@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry-school-shoot#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1499247778770-PK5BX81UA976MQGUU1F6/_-139.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Help Portrait - UK-Coventry-School-Shoot | Giving Pictures  ",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
