@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/still-life-photography-practice-assignment#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69237310d7085f67ff341be4/1763930976213/still-life-photography-thumbnail.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Still Life Photography Practice Assignment - Free Lesson",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
