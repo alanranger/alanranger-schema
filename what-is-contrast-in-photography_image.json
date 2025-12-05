@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723314184523-WPHD21J6O0ODEAAWA2SH/what+is+contrast+in+photography.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "What is CONTRAST in Photography: A Guide for Beginners",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
