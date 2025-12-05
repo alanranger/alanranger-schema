@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-equipment-for-beginners#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1424970922072-LEPTLLPJ3OC4OTVSYG3Z/image-asset.jpeg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photography Equipment for Beginners | Professional Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
