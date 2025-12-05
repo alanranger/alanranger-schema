@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/which-lens-should-i-buy-next#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649696245-KARQ2S8WYQZDUWW9JWXA/what_lens_to_buy.jpg.optimal.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Buying a lens.... Which lens should I buy next? | Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
