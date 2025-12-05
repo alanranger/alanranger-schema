@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/new-partnership-with-one-vision-imaging#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1567001494621-XC3X3N7NXRHN8MZN9CPQ/Special+offer+One+Vision.png",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Partnership with One Vision Imaging - 12% off All Products",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
