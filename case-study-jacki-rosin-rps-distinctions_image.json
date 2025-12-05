@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-jacki-rosin-rps-distinctions#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1571327108764-A4X896MCC6BKEAEZZUZT/jacki+rosin+hanging+plan.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Case Study - Jacki Rosin ARPS | RPS Distinctions Panel",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
