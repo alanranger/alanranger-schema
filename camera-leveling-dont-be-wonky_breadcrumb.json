@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Don't be wonky - Get your camera leveling right | Guide",
+      "item": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky"
+    }
+  ]
+}
