@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/tripods-gitzo-vs-benro-review#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1552343838781-N14QJMMBS9K4RBJ642R4/DSC_6414-663.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Benro Review - Head to Head with Gitzo and Manfrotto Tripods",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
