@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "My LRPS journey – Mike Ford | Client RPS Distinctions",
+      "item": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford"
+    }
+  ]
+}
