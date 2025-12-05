@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/shooting-night-time-photography-tips#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/shooting-night-time-photography-tips",
+  "name": "Night time photography - Shooting in Low Light Tips",
+  "description": "It’s amazing how much the landscape changes during the dark hours of the night. During winter, we have even more opportunities to shoot Night Time Photography.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/shooting-night-time-photography-tips#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/shooting-night-time-photography-tips#blogposting"
+  }
+}
