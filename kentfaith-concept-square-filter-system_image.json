@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/kentfaith-concept-square-filter-system#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1730135341502-R6JL0VSTKSRL240T2NU7/K%26F+CONCEPT+Square+System+Pro+Kit.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Review of Kent Faith CONCEPT Square Filter System Pro Kit",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
