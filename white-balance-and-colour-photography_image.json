@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/white-balance-and-colour-photography#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763925307394-RTSAZ1Y0200EEOLYB4Z6/white-balance-and-colour-thumbnail.png",
+  "width": 1500,
+  "height": 1000,
+  "caption": "White Balance and Colour Photography Practice Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
