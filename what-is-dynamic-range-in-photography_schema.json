@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography",
+  "name": "10 What is DYNAMIC RANGE in photography: A Beginners Guide",
+  "description": "Struggling with highlights and shadows? Discover What is DYNAMIC RANGE in photography and grab the free 1-page PDF checklist with field tips and HDR help.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography#blogposting"
+  }
+}
