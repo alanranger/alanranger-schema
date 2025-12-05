@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/exposure-triangle-mastery-photography-practice-assignment#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763916906718-NFTL0OZUDFY9NNM24PW3/exposure-triangle-mastery-thumbnail.png",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Exposure Triangle Mastery Photography Practice Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
