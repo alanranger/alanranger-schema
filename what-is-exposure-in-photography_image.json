@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-exposure-in-photography#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1719229330512-B5JRHUZ81AJZEX2NL2SQ/what+is+exposure+in+photography.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "01 What is EXPOSURE in photography: A Guide for Beginners",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
