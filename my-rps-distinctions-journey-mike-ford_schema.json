@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford",
+  "name": "My LRPS journey – Mike Ford | Client RPS Distinctions",
+  "description": "I am pleased to be able to share a guest blog from Mike Ford, who achieved his LRPS - RPS Distinctions in September 2015 with some personal online mentoring.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/my-rps-distinctions-journey-mike-ford#blogposting"
+  }
+}
