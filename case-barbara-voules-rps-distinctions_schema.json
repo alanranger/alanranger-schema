@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-barbara-voules-rps-distinctions#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/case-barbara-voules-rps-distinctions",
+  "name": "Case Study - Barbara Voules - LRPS | RPS Distinctions Panel",
+  "description": "Another successful LRPS pass from my mentoring programme. Barbara Voules shares her LRPS - RPS Distinctions, the challenges and the resulting successful panel.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-barbara-voules-rps-distinctions#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-barbara-voules-rps-distinctions#blogposting"
+  }
+}
