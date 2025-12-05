@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-mike-ford#howto",
+  "name": "Case Study - Mike Ford shares a photographic journey",
+  "description": "Mike Ford signed up for photography tuition in March 2014 after meeting me the Photography Show at the NEC.&nbsp;&nbsp;Case Study a photographic journey with him to RPS.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-mike-ford#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Why did you want to become a photographer?a.    I've always had an interest in photography for many years but recently have started to seriously look at my images and wondered why they didn’t look as the ones I used to see in the photography magazines. I wanted to understand what I needed to do differently to improve my images2.    Were you scared or anxious to start out?a.    I was more excited and interested in learning new things than scared but submitting your first pictures for review is definitely a scary moment.3.    Why did you select Alan as your tutor?a.    I had decided to find a training course to learn how to get the best out of Adobe Lightroom. All the training I looked at on the internet talked about showing you what lightroom did. I really needed someone to show me how to apply it to my images. I met Alan at the Photography show and we talked about what I needed and I knew straight away his teaching style suited what I needed",
+      "text": "Why did you want to become a photographer?a.    I've always had an interest in photography for many years but recently have started to seriously look at my images and wondered why they didn’t look as the ones I used to see in the photography magazines. I wanted to understand what I needed to do differently to improve my images2.    Were you scared or anxious to start out?a.    I was more excited and interested in learning new things than scared but submitting your first pictures for review is definitely a scary moment.3.    Why did you select Alan as your tutor?a.    I had decided to find a training course to learn how to get the best out of Adobe Lightroom. All the training I looked at on the internet talked about showing you what lightroom did. I really needed someone to show me how to apply it to my images. I met Alan at the Photography show and we talked about what I needed and I knew straight away his teaching style suited what I needed"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "What was your main motivation to commit to Alan’s tuition?a.    To improve the quality of my images and then to develop further to be able to get a portfolio of images together that would be good enough for joining the RPS5.    What type of tuition have you had from Alan?a.    My first course was a half day lightroom session which was excellent, I learnt so much in such a short space of time, I followed this with the mentoring assignments and another half day on a field trip.6.    How do you feel Alan’s teaching style has helped develop your skills the most?a.    My images coming out of lightroom are much better than they were in the past, I feel I have much more of an understanding of what I’m doing now with a defined workflow. Before I was just sliding the settings in a random order hoping they improved the look of the image",
+      "text": "What was your main motivation to commit to Alan’s tuition?a.    To improve the quality of my images and then to develop further to be able to get a portfolio of images together that would be good enough for joining the RPS5.    What type of tuition have you had from Alan?a.    My first course was a half day lightroom session which was excellent, I learnt so much in such a short space of time, I followed this with the mentoring assignments and another half day on a field trip.6.    How do you feel Alan’s teaching style has helped develop your skills the most?a.    My images coming out of lightroom are much better than they were in the past, I feel I have much more of an understanding of what I’m doing now with a defined workflow. Before I was just sliding the settings in a random order hoping they improved the look of the image"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "What are the key things Alan has helped you with?a.    Developing my photographer’s eye and attention to detail. When completing my mentoring assignments I spend much more time looking at the image I am trying to take and thinking of how it could be improved. I am more a technology person than creative so while my images are technically good they could be improved. Alan’s feedback, which is targeted at you as an individual, has pushed me to improve but he has also given tips on how to improve my creative side8.    How do you think you’ve grown as a photographer?a.    My images have definitely taken a step change over the last few years, I am happier with showing my images to others and I now feel I have the skills to take even better images. I feel I am much better at critiquing my own work, in the past I would have looked and been disappointed with the picture with no idea on what to do next but now I look at them knowing what I could do better to improve it",
+      "text": "What are the key things Alan has helped you with?a.    Developing my photographer’s eye and attention to detail. When completing my mentoring assignments I spend much more time looking at the image I am trying to take and thinking of how it could be improved. I am more a technology person than creative so while my images are technically good they could be improved. Alan’s feedback, which is targeted at you as an individual, has pushed me to improve but he has also given tips on how to improve my creative side8.    How do you think you’ve grown as a photographer?a.    My images have definitely taken a step change over the last few years, I am happier with showing my images to others and I now feel I have the skills to take even better images. I feel I am much better at critiquing my own work, in the past I would have looked and been disappointed with the picture with no idea on what to do next but now I look at them knowing what I could do better to improve it"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "What are your ambitions for the future with photography?a.    To eventually have a portfolio that is good enough for entry to the RPS but also to be able to take a good images that feel proud of10.  What advice would you give others who are thinking of starting photography tuition or who are currently studying?a.    Start the process as soon as you can, be prepared to be challenged but you will enjoy it as you see the improvements coming11.  Any other comments:a.    Think about Alan’s advice and really listen and understand what he is saying, it’s quite emotive when he’s not as excited about one of your images as you are, it may have even been one of your favourites! But when you look and think about the feedback you start to see how you could improve your images",
+      "text": "What are your ambitions for the future with photography?a.    To eventually have a portfolio that is good enough for entry to the RPS but also to be able to take a good images that feel proud of10.  What advice would you give others who are thinking of starting photography tuition or who are currently studying?a.    Start the process as soon as you can, be prepared to be challenged but you will enjoy it as you see the improvements coming11.  Any other comments:a.    Think about Alan’s advice and really listen and understand what he is saying, it’s quite emotive when he’s not as excited about one of your images as you are, it may have even been one of your favourites! But when you look and think about the feedback you start to see how you could improve your images"
+    }
+  ]
+}
