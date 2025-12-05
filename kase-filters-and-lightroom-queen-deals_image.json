@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/kase-filters-and-lightroom-queen-deals#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690634569753-INMRWGV3DZRP2JNU1F36/_-526.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Kase Filters and Adobe Lightroom Queen Partner Deals |",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
