@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-lessons-for-beginners#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1548001988746-ECFL7N70EJRM7THBC1TG/passage+way-Alan-Ranger-Photography.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photography Lessons for beginners to learn and practice",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
