@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james-rps-distinctions#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james-rps-distinctions",
+  "name": "Case Study - Joyce James LRPS | RPS Distinctions Panel",
+  "description": "Joyce James shares how she gained her LRPS - RPS Distinctions, the challenges, experience and resulting successful panel with my rps mentoring programme.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james-rps-distinctions#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james-rps-distinctions#blogposting"
+  }
+}
