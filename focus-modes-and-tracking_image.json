@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763925000485-JHTB9X3XJ9RYET4RDUP7/focus-modes-and-tracking-thumbnail.png",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Focus Modes and Tracking Photography Practice Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
