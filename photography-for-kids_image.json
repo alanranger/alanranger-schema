@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-for-kids#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1426168880084-GS5DCXQ466HVB4NU8NJU/image-asset.jpeg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Help children take photos - Photography For Kids Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
