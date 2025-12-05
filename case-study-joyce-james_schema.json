@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james",
+  "name": "Case Study - Joyce James shares a photographic journey",
+  "description": "Joyce signed up for her first photography tuition in September 2013. Since then she has remained a repeat customer - see a photographic journey case study.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-joyce-james#blogposting"
+  }
+}
