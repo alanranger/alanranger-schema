@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723654005875-M83CBXL7QKVYNGMTJG7H/compositional+balance.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Finding Your Compositional Balance: A Guide For Beginner's",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
