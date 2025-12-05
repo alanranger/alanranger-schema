@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions",
+  "name": "Case Study - Peter Orton - ARPS | RPS Distinctions Panel",
+  "description": "Another successful ARPS pass from my mentoring programme. Peter Orton shares his LRPS - RPS Distinctions, the challenges and the resulting successful panel.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions#blogposting"
+  }
+}
