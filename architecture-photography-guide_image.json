@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1723837380026-U35IU8KYNC858D1E6CR3/Architecture+Photography.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "ARCHITECTURE Photography Guide: Step-by-Step for Beginners",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
