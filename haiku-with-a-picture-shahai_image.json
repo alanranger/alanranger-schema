@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/haiku-with-a-picture-shahai#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1644774446565-QY32LJZUG8RU9BVN4ZA7/Overstrand+-+Sep+2020+-+4-Alan-Ranger-Photography-4569.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "the traditional pairing of a haiku with a picture - Shahai",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
