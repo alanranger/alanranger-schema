@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod",
+  "name": "How to use a tripod correctly | Professional Guide",
+  "description": "Tip of the day - Photography Basics – How to use a tripod correctly - 15 Tips from a professional photographer | Photography News Blog | Free Photography Tips.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#blogposting"
+  }
+}
