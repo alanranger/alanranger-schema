@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom#blogposting",
+  "headline": "How to delete duplicate photos in Lightroom Classic",
+  "alternativeHeadline": "How to delete duplicate photos in Lightroom Classic | Alan Ranger Photography",
+  "description": "How to delete duplicate photos in Lightroom Classic can be a tedious task; this guide walks you through how to sort Lightroom duplicate photos and remove them.",
+  "url": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom",
+  "datePublished": "2021-01-31T00:00:00.000Z",
+  "dateModified": "2021-01-31T00:00:00.000Z",
+  "dateCreated": "2021-01-31T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "HOW TO DELETE DUPLICATE PHOTOS IN LIGHTROOM CLASSIC----------------------------------------DUPLICATE PHOTOS IN LIGHTROOM - YEP, IT HAPPENS - THIS GUIDE SHOWS YOU HOW TO DELETE DUPLICATE PHOTOS IN LIGHTROOM CLASSIC SAFELY.BACKGROUNDI recently supported (through an online 1-2-1 using Zoom) a client sort out his Lightroom Library and images and removing duplicate photos in Lightroom. It was a familiar scenario that I have encountered on many occasions with clients. Photos stored in different places; local hard drive, external hard drives, some in Apple Photos, some in Lightroom CC because they installed that instead of Lightroom Classic and so on. Therefore they found Lightroom duplicate photos across their libraryThe client phoned me to ask if I could help them sort it all out and get everything in one place, Lightroom Classic and organise the images into some hieratical structure. Having done that migration umpteen times, I was confident I could assist them. So after a few hours of configuring, and downloading photos from LR CC and Apple Photos we began the import of all the images and, at the same time re-organised them inside of Lightroom Classic into year and date order.As ever this produced multiple copies of the same photo “duplicates” and in this case, there were triplicates and even quadruples! This often occurs because the file names of the photos or file formats are different. i.e jpg or jpeg and so on or previous botched attempts to rescue a failed order.As ever this produced multiple copies of the same photo “duplicates” and in this case, there were triplicates and even quadruples! This often occurs because the file names of the photos or file formats are different. i.e jpg or jpeg and so on or previous botched attempts to rescue a failed hard drive or images renamed the files to a string of letters and numbers.BEST PRACTICE - HOW TO AVOID DUPLICATE PHOTOS IN LIGHTROOMI’ve said this many times before but will say it again, never change the actual file name that the camera assigns to the file. If you do you run the risk of Lightroom and other software treating it as a different image to another version of it. Lightroom provides a field (image Title) separate from the image file name for you to call your image something more interesting than IMG_25478.jpgRemember, that Lightroom and other software can’t actually scan the image graphically to identify if it as a duplicate so it relies on the file name, date and time stamp and metadata (exposure, lens, camera etc). More of this later.Try to stick to one application for your photos, trying to use Apple Photos, iCloud, Lightroom X and Y all as repositories will almost certainly create headaches down the line at some point. All of these applications expect to be the master source so trying to combine multiple applications is not impossible but it takes a lot of discipline and a very tight workflow and unless you are tech-savvy and really understand how to manage this, it’s best avoided.SOLVING THE PROBLEM OF DUPLICATE PHOTOS IN LIGHTROOM AND REMOVING THEM SAFELYAfter the initial import and reorganisation of my clients 25,000 photos, it was apparent very quickly that there were multiple copies of the same images in different resolutions, different file formats and so on. So how to remove duplicate photos in Lightroom safely without going through a long and laborious exercise of manually checking every duplicate occurrence?After some research, to save them that painstaking task, I came across several plug-ins for Lightroom to automate the identification and process of removing them. Some solutions you have to pay a small fee to use (trial versions are available) but the one I finally settled on after testing two paid ones was the free one which worked a treat and was actually better at doing what it said it would do than the two fee-paying plugins I tried.Using this plug-in meant we were able to remove 10,000 duplicates reducing the library from 25,000 to 15,000 photos and the whole process took no more than 30 mins including manually spot-checking the results.TEEKESSELCHEN IS A FAST DUPLICATE FINDER PLUG-IN FOR ADOBE LIGHTROOM USING EXIF META-DATAIt works on Windows and MAChttp://www.bungenstock.de/teekesselchen/ Before you rush off to install it and remove thousands of photos I want to make a disclaimer. I’ve only used this plug-in once for one client only and therefore I assisted them in configuring the parameters, running the scan and manually spot-checking the results before, I asked them to press the DELETE Key to DELETE from Disk! Please, please, please make sure you are comfortable with the parameters you set and with deleting the duplicates. I hold no responsibility for you using the software and/or deleting images.If you would like my assistance to help you through the configuration and process, please book a 1hr 1-2-1 online session The developer has written a tutorial and I found a YouTube video if you want to have a go yourself. You can always install it, configure it, run it to see what it throws up without deleting any images!----------------------------------------Removing duplicates in LightroomRemoving duplicates in Lightroom CriteriaRemoving duplicates in Filters----------------------------------------SIGN UP FOR ONE OF MY WEBINAR, ONLINE PHOTOGRAPHY CLASS TUTORIALS - EDITING WITH LIGHTROOM AND NIK, B&W CONVERSION, FILTERS & BRACKETING, COMPOSITION AND MORE…----------------------------------------If you want to support my business and invest something for when we return to normal working ways you can buy yourself a digital gift voucher. You can redeem the voucher at any time against any event or service. You’ll be spending a little bit now for future use and I will have a little bit of cash flowing in, a win-win. ThanksBuy Yourself A Gift Voucher --------------------------------------------------------------------------------REMEMBER TO VISIT MY PHOTOGRAPHY BLOG PAGE FOR FREE TIPS , INFORMATION, ADVICE AND THE LATEST OFFERS./blog-on-photography/photographing-autumn-uk-landscape-photography-guidePhotographing Autumn - UK landscape photography guide Photographing autumn: Experience the colours and stunning UK landscapes of the season. Discover expert tips and techniques for breathtaking autumn photography.Read More → /blog-on-photography/the-way-of-wu-wei-philosophyThe Way of Wu Wei Philosophy - A Personal Reflection “It is actually in not doing that we achieved this wondrous thing, Sire all we did was create the space for the painting to happen itself. Wu Wei PhilosophyRead More → /blog-on-photography/composition-curiousness-part-1Composition Curiousness - Part 1 | Professional Guide Composition Curiousness - Part 1 - Undoubtedly the most common question I am asked as a tutor is the one around composition. How to, what, why, when and so on Read More → /blog-on-photography/composition-curiousness-part-2Composition Curiousness - Part 2 | Professional Guide “There will always be those who look only at technique, who ask ‘how’, while others of a more curious nature will ask ‘why’.Part 2 composition curiousnessRead More → /blog-on-photography/mastering-the-art-of-seasonal-photographyMastering the Art of Seasonal Photography: Nature's Rhythms Master hy’.Part 2 composition curiousnessRead More → /blog-on-photography/mastering-the-art-of-seasonal-photographyMastering the Art of Seasonal Photography: Nature's Rhythms Mastering the Art of Seasonal Photography: Embracing Nature's Rhythms - Mastering the art of seasonal photography requires more than just technical prowessRead More → /blog-on-photography/what-is-iso-in-photography04 What is ISO in Photography: A Guide for Beginners. What is ISO in photography? Plain-English definition, examples and pro tips. Set ISO for clean results and sharp photos —see when to raise or keep it low....Read More → /blog-on-photography/photo-print-sizes-resize-photosPhoto Print Sizes - Photo Sizing - Print Resolution Guide Free printing guide and calculator for photo print sizes, DPI/PPI and aspect ratios. Check max print size, pixels needed & quality. Download the cheat-sheetRead More → /blog-on-photography/composition-in-photographyComposition in Photography: Why the Camera Isn’t the Artist Master composition in photography with five expert tips. The Camera Isn’t the Artist – You Are. Learn to see, balance, tell stories and create with intentionRead More → ----------------------------------------photography-basics , photography-tips , tip-of-the-day Alan Ranger 31 January 2021Alan Ranger Photography tips , learn-photography , lightroom LinkedIn0 Pinterest0 .com%2Fblog-on-photography%2Fdelete-duplicate-photos-in-lightroom]",
+  "wordCount": 1283,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape photography"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adobe Lightroom"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Lightroom"
+    }
+  ]
+}
