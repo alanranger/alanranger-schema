@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/hartland-quay-devon-coastal-workshop#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1554191496488-R8OFSY9G0IA6SJO7AW9R/_DSC9937-2-2-2-2.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "North Devon Coastal Workshop | Why I love Hartland Quay",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
