@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry",
+  "name": "Help Portrait | UK Coventry Event | Giving Pictures  ",
+  "description": "Help Portrait is about GIVING the pictures, not taking them. These photography portraits aren’t for a portfolio, website, or sale. | Photography News Blog |.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/help-portrait-uk-coventry#blogposting"
+  }
+}
