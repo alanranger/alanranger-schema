@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/using-a-nd-filter#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557649557896-5Y3L9JYK5RK8N1BAKAMI/ND%2BFilters%2B%E2%80%93%2BIn%2BDepth%2BGuide%2BFor%2BBeginners.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Using a ND Filter for Long Exposure Photography | A Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
