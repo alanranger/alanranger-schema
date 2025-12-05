@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/creative-potential-with-nik-collection-7#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Unleash Your Creative Potential with Nik Collection 7",
+      "item": "https://www.alanranger.com/blog-on-photography/creative-potential-with-nik-collection-7"
+    }
+  ]
+}
