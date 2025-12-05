@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-jacki-rosin#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1434537592097-VCWD0HR8O8ISW3VUSDDA/image-asset.jpeg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Case Study - Jacki Rosin - Client A Photographic Journey",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
