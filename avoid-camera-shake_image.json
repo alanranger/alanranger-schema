@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/avoid-camera-shake#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1423468534383-DPL6EQWNR7B4MO9QY6F4/image-asset.jpeg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Avoid Camera Shake - Use a remote release or self-timer",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
