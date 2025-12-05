@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky",
+  "name": "Don't be wonky - Get your camera leveling right | Guide",
+  "description": "DSLR Camera Spirit Level- If there is one thing that tests my patience more than any other thing when reviewing images it's a wonky horizon | camera leveling &nbsp;.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-leveling-dont-be-wonky#blogposting"
+  }
+}
