@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-for-kids#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/photography-for-kids",
+  "name": "Help children take photos - Photography For Kids Guide",
+  "description": "Photography may seem like an adult’s hobby with all the seemingly complicated equipment and varied jargon that comes along with it. | Photography For Kids.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-for-kids#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-for-kids#blogposting"
+  }
+}
