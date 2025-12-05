@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/virtual-bluebell-photoshoot#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1588749383470-I34S9W50YBLIAV120TNV/virtual-bluebell-photography-workshop.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Virtual Bluebell Photoshoot for the NHS | Money Raised",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
