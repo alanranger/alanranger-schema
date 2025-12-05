@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/top-10-composition-mistakes-beginners-make#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1572599056637-HBKMRMT0KJ6QXG3YWTJT/top%2B10%2Bcomposition%2Bmistakes%2Bbeginners%2Bcan%2Bmake.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Top 10 composition mistakes - Guide To Great Composition",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
