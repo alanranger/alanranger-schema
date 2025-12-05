@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-janet-boulter-rps-distinctions#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1615116954569-Q0HUZRS3P8E2X2TXJ4EW/Janet+Boulter+LRPS+Hanging+Plan.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Case Study - Janet Boulter LRPS | RPS Distinctions",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
