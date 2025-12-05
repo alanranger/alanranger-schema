@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/manfrotto-befree-tripod-review#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/manfrotto-befree-tripod-review",
+  "name": "Manfrotto Befree Tripod Review: A Compact Travel Companion",
+  "description": "Discover the Manfrotto Befree Tripod, a compact companion for travellers. Its balance, portability, stability, and versatility enhance your photography.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/manfrotto-befree-tripod-review#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/manfrotto-befree-tripod-review#blogposting"
+  }
+}
