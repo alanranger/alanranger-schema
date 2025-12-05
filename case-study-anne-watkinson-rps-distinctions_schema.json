@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-anne-watkinson-rps-distinctions#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/case-study-anne-watkinson-rps-distinctions",
+  "name": "Case Study - Anne Watkinson LRPS | RPS Distinctions",
+  "description": "Anne Watkinson shares how she gained her LRPS Distinction with my mentoring scheme, the challenges, experience and successful RPS panel | RPS Distinctions.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-anne-watkinson-rps-distinctions#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-anne-watkinson-rps-distinctions#blogposting"
+  }
+}
