@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1742562035404-6D956VURI67PPZR3U6TD/photography-exposure-calculator-thumbnail.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Mastering Exposure: Outdoor Photography Exposure Calculator",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
