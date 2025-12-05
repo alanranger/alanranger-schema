@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/lines-shapes-and-geometry-photography-assignment#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/lines-shapes-and-geometry-photography-assignment",
+  "name": "Lines Shapes and Geometry Photography Practice Assignment",
+  "description": "Lines Shapes and Geometry. This assignment focuses on the use of leading lines, shapes, and geometric elements in photography to guide the viewer's eye.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/lines-shapes-and-geometry-photography-assignment#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/lines-shapes-and-geometry-photography-assignment#blogposting"
+  }
+}
