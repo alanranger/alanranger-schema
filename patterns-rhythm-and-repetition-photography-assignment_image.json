@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/patterns-rhythm-and-repetition-photography-assignment#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1763929047227-WRRQWUVT3ITDUSFS68MS/patterns-rhythm-and-repetition-thumbnail.png",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Patterns Rhythm and Repetition Photography Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
