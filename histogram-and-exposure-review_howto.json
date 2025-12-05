@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/histogram-and-exposure-review#howto",
+  "name": "Histogram and Exposure Review Photography Assignment",
+  "description": "Histogram and Exposure Review. This assignment focuses on understanding and utilising histograms to evaluate exposure in your photographs. By practising with AV.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/histogram-and-exposure-review#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Observe the histogram and ensure you're not clipping highlights.",
+      "text": "Observe the histogram and ensure you're not clipping highlights."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Check the histogram to ensure the subject is properly exposed without losing background detail.",
+      "text": "Check the histogram to ensure the subject is properly exposed without losing background detail."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Compare histograms to see how exposure changes with light.",
+      "text": "Compare histograms to see how exposure changes with light."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Capture images and assess histograms to adjust your technique based on results.",
+      "text": "Capture images and assess histograms to adjust your technique based on results."
+    }
+  ]
+}
