@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1620933273491-S39D0BQG1K5TIUVYKE82/5-4+Viewing+Frame-Main+Image.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photographers Composition Aides - Viewing frames launched",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
