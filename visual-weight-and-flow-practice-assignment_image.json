@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/visual-weight-and-flow-practice-assignment#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69236182d487e43ee3c36ade/1763926680481/visual-weight-and-flow-thumbnail.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Visual Weight and Flow Photography Practice Assignment",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
