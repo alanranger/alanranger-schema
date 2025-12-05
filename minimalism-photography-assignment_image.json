@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/minimalism-photography-assignment#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/692362f668d9ab0e78bac5de/1763927145760/minimalism-thumbnail.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Minimalism Photography Practise Assignment - Free.",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
