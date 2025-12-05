@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/ultimate-guide-to-summer-landscape-photography#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1690201652587-9BFVF0IQISYIMB5MKIPW/summer%2Blandscape%2Bphotography.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "The Ultimate Guide to Summer Landscape Photography",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
