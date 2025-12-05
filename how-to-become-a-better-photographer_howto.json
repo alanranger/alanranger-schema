@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer#howto",
+  "name": "Seven Tips On How To Become A Better Photographer? ",
+  "description": "Unlock the secrets of capturing breathtaking shots! Learn how to become a better photographer and take your skills to the next level-Turn Heads with your photos.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Practise - at least weeklyLearning any new skill, be it driving, playing an instrument or attending a weekly fitness class requires commitment and effort on your part to see improvements.   Photography is no different, you have to practise on a regular basis in a disciplined way if you want to improve.",
+      "text": "Practise - at least weeklyLearning any new skill, be it driving, playing an instrument or attending a weekly fitness class requires commitment and effort on your part to see improvements.   Photography is no different, you have to practise on a regular basis in a disciplined way if you want to improve."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Ask for feedbackGetting constructive feedback from photographers you respect and whose work you connect with is an invaluable way to improve.  We all have blind spots, technically and creatively, other people’s observations can often reveal and spot something that wasn’t obvious to us.  This is essential feedback on how to become a better photographer.",
+      "text": "Ask for feedbackGetting constructive feedback from photographers you respect and whose work you connect with is an invaluable way to improve.  We all have blind spots, technically and creatively, other people’s observations can often reveal and spot something that wasn’t obvious to us.  This is essential feedback on how to become a better photographer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Read your camera manualIf you’re obsessing about how your camera operates and finding settings then your cognitive capacity is being diverted away from your subject and creativity.   How much time do you burn in the moment trying to find a setting, a button and option in the menu system?  Get to know your camera system inside out if you want to learn how to become a better photographer.",
+      "text": "Read your camera manualIf you’re obsessing about how your camera operates and finding settings then your cognitive capacity is being diverted away from your subject and creativity.   How much time do you burn in the moment trying to find a setting, a button and option in the menu system?  Get to know your camera system inside out if you want to learn how to become a better photographer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Shoot with other photographersIf you are one of those who only takes the camera out when with the family or non-photography friends then you will know the scenario… “how long does it take to take a photo?”  It’s frustrating for you and them so make time to pursue your hobby and interest in photography with those who share your passion.  Learning with like-minded people is essential on how to become a better photographer.",
+      "text": "Shoot with other photographersIf you are one of those who only takes the camera out when with the family or non-photography friends then you will know the scenario… “how long does it take to take a photo?”  It’s frustrating for you and them so make time to pursue your hobby and interest in photography with those who share your passion.  Learning with like-minded people is essential on how to become a better photographer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Learn from your mistakesIt’s easy to look for excuses about why you took the shot with those settings or that composition and so on.  All those reasons maybe genuine and unavoidable at that moment in time.   However, recognising the opportunities to improve and not repeat the errors that could have been dealt with are the golden nuggets of improvement.  This was one of my biggest but game-changing elements to how to become a better photographer.",
+      "text": "Learn from your mistakesIt’s easy to look for excuses about why you took the shot with those settings or that composition and so on.  All those reasons maybe genuine and unavoidable at that moment in time.   However, recognising the opportunities to improve and not repeat the errors that could have been dealt with are the golden nuggets of improvement.  This was one of my biggest but game-changing elements to how to become a better photographer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Get professional tuitionThere are lots of individuals and “companies” offering photography training, just search online and you will see the array of options offering you  classes, workshops and courses claiming to address all your needs.  Of course, I am one of those listings, but with a difference!  I am not just a professional photographer with awards and accolades, I have also invested in training to become a qualified photography tutor.",
+      "text": "Get professional tuitionThere are lots of individuals and “companies” offering photography training, just search online and you will see the array of options offering you  classes, workshops and courses claiming to address all your needs.  Of course, I am one of those listings, but with a difference!  I am not just a professional photographer with awards and accolades, I have also invested in training to become a qualified photography tutor."
+    }
+  ]
+}
