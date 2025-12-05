@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera",
+  "name": "Phone Camera Vs the Digital Camera | Is the mobile good?",
+  "description": "I have lost count of the number of times I have heard someone say, within earshot, that the Phone camera is great. &nbsp;I agree how does it compare to a dslr.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/iphone-camera-vs-the-digital-camera#blogposting"
+  }
+}
