@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/ten-tips-towards-better-composition#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1594369829319-GY8N5YVSIA12ZHOW3AOW/photography-tips+%282%29.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Tip of the day - Ten tips towards better composition",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
