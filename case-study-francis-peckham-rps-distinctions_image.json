@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-francis-peckham-rps-distinctions#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674578390871-ITHWM1SE83SEHH73U62P/Screenshot+2023-01-24+162812.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Case Study - Francis Peckham LRPS | RPS Distinctions",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
