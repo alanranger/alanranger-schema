@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography",
+  "name": "What is FRAMING in photography: A Guide for Beginners",
+  "description": "What is framing in photography? Learn types of frames, when to blur or keep context, how to expose for the subject. Step-by-step tips and a printable checklist.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#blogposting"
+  }
+}
