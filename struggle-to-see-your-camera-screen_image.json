@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/struggle-to-see-your-camera-screen#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1557648655192-VCSDD9IP79KT4Z9CDG4S/Annotation+2019-05-12+091000.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Struggle to see your camera screen | Professional guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
