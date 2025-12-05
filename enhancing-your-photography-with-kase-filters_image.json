@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/enhancing-your-photography-with-kase-filters#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712474982299-8EV96NGNTB9PF6GTOJS0/_-693.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photographic Filters:Enhancing Your Photos with Kase Filters",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
