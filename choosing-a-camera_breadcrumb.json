@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/choosing-a-camera#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Choosing a camera - Considerations and Comparisons",
+      "item": "https://www.alanranger.com/blog-on-photography/choosing-a-camera"
+    }
+  ]
+}
