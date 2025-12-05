@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis#blogposting",
+  "headline": "A Christmas Day memory for those less fortunate. | Crisis",
+  "alternativeHeadline": "A Christmas Day memory for those less fortunate. | Crisis | Alan Ranger Photography",
+  "description": "Give a homeless person the gift of a memory in print this Christmas Day. Donate £1.50 to give one person a portrait. Crisis Christmas Day Coventry 2018.",
+  "url": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis",
+  "datePublished": "2018-12-06T00:00:00.000Z",
+  "dateModified": "2018-12-06T00:00:00.000Z",
+  "dateCreated": "2018-12-06T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "A CHRISTMAS DAY MEMORY FOR THOSE LESS FORTUNATE. | CRISISGIVE A HOMELESS PERSON THE GIFT OF A MEMORY IN PRINT THIS CHRISTMAS DAYDONATE £1.50 TO GIVE ONE PERSON A PORTRAIT.Donate as much as you want to provide as many portrait prints as possibleCRISIS COVENTRY 25TH DECEMBER 2018.Two of my clients (Chris Shaw and Laura Byrne) previous photographers of the Help-portrait Events in 2017 have very kindly volunteered their Christmas Day to provide portrait/event photos for the Crisis Coventry Christmas Day Event.Last year’s photos very warmly received so help Chris and Laura raise enough money to provide 100+ photos on the 25th Dec 2018.Crisis Christmas Daynews Alan Ranger 6 December 2018Alan Ranger Photography help-portrait LinkedIn0 Tumblr 0 Likes",
+  "wordCount": 117,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/a-christmas-day-memory-crisis#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
+}
