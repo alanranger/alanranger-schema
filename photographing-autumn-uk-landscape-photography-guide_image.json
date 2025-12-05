@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photographing-autumn-uk-landscape-photography-guide#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1704615437736-5D3FG54ZKUBNGARMCRX4/Cheddar%2BGorge%2B%252311%2B-%2BNov%2B2021.jpg",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photographing Autumn - UK landscape photography guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
