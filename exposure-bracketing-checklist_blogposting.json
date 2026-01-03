@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist#blogposting",
+  "headline": "Exposure Bracketing  Checklist Photography Guide - 1 Page",
+  "alternativeHeadline": "Exposure Bracketing  Checklist Photography Guide - 1 Page | Alan Ranger Photography",
+  "description": "Exposure Bracketing  Checklist Photography Guide - 1 Page.",
+  "url": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist",
+  "datePublished": "2026-02-01T00:00:00.000Z",
+  "dateModified": "2026-02-01T00:00:00.000Z",
+  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    }
+  ]
+}
