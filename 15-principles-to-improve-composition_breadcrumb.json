@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "15 Principles to improve Composition Field Checklist",
+      "item": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition"
+    }
+  ]
+}
