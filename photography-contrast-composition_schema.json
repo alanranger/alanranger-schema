@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition",
+  "name": "Photography Contrast Composition - 1 page field Checklist",
+  "description": "Photography Contrast Composition - 1 page field Checklist.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition#blogposting"
+  }
+}
