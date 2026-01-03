@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/street-photography-guide#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Street Photography Guide - 1 Page Field Checklist.",
+      "item": "https://www.alanranger.com/blog-on-photography/street-photography-guide"
+    }
+  ]
+}
