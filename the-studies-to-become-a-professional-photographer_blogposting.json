@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/the-studies-to-become-a-professional-photographer#blogposting",
+  "headline": "The Studies Needed to Become a Professional Photographer",
+  "alternativeHeadline": "The Studies Needed to Become a Professional Photographer | Alan Ranger Photography",
+  "description": "The Studies Needed to Become a Professional Photographer.",
+  "url": "https://www.alanranger.com/blog-on-photography/the-studies-to-become-a-professional-photographer",
+  "datePublished": "2025-04-02T23:00:00.000Z",
+  "dateModified": "2025-04-02T23:00:00.000Z",
+  "dateCreated": "2025-04-02T23:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/the-studies-to-become-a-professional-photographer#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/the-studies-to-become-a-professional-photographer#webpage"
+  }
+}
