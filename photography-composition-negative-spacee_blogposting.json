@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee#blogposting",
+  "headline": "Photography Composition Negative Space - 1 Page Checklist",
+  "alternativeHeadline": "Photography Composition Negative Space - 1 Page Checklist | Alan Ranger Photography",
+  "description": "Photography Composition Negative Space - 1 Page Checklist.",
+  "url": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee",
+  "datePublished": "2026-02-01T00:00:00.000Z",
+  "dateModified": "2026-02-01T00:00:00.000Z",
+  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    }
+  ]
+}
