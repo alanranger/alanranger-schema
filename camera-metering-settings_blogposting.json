@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-metering-settings#blogposting",
+  "headline": "Camera Metering Settings -1 Page Checklist Photography Guide",
+  "alternativeHeadline": "Camera Metering Settings -1 Page Checklist Photography Guide | Alan Ranger Photography",
+  "description": "Camera Metering Settings -1 Page Checklist Photography Guide.",
+  "url": "https://www.alanranger.com/blog-on-photography/camera-metering-settings",
+  "datePublished": "2026-02-01T00:00:00.000Z",
+  "dateModified": "2026-02-01T00:00:00.000Z",
+  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-metering-settings#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-metering-settings#webpage"
+  }
+}
