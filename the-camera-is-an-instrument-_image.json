@@ -2,10 +2,10 @@
   "@context": "https://schema.org",
   "@type": "ImageObject",
   "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#primaryimage",
-  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1418394735515-JAMPSOM33AV1HLIP4G2V/kids.jpg",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/53a14938e4b08fa460f5d615/1729883563674/kids.jpg?format=1500w",
   "width": 1500,
   "height": 1000,
-  "caption": "The camera is an instrument to teaches people how to see ",
+  "caption": "The camera is an instrument to teaches people how to see",
   "inLanguage": "en-GB",
   "creator": {
     "@id": "https://www.alanranger.com/#person"
