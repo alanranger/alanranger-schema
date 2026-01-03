@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-composition-framing#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6957e6e6d5f6e95e0b7e94e9/1767372353498/1+page+photography+field+checklist.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photography Composition Framing - 1 Page Field Checklist",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
