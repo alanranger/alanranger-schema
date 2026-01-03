@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#blogposting",
+  "headline": "Product Photography Guide - 1 Page Field Checklist",
+  "alternativeHeadline": "Product Photography Guide - 1 Page Field Checklist | Alan Ranger Photography",
+  "description": "Product Photography Guide - 1 Page Field Checklist.",
+  "url": "https://www.alanranger.com/blog-on-photography/product-photography-guide",
+  "datePublished": "2026-02-01T00:00:00.000Z",
+  "dateModified": "2026-02-01T00:00:00.000Z",
+  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#webpage"
+  }
+}
