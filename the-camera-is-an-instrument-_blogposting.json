@@ -2,16 +2,16 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#blogposting",
-  "headline": "The camera is an instrument to teaches people how to see ",
-  "alternativeHeadline": "The camera is an instrument to teaches people how to see  | Alan Ranger Photography",
-  "description": "The camera is an instrument that teaches people how to see without a camera. This revealing quote was from American portraitist Dorothea Lange - Blog Post.",
+  "headline": "The camera is an instrument to teaches people how to see",
+  "alternativeHeadline": "The camera is an instrument to teaches people how to see | Alan Ranger Photography",
+  "description": "The camera is an instrument to teaches people how to see.",
   "url": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-",
-  "datePublished": "2022-05-11T00:00:00.000Z",
-  "dateModified": "2022-05-11T00:00:00.000Z",
-  "dateCreated": "2022-05-11T00:00:00.000Z",
+  "datePublished": "2022-11-05T00:00:00.000Z",
+  "dateModified": "2022-11-05T00:00:00.000Z",
+  "dateCreated": "2022-11-05T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "Which Photography Courses Are Best For Me? Course Calendar Beginners Photography Course Free Online Photography Course Beginners Lightroom Course RPS Mentoring photography-lessons-online-1-2-1 Private 1-2-1 Lessons Monthly Mentoring Assignments Intentions Course 2.5hr - 4hr Workshops One-day Workshops Residential Workshops Gift Vouchers 1-2-1 Zoom Support Private 1-2-1 Lessons Gear Checks & Services Fine Art Prints Pick N Mix - Payment Plans Products, Services & Property Photography Portrait Photography Staff Training on Photography Blog Academy Recommended Products THE CAMERA IS AN INSTRUMENT TO TEACHES PEOPLE HOW TO SEE“THE CAMERA IS AN INSTRUMENT THAT TEACHES PEOPLE HOW TO SEE WITHOUT A CAMERA.”This revealing quote was from American portraitist Dorothea Lange. quoted in: Los Angeles Times (13 Aug. 1978).By Alan Ranger 2006My experience has taught me that it can take a long time for us mere mortals of photography to learn the art of seeing rather than snapping. It's a principle that I try to instill into all my students when helping them to develop their eye for a shot.Over the years the camera has allowed me to not only capture moments but, importantly, recognise the photographic opportunity in the first place. This is not simply a case of applying formulaic rules of composition because the photograph needs to communicate more than just the position of subjects in a frame. For me at least, it absolutely starts with seeing something that catches my eye or I feel would translate well into a photographic format. One of the key elements I think about is of course framing and that generally means simplicity to me - less is often more and in the case of a photograph I find my own preference leans towards images that keep the content and subject unambiguous. Of course the resulting photograph doesn't tell us everything - it can't. However it should in my opinion provide us enough information to connect to it on an emotional level and ask the viewer to look for longer than 3 seconds.Spending more than a few seconds loo ontent and subject unambiguous. Of course the resulting photograph doesn't tell us everything - it can't. However it should in my opinion provide us enough information to connect to it on an emotional level and ask the viewer to look for longer than 3 seconds.Spending more than a few seconds looking at something before you press the shutter will, over time, improve your eye for seeing, feeling and learning how to create a photograph rather than simply taking one. It's an evolving journey and one that fascinates me as I witness how my own eye has evolved over the years - as a result of looking at the world through the camera the world now looks back at me in a different way.PLEASE LIKE AND SHARE THIS POST IF YOU FOUND IT USEFUL USING THE SHARE LINK BELOWphotography-tips Alan Ranger 0 Tumblr 0 Likes",
-  "wordCount": 476,
+  "articleBody": "",
+  "wordCount": 0,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#primaryimage"
   },
@@ -26,29 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Royal Photographic Society"
-    },
-    {
-      "@type": "Thing",
-      "name": "Photographic composition"
-    },
-    {
-      "@type": "Thing",
-      "name": "Adobe Lightroom"
-    }
-  ],
-  "mentions": [
-    {
-      "@type": "Thing",
-      "name": "RPS"
-    },
-    {
-      "@type": "Thing",
-      "name": "Lightroom"
-    }
-  ]
+  }
 }
