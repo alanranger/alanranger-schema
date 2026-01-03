@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/composition-photography-style#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/composition-photography-style",
+  "name": "Photography Composition Photography Style - 1 Page Checklist",
+  "description": "Photography Composition Photography Style - 1 Page Checklist.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/composition-photography-style#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/composition-photography-style#blogposting"
+  }
+}
