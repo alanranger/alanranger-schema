@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings#blogposting",
+  "headline": "Camera Manual Exposure Settings - 1 Page Checklist Guide",
+  "alternativeHeadline": "Camera Manual Exposure Settings - 1 Page Checklist Guide | Alan Ranger Photography",
+  "description": "Camera Manual Exposure Settings - 1 Page Checklist Guide.",
+  "url": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings",
+  "datePublished": "2026-02-01T00:00:00.000Z",
+  "dateModified": "2026-02-01T00:00:00.000Z",
+  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    }
+  ]
+}
