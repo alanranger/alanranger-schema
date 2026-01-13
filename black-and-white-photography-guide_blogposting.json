@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide#blogposting",
   "headline": "Black and White Photography Guide - 1 Page Field Checklist",
   "alternativeHeadline": "Black and White Photography Guide - 1 Page Field Checklist | Alan Ranger Photography",
-  "description": "Black and White Photography Guide - 1 Page Field Checklist.",
+  "description": "Alan Ranger2 January 2026photography genre guide LinkedIn0 Pinterest0.",
   "url": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Black and White Photography Guide - 1 Page Field Checklist Alan Ranger2 January 2026photography genre guide LinkedIn0 Pinterest0",
+  "wordCount": 18,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
