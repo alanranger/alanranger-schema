@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/schools-photo-project#blogposting",
   "headline": "Schools Photo Project - Photography for kids with learning",
   "alternativeHeadline": "Schools Photo Project - Photography for kids with learning | Alan Ranger Photography",
-  "description": "Schools Photo Project - Photography for kids with learning.",
+  "description": "The assignments as was surprised at how well she handled them and enjoyed it.",
   "url": "https://www.alanranger.com/blog-on-photography/schools-photo-project",
-  "datePublished": "2017-11-05T00:00:00.000Z",
-  "dateModified": "2017-11-05T00:00:00.000Z",
-  "dateCreated": "2017-11-05T00:00:00.000Z",
+  "datePublished": "2017-05-11T00:00:00.000Z",
+  "dateModified": "2017-05-11T00:00:00.000Z",
+  "dateCreated": "2017-05-11T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "the assignments as was surprised at how well she handled them and enjoyed it. Ruby's Project here: The group of 16-18 year olds I taught were all lovely, enthusiastic (in the main) and definitely young adults that thought outside the box. Doing anything technical was not appropriate so I needed to design tasks and teach in a way that they grasped the creative objective without needing to understand the technical how and why so much. Photography is not a technical pursuit of subjects that allow us to use equipment and practise the rule of thirds, long exposure or some other technique and method. Photography is a creative and expressive process that allows us to make unique interpretations of how we view the world and feel about the subjects in it. I am really proud of how the students engaged in the photo project assignments. Whilst concentration levels, persistence and patience were traits that were problematic they all still gave each assignment lots of effort and thought. Here are some samples of the shots they took - I have excluded any shots that included them in the frame so these images only represent the Nature, Abstract and Still Life assignments. View fullsize news, student-photosAlan Ranger11 May 2017Alan Ranger Photographykids LinkedIn0 Pinterest0",
+  "wordCount": 210,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/schools-photo-project#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/schools-photo-project#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    }
+  ]
 }
