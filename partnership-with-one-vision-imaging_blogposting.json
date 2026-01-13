@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging#blogposting",
   "headline": "Order Prints with One Vision Imaging - 12% off All Products",
   "alternativeHeadline": "Order Prints with One Vision Imaging - 12% off All Products | Alan Ranger Photography",
-  "description": "Order Prints with One Vision Imaging - 12% off All Products.",
+  "description": "Printing and even framing one of your photographs is a great gift for someone this Christmas.",
   "url": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging",
-  "datePublished": "2021-06-06T23:00:00.000Z",
-  "dateModified": "2021-06-06T23:00:00.000Z",
-  "dateCreated": "2021-06-06T23:00:00.000Z",
+  "datePublished": "2021-07-06T00:00:00.000Z",
+  "dateModified": "2021-07-06T00:00:00.000Z",
+  "dateCreated": "2021-07-06T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Order Prints with One Vision Imaging - 12% off All Products Printing and even framing one of your photographs is a great gift for someone this Christmas. Why not take advantage of the 12% discount I have negotiated with One Vision Imaging Ltd for all my clients and turn your digital image into a beautiful framed print for someone this Christmas. Creating an account and uploading your photo to One Vision’s web portal is easy. Once you have registered your account, follow the steps below to ensure the 12% discount is applied to your account automatically. Then you are ready to go, order fine art prints with your choice framing and mounting at any size. One Vision can also turn your photo into a jigsaw puzzle and many other items so take a look at their site for the many ways you can use your photos. One Vision Imaging One Vision provides a full and professional print service that is unrivalled in range of products, quality of print and professional service. They are based in my home town of Coventry but have a great online portal for clients to upload images remotely and order their prints, with overmount or frames or whatever product you would like your photographs printed on. View fullsize 12% off for Alan Ranger Photography Clients To take advantage of this ongoing discount offer you need to register your account or create one on the One Vision website and then follow these steps. The 12% Discount will be applied automatically to your account to all orders placed through the website portal. To take advantage of this offer, follow these steps: • Register your Free Account at One Vision - https://www.onevisionimaging.com/account/register, if you already have an account, go to step 2 Contact Adam Edwards at One Vision via email to confirm you are an Alan Ranger client. adam.edwards@onevisionimaging.com Adam will check with me that you are a client. Adam will add an automatic discount of 12% to your account for all future orders placed through the account. That’s it, simple! photography-offers, photography-tipsAlan Ranger6 July 2021Alan Ranger Photographyprinting, tips LinkedIn0 Pinterest0",
+  "wordCount": 352,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
