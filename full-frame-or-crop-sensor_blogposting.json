@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor#blogposting",
   "headline": "Full Frame or Crop Sensor - Checklist Photography Guide",
   "alternativeHeadline": "Full Frame or Crop Sensor - Checklist Photography Guide | Alan Ranger Photography",
-  "description": "Full Frame or Crop Sensor - Checklist Photography Guide.",
+  "description": "Alan Ranger2 January 2026camera settings guide LinkedIn0 Pinterest0.",
   "url": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Full Frame or Crop Sensor - Checklist Photography Guide Alan Ranger2 January 2026camera settings guide LinkedIn0 Pinterest0",
+  "wordCount": 17,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
