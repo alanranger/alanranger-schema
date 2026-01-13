@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings#blogposting",
   "headline": "Camera white Balance Settings -Checklist Photography Guide",
   "alternativeHeadline": "Camera white Balance Settings -Checklist Photography Guide | Alan Ranger Photography",
-  "description": "Camera white Balance Settings -Checklist Photography Guide.",
+  "description": "Alan Ranger2 January 2026camera settings guide LinkedIn0 Pinterest0.",
   "url": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Camera white Balance Settings -Checklist Photography Guide Alan Ranger2 January 2026camera settings guide LinkedIn0 Pinterest0",
+  "wordCount": 15,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
