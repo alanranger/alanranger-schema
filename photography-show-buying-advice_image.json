@@ -2,10 +2,10 @@
   "@context": "https://schema.org",
   "@type": "ImageObject",
   "@id": "https://www.alanranger.com/blog-on-photography/photography-show-buying-advice#primaryimage",
-  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1583778616619-O6A2X26KI87JQXCAOD7I/photography-shop-logo-2020.jpg",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/58c53a40d1758e424ef6959c/1733787919302/photography-shop-logo-2020.jpg?format=1500w",
   "width": 1500,
   "height": 1000,
-  "caption": "photography show buying guide | Professional Guide ",
+  "caption": "photography show buying guide | Professional Guide",
   "inLanguage": "en-GB",
   "creator": {
     "@id": "https://www.alanranger.com/#person"
