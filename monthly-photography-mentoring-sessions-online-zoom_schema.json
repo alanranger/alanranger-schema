@@ -79,8 +79,8 @@
         "price": "15.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2025-11-21",
-        "priceValidUntil": "2026-11-21",
+        "validFrom": "2026-01-13",
+        "priceValidUntil": "2027-01-13",
         "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
         "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#offer",
         "seller": {

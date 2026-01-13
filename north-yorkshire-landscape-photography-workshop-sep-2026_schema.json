@@ -56,37 +56,37 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Anglesey Landscape Photography Workshop - May 2026",
-          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
+          "name": "North Yorkshire Landscape Photography Workshop - Sep 2026",
+          "item": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography"
         }
       ],
-      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#breadcrumbs"
+      "@id": "https://www.alanranger.com/north-yorkshire-landscape-photography#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "ANGLESEY Landscape Photography Workshop -  May 2026",
-      "sku": "SQ8503376",
+      "name": "NORTH YORKSHIRE Landscape Photography Workshop - Sep 2026",
+      "sku": "SQ9283225",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this exciting Anglesey landscape photography workshop, where we will shoot along the stunning coastline features to capture breathtaking vistas that showcase the natural beauty surrounding the shorelines and iconic lighthouses.Summary - Anglesey Photography WorkshopLocation: Wales - Anglesey IslandDates: Fri 8th May 15:00 - Sun 10th May 14:00, 2026Duration: 3 Days/2 NightsParticipants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Wor...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707225841274-TEMCPAEP5DHDVCBJP2RD/anglesey+photography+workshop.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
+      "description": "An exciting 4-day residential Yorkshire Landscape Photography Workshop - visiting some of the iconic spots around the North Yorkshire Coast and MoorsSummary - Photography Workshops YorkshireLocation: North YorkshireDates:Thu 10 Sep - Sun 13 Sep 2026 - 4 Days/3 NightsParticipants: Max 3Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: North YorkshireDescription: North Yorkshire Landscape Photography - We will be based on the northeast coast of England (North Yorkshire and the Moors) and visit so...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212716744-VYD7AYV9U6N6VEZ3C4D1/North+Yorkshire+Photography+Workshop.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ8503376",
-        "price": "795.00",
+        "sku": "SQ9283225",
+        "price": "1450.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-01-13",
         "priceValidUntil": "2027-01-13",
         "priceSpecification": {
-          "price": "795.00",
+          "price": "1450.00",
           "priceCurrency": "GBP"
         },
-        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
+        "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -120,16 +120,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Janice Jordan"
+            "name": "James Cameron"
           },
-          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
+          "reviewBody": "Alan is relatively not that well known and it is only time until he is. My advice to everyone reading this, is to book a session and approach it with an open mind and you will get tonnes of value from the time spent with him.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-03-07",
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -139,51 +139,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Allison T"
+            "name": "Danielle Daley"
           },
-          "reviewBody": "Excellent guidance and advice. Good briefings pre and post shoot. Clear joining instructions Would have appreciated more time one on one as when you get it it’s worthwhile. Acknowledge that’s hard in a group though.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mosie"
-          },
-          "reviewBody": "A great few informative days With Alan in Wales on a workshop.  Alan managed to find places to photograph despite the dreadful weather.  Will definitely book to go on another workshop.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
+          "reviewBody": "The content of the course was excellent and has definitely inspired me to think more about the photos I'm taking and how to get the result I want.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-04-10",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -193,9 +158,47 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Blake"
+            "name": "Pom"
           },
-          "reviewBody": "Had a great weekend, saw some fantastic locations. The midday light was quite harsh but Alan planned it well to make the most of locations according to light and tide. I like having the weekend off driving, it was nice to be able to relax and be ferried between locations! Top picture from Llanddwyn Island.",
+          "reviewBody": "Covers the basics of both technical and composition - ideal for beginner with just a bit of knowledge. Recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-04-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christopher Walton"
+          },
+          "reviewBody": "Really good course for introducing basic photography techniques that really makes you think about the process behind taking a photo. Would reccomend it for those just getting into photography or those thinking of getting into it.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-02-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise Campbell"
+          },
+          "reviewBody": "Excellent content delivered within a 3hour slot which flew by. Alan was both engaging and inspirational and definitely motivated me to go and experiment and improve my photography skills. Thank you!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -210,10 +213,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.6",
+        "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#product"
     }
   ]
 }

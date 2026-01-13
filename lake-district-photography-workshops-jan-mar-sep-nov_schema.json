@@ -65,26 +65,26 @@
     {
       "@type": "Product",
       "name": "LAKE DISTRICT Photography Workshops - Jan - Mar - Sep - Nov",
-      "sku": "SQ9016326",
+      "sku": "SQ0142956",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "An exciting 3 day/2 night residential lake district photography workshop visiting some gorgeous spots around Cumbria. Runs every Jan, Mar, Sep, NovSummaryLocation: Cumbria - Lake DistrictDates:Fri 23 Jan - Sun 25 Jan - 3 Days/2 Nights 2026Fri 20 Mar - Sun 22 Mar - 3 Days/2 Nights 2026Fri 18 Sep - Sun 20 Sep - 3 Days/2 Nights 2026Fri 13 Nov - Sun 15 Nov - 3 Days/2 Nights 2026Extra night B&B available for Thu - Contact me for details and booking separatelyParticipants: Max 4Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotogra...",
+      "description": "An exciting 3 day/2 night residential lake district photography workshop visiting some gorgeous spots around Cumbria. Runs every Jan, Mar, Sep, NovSummaryLocation: Cumbria - Lake DistrictDates:Fri 20 Mar - Sun 22 Mar - 3 Days/2 Nights 2026Fri 18 Sep - Sun 20 Sep - 3 Days/2 Nights 2026Fri 13 Nov - Sun 15 Nov - 3 Days/2 Nights 2026Fri 22 Jan - Sun 24 Jan - 3 Days/2 Nights 2027Extra night B&B available for Thu - Contact me for details and booking separatelyParticipants: Max 4Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotogra...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714301696717-TME057MTL131H9UHU82H/Bassenthwaite+Rise.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ9016326",
-          "price": "975.00",
+          "sku": "SQ0142956",
+          "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-21",
-          "priceValidUntil": "2026-11-21",
-          "name": "Fri 23 Jan - 25 Jan - 3 Days 2026",
+          "validFrom": "2026-01-13",
+          "priceValidUntil": "2027-01-13",
+          "name": "Fri 20 Mar - Sun 22 Mar - 3 Days 2026",
           "priceSpecification": {
-            "price": "975.00",
+            "price": "1075.00",
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
@@ -119,13 +119,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ0142956",
+          "sku": "SQ9100538",
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-21",
-          "priceValidUntil": "2026-11-21",
-          "name": "Fri 20 Mar - Sun 22 Mar - 3 Days 2026",
+          "validFrom": "2026-01-13",
+          "priceValidUntil": "2027-01-13",
+          "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
             "priceCurrency": "GBP"
@@ -162,13 +162,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ9100538",
+          "sku": "SQ5158309",
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-21",
-          "priceValidUntil": "2026-11-21",
-          "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
+          "validFrom": "2026-01-13",
+          "priceValidUntil": "2027-01-13",
+          "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
             "priceCurrency": "GBP"
@@ -205,15 +205,15 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5158309",
-          "price": "1075.00",
+          "sku": "SQ9016326",
+          "price": "975.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-21",
-          "priceValidUntil": "2026-11-21",
-          "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
+          "validFrom": "2026-01-13",
+          "priceValidUntil": "2027-01-13",
+          "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
           "priceSpecification": {
-            "price": "1075.00",
+            "price": "975.00",
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",

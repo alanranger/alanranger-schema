@@ -56,37 +56,33 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Anglesey Landscape Photography Workshop - May 2026",
-          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
+          "name": "Gower Landscape Photography Wales - 28 Aug - 30 Aug 2026",
+          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop"
         }
       ],
-      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#breadcrumbs"
+      "@id": "https://www.alanranger.com/landscape-photography-wales-photo-workshop#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "ANGLESEY Landscape Photography Workshop -  May 2026",
-      "sku": "SQ8503376",
+      "name": "GOWER Landscape Photography Wales - 28 Aug - 30 Aug 2026",
+      "sku": "SQ5141863",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this exciting Anglesey landscape photography workshop, where we will shoot along the stunning coastline features to capture breathtaking vistas that showcase the natural beauty surrounding the shorelines and iconic lighthouses.Summary - Anglesey Photography WorkshopLocation: Wales - Anglesey IslandDates: Fri 8th May 15:00 - Sun 10th May 14:00, 2026Duration: 3 Days/2 NightsParticipants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Wor...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707225841274-TEMCPAEP5DHDVCBJP2RD/anglesey+photography+workshop.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
+      "description": "Stunning shorelines and beauty of South Wales and the Gower Peninsular. Max 3 places for this residential photography workshop - landscape photography walesSummaryLocation: South Wales - Gower PeninsularDates:Fri 28th Aug - Sun 30th Aug 2026 - 3 Days/2 NightsParticipants: Max 3Fitness: 3. HardExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodLandscape photography Wales Photography Workshop Event Details: GowerDescription: Just a short distance away from Swansea, the Gower Peninsula is a remarkable sight for landscape photography in Wales.Gower is a ...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715702409761-590M3MJ45KYXBDH1KSM0/Gower+%2305+-+May+2024.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ8503376",
-        "price": "795.00",
+        "sku": "SQ5141863",
+        "price": "825.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-01-13",
         "priceValidUntil": "2027-01-13",
-        "priceSpecification": {
-          "price": "795.00",
-          "priceCurrency": "GBP"
-        },
-        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
+        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -120,100 +116,104 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Janice Jordan"
+            "name": "Hardeep Nagra"
           },
-          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
+          "reviewBody": "Alan undertook some house shoots for me. He was excellent in his communication before, during and after the shoot. End product was as described. Would love to use again",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-03-07",
+          "datePublished": "2023-02-24",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Allison T"
+            "name": "lonnie morris"
           },
-          "reviewBody": "Excellent guidance and advice. Good briefings pre and post shoot. Clear joining instructions Would have appreciated more time one on one as when you get it it’s worthwhile. Acknowledge that’s hard in a group though.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mosie"
-          },
-          "reviewBody": "A great few informative days With Alan in Wales on a workshop.  Alan managed to find places to photograph despite the dreadful weather.  Will definitely book to go on another workshop.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
+          "reviewBody": "I love Alan's workshops.  I've been to 2 3day workshops. Alan is helpful when you need it but let's you get on with it at other times. I have learnt a lot from his sessions and enjoyed them. His feedback is valuable. He's well organised and thorough. His work before the workshops makes for a really good experience.  He chooses nice places to stay and the social aspect is good too. I'd recommend the workshops although the Gower in June is going to be a challenge because of the time of year. Although it's nicer to stand outdoors in the summer, workshops in autumn and winter would be my preference. Anyway, if you're thinking of booking or buying a gift for someone.....do it!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2023-02-21",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Blake"
+            "name": "Paula Greenlees"
           },
-          "reviewBody": "Had a great weekend, saw some fantastic locations. The midday light was quite harsh but Alan planned it well to make the most of locations according to light and tide. I like having the weekend off driving, it was nice to be able to relax and be ferried between locations! Top picture from Llanddwyn Island.",
+          "reviewBody": "I learnt so much from the 'Get Off Auto' course. The sessions were well explained with visual examples, along with a printed guide to everything that was covered. Each week's homework challenged my skills and I will use these to continue to improve my photography. I think I am now looking at composition in a more complex way and hope to join some of the workshops in the field.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2023-02-21",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Pitt"
+          },
+          "reviewBody": "Great session on macro photography. Alan was very helpful in his explanations and advice. To be recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick Oleary"
+          },
+          "reviewBody": "Alan is a superb photographer. Very professional and delivers exactly what I require.  Efficient and great value with a quality result.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
           }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.6",
+        "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop#product"
     }
   ]
 }
