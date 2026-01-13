@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training#blogposting",
   "headline": "Official Jaguar Land Rover Training Partner and ELS Scheme",
   "alternativeHeadline": "Official Jaguar Land Rover Training Partner and ELS Scheme | Alan Ranger Photography",
-  "description": "Official Jaguar Land Rover Training Partner and ELS Scheme.",
+  "description": "Alan Ranger Photography has been an official provider of photography courses and training for the Jaguar Land Rover Employee Learning Scheme for the last 4.",
   "url": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training",
-  "datePublished": "2023-01-07T00:00:00.000Z",
-  "dateModified": "2023-01-07T00:00:00.000Z",
-  "dateCreated": "2023-01-07T00:00:00.000Z",
+  "datePublished": "2023-07-01T00:00:00.000Z",
+  "dateModified": "2023-07-01T00:00:00.000Z",
+  "dateCreated": "2023-07-01T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Official Jaguar Land Rover Training Partner and ELS Scheme Alan Ranger Photography has been an official provider of photography courses and training for the Jaguar Land Rover Employee Learning Scheme for the last 4 years and has tutored many clients through the scheme.What is the ELS scheme? - Jaguar Land Rover training ELS Jaguar Land Rover Training - Employee Learning Scheme (ELS) All employees of Jaguar Land Rover can apply for £200 towards training or learning new skills under the Employee Learning Scheme. The ELS funding can be used to pay for our courses in full or in part, like the 4 week beginners course, (£200) or as part-payment towards any tuition - practical location tuition - 2 Day Workshops £300 for example. We have a range of other courses, workshops, masterclasses and 1-2-1 photography tuition and you can use your voucher for any of them. How do I apply for Jaguar Land Rover training? • Get in touch with Alan Ranger Photography and we can discuss which event(s) you would like to attend. Contact your ELS Office to apply for your Employees Learning Scheme Credit Voucher. Solihull Office: Block 17, 53S7/3 Lode Lane, Solihull, West Midlands, B92 8NW. Tel: 0121 347 2400 (ext. 8733 2400). Email: elscheme@jaguarlandrover.com ELS will generate a Credit Voucher that details the course and your name. Forward the voucher from ELS to us by email: info@alanranger.com Your place will then be confirmed, and you will be given details of how to make payment of any shortfall in voucher value for the event. news, photography-courses, photography-offers, photography-workshops, recommended-productsAlan Ranger1 July 2023Alan Ranger Photographyels, jlr LinkedIn0 Pinterest0",
+  "wordCount": 270,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
