@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide#blogposting",
   "headline": "Portrait Photography Guide - 1 Page Field Checklist",
   "alternativeHeadline": "Portrait Photography Guide - 1 Page Field Checklist | Alan Ranger Photography",
-  "description": "Portrait Photography Guide - 1 Page Field Checklist.",
+  "description": "Alan Ranger2 January 2026photography genre guide LinkedIn0 Pinterest0.",
   "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Portrait Photography Guide - 1 Page Field Checklist Alan Ranger2 January 2026photography genre guide LinkedIn0 Pinterest0",
+  "wordCount": 16,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
