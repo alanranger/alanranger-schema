@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-editing#blogposting",
   "headline": "Tip of the day - photography basics - Creative Editing",
   "alternativeHeadline": "Tip of the day - photography basics - Creative Editing | Alan Ranger Photography",
-  "description": "Tip of the day - photography basics - Creative Editing.",
+  "description": "Photography Basics - Creative Editing – Ten Lessons10 ways to improve the final image - Photography Basics • The more you get right in the camera the less.",
   "url": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-editing",
-  "datePublished": "2021-06-01T23:00:00.000Z",
-  "dateModified": "2021-06-01T23:00:00.000Z",
-  "dateCreated": "2021-06-01T23:00:00.000Z",
+  "datePublished": "2021-02-06T00:00:00.000Z",
+  "dateModified": "2021-02-06T00:00:00.000Z",
+  "dateCreated": "2021-02-06T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "Tip of the day - photography basics - Creative Editing Photography Basics - Creative Editing – Ten Lessons10 ways to improve the final image - Photography Basics • The more you get right in the camera the less time you spend editing • Every correction for sloppy camera work degrades the quality of the image • The camera can only take the image so far so recognise the potential of an image with editing • Stick to your intention for the image when editing – if you don’t know, don’t edit • Tame your adjustments so they stay balanced and representative of what you want to show • Never edit or style an image according to what’s popular or seems to fit the trends • Be true to yourself and the image – no one else should judge your work more than you • Use the best tool for the job, don’t get attached to one method or toolset • Take time to edit regularly and thoroughly so you become proficient and efficient at it • Be prepared to live with a version for some time and if needs be, re-work it again. If you want to support my business and invest something for when we return to normal working ways you can buy yourself a digital gift voucher. You can redeem the voucher at any time against any event or service. You’ll be spending a little bit now for future use and I will have a little bit of cash flowing in, a win-win. Thanks Buy yourself a gift voucher photography-basics, photography-tips, tip-of-the-dayAlan Ranger6 February 2021tips, learn-photography LinkedIn0 Pinterest0",
+  "wordCount": 270,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-editing#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-creative-editing#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
