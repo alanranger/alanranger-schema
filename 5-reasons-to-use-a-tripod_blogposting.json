@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod#blogposting",
   "headline": "5 Reasons why a tripod will help you to become better",
   "alternativeHeadline": "5 Reasons why a tripod will help you to become better | Alan Ranger Photography",
-  "description": "5 Reasons why a tripod will help you to become better.",
+  "description": "5 Reasons why A tripod will help you to become a better photographer A tripod is one of the most essential accessories available to photographers – and it.",
   "url": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod",
-  "datePublished": "2021-08-06T23:00:00.000Z",
-  "dateModified": "2021-08-06T23:00:00.000Z",
-  "dateCreated": "2021-08-06T23:00:00.000Z",
+  "datePublished": "2021-07-08T00:00:00.000Z",
+  "dateModified": "2021-07-08T00:00:00.000Z",
+  "dateCreated": "2021-07-08T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "5 Reasons why a tripod will help you to become better 5 Reasons why A tripod will help you to become a better photographer A tripod is one of the most essential accessories available to photographers – and it is often one of the most undervalued. Everyone is familiar with the basic advantage of using a tripod: the solid platform will keep your camera steady and ensure pin-point sharp image quality whatever the environment. Yet there is so much more to this simple three legged tool. 1. Tighter compositions A tripod allows you to slow down and really think about the scene that you want to capture. You can make minor panning, tilting and height adjustments to get tighter compositions and with ultimate image-control you’ll create the perfect shot. 2. Achieve longer exposure The effects of using long exposure in photography are stunning and it’s absolutely essential to make use of a tripod to create such enhanced images. This is because by lengthening the shutter speed on your camera you are exposing yourself to the risk of camera shaking and blurring. 3. Forget compromise of depth of field, ISO or sharpness For maximum depth of field you’ll probably be shooting at a small aperture, and ISO 100 to 400. When light is slightly restricted a slower shutter speed is required to get adequate exposure in the image. By using a tripod you won’t need to compromise on anything and you’ll be able to achieve perfectly exposed and pin-sharp depth of field. 4. Expand photographic range The number of subjects and situations where a tripod is essential or at least, beneficial, are endless. Night photography, macro or panoramic shots are just some examples that require an unnaturally steady hand due to the requirement of long exposure; however this is easily achievable when a sturdy tripod optimises the effect. 5. Take a load off As a landscape photographer, you will need to carry around heavy sets of kit whilst hiking or climbing through tumultuous environments - and fatigue will be your enemy. It may, therefore, seem counterproductive to suggest that adding more equipment to your load, such as a tripod, will make life easier on location photo shoots. Yet there is logic to this madness: it makes sense to let your tripod do the work and avoid shaky hands. Join me on Photography Workshops to get first-hand experience and learn how to make the most of your equipment on location. Available throughout the year, the carefully planned workshops are an ideal chance to savour the fun and expertise of personalised support from a renowned, professional photographer. If you would like to find out how I can help you to achieve stunning photography, call me on 07817017994 or email info@alanranger.com. photography-tipsAlan Ranger8 July 2021tripod LinkedIn0 Pinterest0",
+  "wordCount": 463,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod#primaryimage"
   },
@@ -26,5 +26,27 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Aperture (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Shutter speed"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape photography"
+    }
+  ]
 }
