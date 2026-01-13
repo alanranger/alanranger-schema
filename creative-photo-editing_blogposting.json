@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#blogposting",
   "headline": "Creative Photo Editing MasterClass | Professional Tuition",
   "alternativeHeadline": "Creative Photo Editing MasterClass | Professional Tuition | Alan Ranger Photography",
-  "description": "Creative Photo Editing MasterClass | Professional Tuition.",
+  "description": "Before you process of how you want the image to look and feel.",
   "url": "https://www.alanranger.com/blog-on-photography/creative-photo-editing",
-  "datePublished": "2019-11-02T00:00:00.000Z",
-  "dateModified": "2019-11-02T00:00:00.000Z",
-  "dateCreated": "2019-11-02T00:00:00.000Z",
+  "datePublished": "2019-02-11T00:00:00.000Z",
+  "dateModified": "2019-02-11T00:00:00.000Z",
+  "dateCreated": "2019-02-11T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "before you process of how you want the image to look and feel. Creative Photo Editing • A. Imitate Learn to use the instrument competently. The Mechanics of it B. Assimilate Make choices about the subject matter, genre, and personal style. The Reason for it C. Innovate Develop a body of work that ties together your own vision. The Personal Execution of it The analogy doesn't just apply to composition and making the image in camera but also to what and how you process an image in Lightroom, Photoshop or any other tools at your disposal. The Creative Photo Editing Masterclass focuses attention on \"what do you want your image to look like and say\" and then through consultation, we go through the editing process step by step. Janet and Con were both asked to bring five images each along to the class. The original image and the version they had edited. Based on these two comparisons we took the image through a series further edits to bring out elements that they felt were lacking or wanted further input on. \"Attended a masterclass on Creative Photo Editing which was excellent. Alan provided both technical and artist guidance to help develop my photography.\" Janet Boulter 9th Jan 2018 Here is a sample of the before and after - so you can see how, with this class, we were able to take the image closer to how the photographer intended it and wanted it to look. View fullsize If you would like to learn either the basics of Lightroom or the next stage of more creative photo editing then take a look at my upcoming courses and masterclasses and get yourself booked in. lightroom, photography-courses, student-photosAlan Ranger11 February 2019Alan Ranger Photographymasterclasses, editing-photos LinkedIn0 Pinterest0",
+  "wordCount": 292,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#primaryimage"
   },
@@ -26,5 +26,21 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/creative-photo-editing#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adobe Lightroom"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Lightroom"
+    }
+  ]
 }
