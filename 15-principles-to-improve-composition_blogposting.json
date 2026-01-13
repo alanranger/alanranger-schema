@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition#blogposting",
   "headline": "15 Principles to improve Composition Field Checklist",
   "alternativeHeadline": "15 Principles to improve Composition Field Checklist | Alan Ranger Photography",
-  "description": "15 Principles to improve Composition Field Checklist.",
+  "description": "Download Alan Ranger2 January 2026composition checklist LinkedIn0 Pinterest0.",
   "url": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition",
-  "datePublished": "2026-02-01T00:00:00.000Z",
-  "dateModified": "2026-02-01T00:00:00.000Z",
-  "dateCreated": "2026-02-01T00:00:00.000Z",
+  "datePublished": "2026-01-02T00:00:00.000Z",
+  "dateModified": "2026-01-02T00:00:00.000Z",
+  "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "15 Principles to improve Composition Field Checklist Download Alan Ranger2 January 2026composition checklist LinkedIn0 Pinterest0",
+  "wordCount": 15,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
