@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#blogposting",
   "headline": "The camera is an instrument to teaches people how to see",
   "alternativeHeadline": "The camera is an instrument to teaches people how to see | Alan Ranger Photography",
-  "description": "The camera is an instrument to teaches people how to see.",
+  "description": "Before you press the shutter will, over time, improve your eye for seeing, feeling and learning how to create a photograph rather than simply taking one.",
   "url": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-",
-  "datePublished": "2022-11-05T00:00:00.000Z",
-  "dateModified": "2022-11-05T00:00:00.000Z",
-  "dateCreated": "2022-11-05T00:00:00.000Z",
+  "datePublished": "2022-05-11T00:00:00.000Z",
+  "dateModified": "2022-05-11T00:00:00.000Z",
+  "dateCreated": "2022-05-11T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "",
-  "wordCount": 0,
+  "articleBody": "before you press the shutter will, over time, improve your eye for seeing, feeling and learning how to create a photograph rather than simply taking one. It's an evolving journey and one that fascinates me as I witness how my own eye has evolved over the years - as a result of looking at the world through the camera the world now looks back at me in a different way. Please like and share this post if you found it useful using the share link below photography-tipsAlan Ranger0 Pinterest0",
+  "wordCount": 89,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#primaryimage"
   },
@@ -26,5 +26,11 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/the-camera-is-an-instrument-#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
 }
