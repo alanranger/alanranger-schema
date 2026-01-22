@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/best-cameras-for-beginners#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69721d65a54ee271dfab060f/1769089295425/Best+Camera+for+Beginners+sony+a6400+bundle.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Best Cameras For Beginners",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
