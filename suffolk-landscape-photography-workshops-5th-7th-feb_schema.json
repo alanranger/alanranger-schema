@@ -56,33 +56,37 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-          "item": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
+          "name": "Suffolk Landscape Photography Workshops - 5th-7th Feb",
+          "item": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops"
         }
       ],
-      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#breadcrumbs"
+      "@id": "https://www.alanranger.com/suffolk-landscape-photography-workshops#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-      "sku": "SQ1182401",
+      "name": "SUFFOLK Landscape Photography Workshops - 5th-7th Feb",
+      "sku": "SQ2176971",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Fireworks Photography Workshop - Long exposure and fireworks. Learn about camera settings, exposure use and composition.SummaryLocation: KenilworthDates: TBCParticipants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: FireworksDescription: Fireworks photography workshop Kenilworth. We will be photographing from outside the castle walls so you don't need to by a ticket for the display. Kenilworth castle acts an excellent backdrop for the amazing fireworks display organised by the Round Table...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713518270092-GJSBASA0ZLL4NBMCK355/Kenilworth+Fireworks+2017+-+2.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
+      "description": "Join us for an inspiring Suffolk landscape photography workshop, where you'll have the opportunity to create stunning long exposures during breathtaking sunrises and vibrant sunsets. We will explore picturesque quays, serene estuaries, intriguing piers, and tranquil marshes, all while capturing the beauty of charming beach huts and ancient woodlands. Emphasising artistic expression, we'll also delve into the world of black and white photography, allowing you to bring a classic touch to your coastal images.SummaryLocation: Suffolk - East Anglia / Southwold/Aldeburgh AreaDates: Fri 5th 09:30 ...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714650055069-5DPM44ERXSX234XAGLA9/Southwold+%2304+-+February+2024.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ1182401",
-        "price": "75.00",
+        "sku": "SQ2176971",
+        "price": "995.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-02-23",
         "priceValidUntil": "2027-02-23",
-        "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#offer",
+        "priceSpecification": {
+          "price": "995.00",
+          "priceCurrency": "GBP"
+        },
+        "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,35 +120,15 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paula Major"
-          },
-          "reviewBody": "Fireworks photography. Guidance and instructions at the start of  the workshop, then Alan helped everyone as the fireworks started.  Thoroughly enjoyed the evening, great value.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-11-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Frederick  Stubbs"
           },
-          "reviewBody": "Lovely location and lots of good advice from Alan",
+          "reviewBody": "Really enjoyable despite the challenges set by Storm Dennis.  Learnt a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-11-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -154,16 +138,15 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Cheryl Millyard"
+            "name": "Janice Jordan"
           },
-          "reviewBody": "Learnt enough that I would feel confident photographing fireworks by myself. Got some great shots. Good value",
+          "reviewBody": "A great workshop in Suffolk.",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4",
+            "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-11-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,16 +156,15 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Eva B"
+            "name": "KP"
           },
-          "reviewBody": "For this fireworks photo-shoot Alan sent out a clear briefing sheet beforehand and answered my questions by email, which helped me prepare before getting there. Starting early, he gave each of us time and help to get our cameras set up and ready to shoot. Once the fireworks started he checked with each of us that everything was going according to plan, giving guidance as needed.  I got some great photos - really pleased I went!",
+          "reviewBody": "An excellent and enjoyable workshop in Suffolk.   Had a great weekend, stormy conditions didn’t get in the way, with plenty of opportunities to shoot, and support, help and advice where needed. The added photo review was really helpful. Thanks Alan, looking forward to the next one.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-11-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -192,16 +174,33 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John"
+            "name": "Joyce James"
           },
-          "reviewBody": "The Firework workshop was very enjoyable and informative.",
+          "reviewBody": "Thoroughly enjoyed the latest workshop in Suffolk battling with storm Dennis! Alan worked hard - and long hours -In order to maximise the opportunities to practice our photographic skills and develop our expertise.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-11-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracey Jones"
+          },
+          "reviewBody": "I had a really lovely day and learned some new techniques.   I would definitely book another one of Alan's workshops and recommend to others.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -210,10 +209,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
+        "ratingValue": "5.0",
         "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops#product"
     }
   ]
 }

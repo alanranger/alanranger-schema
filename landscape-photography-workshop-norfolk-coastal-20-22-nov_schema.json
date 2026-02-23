@@ -56,33 +56,37 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-          "item": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
+          "name": "Landscape Photography Workshop Norfolk - Coastal 20 – 22 Nov",
+          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
         }
       ],
-      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#breadcrumbs"
+      "@id": "https://www.alanranger.com/landscape-photography-workshop-norfolk#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-      "sku": "SQ1182401",
+      "name": "Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov",
+      "sku": "SQ8747213",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Fireworks Photography Workshop - Long exposure and fireworks. Learn about camera settings, exposure use and composition.SummaryLocation: KenilworthDates: TBCParticipants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: FireworksDescription: Fireworks photography workshop Kenilworth. We will be photographing from outside the castle walls so you don't need to by a ticket for the display. Kenilworth castle acts an excellent backdrop for the amazing fireworks display organised by the Round Table...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713518270092-GJSBASA0ZLL4NBMCK355/Kenilworth+Fireworks+2017+-+2.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
+      "description": "Landscape Photography Workshop Norfolk - Coastal Photography Based Nr CromerSummary - Norfolk Photography WorkshopLocation: North Norfolk Coast - Cromer AreaDates: Fri 20th, 09:30am - Sun 22nd Nov 2026, 14:00 - 3 Days/2 NightsParticipants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: NorfolkDescription: Photography Workshop Norfolk - We will photograph the North Norfolk coastline ranging from Overstand and Cromer sea fronts and groynes to the atmospheric estuaries of Morston Quay and Blak...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711625462292-PCMT7Q118L1X51MPSENJ/Wells+Next+To+Sea+%2302+-+Sep+2022.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ1182401",
-        "price": "75.00",
+        "sku": "SQ8747213",
+        "price": "1025.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-02-23",
         "priceValidUntil": "2027-02-23",
-        "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#offer",
+        "priceSpecification": {
+          "price": "1025.00",
+          "priceCurrency": "GBP"
+        },
+        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,54 +120,15 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paula Major"
+            "name": "Peter Hagger"
           },
-          "reviewBody": "Fireworks photography. Guidance and instructions at the start of  the workshop, then Alan helped everyone as the fireworks started.  Thoroughly enjoyed the evening, great value.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-11-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Frederick  Stubbs"
-          },
-          "reviewBody": "Lovely location and lots of good advice from Alan",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-11-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Cheryl Millyard"
-          },
-          "reviewBody": "Learnt enough that I would feel confident photographing fireworks by myself. Got some great shots. Good value",
+          "reviewBody": "A well organised shoot, expert advice when needed. Despite weather problems Alan found alternative sites and had a flexible approach.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-11-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,16 +138,15 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Eva B"
+            "name": "Harriet"
           },
-          "reviewBody": "For this fireworks photo-shoot Alan sent out a clear briefing sheet beforehand and answered my questions by email, which helped me prepare before getting there. Starting early, he gave each of us time and help to get our cameras set up and ready to shoot. Once the fireworks started he checked with each of us that everything was going according to plan, giving guidance as needed.  I got some great photos - really pleased I went!",
+          "reviewBody": "A fantastic three days in Norfolk with Alan. The weekend was planned really thoroughly to ensure we had a great selection of locations and spent a minimum amount of time in the car - although the agenda was flexible enough to move things around to suit conditions and the preferences of the group. Alan was always on hand to help with our pictures re settings, composition and equipment and would show is what he was doing as he was shooting as well. Accommodation and food stops all very good too. A thoroughly enjoyable weekend that has really helped with my photography",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-11-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -192,16 +156,33 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John"
+            "name": "Dr James Parker"
           },
-          "reviewBody": "The Firework workshop was very enjoyable and informative.",
+          "reviewBody": "I attended one of Alan's 3 day all inclusive trips to Norfolk this September. It was extremely well organised, with a detailed itinerary which covered a huge range of locations to suit all tastes. His knowledge of the locations and where to get the best shots was excellent. The itinerary was adjusted according to the changes in weather and worked brilliantly. There was opportunity to try new techniques and creative styles with tuition or you can just do what you normally do in a beautiful place.  There were plenty of loo stops, a great B&B and some fantastic places to eat. I valued Alan's direct feedback and guidance, but he won't mince his words and will be honest and clear! Alan was always available for input but his style is not to be in your face, which our group appreciated. He is extremely knowledgable and skilled but is able to pitch things at the right level for the range of skill across the group. His good humour made the weekend great fun for all. Thanks",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-11-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy Holmes"
+          },
+          "reviewBody": "Despite challenging circumstances, Alan proved to be an excellent tour leader. Accomodation was great value and instruction was first class.  He clearly tries to tailor his guidance to individual needs from the discussions at the beginning of the workshop. Alan offers a range of options for his workshops and it is clear that some participants had not known what they were looking for which makes it near impossible to satisfy those with wholly unrealistic expectations.  I will go again and hope to get more appropriate weather next time.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -210,10 +191,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": 5
+        "ratingValue": "4.75",
+        "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk#product"
     }
   ]
 }

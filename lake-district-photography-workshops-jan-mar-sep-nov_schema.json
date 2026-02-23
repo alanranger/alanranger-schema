@@ -80,8 +80,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Fri 20 Mar - Sun 22 Mar - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -123,8 +123,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -166,8 +166,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -209,8 +209,8 @@
           "price": "975.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
           "priceSpecification": {
             "price": "975.00",
@@ -248,6 +248,139 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bassam Al Jazy"
+          },
+          "reviewBody": "I recently attended the Landscape Photography Devon Workshop with Mr. Alan Ranger, and it was an outstanding experience from start to finish. The workshop was well-organized, with a detailed schedule and excellent information about each location — including the best times for sunrise, sunset, high tide, and low tide. Everything we needed to know was clearly explained and thoughtfully planned.  The choice of locations was perfect for training and practice. Each spot offered unique opportunities to experiment with composition, light, and timing. I must admit, I learned a lot of useful techniques, creative ideas, and ways to think differently about each shot — especially the importance of being patient and waiting for the right moment.  There were only three of us in total, which made the experience even more personal and interactive. I also learned a great deal from my fellow participants. The commuting distances between locations were short and comfortable, and Alan proved to be not only an excellent tutor but also an excellent driver!  Overall, this workshop was both educational and inspiring. I’m truly grateful for the experience and hope to join Alan again for more workshops in other locations.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Derek Butt"
+          },
+          "reviewBody": "Hartland Quay 25-28 September 2025. My first photography workshop, and was a great experience.  Hotel very comfortable, good breakfasts and restaurant for dinners.  The locations chosen for shooting provided opportunities for landscape, seascape and intimate landscapes.  Alan gave analysis of images taken, advised changes to improve images and reviews of the results from each location, and kept us moving along.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Kitteringham"
+          },
+          "reviewBody": "Very enjoyable weekend landscape photography workshop with Alan in the Lake District.  Despite some challenging weather conditions I learnt an enormous amount and had a lot of fun.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra Dawkes"
+          },
+          "reviewBody": "A few days prior to the evening workshop Alan sent through a 2 page worksheet packing with useful information, which I found helpful. Alan also set the bracketing on my camera so I could compensate for the high contrast lighting.  Second review 8 January 2026 for 1:1 meeting on zoom This was a session to review edits on my photos for the LRPS, Alan was encouraging but also honest and what I needed to do to in order to progress my panel photos.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clifford Katsande"
+          },
+          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KrishnaKumar Kuttan"
+          },
+          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cat Harris"
+          },
+          "reviewBody": "Great course, lots of information and resources. Small group therefore not overlooked. Highly recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -347,9 +480,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Pyta"
+            "name": "Patsy Louer"
           },
-          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
+          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -366,9 +499,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patsy Louer"
+            "name": "Dave Pyta"
           },
-          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
+          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -583,48 +716,12 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Stuart Feurtado"
-          },
-          "reviewBody": "This was the first workshop I've attended and I'm very pleased to say that I found it a very entertaining, interesting and thought provoking experience. Alan's tutoring touch was light but accurately placed so that so that we (a group of 3 plus Alan) had ample time to  understand and put into practice his advice without feeling pressured. Locations were chosen with our input to suite the changing weather conditions of early February. Alan is certainly knowledgeable and  passionate about photography and passes that on with humour and patience.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Nina Dhanani"
-          },
-          "reviewBody": "I went on a 3 day Lake District workshop with Alan. I find him approachable and a pleasure to learn from. He has so much patience and his passion for photography enables him to teach it in a clear and precise manner. I have signed up for many more of Alan's courses/workshop as I love his teaching style.   Thank you Alan for all your support so far in my photography journey :)",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 20
+        "reviewCount": 25
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#product"
     }

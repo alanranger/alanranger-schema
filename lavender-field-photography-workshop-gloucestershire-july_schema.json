@@ -71,7 +71,7 @@
         "name": "Alan Ranger Photography"
       },
       "description": "Join me in the Cotswolds for a spectacular lavender field landscape workshop. Photograph in the evening hours by arrangement of owners (date is subject to change or weather on the day) Price includes entry fee of £30SummaryLocation: Snowshill - GloucestershireDates:Sat 4th Jul 2026 - 17:00 20:00Sat 11th Jul 2025 - 17:00 20:00Participants: Max 6Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: LavenderDescription: Join me in the Cotswolds for a spectacular sight of Lavender. We will shoot into the e...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714571149035-8ZN5I6UWJRIY2TG52JNT/Lavender+Photography+Workshop.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714572933715-EIVNF6O80HEJCSEU5D4U/lavender+sprint.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
       "offers": [
         {
@@ -80,8 +80,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Sat 4th Jul 2026 - 17:00 20:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer1",
@@ -119,8 +119,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-01-13",
-          "priceValidUntil": "2027-01-13",
+          "validFrom": "2026-02-23",
+          "priceValidUntil": "2027-02-23",
           "name": "Sat 11th Jul 2026 - 17:00 20:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer2",
