@@ -79,8 +79,8 @@
         "price": "195.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-02-23",
-        "priceValidUntil": "2027-02-23",
+        "validFrom": "2026-02-25",
+        "priceValidUntil": "2027-02-25",
         "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
         "seller": {
