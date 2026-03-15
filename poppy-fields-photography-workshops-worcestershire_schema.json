@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Poppy fields photography workshop - Choose a sunrise or sunset 2.5hrs photo workshop at amazing poppy fields in Worcestershire | Seasonal DependantSummaryLocation: WorcestershireDates: (dates are subject to change based on when the poppy fields flower in June)8th Jun 19:15 - 21:459th Jun 05:00 - 07:30Participants: Max 6Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: PoppiesDescription: Rolling hills full of poppies takes some beating. Join me for one of the poppy fields photography location shoot...",
+      "description": "Poppy fields photography workshop - Choose a sunrise or sunset 2.5 hrs photo workshop at amazing poppy fields in Worcestershire | Seasonal Dependant Summary Location: Worcestershire Dates: (dates are subject to change based on when the poppy fields flower in June)8 th Jun 19:15 - 21:459 th Jun 05:00 - 07:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Poppies Description: Rolling hills full of poppies takes some beating. Join me for one of the poppy fields photography...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714575407530-MBS3PUSXD9GGHA68754C/poppy+dawn.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "95.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sat 8 Jun 19:15-21:45",
           "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "95.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sun 9 Jun 05:00-07:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

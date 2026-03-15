@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Private online photography classes tailored to your needs - Tuition & support on any aspect of photography - Pay Now - Book dates later.Online photography classes and support are run via Zoom (free to use)Must be used within 12 months of purchase dateIf you want a package (series) of lessons, these package options offer a discount for purchasing multiples. Mon - Fri - 9 am - 5 pm1 x 1hr - £50 - Normal Price for lesson4 x 1hr - 15% Off normal price6 x 1hr - 20% Off normal price8 x 1hr - 25% Off normal price12 x 1hr - 25% Off normal price",
+      "description": "Private online photography classes tailored to your needs - Tuition & support on any aspect of photography - Pay Now - Book dates later.Online photography classes and support are run via Zoom (free to use)Must be used within 12 months of purchase date If you want a package (series) of lessons, these package options offer a discount for purchasing multiples. Mon - Fri - 9 am - 5 pm 1 x 1 hr - £50 - Normal Price for lesson 4 x 1 hr - 15% Off normal price 6 x 1 hr - 20% Off normal price 8 x 1 hr - 25% Off normal price 12 x 1 hr - 25% Off normal price",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1698395506000-MRZ4RFY6D3D1ZT6B2MND/photography-classes-online.png",
       "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Zoom 1 x 1hr - 9am 5pm - Mon-Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "170.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Zoom Package 4 x 1hr (15% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -158,8 +158,8 @@
           "price": "240.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Zoom Package 6 x 1hr (20% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer3",
@@ -170,7 +170,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -197,8 +197,8 @@
           "price": "300.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Zoom Package 8 x 1hr (25% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer4",
@@ -209,7 +209,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -236,8 +236,8 @@
           "price": "450.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Zoom Package 12 x 1hr (25% Off) 9am 5pm - Mon -Fri",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer5",
@@ -248,7 +248,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

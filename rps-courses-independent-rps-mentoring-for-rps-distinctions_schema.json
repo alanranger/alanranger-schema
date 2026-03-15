@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "RPS Courses - Independant RPS Mentoring for RPS Distinctions - Start anytime, you select six online Zoom sessions within twelve months at intervals to suit youRPS Courses - Mentoring for DistinctionsParticipants: Via Zoom online in a group of max 3, or on 1-2-1 basis.Equipment Needed: Zoom AppDropbox App used for updated portfolios and imagesTerms: Sessions must be taken within 12 months of booking the course or forfeited, but there are options to extend the timeline and retain unused classes or add additional classes.Method:Technical and creative critique with suggestions for improvementAd...",
+      "description": "RPS Courses - Independant RPS Mentoring for RPS Distinctions - Start anytime, you select six online Zoom sessions within twelve months at intervals to suit you RPS Courses - Mentoring for Distinctions Participants: Via Zoom online in a group of max 3, or on 1-2-1 basis.Equipment Needed: Zoom App Dropbox App used for updated portfolios and images Terms: Sessions must be taken within 12 months of booking the course or forfeited, but there are options to extend the timeline and retain unused classes or add additional classes.Method:Technical and creative critique with suggestions for improvement...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707307452323-G3C2AIXAHRLLVB36VASA/RPS+Courses.jpg",
       "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "295.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "RPS Distinctions Course - 6 Sessions",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "RPS Extend 6 Months (No Extra Sessions)",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -158,8 +158,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "RPS Extend 2 classes within 3 months",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer3",
@@ -170,7 +170,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -197,8 +197,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "RPS Extend 4 classes within 6 months",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer4",
@@ -209,7 +209,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -236,8 +236,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "RPS Extend 6 classes 12 months Extra",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer5",
@@ -248,7 +248,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

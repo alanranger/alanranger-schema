@@ -56,33 +56,34 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Monthly Photography Mentoring Sessions - Online - Zoom",
-          "item": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring"
+          "name": "Photography Gift Vouchers | Digital eCard | Email Delivery",
+          "item": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers"
         }
       ],
-      "@id": "https://www.alanranger.com/monthly-online-photography-mentoring#breadcrumbs"
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Monthly Photography Mentoring Sessions - Online - Zoom",
-      "sku": "SQ1067929",
+      "name": "Photography Gift Vouchers | Digital eCard | Email Delivery",
+      "sku": "SUP-PHOTOGRAPHY-GIFT-VOUCHERS-DIGITA",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Photography mentoring online. Receive a monthly assignment to increase your skills across multiple genres and get expert feedback on your images each month",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1559474612221-TBJKYSCMOO6IM7FTXJJI/online-photography-mentoring.png",
-      "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
+      "description": "Photography Gift Vouchers | Digital e Card | Email Delivery",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1556527290185-GZJ3ZPC3M7AU34BFFVOE/photography-gift-vouchers.png",
+      "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ1067929",
-        "price": "15.00",
+        "sku": "SUP-PHOTOGRAPHY-GIFT-VOUCHERS-DIGITA",
+        "price": "5.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-03-15",
         "priceValidUntil": "2027-03-15",
-        "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
-        "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#offer",
+        "name": "Photography Gift Vouchers | Digital eCard | Email Delivery",
+        "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
+        "@id": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,72 +117,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Customer"
+            "name": "Julie"
           },
-          "reviewBody": "I’ve been on a few of Alan’s courses as well as 1-2-1 mentoring and weekend away. His knowledge is first class and expertly given and I can see a massive difference. Not just in my images but also in my approach to taking an image, how to critique it and then to process it using a standard workflow. Would recommend Alan who want so improve regardless of what level you are at",
+          "reviewBody": "Extremely helpful in giving options for gift vouchers, even to the point of adding an extra on-line option! And I know my brother enjoyed the workshop that it paid for",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "CJ"
-          },
-          "reviewBody": "Alan gently guides you into thinking differently about the way you take photos and before you know it you are a better photographer. Thanks for your support.  Chris",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tim Davenport"
-          },
-          "reviewBody": "A very flexible worthwhile course. Very inspiring style encouraging you to take more photos.   Alongside these courses Alan offers a wide range of services to help improve your photograghy skill set - Workshops in beautiful locations plus 1-2-1 mentoring.  I will certainly be attending more of Alan's worthwhile courses and workshops.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-12-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Keating"
-          },
-          "reviewBody": "I joined Alan Ranger's mentoring programme to improve my photography, get new ideas and work out where I was going wrong. It helped no end, he has the knack of pinpointing exactly where I was going wrong and his criticism is constructive and easy to hear. The only reason I've stopped is because I improved and ended up with too much work. His mentoring is something I would recommend and that I'd go back to if I felt I needed more help in the future",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -191,9 +136,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 4
+        "reviewCount": 1
       },
-      "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#product"
+      "@id": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers#product"
     }
   ]
 }

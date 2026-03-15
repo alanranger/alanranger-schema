@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4hr Heather Peak District Photography Workshops | All levels welcomeSummaryLocation: Peak District - Derbyshire/Staffordshire2026 - Sat 15th Aug 18:15 21:15 - Derbyshire Surprise View2026 - Sun 17th Aug 05:45 08:45 - Staffordshire - The RoachesParticipants: Max 6Fitness: 3. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: HeathersDescription: Peak District heather WorkshopsSurprise View, perched atop Hathersage, is one o...",
+      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4 hr Heather Peak District Photography Workshops | All levels welcome Summary Location: Peak District - Derbyshire/Staffordshire 2026 - Sat 15 th Aug 18:15 21:15 - Derbyshire Surprise View 2026 - Sun 17 th Aug 05:45 08:45 - Staffordshire - The Roaches Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Heathers Description: Peak District heather Workshops Surprise View, perched atop...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707246605883-FVZKLJN54Z455J1Q13CV/peak+district+heather.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sat 15 Aug 2026 - Hathersage 18:15 - 21:15",
           "priceSpecification": {
             "price": "125.00",
@@ -96,7 +96,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -123,8 +123,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sun 16 Aug 2026 - The Roaches & Ramshaw 05:45 - 08:45",
           "priceSpecification": {
             "price": "125.00",
@@ -139,7 +139,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -166,8 +166,8 @@
           "price": "200.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Both sessions - 15 and 16 Aug - sunset and sunrise",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer3",
@@ -178,7 +178,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

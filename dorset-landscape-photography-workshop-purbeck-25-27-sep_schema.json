@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me on this 3-day/2-night fantastic Dorset Photography workshop along the Jurassic coastline of Dorset - PurbeckSummary - Dorset Landscape PhotographyLocation: DorsetDates: Fri 2nd - Sun 4th Oct 2026 3 Days/2 Nights(Price includes B&B and evening meal - Half Board)Participants: Max 4Fitness: 3. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: DorsetDescription: The Dorset Photography Workshop along the coastline is an exciting and great part of the UK to capture seascapes. We will work around Durdle D...",
+      "description": "Join me on this 3-day/2-night fantastic Dorset Photography workshop along the Jurassic coastline of Dorset - Purbeck Summary - Dorset Landscape Photography Location: Dorset Dates: Fri 2 nd - Sun 4 th Oct 2026 3 Days/2 Nights(Price includes B&B and evening meal - Half Board)Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Dorset Description: The Dorset Photography Workshop along the coastline is an exciting and great part of the UK to capture seascapes. We will work around...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714681245814-0QW8DK4XQ18FM0JLBXYN/Harry+Rocks+%2301+-+Mar+2024.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "925.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop#offer",
         "seller": {
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

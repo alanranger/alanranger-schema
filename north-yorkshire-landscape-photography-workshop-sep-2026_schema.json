@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "An exciting 4-day residential Yorkshire Landscape Photography Workshop - visiting some of the iconic spots around the North Yorkshire Coast and MoorsSummary - Photography Workshops YorkshireLocation: North YorkshireDates:Thu 10 Sep - Sun 13 Sep 2026 - 4 Days/3 NightsParticipants: Max 3Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: North YorkshireDescription: North Yorkshire Landscape Photography - We will be based on the northeast coast of England (North Yorkshire and the Moors) and visit so...",
+      "description": "An exciting 4-day residential Yorkshire Landscape Photography Workshop - visiting some of the iconic spots around the North Yorkshire Coast and Moors Summary - Photography Workshops Yorkshire Location: North Yorkshire Dates:Thu 10 Sep - Sun 13 Sep 2026 - 4 Days/3 Nights Participants: Max 3 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: North Yorkshire Description: North Yorkshire Landscape Photography - We will be based on the northeast coast of England (North Yorkshire and the Moors) and...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212716744-VYD7AYV9U6N6VEZ3C4D1/North+Yorkshire+Photography+Workshop.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "1450.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "priceSpecification": {
           "price": "1450.00",
           "priceCurrency": "GBP"
@@ -94,7 +94,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

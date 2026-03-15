@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join us for an inspiring Suffolk landscape photography workshop, where you'll have the opportunity to create stunning long exposures during breathtaking sunrises and vibrant sunsets. We will explore picturesque quays, serene estuaries, intriguing piers, and tranquil marshes, all while capturing the beauty of charming beach huts and ancient woodlands. Emphasising artistic expression, we'll also delve into the world of black and white photography, allowing you to bring a classic touch to your coastal images.SummaryLocation: Suffolk - East Anglia / Southwold/Aldeburgh AreaDates: Fri 5th 09:30 ...",
+      "description": "Join us for an inspiring Suffolk landscape photography workshop, where you'll have the opportunity to create stunning long exposures during breathtaking sunrises and vibrant sunsets. We will explore picturesque quays, serene estuaries, intriguing piers, and tranquil marshes, all while capturing the beauty of charming beach huts and ancient woodlands. Emphasising artistic expression, we'll also delve into the world of black and white photography, allowing you to bring a classic touch to your coastal images.Summary Location: Suffolk - East Anglia / Southwold/Aldeburgh Area Dates: Fri 5 th 09:30...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714650055069-5DPM44ERXSX234XAGLA9/Southwold+%2304+-+February+2024.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "995.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "priceSpecification": {
           "price": "995.00",
           "priceCurrency": "GBP"
@@ -94,7 +94,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

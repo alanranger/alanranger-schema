@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -80,8 +80,8 @@
           "price": "50.57",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "16x12 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "95.78",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "24x16 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -158,8 +158,8 @@
           "price": "138.86",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "30x20 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer3",
@@ -170,7 +170,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -197,8 +197,8 @@
           "price": "161.38",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "36x24 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer4",
@@ -209,7 +209,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -236,8 +236,8 @@
           "price": "217.23",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "40x30 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer5",
@@ -248,7 +248,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -275,8 +275,8 @@
           "price": "305.05",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "48x36 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer6",
@@ -287,7 +287,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -314,8 +314,8 @@
           "price": "416.85",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "60x40 Print",
           "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
           "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed#offer7",
@@ -326,7 +326,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

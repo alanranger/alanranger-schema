@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Beginners Photography Course Coventry Summary - Camera Courses For Beginners - Key Information Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Participants: Max 4 Time: 19:00 - 21:00 Multi Course Start Dates: Beginners Photography Course 3 wks Thursdays - Mar 5 - Mar 19 Coventry 3 wks Mondays - Mar 9 - Mar 23 Coventry 3 wks Wednesdays - Apr 1 - Apr 15 Coventry 3 wks Thursdays - Apr 2 - Apr 16 Coventry 3 wks Tuesdays - May 5 - May 19 Coventry 3 wks Thursdays - May 7 - May 21 Coventry 3 wks Tuesdays - Jun 2 - Jun 16 Coventry 3 wks Thursdays - Jun 11- Jun 25 Coventry 3 wks...",
+      "description": "Beginners Photography Course Coventry Summary - Camera Courses For Beginners - Key Information Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Participants: Max 4 Time: 19:00 - 21:00 Multi Course Start Dates: Beginners Photography Course 3 wks Thursdays - Mar 5 - Mar 19 Coventry 3 wks Mondays - Mar 9 - Mar 23 Coventry 3 wks Wednesdays - Apr 1 - Apr 15 Coventry 3 wks Tuesdays - Apr 7 - Apr 21 Coventry 3 wks Tuesdays - May 5 - May 19 Coventry 3 wks Thursdays - May 7 - May 21 Coventry 3 wks Tuesdays - Jun 2 - Jun 16 Coventry 3 wks Thursdays - Jun 11- Jun 25 Coventry 3 wks...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/bceae6f2-91b8-4012-a00b-7b7b177d346f/Beginners+Photography+Classes.png",
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
       "offers": [
@@ -79,7 +79,7 @@
           "sku": "SQ1746549",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "validFrom": "2026-03-15",
           "priceValidUntil": "2027-03-15",
           "name": "3wks Thursdays - Mar 5 - Mar 19 Coventry",
@@ -118,7 +118,7 @@
           "sku": "SQ3510767",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "validFrom": "2026-03-15",
           "priceValidUntil": "2027-03-15",
           "name": "3wks Mondays - Mar 9 - Mar 23 Coventry",
@@ -199,7 +199,7 @@
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-03-15",
           "priceValidUntil": "2027-03-15",
-          "name": "3wks Thursdays - Apr 2 - Apr 16 Coventry",
+          "name": "3wks Tuesdays - Apr 7 - Apr 21 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
           "seller": {

@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Macro and abstract Garden photography workshop. Camera settings, controlling DoF and composition at this Mughal Indian palace in the Cotswolds.SummaryLocation: Moreton on Marsh (Sezincote) - GloucestershireDates: Thu 29th May 2026 - 11:00 - 13:30Participants: Max 6Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: Garden PhotographyDescription: Sezincote is a Mughal Indian palace set in the Cotswold Hills, created by the nabob Charles Cockerell in 1805.The house is surmounted by a copper dome and mi...",
+      "description": "Macro and abstract Garden photography workshop. Camera settings, controlling Do F and composition at this Mughal Indian palace in the Cotswolds.Summary Location: Moreton on Marsh (Sezincote) - Gloucestershire Dates: Thu 29 th May 2026 - 11:00 - 13:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Garden Photography Description: Sezincote is a Mughal Indian palace set in the Cotswold Hills, created by the nabob Charles Cockerell in 1805.The house is surmounted by a copper...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715077805264-XJYPE427XFHYBMW7L4TL/_.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "55.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop#offer",
         "seller": {
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

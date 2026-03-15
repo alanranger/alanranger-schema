@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Photograph amazing areas in South Kerry, Dingle, and Killarney National Park on this 5-day Ireland photography workshopSummaryLocation: Dingle and Killarney - Kerry Southern IrelandDates: Thu 5th - Mon 10th Mar 2026 - 5 Days/4 NightsParticipants: Max 4Fitness: 2. Easy-ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: DingleDescription: We will be based near Dingle and visit some of the top spots around the Dingle Peninsula, South Kerry (Skellig Ring) and finally Killarney National Park.There is a wide vari...",
+      "description": "Photograph amazing areas in South Kerry, Dingle, and Killarney National Park on this 5-day Ireland photography workshop Summary Location: Dingle and Killarney - Kerry Southern Ireland Dates: Thu 5 th - Mon 10 th Mar 2026 - 5 Days/4 Nights Participants: Max 4 Fitness: 2. Easy-Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Dingle Description: We will be based near Dingle and visit some of the top spots around the Dingle Peninsula, South Kerry (Skellig Ring) and finally Killarney National Park.There is a...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1710060195646-WLFJL2H358FJD4GKV1CP/Coumeenoole+Strand+2.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
       "offers": {
@@ -78,9 +78,9 @@
         "sku": "SQ7419716",
         "price": "1595.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "availability": "https://schema.org/OutOfStock",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
         "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle#offer",
         "seller": {
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

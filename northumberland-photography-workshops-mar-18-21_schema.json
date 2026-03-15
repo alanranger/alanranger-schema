@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Exciting 4 day residential Northumberland Landscape Photography Workshops - Coastline Photography visiting the iconic spots on the Northumbrian coastSummaryLocation: Northumberland, LowickDates:Thu 18 Mar, 13:00 - Sun 21st Mar, 13:00 2027 - 4 Days/3 NightsParticipants: Max 4Fitness: 2. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodNorthumberland Photography Workshops Event Details: NorthumberlandDescription: Northumberland Photography Workshops - One of the highlights of Northumberland's landscape is its impressive collection of over sev...",
+      "description": "Exciting 4 day residential Northumberland Landscape Photography Workshops - Coastline Photography visiting the iconic spots on the Northumbrian coast Summary Location: Northumberland, Lowick Dates:Thu 18 Mar, 13:00 - Sun 21 st Mar, 13:00 2027 - 4 Days/3 Nights Participants: Max 4 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Northumberland Photography Workshops Event Details: Northumberland Description: Northumberland Photography Workshops - One of the highlights of Northumberland's landscape is its impressive collection of...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714235981485-EF5PRA0X9C6ZNGQUO265/dunstanburgh+boulders.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "995.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "url": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops#offer",
         "seller": {
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

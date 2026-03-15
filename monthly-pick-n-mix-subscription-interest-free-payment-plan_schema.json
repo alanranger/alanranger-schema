@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -80,8 +80,8 @@
           "price": "42.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £42 = £500",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £50 = £600",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -158,8 +158,8 @@
           "price": "60.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £60 = £720",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer3",
@@ -170,7 +170,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -197,8 +197,8 @@
           "price": "65.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £65 = £780",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer4",
@@ -209,7 +209,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -236,8 +236,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £75 = £900",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer5",
@@ -248,7 +248,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -275,8 +275,8 @@
           "price": "85.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £85 = £1020",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer6",
@@ -287,7 +287,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -314,8 +314,8 @@
           "price": "100.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £100 = £1200",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer7",
@@ -326,7 +326,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -353,8 +353,8 @@
           "price": "120.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £120 = £1440",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer8",
@@ -365,7 +365,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -392,8 +392,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £150 = £1800",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer9",
@@ -404,7 +404,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -431,8 +431,8 @@
           "price": "175.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £175 = £2100",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer10",
@@ -443,7 +443,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -470,8 +470,8 @@
           "price": "200.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £200 = £2400",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer11",
@@ -482,7 +482,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -509,8 +509,8 @@
           "price": "250.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "12 x £250 = £3000",
           "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
           "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#offer12",
@@ -521,7 +521,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -548,25 +548,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Julie"
-          },
-          "reviewBody": "Extremely helpful in giving options for gift vouchers, even to the point of adding an extra on-line option! And I know my brother enjoyed the workshop that it paid for",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-04-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Philip O'Grady"
           },
           "reviewBody": "I have now done a number of courses with Alan Ranger via his Pick & Mix plan which obviously has the huge benefit of spreading the cost of photography courses over 12 months.  There is nothing Alan doesn't know about photography and his courses are informative, enjoyable and relaxed.  I find that (like most things) you get out of it what you put into it.  i.e if you don't ask that question, you may not get to find out the answer.  I would and have, recommended Alan Ranger Photography training to people I know and I continue to utalise the Pick & mix to great advantage.",
@@ -586,7 +567,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 2
+        "reviewCount": 1
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#product"
     }

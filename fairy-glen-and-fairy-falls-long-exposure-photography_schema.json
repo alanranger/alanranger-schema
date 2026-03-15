@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "A magical gorge on the River Conwy at Betws-y-Coed. Fairy Glen and Fairy Falls provide an opportunity to practise long exposure photography on the magic of this river. Fairy Glen Betws-y-Coed Long Exposure Photography WorkshopSummaryLocation: Wales - Betws-y-CoedDates:Sat 7th Mar 2026 - 10:00 - 13:30Fri 8th May 2026 - 10:00 - 13:30Sat 26th Oct 2026 - 10:00 - 13:30Participants: Max 4Fitness: 3. ModerateExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: Fairy GlenDescription: Long exposure and creating spectacular mo...",
+      "description": "A magical gorge on the River Conwy at Betws-y-Coed. Fairy Glen and Fairy Falls provide an opportunity to practise long exposure photography on the magic of this river. Fairy Glen Betws-y-Coed Long Exposure Photography Workshop Summary Location: Wales - Betws-y-Coed Dates:Sat 7 th Mar 2026 - 10:00 - 13:30 Fri 8 th May 2026 - 10:00 - 13:30 Sat 26 th Oct 2026 - 10:00 - 13:30 Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Fairy Glen Description: Long exposure and creating...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707214813724-6QPD5O2XJNRQNOEIRBXO/Fairy+Glen+Betws-y-Coed+Photography+Workshop.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sat 7th Mar 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer1",
@@ -92,7 +92,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -119,8 +119,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Fri 8th May 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer2",
@@ -131,7 +131,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"
@@ -158,8 +158,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-02-25",
-          "priceValidUntil": "2027-02-25",
+          "validFrom": "2026-03-15",
+          "priceValidUntil": "2027-03-15",
           "name": "Sat 26th Sep 2026 - 10:00 - 13:30",
           "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
           "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen#offer3",
@@ -170,7 +170,7 @@
           },
           "shippingDetails": {
             "@type": "OfferShippingDetails",
-            "doesNotShip": "http://schema.org/True",
+            "doesNotShip": true,
             "shippingDestination": {
               "@type": "DefinedRegion",
               "addressCountry": "GB"

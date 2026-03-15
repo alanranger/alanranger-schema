@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-WalesLocation: Wales - Dee ValleyDates: Sat 30th - Sun 31st May 2026 - 2 Days/1 NightParticipants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodWales Photography Workshop Event Details: Lake VyrnwyDescription: Pistyll Rhaeadr is an enchanting waterfall in the Berwyn Mountains, just inside Wales, west of Oswestry and Shrewsbury. At 240ft (73m) high, Britain's tallest single-drop waterfall (with a drop 20m higher than Niagara Falls...",
+      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-Wales Location: Wales - Dee Valley Dates: Sat 30 th - Sun 31 st May 2026 - 2 Days/1 Night Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Wales Photography Workshop Event Details: Lake Vyrnwy Description: Pistyll Rhaeadr is an enchanting waterfall in the Berwyn Mountains, just inside Wales, west of Oswestry and Shrewsbury. At 240 ft (73 m) high, Britain's tallest single-drop waterfall (with a drop 20 m higher than...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714636535694-5SWM865PVWA9MMT8LCQB/Dawn+at+Lake+Vyrnwy_.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "575.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "priceSpecification": {
           "price": "575.00",
           "priceCurrency": "GBP"
@@ -94,7 +94,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.alanranger.com#org",
+      "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
       "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Landscape Photography Workshop Norfolk - Coastal Photography Based Nr CromerSummary - Norfolk Photography WorkshopLocation: North Norfolk Coast - Cromer AreaDates: Fri 20th, 09:30am - Sun 22nd Nov 2026, 14:00 - 3 Days/2 NightsParticipants: Max 4Fitness: 1. EasyExperience Level: Beginner to AdvancedEquipment Needed: DSLR or Mirrorless Camera and TripodPhotography Workshop Event Details: NorfolkDescription: Photography Workshop Norfolk - We will photograph the North Norfolk coastline ranging from Overstand and Cromer sea fronts and groynes to the atmospheric estuaries of Morston Quay and Blak...",
+      "description": "Landscape Photography Workshop Norfolk - Coastal Photography Based Nr Cromer Summary - Norfolk Photography Workshop Location: North Norfolk Coast - Cromer Area Dates: Fri 20 th, 09:30 am - Sun 22 nd Nov 2026, 14:00 - 3 Days/2 Nights Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Norfolk Description: Photography Workshop Norfolk - We will photograph the North Norfolk coastline ranging from Overstand and Cromer sea fronts and groynes to the atmospheric estuaries of Morston...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711625462292-PCMT7Q118L1X51MPSENJ/Wells+Next+To+Sea+%2302+-+Sep+2022.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "1025.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-02-25",
-        "priceValidUntil": "2027-02-25",
+        "validFrom": "2026-03-15",
+        "priceValidUntil": "2027-03-15",
         "priceSpecification": {
           "price": "1025.00",
           "priceCurrency": "GBP"
@@ -94,7 +94,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
