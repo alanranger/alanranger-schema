@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6970a782e550ab5c2934aba4/1768996662908/Technical+Skills+Photography+Students+Need+For+Creativity.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Technical Skills Photography Students Need Beyond Creativity",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
