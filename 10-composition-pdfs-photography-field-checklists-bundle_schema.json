@@ -1,0 +1,118 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "telephone": "+44 781 701 7994",
+      "email": "info@alanranger.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.alanranger.com/#localbusiness",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "priceRange": "£50–£500",
+      "email": "info@alanranger.com",
+      "telephone": "+44 781 701 7994",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "10 Composition PDFs — Photography Field Checklists Bundle",
+          "item": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists"
+        }
+      ],
+      "@id": "https://www.alanranger.com/composition-settings-photography-field-checklists#breadcrumbs"
+    },
+    {
+      "@type": "Product",
+      "name": "10 Composition PDFs — Photography Field Checklists Bundle",
+      "sku": "SUP-10-COMPOSITION-PDFS-PHOTOGRAPHY-",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "description": "10 Composition PD Fs — Photography Field Checklists Bundle",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/703f4ba2-fd71-4744-a5b2-b93502115372/field_checklists_cover_square_v2.jpg",
+      "url": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists",
+      "offers": {
+        "@type": "Offer",
+        "sku": "SUP-10-COMPOSITION-PDFS-PHOTOGRAPHY-",
+        "price": "10.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-03-16",
+        "priceValidUntil": "2027-03-16",
+        "name": "10 Composition PDFs — Photography Field Checklists Bundle",
+        "url": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists",
+        "@id": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists#offer",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": true,
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "@id": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists#product"
+    }
+  ]
+}
