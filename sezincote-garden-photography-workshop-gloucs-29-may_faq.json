@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is SEZINCOTE Garden Photography Workshop - Gloucs 29 May suitable for beginners?",
+      "name": "What dates are currently listed for SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, SEZINCOTE Garden Photography Workshop - Gloucs 29 May is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 17 May 2026, 29 May 2026, 12 Jul 2026."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "name": "What times does SEZINCOTE Garden Photography Workshop - Gloucs 29 May run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to SEZINCOTE Garden Photography Workshop - Gloucs 29 May."
+        "text": "The listed session time is 11:00 to 13:30."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "name": "How many participants are in each session of SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in SEZINCOTE Garden Photography Workshop - Gloucs 29 May."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is SEZINCOTE Garden Photography Workshop - Gloucs 29 May best suited for?",
+      "name": "What experience level is SEZINCOTE Garden Photography Workshop - Gloucs 29 May aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "SEZINCOTE Garden Photography Workshop - Gloucs 29 May is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is SEZINCOTE Garden Photography Workshop - Gloucs 29 May online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEZINCOTE Garden Photography Workshop - Gloucs 29 May is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £55.00 / £99.00 / £50.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEZINCOTE Garden Photography Workshop - Gloucs 29 May is listed with prices from £55.00 / £99.00, an in-person delivery format."
       }
     }
   ],

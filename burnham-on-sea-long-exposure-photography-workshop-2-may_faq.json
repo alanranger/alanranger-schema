@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is BURNHAM ON SEA Long Exposure Photography Workshop 2 May suitable for beginners?",
+      "name": "What dates are currently listed for BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, BURNHAM ON SEA Long Exposure Photography Workshop 2 May is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 30 Mar 2026, 31 Mar 2026, 13 Apr 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
+      "name": "What times does BURNHAM ON SEA Long Exposure Photography Workshop 2 May run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to BURNHAM ON SEA Long Exposure Photography Workshop 2 May."
+        "text": "The listed session time is 18:30 to 21:00."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
+      "name": "How many participants are in each session of BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in BURNHAM ON SEA Long Exposure Photography Workshop 2 May."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is BURNHAM ON SEA Long Exposure Photography Workshop 2 May best suited for?",
+      "name": "What experience level is BURNHAM ON SEA Long Exposure Photography Workshop 2 May aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BURNHAM ON SEA Long Exposure Photography Workshop 2 May is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BURNHAM ON SEA Long Exposure Photography Workshop 2 May online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BURNHAM ON SEA Long Exposure Photography Workshop 2 May is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £95.00 / £575.00 / £99.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in BURNHAM ON SEA Long Exposure Photography Workshop 2 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BURNHAM ON SEA Long Exposure Photography Workshop 2 May is listed with prices from £95.00 / £575.00, an in-person delivery format."
       }
     }
   ],

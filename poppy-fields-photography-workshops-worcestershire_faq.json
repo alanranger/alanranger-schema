@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What dates are currently listed for Poppy Fields Photography Workshops | Worcestershire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 4 Jul 2026, 11 Jul 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Poppy Fields Photography Workshops | Worcestershire run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 05:00 to 07:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of Poppy Fields Photography Workshops | Worcestershire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Poppy Fields Photography Workshops | Worcestershire aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Poppy Fields Photography Workshops | Worcestershire online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poppy Fields Photography Workshops | Worcestershire is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is Poppy Fields Photography Workshops | Worcestershire suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Poppy Fields Photography Workshops | Worcestershire is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Poppies Description: Rolling hills full of poppies takes some beating."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Poppy Fields Photography Workshops | Worcestershire?",
+      "name": "What price options are shown for Poppy Fields Photography Workshops | Worcestershire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Poppy Fields Photography Workshops | Worcestershire."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I bring or prepare for Poppy Fields Photography Workshops | Worcestershire?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Poppy Fields Photography Workshops | Worcestershire."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is Poppy Fields Photography Workshops | Worcestershire best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Poppy Fields Photography Workshops | Worcestershire is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £95.00, with options visible at checkout."
       }
     }
   ],

@@ -4,34 +4,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug suitable for beginners?",
+      "name": "What dates are currently listed for PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 16 May 2026, 15 Aug 2026, 16 Aug 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
+      "name": "What times does PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug."
+        "text": "The listed session time is 18:15 to 21:15."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
+      "name": "How many participants are in each session of PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug best suited for?",
+      "name": "What price options are shown for PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £125.00 / £150.00 / £175.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug is listed with prices from £125.00 / £150.00, a 4 hr format, an in-person delivery format."
       }
     }
   ],

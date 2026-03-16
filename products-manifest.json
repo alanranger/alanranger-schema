@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T16:04:19.478Z",
+  "generatedAt": "2026-03-16T18:04:39.521Z",
   "totalProducts": 58,
   "entries": [
     {
@@ -12,7 +12,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "pathKey": "/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "schemaFileName": "lightroom-courses-for-beginners-photo-editing-coventry_schema.json",
-      "faqFileName": ""
+      "faqFileName": "lightroom-courses-for-beginners-photo-editing-coventry_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
@@ -102,7 +102,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min",
       "pathKey": "/photography-services-near-me/photo-print-preparation-service-30min",
       "schemaFileName": "photo-print-preparation-service-30-min-file-check-advice_schema.json",
-      "faqFileName": "photo-print-preparation-service-30-min-file-check-advice_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
@@ -312,7 +312,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
       "pathKey": "/photography-services-near-me/photography-gift-vouchers",
       "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
-      "faqFileName": "photography-gift-vouchers-digital-ecard-email-delivery_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/photography-foundation-course-ebook",
@@ -348,7 +348,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/foundation-digital-pack-plus",
       "pathKey": "/photography-services-near-me/foundation-digital-pack-plus",
       "schemaFileName": "foundation-digital-pack-60-modules-checklists-exams_schema.json",
-      "faqFileName": "foundation-digital-pack-60-modules-checklists-exams_faq.json"
+      "faqFileName": ""
     }
   ]
 }

@@ -4,34 +4,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep suitable for beginners?",
+      "name": "What dates are currently listed for DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 10 Apr 2026, 8 May 2026, 28 Aug 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
+      "name": "How many participants are in each session of DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep."
+        "text": "The page indicates a maximum of 4 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
+      "name": "What experience level is DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep."
+        "text": "This is described as suitable for Beginners photographers."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep best suited for?",
+      "name": "What price options are shown for DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £925.00 / £975.00 / £825.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep is listed with prices from £925.00 / £975.00, a 3 days format, an in-person delivery format."
       }
     }
   ],

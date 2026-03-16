@@ -4,10 +4,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is included in Professional Black and White Photography Course | Coventry?",
+      "name": "What dates are currently listed for Professional Black and White Photography Course | Coventry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Professional Black and White Photography Course | Coventry focuses on the content described on this page. Enter the date of the event on Customer Information Notes Field when you go through the checkout process. Black and White Photography Course for beginners"
+        "text": "Current listed dates include 20 Apr 2026, 21 Apr 2026, 22 Apr 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Professional Black and White Photography Course | Coventry run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 09:30 to 11:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Professional Black and White Photography Course | Coventry aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
       }
     },
     {
@@ -15,31 +31,23 @@
       "name": "Is Professional Black and White Photography Course | Coventry suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Professional Black and White Photography Course | Coventry is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Black and White Photography Course for beginners Professional Black and White Photography Course | Coventry Enter the date of the event on Customer Information Notes Field when you go through the checkout process."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Professional Black and White Photography Course | Coventry?",
+      "name": "What price options are shown for Professional Black and White Photography Course | Coventry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Professional Black and White Photography Course | Coventry."
+        "text": "Current listed prices start from £165.00, with options visible at checkout."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Professional Black and White Photography Course | Coventry?",
+      "name": "What is included in Professional Black and White Photography Course | Coventry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Professional Black and White Photography Course | Coventry."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is Professional Black and White Photography Course | Coventry best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional Black and White Photography Course | Coventry is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Professional Black and White Photography Course | Coventry is listed with prices from £165.00."
       }
     }
   ],

@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What dates are currently listed for WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 19 Apr 2026, 20 Apr 2026, 21 Apr 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 09:30 to 11:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs is listed with location details for Warwickshire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What billing cadence is listed for WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This option is listed as a monthly payment cadence within the plan options."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Informal woodland photography walks in and around Warwickshire Woodlands - All Levels and types of camera welcome - Length 2 hrs."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
+      "name": "What price options are shown for WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I bring or prepare for WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £15.00 / £95.00 / £50.00, with options visible at checkout."
       }
     }
   ],

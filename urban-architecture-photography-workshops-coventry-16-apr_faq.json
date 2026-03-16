@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr suitable for beginners?",
+      "name": "What dates are currently listed for URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 16 Apr 2026."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "name": "What times does URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr."
+        "text": "The listed session time is 18:15 to 20:15."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "name": "How many participants are in each session of URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr best suited for?",
+      "name": "What experience level is URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is listed with location details for Coventry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £50.00 / £65.00 / £35.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is listed with prices from £50.00 / £65.00, a 2.5 hr format, an in-person delivery format."
       }
     }
   ],

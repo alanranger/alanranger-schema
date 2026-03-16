@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Landscape Photography DEVON Workshops - Various Dates suitable for beginners?",
+      "name": "What dates are currently listed for Landscape Photography DEVON Workshops - Various Dates?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Landscape Photography DEVON Workshops - Various Dates is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 10 Apr 2026, 8 May 2026, 28 Aug 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Landscape Photography DEVON Workshops - Various Dates?",
+      "name": "How many participants are in each session of Landscape Photography DEVON Workshops - Various Dates?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Landscape Photography DEVON Workshops - Various Dates."
+        "text": "The page indicates a maximum of 4 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Landscape Photography DEVON Workshops - Various Dates?",
+      "name": "What experience level is Landscape Photography DEVON Workshops - Various Dates aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Landscape Photography DEVON Workshops - Various Dates."
+        "text": "This is described as suitable for Beginners photographers."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Landscape Photography DEVON Workshops - Various Dates best suited for?",
+      "name": "What equipment is needed for Landscape Photography DEVON Workshops - Various Dates?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Landscape Photography DEVON Workshops - Various Dates is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "DSLR or Mirrorless Camera, Tripod and ND Filters"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does Landscape Photography DEVON Workshops - Various Dates take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography DEVON Workshops - Various Dates is listed with location details for Devon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Landscape Photography DEVON Workshops - Various Dates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £775.00 / £995.00 / £1, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in Landscape Photography DEVON Workshops - Various Dates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography DEVON Workshops - Various Dates is listed with prices from £775.00 / £995.00, a 4 Days format, an in-person delivery format."
       }
     }
   ],

@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct suitable for beginners?",
+      "name": "What dates are currently listed for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 26 Sep 2026, 18 Oct 2026, 23 Oct 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "name": "What times does BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct."
+        "text": "The listed session time is 09:30 to 11:30."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "name": "How many participants are in each session of BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct best suited for?",
+      "name": "What experience level is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £99.00 / £150.00 / £175.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is listed with prices from £99.00 / £150.00, an in-person delivery format."
       }
     }
   ],

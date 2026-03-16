@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What dates are currently listed for Christmas Photography Seasonal Workshops | Warwickshire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 20 Apr 2026, 21 Apr 2026, 22 Apr 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Christmas Photography Seasonal Workshops | Warwickshire run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 18:30 to 21:00."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of Christmas Photography Seasonal Workshops | Warwickshire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Christmas Photography Seasonal Workshops | Warwickshire aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Christmas Photography Seasonal Workshops | Warwickshire online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Christmas Photography Seasonal Workshops | Warwickshire is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is Christmas Photography Seasonal Workshops | Warwickshire suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Christmas Photography Seasonal Workshops | Warwickshire is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Book Now Facebook 0 LinkedIn 0 Reddit Tumblr Pinterest 0 Get Access to Free Online Course Sign up with your email address to access the Academy 101 Foundation Photography Course First Name Last Name Email Address Join today We respect your privacy."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Christmas Photography Seasonal Workshops | Warwickshire?",
+      "name": "What price options are shown for Christmas Photography Seasonal Workshops | Warwickshire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Christmas Photography Seasonal Workshops | Warwickshire."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I bring or prepare for Christmas Photography Seasonal Workshops | Warwickshire?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Christmas Photography Seasonal Workshops | Warwickshire."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is Christmas Photography Seasonal Workshops | Warwickshire best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Christmas Photography Seasonal Workshops | Warwickshire is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £50.00, with options visible at checkout."
       }
     }
   ],

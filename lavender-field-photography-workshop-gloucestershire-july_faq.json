@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What dates are currently listed for LAVENDER FIELD Photography Workshop - Gloucestershire July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 4 Jul 2026, 11 Jul 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does LAVENDER FIELD Photography Workshop - Gloucestershire July run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 19:15 to 21:45."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of LAVENDER FIELD Photography Workshop - Gloucestershire July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is LAVENDER FIELD Photography Workshop - Gloucestershire July aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is LAVENDER FIELD Photography Workshop - Gloucestershire July online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LAVENDER FIELD Photography Workshop - Gloucestershire July is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is LAVENDER FIELD Photography Workshop - Gloucestershire July suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, LAVENDER FIELD Photography Workshop - Gloucestershire July is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Lavender Description: Join me in the Cotswolds for a spectacular sight of Lavender."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from LAVENDER FIELD Photography Workshop - Gloucestershire July?",
+      "name": "What price options are shown for LAVENDER FIELD Photography Workshop - Gloucestershire July?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to LAVENDER FIELD Photography Workshop - Gloucestershire July."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I bring or prepare for LAVENDER FIELD Photography Workshop - Gloucestershire July?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in LAVENDER FIELD Photography Workshop - Gloucestershire July."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is LAVENDER FIELD Photography Workshop - Gloucestershire July best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LAVENDER FIELD Photography Workshop - Gloucestershire July is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Current listed prices start from £30 / £150.00 / £75.00, with options visible at checkout."
       }
     }
   ],

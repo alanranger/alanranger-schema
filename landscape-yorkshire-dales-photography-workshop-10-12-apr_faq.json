@@ -4,34 +4,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr suitable for beginners?",
+      "name": "What dates are currently listed for Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 10 Apr 2026, 8 May 2026, 28 Aug 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr?",
+      "name": "How many participants are in each session of Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr."
+        "text": "The page indicates a maximum of 4 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr?",
+      "name": "What experience level is Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr."
+        "text": "This is described as suitable for Beginners photographers."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr best suited for?",
+      "name": "Where does Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr take place?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr is listed with location details for Yorkshire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £825.00 / £875.00 / £125.00, with options visible at checkout."
       }
     }
   ],

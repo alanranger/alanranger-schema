@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Lightroom Courses for Beginners Photo Editing - Coventry suitable for beginners?",
+      "name": "What dates are currently listed for Lightroom Courses for Beginners Photo Editing - Coventry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Lightroom Courses for Beginners Photo Editing - Coventry is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 18 Mar 2026, 13 May 2026, 20 May 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Lightroom Courses for Beginners Photo Editing - Coventry?",
+      "name": "What times does Lightroom Courses for Beginners Photo Editing - Coventry run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Lightroom Courses for Beginners Photo Editing - Coventry."
+        "text": "The listed session time is 19:00 to 21:00."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Lightroom Courses for Beginners Photo Editing - Coventry?",
+      "name": "How many participants are in each session of Lightroom Courses for Beginners Photo Editing - Coventry?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Lightroom Courses for Beginners Photo Editing - Coventry."
+        "text": "The page indicates a maximum of 3 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Lightroom Courses for Beginners Photo Editing - Coventry best suited for?",
+      "name": "What experience level is Lightroom Courses for Beginners Photo Editing - Coventry aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lightroom Courses for Beginners Photo Editing - Coventry is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What equipment is needed for Lightroom Courses for Beginners Photo Editing - Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will need a laptop with Adobe Lightroom Classic subscription and the App installed Alan will provide you with training Lightroom Library with images and use that to explain and then demonstrate the various tools"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does Lightroom Courses for Beginners Photo Editing - Coventry take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lightroom Courses for Beginners Photo Editing - Coventry is listed with location details for Coventry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Lightroom Courses for Beginners Photo Editing - Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £150.00, with options visible at checkout."
       }
     }
   ],

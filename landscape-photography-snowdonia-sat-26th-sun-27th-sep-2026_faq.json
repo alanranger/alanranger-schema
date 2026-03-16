@@ -4,34 +4,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Landscape Photography Snowdonia Workshops | Wales | suitable for beginners?",
+      "name": "What dates are currently listed for Landscape Photography Snowdonia Workshops | Wales |?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Landscape Photography Snowdonia Workshops | Wales | is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 10 Apr 2026, 8 May 2026, 28 Aug 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Landscape Photography Snowdonia Workshops | Wales |?",
+      "name": "How many participants are in each session of Landscape Photography Snowdonia Workshops | Wales |?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Landscape Photography Snowdonia Workshops | Wales |."
+        "text": "The page indicates a maximum of 4 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Landscape Photography Snowdonia Workshops | Wales |?",
+      "name": "What experience level is Landscape Photography Snowdonia Workshops | Wales | aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Landscape Photography Snowdonia Workshops | Wales |."
+        "text": "This is described as suitable for Beginners photographers."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Landscape Photography Snowdonia Workshops | Wales | best suited for?",
+      "name": "Where does Landscape Photography Snowdonia Workshops | Wales | take place?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Landscape Photography Snowdonia Workshops | Wales | is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Landscape Photography Snowdonia Workshops | Wales | is listed with location details for Snowdonia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Landscape Photography Snowdonia Workshops | Wales |?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £595.00 / £995.00 / £975.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in Landscape Photography Snowdonia Workshops | Wales |?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Summary - Snowdonia Landscape photography workshop Location: Wales - Snowdonia National Park Dates: Sat 26th - Sun 27th Sep 2026 - 2 Days/1 Night Participants: Max 4 (1 Car, transport between locations included) Fitness: 2."
       }
     }
   ],

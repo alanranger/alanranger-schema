@@ -4,34 +4,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Macro Photography Workshop - Abstract and Macro Warwickshire suitable for beginners?",
+      "name": "What dates are currently listed for Macro Photography Workshop - Abstract and Macro Warwickshire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Macro Photography Workshop - Abstract and Macro Warwickshire is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Current listed dates include 20 Apr 2026, 21 Apr 2026, 22 Apr 2026, plus additional listed dates."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Macro Photography Workshop - Abstract and Macro Warwickshire?",
+      "name": "What times does Macro Photography Workshop - Abstract and Macro Warwickshire run?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Macro Photography Workshop - Abstract and Macro Warwickshire."
+        "text": "The listed session time is 10:00 to 12:30."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Macro Photography Workshop - Abstract and Macro Warwickshire?",
+      "name": "How many participants are in each session of Macro Photography Workshop - Abstract and Macro Warwickshire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Macro Photography Workshop - Abstract and Macro Warwickshire."
+        "text": "The page indicates a maximum of 6 participants."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Macro Photography Workshop - Abstract and Macro Warwickshire best suited for?",
+      "name": "What experience level is Macro Photography Workshop - Abstract and Macro Warwickshire aimed at?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Macro Photography Workshop - Abstract and Macro Warwickshire is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Macro Photography Workshop - Abstract and Macro Warwickshire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £65.00 / £50.00 / £75.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in Macro Photography Workshop - Abstract and Macro Warwickshire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Macro Photography Workshop - Abstract and Macro Warwickshire is listed with prices from £65.00 / £50.00."
       }
     }
   ],
