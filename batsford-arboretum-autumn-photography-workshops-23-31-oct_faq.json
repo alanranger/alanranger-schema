@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#faq"
+}

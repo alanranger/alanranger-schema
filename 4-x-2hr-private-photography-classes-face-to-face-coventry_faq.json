@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in 4 x 2hr Private Photography Classes - Face to Face Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4 x 2hr Private Photography Classes - Face to Face Coventry focuses on the content described on this page. Package Option - 4 Private Photography Classes Face to Face Coventry - 2 hrs each to suit you - Available 9-5 on weekdays. You will be sent a code to book dates"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4 x 2hr Private Photography Classes - Face to Face Coventry suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 4 x 2hr Private Photography Classes - Face to Face Coventry is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from 4 x 2hr Private Photography Classes - Face to Face Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to 4 x 2hr Private Photography Classes - Face to Face Coventry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for 4 x 2hr Private Photography Classes - Face to Face Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in 4 x 2hr Private Photography Classes - Face to Face Coventry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is 4 x 2hr Private Photography Classes - Face to Face Coventry best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4 x 2hr Private Photography Classes - Face to Face Coventry is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes#faq"
+}

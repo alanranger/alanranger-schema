@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry#faq"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is LAVENDER FIELD Photography Workshop - Gloucestershire July suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LAVENDER FIELD Photography Workshop - Gloucestershire July is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from LAVENDER FIELD Photography Workshop - Gloucestershire July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to LAVENDER FIELD Photography Workshop - Gloucestershire July."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for LAVENDER FIELD Photography Workshop - Gloucestershire July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in LAVENDER FIELD Photography Workshop - Gloucestershire July."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is LAVENDER FIELD Photography Workshop - Gloucestershire July best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LAVENDER FIELD Photography Workshop - Gloucestershire July is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#faq"
+}

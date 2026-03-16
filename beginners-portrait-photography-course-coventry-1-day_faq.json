@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in Beginners Portrait Photography Course - Coventry - 1 Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners Portrait Photography Course - Coventry - 1 Day focuses on the content described on this page. Beginners Portrait Photography Course - Suitable for any amateur who wants to learn the fundamentals of portrait photography - Coventry - 1-Day Course"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Beginners Portrait Photography Course - Coventry - 1 Day suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Beginners Portrait Photography Course - Coventry - 1 Day is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from Beginners Portrait Photography Course - Coventry - 1 Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Beginners Portrait Photography Course - Coventry - 1 Day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for Beginners Portrait Photography Course - Coventry - 1 Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Beginners Portrait Photography Course - Coventry - 1 Day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Beginners Portrait Photography Course - Coventry - 1 Day best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners Portrait Photography Course - Coventry - 1 Day is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#faq"
+}

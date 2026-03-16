@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in Intermediates Intentions Photography Project Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intermediates Intentions Photography Project Course focuses on the content described on this page. Embark on a six-month photography project and showcase your images in a public exhibition in Warwickshire on this photography course | Coventry | 6-Classes NO DATES SET FOR 2025 - Check back soon"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Intermediates Intentions Photography Project Course suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Intermediates Intentions Photography Project Course is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from Intermediates Intentions Photography Project Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Intermediates Intentions Photography Project Course."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for Intermediates Intentions Photography Project Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Intermediates Intentions Photography Project Course."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Intermediates Intentions Photography Project Course best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intermediates Intentions Photography Project Course is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course#faq"
+}

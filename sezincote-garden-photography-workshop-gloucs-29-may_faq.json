@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is SEZINCOTE Garden Photography Workshop - Gloucs 29 May suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, SEZINCOTE Garden Photography Workshop - Gloucs 29 May is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to SEZINCOTE Garden Photography Workshop - Gloucs 29 May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for SEZINCOTE Garden Photography Workshop - Gloucs 29 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in SEZINCOTE Garden Photography Workshop - Gloucs 29 May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is SEZINCOTE Garden Photography Workshop - Gloucs 29 May best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEZINCOTE Garden Photography Workshop - Gloucs 29 May is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop#faq"
+}

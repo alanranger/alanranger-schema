@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk#faq"
+}

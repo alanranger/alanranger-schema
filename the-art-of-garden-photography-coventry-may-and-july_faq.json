@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is The Art of GARDEN PHOTOGRAPHY - Coventry - May and July suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, The Art of GARDEN PHOTOGRAPHY - Coventry - May and July is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from The Art of GARDEN PHOTOGRAPHY - Coventry - May and July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to The Art of GARDEN PHOTOGRAPHY - Coventry - May and July."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for The Art of GARDEN PHOTOGRAPHY - Coventry - May and July?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in The Art of GARDEN PHOTOGRAPHY - Coventry - May and July."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is The Art of GARDEN PHOTOGRAPHY - Coventry - May and July best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Art of GARDEN PHOTOGRAPHY - Coventry - May and July is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#faq"
+}

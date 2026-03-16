@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is WALES Photography Workshop | Lake Vyrnwy 30-31 May suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, WALES Photography Workshop | Lake Vyrnwy 30-31 May is designed to support learners at an early stage, based on the page description and course framing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will I learn from WALES Photography Workshop | Lake Vyrnwy 30-31 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to WALES Photography Workshop | Lake Vyrnwy 30-31 May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I bring or prepare for WALES Photography Workshop | Lake Vyrnwy 30-31 May?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in WALES Photography Workshop | Lake Vyrnwy 30-31 May."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is WALES Photography Workshop | Lake Vyrnwy 30-31 May best suited for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WALES Photography Workshop | Lake Vyrnwy 30-31 May is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#faq"
+}
