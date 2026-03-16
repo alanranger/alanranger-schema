@@ -12,6 +12,14 @@
     },
     {
       "@type": "Question",
+      "name": "What experience level is Online Photography Classes 121 - Zoom - Package Options aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is Online Photography Classes 121 - Zoom - Package Options online or in person?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -23,15 +31,7 @@
       "name": "What price options are shown for Online Photography Classes 121 - Zoom - Package Options?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Current listed prices start from £50, with options visible at checkout."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is included in Online Photography Classes 121 - Zoom - Package Options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Online Photography Classes 121 - Zoom - Package Options is listed with prices from £50, a 1 x 1 hr format, online delivery via Zoom."
+        "text": "Current listed prices start from £50 / £50.00 / £360.00, with options visible at checkout."
       }
     }
   ],
