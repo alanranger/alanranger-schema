@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T15:50:06.235Z",
+  "generatedAt": "2026-03-16T16:04:19.478Z",
   "totalProducts": 58,
   "entries": [
     {
@@ -312,7 +312,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
       "pathKey": "/photography-services-near-me/photography-gift-vouchers",
       "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
-      "faqFileName": ""
+      "faqFileName": "photography-gift-vouchers-digital-ecard-email-delivery_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/photography-foundation-course-ebook",
