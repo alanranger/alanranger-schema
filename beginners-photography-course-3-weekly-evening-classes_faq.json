@@ -4,34 +4,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What dates are currently listed for Beginners Photography Course | 3 Weekly Evening Classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 16 Apr 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Beginners Photography Course | 3 Weekly Evening Classes run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 19:00 to 21:00."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of Beginners Photography Course | 3 Weekly Evening Classes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 4 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Beginners Photography Course | 3 Weekly Evening Classes aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is Beginners Photography Course | 3 Weekly Evening Classes suitable for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Beginners Photography Course | 3 Weekly Evening Classes is designed to support learners at an early stage, based on the page description and course framing."
+        "text": "Book Facebook 0 LinkedIn 0 Reddit Tumblr Pinterest 0 Get Access to Free Online Course Sign up with your email address to access the Academy 101 Foundation Photography Course First Name Last Name Email Address Join today We respect your privacy."
       }
     },
     {
       "@type": "Question",
-      "name": "What will I learn from Beginners Photography Course | 3 Weekly Evening Classes?",
+      "name": "What price options are shown for Beginners Photography Course | 3 Weekly Evening Classes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page describes practical skills, structured guidance, and hands-on learning outcomes aligned to Beginners Photography Course | 3 Weekly Evening Classes."
+        "text": "Current listed prices start from £150.00, with options visible at checkout."
       }
     },
     {
       "@type": "Question",
-      "name": "What should I bring or prepare for Beginners Photography Course | 3 Weekly Evening Classes?",
+      "name": "What is included in Beginners Photography Course | 3 Weekly Evening Classes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prepare your camera kit and review the page details before attending, so you can apply the techniques covered in Beginners Photography Course | 3 Weekly Evening Classes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who is Beginners Photography Course | 3 Weekly Evening Classes best suited for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Beginners Photography Course | 3 Weekly Evening Classes is best suited to photographers who want clearer guidance and practical next steps based on the topic covered on this page."
+        "text": "Beginners Photography Course | 3 Weekly Evening Classes is listed with prices from £150.00."
       }
     }
   ],

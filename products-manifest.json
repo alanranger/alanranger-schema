@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T18:04:39.521Z",
+  "generatedAt": "2026-03-16T18:35:20.444Z",
   "totalProducts": 58,
   "entries": [
     {
@@ -12,7 +12,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "pathKey": "/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "schemaFileName": "lightroom-courses-for-beginners-photo-editing-coventry_schema.json",
-      "faqFileName": "lightroom-courses-for-beginners-photo-editing-coventry_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
@@ -60,7 +60,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
       "pathKey": "/photography-services-near-me/beginners-photography-course",
       "schemaFileName": "beginners-photography-course-3-weekly-evening-classes_schema.json",
-      "faqFileName": ""
+      "faqFileName": "beginners-photography-course-3-weekly-evening-classes_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
@@ -90,7 +90,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
       "pathKey": "/photography-services-near-me/beginners-portrait-photography-course",
       "schemaFileName": "beginners-portrait-photography-course-coventry-1-day_schema.json",
-      "faqFileName": ""
+      "faqFileName": "beginners-portrait-photography-course-coventry-1-day_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
