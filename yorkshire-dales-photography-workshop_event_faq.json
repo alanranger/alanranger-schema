@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Yorkshire Dales Photography Workshop - Landscape Photography\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yorkshire Dales Photography Workshop - Landscape Photography takes place at Yorkshire Dales. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Yorkshire Dales Photography Workshop - Landscape Photography\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yorkshire Dales Photography Workshop - Landscape Photography is scheduled for 2026-04-10 to 2026-04-12. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Yorkshire Dales Photography Workshop - Landscape Photography\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Yorkshire Dales Photography Workshop - Landscape Photography is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Yorkshire Dales Photography Workshop - Landscape Photography\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Yorkshire Dales Photography Workshop - Landscape Photography. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

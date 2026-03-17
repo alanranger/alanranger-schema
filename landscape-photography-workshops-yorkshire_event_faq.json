@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Landscape Photography Workshops Yorkshire | Coast and Moors\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography Workshops Yorkshire | Coast and Moors takes place at North Yorkshire Moors and Coast. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Landscape Photography Workshops Yorkshire | Coast and Moors\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography Workshops Yorkshire | Coast and Moors is scheduled for 2026-09-10 to 2026-09-13. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Landscape Photography Workshops Yorkshire | Coast and Moors\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Landscape Photography Workshops Yorkshire | Coast and Moors is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Landscape Photography Workshops Yorkshire | Coast and Moors\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Landscape Photography Workshops Yorkshire | Coast and Moors. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

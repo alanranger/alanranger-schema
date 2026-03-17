@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Landscape Photography Snowdonia Photography Workshop\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography Snowdonia Photography Workshop takes place at Wales - Snowdonia. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Landscape Photography Snowdonia Photography Workshop\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape Photography Snowdonia Photography Workshop is scheduled for 2026-09-26 to 2026-09-27. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Landscape Photography Snowdonia Photography Workshop\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Landscape Photography Snowdonia Photography Workshop is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Landscape Photography Snowdonia Photography Workshop\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Landscape Photography Snowdonia Photography Workshop. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Bluebell Photography Workshop | Warwickshire | 20 Apr\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bluebell Photography Workshop | Warwickshire | 20 Apr takes place at Warwickshire. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Bluebell Photography Workshop | Warwickshire | 20 Apr\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bluebell Photography Workshop | Warwickshire | 20 Apr is scheduled for 2026-04-20 to 2026-04-20. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Bluebell Photography Workshop | Warwickshire | 20 Apr\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Bluebell Photography Workshop | Warwickshire | 20 Apr is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Bluebell Photography Workshop | Warwickshire | 20 Apr\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Bluebell Photography Workshop | Warwickshire | 20 Apr. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

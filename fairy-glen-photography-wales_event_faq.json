@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn takes place at Snowdonia National Park. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn is scheduled for 2026-09-26 to 2026-09-26. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter#event",
+      "identifier": "peak-district-photography-workshops-winter",
+      "name": "Peak District Photography Workshops Padley Gorge | 10-17",
+      "description": "17/10/2026Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714559760976-6CZKC2X0XATXWIR0Q0X6/Peak+District+Photography+workshops.jpg",
+      "startDate": "2026-10-17T09:30:00",
+      "endDate": "2026-10-17T16:00:00",
+      "duration": "PT390M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Peak District",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Upper Padley",
+          "addressLocality": "Grindleford",
+          "addressRegion": "East Midlands",
+          "postalCode": "S32 2JA",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.343,
+          "longitude": -1.777
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 1-day, Peak District",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter",
+        "validFrom": "2025-11-04 18:23:26",
+        "priceValidUntil": "2027-03-17",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        }
+      },
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peak District Photography Workshops Padley Gorge | 10-17",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+        }
+      ]
+    }
+  ]
+}

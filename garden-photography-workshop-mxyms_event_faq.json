@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Garden Photography Workshops | Private Garden | Coventry\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Garden Photography Workshops | Private Garden | Coventry takes place at Coventry. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Garden Photography Workshops | Private Garden | Coventry\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Garden Photography Workshops | Private Garden | Coventry is scheduled for 2026-05-17 to 2026-05-17. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Garden Photography Workshops | Private Garden | Coventry\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Garden Photography Workshops | Private Garden | Coventry is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Garden Photography Workshops | Private Garden | Coventry\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Garden Photography Workshops | Private Garden | Coventry. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

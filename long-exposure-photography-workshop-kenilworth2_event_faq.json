@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Long Exposure Photography Workshop - Kenilworth 31-3\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Exposure Photography Workshop - Kenilworth 31-3 takes place at Kenilworth. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Long Exposure Photography Workshop - Kenilworth 31-3\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Exposure Photography Workshop - Kenilworth 31-3 is scheduled for 2026-03-31 to 2026-03-31. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Long Exposure Photography Workshop - Kenilworth 31-3\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Long Exposure Photography Workshop - Kenilworth 31-3 is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Long Exposure Photography Workshop - Kenilworth 31-3\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Long Exposure Photography Workshop - Kenilworth 31-3. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}
