@@ -81,7 +81,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-03-16",
-          "priceValidUntil": "2027-03-16",
+          "priceValidUntil": "2027-03-17",
           "name": "Mon 30th Mar 2026 - 17:30 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -124,7 +124,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-03-16",
-          "priceValidUntil": "2027-03-16",
+          "priceValidUntil": "2027-03-17",
           "name": "Mon 18th May 2026 - 18:30 - 21:00",
           "priceSpecification": {
             "price": "50.00",
@@ -167,7 +167,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-03-16",
-          "priceValidUntil": "2027-03-16",
+          "priceValidUntil": "2027-03-17",
           "name": "Wed 16th Sep 2026 - 18:00 - 20:30",
           "priceSpecification": {
             "price": "50.00",
@@ -210,7 +210,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-03-16",
-          "priceValidUntil": "2027-03-16",
+          "priceValidUntil": "2027-03-17",
           "name": "Mon 5th Oct 2026 - 17:30 - 20:00",
           "priceSpecification": {
             "price": "50.00",
