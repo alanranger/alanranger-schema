@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/7-most-common-camera-exposure-mistakes#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69c1b9ffded5125c26cb1734/1774310530148/_-214-2.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "7 Most Common Camera Exposure Mistakes",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
