@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography#blogposting",
+  "headline": "Corporate Headshot Photography",
+  "alternativeHeadline": "Corporate Headshot Photography | Alan Ranger Photography",
+  "description": "Corporate Headshot Photography.",
+  "url": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography",
+  "datePublished": "2026-04-06T00:00:00.000Z",
+  "dateModified": "2026-04-06T00:00:00.000Z",
+  "dateCreated": "2026-04-06T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "",
+  "wordCount": 0,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography#webpage"
+  }
+}
