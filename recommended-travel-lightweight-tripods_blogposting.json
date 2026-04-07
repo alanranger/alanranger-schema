@@ -32,5 +32,18 @@
       "@type": "Thing",
       "name": "Photography"
     }
-  ]
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/recommended-travel-lightweight-tripods#video-youtube-WS0t50gty5k",
+    "name": "Recommended Lightweight Tripods | Professional Guide - Video",
+    "description": "Lightweight TripodsWhich tripod.",
+    "url": "https://www.youtube.com/watch?v=WS0t50gty5k",
+    "embedUrl": "https://www.youtube.com/embed/WS0t50gty5k",
+    "thumbnailUrl": "https://i.ytimg.com/vi/WS0t50gty5k/hqdefault.jpg",
+    "uploadDate": "2022-04-29T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
+  }
 }
