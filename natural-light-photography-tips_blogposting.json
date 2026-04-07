@@ -58,5 +58,18 @@
       "@type": "Thing",
       "name": "Lightroom"
     }
-  ]
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/natural-light-photography-tips#video-youtube-Z6zqvT2towo",
+    "name": "Natural Light Photography Tips - Video",
+    "description": "That work on the streets of London, the hills of the Cotswolds and the coast of Cornwall.",
+    "url": "https://www.youtube.com/watch?v=Z6zqvT2towo",
+    "embedUrl": "https://www.youtube.com/embed/Z6zqvT2towo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Z6zqvT2towo/hqdefault.jpg",
+    "uploadDate": "2026-04-07",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
+  }
 }
