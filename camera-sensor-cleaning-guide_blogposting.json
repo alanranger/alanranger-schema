@@ -46,5 +46,46 @@
       "@type": "Thing",
       "name": "Lightroom"
     }
+  ],
+  "video": [
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#video-youtube-zLlBwPZM5YE",
+      "name": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide - Video",
+      "description": "Table of Contents Show Download This Free Sensor Cleaning Guide: PDF Camera Sensor Cleaning GuideThe Ins and Outs of Dust On The Camera Sensor Welcome to.",
+      "url": "https://www.youtube.com/watch?v=zLlBwPZM5YE",
+      "embedUrl": "https://www.youtube.com/embed/zLlBwPZM5YE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zLlBwPZM5YE/hqdefault.jpg",
+      "uploadDate": "2025-04-18T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#video-youtube-ZnynF6ldhP0",
+      "name": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide - Video",
+      "description": "Table of Contents Show Download This Free Sensor Cleaning Guide: PDF Camera Sensor Cleaning GuideThe Ins and Outs of Dust On The Camera Sensor Welcome to.",
+      "url": "https://www.youtube.com/watch?v=ZnynF6ldhP0",
+      "embedUrl": "https://www.youtube.com/embed/ZnynF6ldhP0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZnynF6ldhP0/hqdefault.jpg",
+      "uploadDate": "2025-04-18T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#video-youtube-DIhPWHmuQeI",
+      "name": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide - Video",
+      "description": "Table of Contents Show Download This Free Sensor Cleaning Guide: PDF Camera Sensor Cleaning GuideThe Ins and Outs of Dust On The Camera Sensor Welcome to.",
+      "url": "https://www.youtube.com/watch?v=DIhPWHmuQeI",
+      "embedUrl": "https://www.youtube.com/embed/DIhPWHmuQeI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DIhPWHmuQeI/hqdefault.jpg",
+      "uploadDate": "2025-04-18T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    }
   ]
 }
