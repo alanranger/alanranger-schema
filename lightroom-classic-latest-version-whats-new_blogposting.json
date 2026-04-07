@@ -50,5 +50,18 @@
       "@type": "Thing",
       "name": "Lightroom"
     }
-  ]
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/lightroom-classic-latest-version-whats-new#video-youtube-BkXDukmBNcg",
+    "name": "Lightroom Classic Latest Version 13.3 - What's New - Video",
+    "description": "Table of Contents Show.",
+    "url": "https://www.youtube.com/watch?v=BkXDukmBNcg",
+    "embedUrl": "https://www.youtube.com/embed/BkXDukmBNcg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BkXDukmBNcg/hqdefault.jpg",
+    "uploadDate": "2024-05-17T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
+  }
 }
