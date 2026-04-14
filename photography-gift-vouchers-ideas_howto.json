@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas#howto",
+  "name": "Photography Gift Vouchers Ideas",
+  "description": "For Every Photographer document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * {.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Photography Course Gift Vouchers",
+      "text": "Photography Course Gift Vouchers"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Photography Workshop Gift Vouchers",
+      "text": "Photography Workshop Gift Vouchers"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Gift Vouchers for Photography Lessons (1-2-1 Tuition)",
+      "text": "Gift Vouchers for Photography Lessons (1-2-1 Tuition)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Flexible Value Vouchers",
+      "text": "Flexible Value Vouchers"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Is the tutor qualified and experienced? Look for professional accreditation such as BIPP (British Institute of Professional Photography) or RPS qualifications. Alan Ranger is a BIPP-qualified tutor with over 20 years' experience teaching photography at all levels.",
+      "text": "Is the tutor qualified and experienced? Look for professional accreditation such as BIPP (British Institute of Professional Photography) or RPS qualifications. Alan Ranger is a BIPP-qualified tutor with over 20 years' experience teaching photography at all levels."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Is the voucher genuinely flexible? Some photography course gift vouchers are tied to a single session on a single date. A good voucher lets the recipient choose their own session from a range of options across the calendar year.",
+      "text": "Is the voucher genuinely flexible? Some photography course gift vouchers are tied to a single session on a single date. A good voucher lets the recipient choose their own session from a range of options across the calendar year."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Is delivery digital? Digital email delivery means you can buy it today and send it on any date you choose — perfect for last-minute gift buyers or for holding back until a birthday or Christmas morning.",
+      "text": "Is delivery digital? Digital email delivery means you can buy it today and send it on any date you choose — perfect for last-minute gift buyers or for holding back until a birthday or Christmas morning."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "How long is it valid? Twelve months is the standard. Less than that feels pressured. More than that is a bonus. Check the terms carefully before you buy.",
+      "text": "How long is it valid? Twelve months is the standard. Less than that feels pressured. More than that is a bonus. Check the terms carefully before you buy."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "How big are the groups? Group photography sessions with large numbers mean less time with the tutor and less individual feedback. Alan Ranger Photography keeps group sizes small to ensure every participant gets personal attention.",
+      "text": "How big are the groups? Group photography sessions with large numbers mean less time with the tutor and less individual feedback. Alan Ranger Photography keeps group sizes small to ensure every participant gets personal attention."
+    }
+  ]
+}
