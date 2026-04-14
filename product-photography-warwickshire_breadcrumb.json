@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "https://www.alanranger.com/blog-on-photography//product-photography-warwickshire#breadcrumb",
+  "@id": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -13,7 +13,7 @@
       "@type": "ListItem",
       "position": 2,
       "name": "Product Photography Warwickshire",
-      "item": "https://www.alanranger.com/blog-on-photography//product-photography-warwickshire"
+      "item": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire"
     }
   ]
 }
