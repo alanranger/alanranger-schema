@@ -2,9 +2,9 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/how-to-photograph-artwork#blogposting",
-  "headline": "How To Photograph Artwork",
-  "alternativeHeadline": "How To Photograph Artwork | Alan Ranger Photography",
-  "description": "So the image looks just like the original , no weird tints, no glare, no distortion.",
+  "headline": "How to Photograph Artwork: Step‑by‑Step Guide for Beginners",
+  "alternativeHeadline": "How to Photograph Artwork: Step‑by‑Step Guide for Beginners | Alan Ranger Photography",
+  "description": "This guide you’ll learn how to photograph artwork so the image looks just like the original , no weird tints, no glare, no distortion.",
   "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-artwork",
   "datePublished": "2026-04-07T00:00:00.000Z",
   "dateModified": "2026-04-07T00:00:00.000Z",
@@ -58,12 +58,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/how-to-photograph-artwork#video-youtube-UDv2h09dHpc",
-    "name": "How To Photograph Artwork - Video",
-    "description": "So the image looks just like the original , no weird tints, no glare, no distortion.",
+    "name": "How to Photograph Artwork: Step‑by‑Step Guide for Beginners - Video",
+    "description": "This guide you’ll learn how to photograph artwork so the image looks just like the original , no weird tints, no glare, no distortion.",
     "url": "https://www.youtube.com/watch?v=UDv2h09dHpc",
     "embedUrl": "https://www.youtube.com/embed/UDv2h09dHpc",
     "thumbnailUrl": "https://i.ytimg.com/vi/UDv2h09dHpc/hqdefault.jpg",
-    "uploadDate": "2026-04-07",
+    "uploadDate": "2026-04-07T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
