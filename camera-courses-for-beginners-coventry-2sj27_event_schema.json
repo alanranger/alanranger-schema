@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27#event",
+      "identifier": "camera-courses-for-beginners-coventry-2sj27",
+      "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 9-6",
+      "description": "09/06/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
+      "startDate": "2026-06-09T19:00:00",
+      "endDate": "2026-06-09T21:00:00",
+      "duration": "PT120M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Coventry",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.4068,
+          "longitude": -1.5197
+        }
+      },
+      "about": "Photography fundamentals and camera basics",
+      "keywords": "camera-settings, composition, exposure, photo-critiques, dslr-settings, Week 2, beginner photography, photography for beginners, beginners-courses, Coventry",
+      "sameAs": [
+        "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27",
+        "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27",
+        "validFrom": "2026-02-23 17:53:31",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ7702763",
+        "availabilityStarts": "2026-06-09T18:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ7702763",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "150",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anthony  Hall"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent starting point for the novice.",
+          "datePublished": "2019-10-01 19:48:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan Biggerstaff"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great course, Alan is clearly very knowledgable about photography and can help anyone’s needs.",
+          "datePublished": "2019-09-01 13:03:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jodie Munn"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is clear that Alan has a wealth of knowledge which he conveys really well. He is also happy to answer any questions you may have, no question is a stupid one. Alan also gives great tips and tricks of taking the best picture. Looking forward to learning more throughout the beginners course and ...",
+          "datePublished": "2019-04-06 22:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna C"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great mix of technical and creative content. Ideal for beginners who want to get inspired and learn practical tools to get started.",
+          "datePublished": "2019-04-01 09:02:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really good introduction class for a beginner and I have a better understanding of the basic concepts now.",
+          "datePublished": "2019-03-01 23:51:00"
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27"
+      },
+      "superEvent": {
+        "@type": "EventSeries",
+        "@id": "https://www.alanranger.com#series-camera-course-for-beginners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 9-6",
+          "item": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27"
+        }
+      ]
+    }
+  ]
+}

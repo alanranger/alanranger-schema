@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire#event",
+      "identifier": "landscape-photography-workshops-yorkshire",
+      "name": "Landscape Photography Workshops Yorkshire | Coast and Moors",
+      "description": "10/09/2026Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212564861-65XIJN9NGEKXOO8C2J73/North+Yorkshire+Photography+Workshop.jpg",
+      "startDate": "2026-09-10T14:00:00",
+      "endDate": "2026-09-13T13:00:00",
+      "duration": "PT4260M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "North Yorkshire Moors and Coast",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Saltburn Ln",
+          "addressLocality": "England",
+          "addressRegion": "Yorkshire and the Humber",
+          "postalCode": "TS12 1HA",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.9586,
+          "longitude": -1.0803
+        }
+      },
+      "about": "Landscape photography techniques",
+      "keywords": "photography course, photography workshop, landscape photography, 2-5-days, North Yorkshire Moors and Coast",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
+        "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "825.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
+        "validFrom": "2026-01-12 12:57:18",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ9211910",
+        "availabilityStarts": "2026-09-10T13:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ9211910",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicola"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Went through the basics to introduce you to photography and you can either sign on to continue the course over the next few weeks with Alan or get out there and start snapping. He is very enthusiastic and passionate about photography and it is impossible not to let it rub off on you. Really enjoy...",
+          "datePublished": "2016-12-09 11:27:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martin Chidgey"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan's obvious enthusiasm and creativity made for a really interesting and informative evening.  The session was well timed with well spaced breaks. The information covered was presented in an interesting way with lots of examples to illustrate the points made.  I felt enthused to go out and take...",
+          "datePublished": "2016-08-01 08:33:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Bulman"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Having just changed over from film to digital I realised that I missed a lot by using film but now hope to apply all knowledge, help and information that you gave.",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Whiting"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A well paced 3 hour workshop which took us through an introduction to some of the key pillars behind digital photography - both technical and creative.    Alan delivered the session in an engaging and informative manner and I took away a number of thoughts and principles to practice and use in or...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex Rodgers"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great evening class to introduce the basics of digital photography.",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Landscape Photography Workshops Yorkshire | Coast and Moors",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire"
+        }
+      ]
+    }
+  ]
+}

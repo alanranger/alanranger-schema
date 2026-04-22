@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25#event",
+      "identifier": "bluebell-photography-photo-workshop-warwickshire-25",
+      "name": "Bluebell Photography Workshop | Warwickshire | 25 Apr",
+      "description": "25/04/2026Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
+      "startDate": "2026-04-25T05:45:00",
+      "endDate": "2026-04-25T15:00:00",
+      "duration": "PT555M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Warwickshire",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "England",
+          "addressLocality": "United Kingdom",
+          "addressRegion": "West Midlands",
+          "postalCode": "B95 5BG",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.2819,
+          "longitude": -1.5845
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 1-day, Warwickshire",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
+        "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
+        "validFrom": "2025-05-13 10:33:37",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ8599409",
+        "availabilityStarts": "2026-04-25T04:45:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ8599409",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "57",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommen...",
+          "datePublished": "2019-09-05 21:05:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am really enjoying the Intentions course focusing on the homeless",
+          "datePublished": "2019-09-05 17:15:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norman"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent workshop in a great location.",
+          "datePublished": "2019-08-05 20:09:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen Sotheran"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan's bluebell workshop was a rare treat. The location was stunning, and the restricted group size together with Alan's patient and insightful tuition made for a great learning experience. Altogether a very pleasant morning, I would definitely recommend, both this workshop in particular and Alan...",
+          "datePublished": "2019-07-05 19:07:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Beresford"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Had a great time on the Bluebell Workshop, Alan was very helpful and I've learnt a few things to improve my photos",
+          "datePublished": "2019-07-05 10:48:00"
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25"
+      },
+      "superEvent": {
+        "@type": "EventSeries",
+        "@id": "https://www.alanranger.com#series-bluebell-photography-workshop"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bluebell Photography Workshop | Warwickshire | 25 Apr",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25"
+        }
+      ]
+    }
+  ]
+}

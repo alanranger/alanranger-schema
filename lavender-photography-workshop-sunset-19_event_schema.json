@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19#event",
+      "identifier": "lavender-photography-workshop-sunset-19",
+      "name": "Lavender Photography Workshop Gloucestershire at Sunset 4",
+      "description": "04/07/2026Cotswolds - Lavender Photography Workshop at spectacular Lavender fields. Shoot into the sunset hours for amazing colour and scenes - Gloucestershire",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700307138506-ZKLVZEG55N58GETAAWJT/Provence+en+Angleterre.jpg",
+      "startDate": "2026-07-04T17:00:00",
+      "endDate": "2026-07-04T20:00:00",
+      "duration": "PT180M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Cotswolds",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "7 Manor Barns",
+          "addressLocality": "Snowshill",
+          "addressRegion": "South West England",
+          "postalCode": "WR12 7JR",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.8642,
+          "longitude": -2.2382
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Cotswolds",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
+        "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
+        "validFrom": "2025-10-31 15:13:29",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ6748367",
+        "availabilityStarts": "2026-07-04T16:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ6748367",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "4",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Simpson"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Being an absolute novice to photography, since buying a entry level dlsr I've become more curious about the science around photography techniques.    Alan's introduction session was both informative and mind provoking - to the extent that I have enrolled on the follow up four week course.",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Austin "
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan provided an informative and interesting session which my 15 year old son enjoyed He provided him with a basic understanding of photography and Alan's enthusiastic delivery captured his imagination.",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T Balcombe"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I wish that this course had come with the purchase of my camera as I am sure I would have used it more, to better effect and with better results. Alan imparts his knowledge in an interesting, informative and fun way and I can't wait to go out and practice the tasks discussed. I will definitely be...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Horodecky"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Being a complete novice found the course really educational to what a camera can do with the correct training.  The course has prompted me to go back and study more carefully what my camera is capable of..",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lavender Photography Workshop Gloucestershire at Sunset 4",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19"
+        }
+      ]
+    }
+  ]
+}

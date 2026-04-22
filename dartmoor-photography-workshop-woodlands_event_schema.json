@@ -1,0 +1,195 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands#event",
+      "identifier": "dartmoor-photography-workshop-woodlands",
+      "name": "Dartmoor Photography Workshop | Woodlands, Moors and Tors",
+      "description": "09/10/2026Dartmoor Photography Workshop | Woodland, Moors and Tors weekend residential landscape workshop - Based around Dartmoor National Park, South Devon.",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696250238091-17YK0FSUYXO7SIFLMVPW/wistmans-wood+2.jpg",
+      "startDate": "2026-10-09T14:00:00",
+      "endDate": "2026-10-11T15:00:00",
+      "duration": "PT2940M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Dartmoor",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "United Kingdom",
+          "addressLocality": "Dartmoor",
+          "addressRegion": "South West England",
+          "postalCode": "PL20 6SW",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.561,
+          "longitude": -3.9336
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 2-5-days, Dartmoor",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
+        "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "875.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
+        "validFrom": "2025-11-04 18:23:04",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ5540434",
+        "availabilityStarts": "2026-10-09T13:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ5540434",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "2",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clinton Rindfuss"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I wanted to learn some of the basics of photography in terms of the technicalities. I came away with much more than that.... We got a good appreciation for photography as an art form too.   Highly recommend.",
+          "datePublished": "2016-09-01 10:58:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill Groves"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great course that makes having a DSLR camera worthwhile. Without the knowledge I learnt on Alan's course I might as well own just a compact point and shoot camera. Even though I was trying to use my camera effectively, I now have the understanding and confidence to select settings to hopefully ...",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dartmoor Photography Workshop | Woodlands, Moors and Tors",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands"
+        }
+      ]
+    }
+  ]
+}

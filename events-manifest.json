@@ -1,87 +1,7 @@
 {
-  "generatedAt": "2026-03-17T16:42:25.028Z",
-  "totalEvents": 102,
+  "generatedAt": "2026-04-22T15:25:48.531Z",
+  "totalEvents": 100,
   "entries": [
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-42ynf",
-      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-42ynf",
-      "group": "lessons",
-      "slug": "lightroom-photo-editing-classes-wk3-42ynf",
-      "schemaFileName": "lightroom-photo-editing-classes-wk3-42ynf_event_schema.json",
-      "faqFileName": "lightroom-photo-editing-classes-wk3-42ynf_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-8s2ka",
-      "schemaFileName": "camera-courses-for-beginners-coventry-8s2ka_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-8s2ka_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-s2klg",
-      "schemaFileName": "camera-courses-for-beginners-coventry-s2klg_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-s2klg_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/rps-courses-rps-distinctions-mentoring-2",
-      "pathKey": "/beginners-photography-lessons/rps-courses-rps-distinctions-mentoring-2",
-      "group": "lessons",
-      "slug": "rps-courses-rps-distinctions-mentoring-2",
-      "schemaFileName": "rps-courses-rps-distinctions-mentoring-2_event_schema.json",
-      "faqFileName": "rps-courses-rps-distinctions-mentoring-2_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-8ar5x",
-      "schemaFileName": "camera-courses-for-beginners-coventry-8ar5x_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-8ar5x_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-w5nkt",
-      "schemaFileName": "camera-courses-for-beginners-coventry-w5nkt_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-w5nkt_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-dfe",
-      "schemaFileName": "camera-courses-for-beginners-coventry-dfe_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-dfe_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-dhecf",
-      "schemaFileName": "camera-courses-for-beginners-coventry-dhecf_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-dhecf_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-3yj3h",
-      "schemaFileName": "camera-courses-for-beginners-coventry-3yj3h_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-3yj3h_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-nzwzx",
-      "schemaFileName": "camera-courses-for-beginners-coventry-nzwzx_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-nzwzx_event_faq.json"
-    },
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
       "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
@@ -267,12 +187,108 @@
       "faqFileName": "lightroom-photo-editing-classes-wk2_event_faq.json"
     },
     {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-w5nkt",
+      "schemaFileName": "camera-courses-for-beginners-coventry-w5nkt_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-w5nkt_event_faq.json"
+    },
+    {
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3",
       "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk3",
       "group": "lessons",
       "slug": "lightroom-photo-editing-classes-wk3",
       "schemaFileName": "lightroom-photo-editing-classes-wk3_event_schema.json",
       "faqFileName": "lightroom-photo-editing-classes-wk3_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-8ar5x",
+      "schemaFileName": "camera-courses-for-beginners-coventry-8ar5x_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-8ar5x_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-dhecf",
+      "schemaFileName": "camera-courses-for-beginners-coventry-dhecf_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-dhecf_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-dfe",
+      "schemaFileName": "camera-courses-for-beginners-coventry-dfe_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-dfe_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-nzwzx",
+      "schemaFileName": "camera-courses-for-beginners-coventry-nzwzx_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-nzwzx_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-3yj3h",
+      "schemaFileName": "camera-courses-for-beginners-coventry-3yj3h_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-3yj3h_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-zbcfe",
+      "schemaFileName": "camera-courses-for-beginners-coventry-zbcfe_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-zbcfe_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-7breh",
+      "schemaFileName": "camera-courses-for-beginners-coventry-7breh_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-7breh_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-4pp2p",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-4pp2p",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-4pp2p",
+      "schemaFileName": "camera-courses-for-beginners-coventry-4pp2p_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-4pp2p_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-hl4tm",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-hl4tm",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-hl4tm",
+      "schemaFileName": "camera-courses-for-beginners-coventry-hl4tm_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-hl4tm_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-8s2ka",
+      "schemaFileName": "camera-courses-for-beginners-coventry-8s2ka_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-8s2ka_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg",
+      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg",
+      "group": "lessons",
+      "slug": "camera-courses-for-beginners-coventry-s2klg",
+      "schemaFileName": "camera-courses-for-beginners-coventry-s2klg_event_schema.json",
+      "faqFileName": "camera-courses-for-beginners-coventry-s2klg_event_faq.json"
     },
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
@@ -297,94 +313,6 @@
       "slug": "lightroom-photo-editing-classes-wk3-7cd64",
       "schemaFileName": "lightroom-photo-editing-classes-wk3-7cd64_event_schema.json",
       "faqFileName": "lightroom-photo-editing-classes-wk3-7cd64_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
-      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
-      "group": "workshops",
-      "slug": "sunset-chesterton-windmill-spring",
-      "schemaFileName": "sunset-chesterton-windmill-spring_event_schema.json",
-      "faqFileName": "sunset-chesterton-windmill-spring_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
-      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
-      "group": "workshops",
-      "slug": "long-exposure-photography-workshop-kenilworth2",
-      "schemaFileName": "long-exposure-photography-workshop-kenilworth2_event_schema.json",
-      "faqFileName": "long-exposure-photography-workshop-kenilworth2_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
-      "pathKey": "/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
-      "group": "workshops",
-      "slug": "yorkshire-dales-photography-workshop",
-      "schemaFileName": "yorkshire-dales-photography-workshop_event_schema.json",
-      "faqFileName": "yorkshire-dales-photography-workshop_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
-      "pathKey": "/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
-      "group": "workshops",
-      "slug": "long-exposure-photo-workshop-sunset-kenilworth",
-      "schemaFileName": "long-exposure-photo-workshop-sunset-kenilworth_event_schema.json",
-      "faqFileName": "long-exposure-photo-workshop-sunset-kenilworth_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
-      "pathKey": "/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
-      "group": "workshops",
-      "slug": "urban-architecture-photography-workshop-coventry",
-      "schemaFileName": "urban-architecture-photography-workshop-coventry_event_schema.json",
-      "faqFileName": "urban-architecture-photography-workshop-coventry_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
-      "pathKey": "/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
-      "group": "workshops",
-      "slug": "secrets-of-woodland-photography-masterclass-spring",
-      "schemaFileName": "secrets-of-woodland-photography-masterclass-spring_event_schema.json",
-      "faqFileName": "secrets-of-woodland-photography-masterclass-spring_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-20",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-20_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-20_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-21",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-21_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-21_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-22",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-22_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-22_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-23",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-23_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-23_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-24",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
@@ -611,6 +539,14 @@
       "faqFileName": "hartland-quay-photography-devon-seascapes_event_faq.json"
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
+      "pathKey": "/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
+      "group": "workshops",
+      "slug": "urban-architecture-photography-workshop-coventry",
+      "schemaFileName": "urban-architecture-photography-workshop-coventry_event_schema.json",
+      "faqFileName": "urban-architecture-photography-workshop-coventry_event_faq.json"
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
       "pathKey": "/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
       "group": "workshops",
@@ -817,6 +753,54 @@
       "slug": "northumberland-landscape-photography-workshop",
       "schemaFileName": "northumberland-landscape-photography-workshop_event_schema.json",
       "faqFileName": "northumberland-landscape-photography-workshop_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
+      "pathKey": "/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
+      "group": "workshops",
+      "slug": "secrets-of-woodland-photography-masterclass-spring",
+      "schemaFileName": "secrets-of-woodland-photography-masterclass-spring_event_schema.json",
+      "faqFileName": "secrets-of-woodland-photography-masterclass-spring_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-20",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-20_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-20_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-21",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-21_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-21_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-22",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-22_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-22_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-23",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-23_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-23_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-24",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_faq.json"
     }
   ]
 }

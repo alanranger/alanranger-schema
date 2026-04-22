@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring#event",
+      "identifier": "lake-district-photography-workshop-spring",
+      "name": "Lake District Photography Workshop | Spring in Cumbria",
+      "description": "12/03/2027Lake District Photography Workshops - Enjoy the iconic scenes in spring with spring growth and iconic vistas. Learn how to make the best images",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928085823-H07VOW50MWIZ6EKCTFH1/blea+mirror-Alan-Ranger-Photography-Workshops.jpg",
+      "startDate": "2027-03-12T09:30:00",
+      "endDate": "2027-03-14T13:30:00",
+      "duration": "PT3120M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Lake District",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "England",
+          "addressLocality": "United Kingdom",
+          "addressRegion": "North West England",
+          "postalCode": "CA12 4QG",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 54.5772,
+          "longitude": -2.7975
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 2-5-days, Lake District",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
+        "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "975.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
+        "validFrom": "2026-03-10 18:02:17",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ9100538",
+        "availabilityStarts": "2027-03-12T09:30:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ9100538",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "20",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Cameron"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had another great weekend with Alan in the Lake District where we went to a number of different locations. They great thing that Alan brought was the assistance and direction in visualisation.  I whole heartedly recommend Alan Ranger photography",
+          "datePublished": "2018-06-01 14:35:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen Barber"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful experience no matter what you ability. Excellent grounding in the basics. Enabling understanding of your camera.  It hooves you the chance to try different aspects. Skills and ideas to get your creative juices flowing.",
+          "datePublished": "2018-06-01 05:45:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D Jeffrey"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Just returned from an excellent workshop in the Lake District.  Alan took us to brilliant locations and made sure everyone was comfortable with both the creative aspect of 'seeing the shot' and then attempting to execute it but fortunately stopped short of taking the shot for us to ensure we real...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew Reynolds"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a very enjoyable three day photography trip with Alan Ranger in the Lake District staying near Keswick.  Alan drove us to some fantastic locations that I would never have found on my own. He showed us example photographs he had previously taken in the areas we visited to give us ideas for c...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Justin Meaden"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Had a very enjoyable long weekend in the Lake District with Alan Ranger Photography. Great Worksop itinerary provided beforehand with helpful photos and locations. Alan provided fantastic advice and guidance throughout the workshop both technically and composition wise and provided a range of pot...",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lake District Photography Workshop | Spring in Cumbria",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring"
+        }
+      ]
+    }
+  ]
+}

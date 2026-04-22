@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop#event",
+      "identifier": "northumberland-landscape-photography-workshop",
+      "name": "Northumberland Landscape Photography Workshop | 4 Days | Mar",
+      "description": "18/03/2027Northumberland Landscape Photography Workshop for practising long exposures at sunrise to sunset to get those iconic views of the Northumbrian coast.",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707213523267-M43SC9SL8KNU8S7Z6MJ7/Northumberland+Landscape+Photography+Workshop+%282%29.jpg",
+      "startDate": "2027-03-18T14:00:00",
+      "endDate": "2027-03-21T14:00:00",
+      "duration": "PT4320M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Northumberland",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lowick",
+          "addressLocality": "Northumberland",
+          "addressRegion": "North East England",
+          "postalCode": "TD15 2UA",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 55.2088,
+          "longitude": -2.0783
+        }
+      },
+      "about": "Landscape photography techniques",
+      "keywords": "landscape, photography course, photography workshop, landscape photography, 2-5-days, Northumberland",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
+        "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "995.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
+        "validFrom": "2026-02-18 13:06:38",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ8540187",
+        "availabilityStarts": "2027-03-18T14:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ8540187",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "9",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Joined Alan and 4 others for weekend in Northumberland. A great experience in every way. The details about where/what we photographing were excellent and included weather forecast, tide times as well. We covered lots of locations over the 3 days. Got lots of really good tuition and loved the feed...",
+          "datePublished": "2016-05-12 06:32:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Blake"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Friday through Sunday, some great locations and a different eye on them too, rather than just the usual 'tourist' shots Good cottage to stay in.  Adaptable to conditions and what people wanted to do.",
+          "datePublished": "2016-01-12 22:14:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ester  Riodran"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good points - weather was fantastic, tuition good but you do need to ask Alan for help which I don't have a problem with.  Some fantastic areas to photograph.  We went to various locations so that everyone could get something including a lovely sun rise in Craster so time management was essential...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Isabel Niner"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great 3 day workshop with lots of tips and guidance. Left me with lots to think about and put into practice.",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Garry Such"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great weekend in Northumberland, despite the weather on Saturday am.  Thanks once again Alan for all your help - your limited group numbers allow participants to benefit fully from your tuition and knowledge.  It was a very rewarding experience which I always enjoy, I'll most definitely be with y...",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Northumberland Landscape Photography Workshop | 4 Days | Mar",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop"
+        }
+      ]
+    }
+  ]
+}

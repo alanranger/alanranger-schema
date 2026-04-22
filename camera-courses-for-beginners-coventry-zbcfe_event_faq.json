@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10 takes place at Coventry. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10 is scheduled for 2026-10-12 to 2026-10-12. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10 is 150.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

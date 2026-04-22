@@ -1,0 +1,235 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood#event",
+      "identifier": "woodland-photography-walk-meriden-millisons-wood",
+      "name": "Woodland Photography Walk | Meriden | Millisons Wood",
+      "description": "03/05/2026Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
+      "startDate": "2026-05-03T09:30:00",
+      "endDate": "2026-05-03T11:30:00",
+      "duration": "PT120M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Meriden",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Albert Road",
+          "addressLocality": "United Kingdom",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV5 9AS",
+          "addressCountry": "GB"
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Meriden",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood",
+        "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "15.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood",
+        "validFrom": "2025-11-04 18:21:05",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ7078023",
+        "availabilityStarts": "2026-05-03T08:30:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ7078023",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "32",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mr J Parker"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Although the light was not at its best, the locations Alan had chosen a walk that had plenty of interest, and Alan gave clear, simple explanations which helped me to take the auto off my camera - and to not put it back on since. Alan is very personable and pitch advance at the level needed. It wa...",
+          "datePublished": "2020-12-01 17:13:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Dance"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Inspirational, instructive and interesting",
+          "datePublished": "2020-09-02 17:27:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy Troth"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Another enjoyable outing with Alan. His approach to teaching photography revolves around a really positive and encouraging attitude. He always gives maximum help whilst allowing one to make their own progress. An excellent outing with much learned.",
+          "datePublished": "2020-09-01 19:11:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabrielle  Smith"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan Ian clear about what is included, makes the whole experience relaxed and non-threatening and encourages everyone to achieve what they set out to do.",
+          "datePublished": "2020-08-01 15:15:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles Budd"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really enjoyed an amiable ramble through the woods, looking for little scenes to photograph. Hoping to do it every month if I can.",
+          "datePublished": "2020-08-01 12:14:00"
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Woodland Photography Walk | Meriden | Millisons Wood",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood"
+        }
+      ]
+    }
+  ]
+}

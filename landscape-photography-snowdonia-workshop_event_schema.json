@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop#event",
+      "identifier": "landscape-photography-snowdonia-workshop",
+      "name": "Landscape Photography Snowdonia Photography Workshop",
+      "description": "26/09/2026Wales - Landscape Photography Snowdonia Workshops - Waterfalls, mountains, big vistas, slate quarries, lakes | photography workshops near me",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696850796928-3GQA4UMZ6SHN0O83WJWJ/Snowdonia+Landscape+Photography+Workshop.jpg",
+      "startDate": "2026-09-26T10:00:00",
+      "endDate": "2026-09-27T16:00:00",
+      "duration": "PT1800M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Wales - Snowdonia",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Capel Curig",
+          "addressLocality": "United Kingdom",
+          "addressRegion": "Wales",
+          "postalCode": "BETWS-Y-COED LL24 0EL",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.1307,
+          "longitude": -3.7837
+        }
+      },
+      "about": "Landscape photography techniques",
+      "keywords": "wales, photography course, photography workshop, landscape photography, 2-5-days, Wales - Snowdonia",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
+        "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "595.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
+        "validFrom": "2026-02-18 13:37:51",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ0548499",
+        "availabilityStarts": "2026-09-26T09:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ0548499",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "6",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter Williams"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan has a gentle approach to those people who are on a learning curve whilst being technical and knowledgeable to the more experienced photographer. Good patient manner with a sense of humour. well organised and expects the same from his clients.",
+          "datePublished": "2019-05-03 14:33:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Francis Peckham"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall, a pretty good tour. Some decent locations and I felt Alan a struck a good balance between tuition and friendly travel companion ; undoubtedly a very competent tutor and I've picked up quite a bit personally. The midges and full-on sunlight were minor negatives, but that's the nature of t...",
+          "datePublished": "2018-12-06 09:30:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Cameron"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently went on a workshop to Glencoe for 3 days. I had excellent tuition and advice on how to visualise and capture images. I've since had a 1-2-1 where we've been through half a dozen images from Glencoe. Where Alan has provided some best practices, tips and tricks on how to edit photos, to ...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedbac...",
+          "datePublished": ""
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy Troth"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As on a previous workshop we were taken to a number of excellent locations. As always, Alan's knowledge and advice was extensive and freely given. I would thoroughly recommend him. I had a fantastic time.",
+          "datePublished": ""
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Landscape Photography Snowdonia Photography Workshop",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop"
+        }
+      ]
+    }
+  ]
+}

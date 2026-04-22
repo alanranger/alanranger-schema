@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct#event",
+      "identifier": "batsford-arboretum-autumn-photography-30oct",
+      "name": "Batsford Arboretum Autumn Photography Workshop - 25/10",
+      "description": "25/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
+      "startDate": "2026-10-25T08:00:00",
+      "endDate": "2026-10-25T15:30:00",
+      "duration": "PT450M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": " Batsford Arboretum - Gloucestershire",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "England",
+          "addressLocality": "United Kingdom",
+          "addressRegion": "South West England",
+          "postalCode": "GL56 9AE",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.8642,
+          "longitude": -2.2382
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 1-day,  Batsford Arboretum - Gloucestershire",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct",
+        "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct",
+        "validFrom": "2025-10-31 13:35:45",
+        "priceValidUntil": "2027-04-22",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": "http://schema.org/True",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ0818501",
+        "availabilityStarts": "2026-10-25T08:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ0818501",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "96",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bean counter"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently attended one of Alan's workshops at Batsford Arboretum. The information that Alan provided in advance was very comprehensive, and included not just equipment required but also advice on clothing and food and drink. Not surprisingly, the theme of the workshop was 'Autumn leaves', and Al...",
+          "datePublished": "2018-10-11 14:36:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The morning session about composition was very useful for the four students who attended the course and they felt that they learnt a considerable amount in the time allocated. However, if I were to book other students in the future: They would need to attend the lesson about DSLR settings first; ...",
+          "datePublished": "2018-08-05 17:22:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alistair  Willis"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good session on autumn photography at Batsford arboretum (apparently TrustPilot don't allow links, so Google \"Alan Ranger Batsford\" :-) ). Particular good points: some good refreshers on very basic stuff (eg. custom white balance and using exposure bracketing), and some more advanced techniq...",
+          "datePublished": "2018-06-11 19:26:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allen Miller"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very useful theory and discussion session. Found Batsford a bit limiting for putting learning into practice.",
+          "datePublished": "2018-05-10 14:47:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D Jeffrey"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ensured everyone was able to get 'their' question answered and had the group at suitable locations to take advantage of the changing light.",
+          "datePublished": "2018-03-11 08:47:00"
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct"
+      },
+      "superEvent": {
+        "@type": "EventSeries",
+        "@id": "https://www.alanranger.com#series-batsford-arboretum-autumn-photography-workshop"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Batsford Arboretum Autumn Photography Workshop - 25/10",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct"
+        }
+      ]
+    }
+  ]
+}
