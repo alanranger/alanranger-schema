@@ -2,9 +2,9 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/diy-product-photography#blogposting",
-  "headline": "Diy Product Photography",
-  "alternativeHeadline": "Diy Product Photography | Alan Ranger Photography",
-  "description": "Workflow that gives you sharp, clean images every time.",
+  "headline": "DIY Product Photography: Shoot Professional Images at Home",
+  "alternativeHeadline": "DIY Product Photography: Shoot Professional Images at Home | Alan Ranger Photography",
+  "description": "This guide you will learn how to set up a diy product photography workflow that gives you sharp, clean images every time.",
   "url": "https://www.alanranger.com/blog-on-photography/diy-product-photography",
   "datePublished": "2026-04-07T00:00:00.000Z",
   "dateModified": "2026-04-07T00:00:00.000Z",
@@ -55,12 +55,12 @@
     {
       "@type": "VideoObject",
       "@id": "https://www.alanranger.com/blog-on-photography/diy-product-photography#video-youtube-_A7Gao0uWBs",
-      "name": "Diy Product Photography - Video",
-      "description": "Workflow that gives you sharp, clean images every time.",
+      "name": "DIY Product Photography: Shoot Professional Images at Home - Video",
+      "description": "This guide you will learn how to set up a diy product photography workflow that gives you sharp, clean images every time.",
       "url": "https://www.youtube.com/watch?v=_A7Gao0uWBs",
       "embedUrl": "https://www.youtube.com/embed/_A7Gao0uWBs",
       "thumbnailUrl": "https://i.ytimg.com/vi/_A7Gao0uWBs/hqdefault.jpg",
-      "uploadDate": "2026-04-07",
+      "uploadDate": "2026-04-07T00:00:00+00:00",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       }
@@ -68,12 +68,12 @@
     {
       "@type": "VideoObject",
       "@id": "https://www.alanranger.com/blog-on-photography/diy-product-photography#video-youtube-EklA541CPEQ",
-      "name": "Diy Product Photography - Video",
-      "description": "Workflow that gives you sharp, clean images every time.",
+      "name": "DIY Product Photography: Shoot Professional Images at Home - Video",
+      "description": "This guide you will learn how to set up a diy product photography workflow that gives you sharp, clean images every time.",
       "url": "https://www.youtube.com/watch?v=EklA541CPEQ",
       "embedUrl": "https://www.youtube.com/embed/EklA541CPEQ",
       "thumbnailUrl": "https://i.ytimg.com/vi/EklA541CPEQ/hqdefault.jpg",
-      "uploadDate": "2026-04-07",
+      "uploadDate": "2026-04-07T00:00:00+00:00",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       }
