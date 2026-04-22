@@ -80,8 +80,8 @@
           "price": "133.85",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "16x12 Print (with Frame 20x16)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer1",
@@ -119,8 +119,8 @@
           "price": "191.50",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "24x16 Print (with Frame 30x20)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer2",
@@ -158,8 +158,8 @@
           "price": "267.43",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "30x20 Print (with Frame 40x30)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer3",
@@ -197,8 +197,8 @@
           "price": "356.90",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "36x24 Print (with Frame 48x36)",
           "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
           "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#offer4",
@@ -232,6 +232,44 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Johnson"
+          },
+          "reviewBody": "Alan shares great knowledge with confidence and I look forward to further meetings.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Grace Oliver"
+          },
+          "reviewBody": "Alan has been really helpful in teaching me how to use my camera, helping me with the creative and technical side. He’s very patient with explaining things and shares his knowledge. He’s also helped with the whole process of photographing my artwork to make into prints, I now have a clear plan on how I can start selling prints. Thank you!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -291,7 +329,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 3
+        "reviewCount": 5
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints#product"
     }

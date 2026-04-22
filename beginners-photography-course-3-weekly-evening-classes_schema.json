@@ -65,182 +65,26 @@
     {
       "@type": "Product",
       "name": "Beginners Photography Course | 3 Weekly Evening Classes",
-      "sku": "SQ1746549",
+      "sku": "SQ7702763",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Beginners Photography Course Coventry Summary - Camera Courses For Beginners - Key Information Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Participants: Max 4 Time: 19:00 - 21:00 Multi Course Start Dates: Beginners Photography Course 3 wks Thursdays - Mar 5 - Mar 19 Coventry 3 wks Mondays - Mar 9 - Mar 23 Coventry 3 wks Wednesdays - Apr 1 - Apr 15 Coventry 3 wks Tuesdays - Apr 7 - Apr 21 Coventry 3 wks Tuesdays - May 5 - May 19 Coventry 3 wks Thursdays - May 7 - May 21 Coventry 3 wks Tuesdays - Jun 2 - Jun 16 Coventry 3 wks Thursdays - Jun 11- Jun 25 Coventry 3 wks...",
+      "description": "Beginners Photography Course Coventry Summary - Camera Courses For Beginners - Key Information Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Participants: Max 4 Time: 19:00 - 21:00 Multi Course Start Dates: Beginners Photography Course 3 wks Tuesdays - May 5 - May 19 Coventry 3 wks Thursdays - May 7 - May 21 Coventry 3 wks Tuesdays - Jun 2 - Jun 16 Coventry 3 wks Thursdays - Jun 11- Jun 25 Coventry 3 wks Wednesdays - Jul 1 - Jul 15 Coventry 3 wks Mondays - Jul 6 - Jul 20 Coventry 3 wks Thursdays - Sep 17 - Oct 1 Coventry 3 wks Tuesdays - Sep 22 - Oct 6 Coventry 3 wks...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/bceae6f2-91b8-4012-a00b-7b7b177d346f/Beginners+Photography+Classes.png",
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ1746549",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
-          "name": "3wks Thursdays - Mar 5 - Mar 19 Coventry",
-          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer1",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ3510767",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
-          "name": "3wks Mondays - Mar 9 - Mar 23 Coventry",
-          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ7826447",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
-          "name": "3wks Wednesdays - Apr 1 - Apr 15 Coventry",
-          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer3",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ0670010",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
-          "name": "3wks Tuesdays - Apr 7 - Apr 21 Coventry",
-          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
           "sku": "SQ7702763",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Wednesdays - May 5 - May 19 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer5",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -275,11 +119,11 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Thursdays - May 7 - May 21 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer6",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer2",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -314,11 +158,11 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Tuesdays - Jun 2 - Jun 16 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer7",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -353,11 +197,11 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Thursdays - Jun 18- Jun 25 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer8",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -392,11 +236,11 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Wednesdays - Jul 1 - Jul 15 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer9",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer5",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -431,9 +275,165 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "3wks Mondays - Jul 6 - Jul 20 Coventry",
+          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6482854",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
+          "name": "3wks Thursdays - Sep 17 - Oct 1 Coventry",
+          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ1702168",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
+          "name": "3wks Tuesdays - Sep 22 - Oct 6 Coventry",
+          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer8",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6875626",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
+          "name": "3wks Mondays - Oct 12 - Oct 26 Coventry",
+          "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer9",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ8844762",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
+          "name": "3wks Wednesdays - Oct 14 - Oct 28 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer10",
           "seller": {
@@ -466,6 +466,82 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roz"
+          },
+          "reviewBody": "I am in New Orleans USA and needed a location shoot in Coventry. I emailed several photographers and Alan was the only one that  promptly replied back and discussed the job with me. He not only worked within my budget but gave me quality deliverables, exactly as I needed. Would definitely work with again!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Makala Walker"
+          },
+          "reviewBody": "Beginners photography Course- Alan was wonderful! He gave us incredible tips and insights and explained things in a way that made them make sense. I would definitely recommend this course for anyone wanting to either refresh their basic knowledge is or for complete beginners!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Francisca Solis Puello"
+          },
+          "reviewBody": "Before the session, Alan made sure to understand how I would be using the photos he was going to take and asked about all my requirements to ensure he could offer exactly what I was looking for.  During the session, he gave me several helpful tips to achieve a good photo for the back cover of my first book. I felt comfortable while Alan was taking the photos.  After the photo session, he listened carefully to my feedback and worked on the adjustments until I was satisfied with the final results.  Thank you, Alan, for your patience and the professionalism you bring to your work.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark Reynolds"
+          },
+          "reviewBody": "Very professional, understanding and above all else gets to the point, knows what he’s talking about and progress in acquiring the required knowledge is quick I’m now convinced I can take my photography skills to where I want want them",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-13",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -584,139 +660,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Atmos"
-          },
-          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dr. Yumna I S"
-          },
-          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dianne Morgan"
-          },
-          "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Philip Hart"
-          },
-          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Neil Barford"
-          },
-          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ergin Taşdelen"
-          },
-          "reviewBody": "Great Photography lessons with Alan! The lessons were inspiring and well-structured. I learned new techniques that made a real difference in my photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "MuraliMohan SR"
-          },
-          "reviewBody": "Fun, informative, and perfect for beginners.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Bassam Al Jazy"
           },
           "reviewBody": "I recently attended the Landscape Photography Devon Workshop with Mr. Alan Ranger, and it was an outstanding experience from start to finish. The workshop was well-organized, with a detailed schedule and excellent information about each location — including the best times for sunrise, sunset, high tide, and low tide. Everything we needed to know was clearly explained and thoughtfully planned.  The choice of locations was perfect for training and practice. Each spot offered unique opportunities to experiment with composition, light, and timing. I must admit, I learned a lot of useful techniques, creative ideas, and ways to think differently about each shot — especially the importance of being patient and waiting for the right moment.  There were only three of us in total, which made the experience even more personal and interactive. I also learned a great deal from my fellow participants. The commuting distances between locations were short and comfortable, and Alan proved to be not only an excellent tutor but also an excellent driver!  Overall, this workshop was both educational and inspiring. I’m truly grateful for the experience and hope to join Alan again for more workshops in other locations.",
@@ -812,28 +755,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clifford Katsande"
+            "name": "Britt van zeeland"
           },
-          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-09-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "KrishnaKumar Kuttan"
-          },
-          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
+          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -869,9 +793,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Britt van zeeland"
+            "name": "Clifford Katsande"
           },
-          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
+          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KrishnaKumar Kuttan"
+          },
+          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -940,11 +883,68 @@
             "@type": "Organization",
             "name": "Google"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shahida Badiani"
+          },
+          "reviewBody": "Great photography workshop with Alan. He was informative and gave 1 to 1 attention to all on the course. Learnt more with him that I did on my own in years!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Jackson"
+          },
+          "reviewBody": "Had a great day with Alan on his woodland photography day. Very knowledgeable and a great teacher. Great tips from compositions and editing. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Auinger"
+          },
+          "reviewBody": "Alan is an amazing photographer! The photos are excellent and were sent on the same day (digital version). It all went really smooth. Definitely calling him again when in need for a photoshoot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.96",
+        "ratingValue": "5.0",
         "reviewCount": 25
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#product"

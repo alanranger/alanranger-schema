@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 23  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 23 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 23 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 24  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 24 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 24 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sun 25 Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sun 25 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sun 25 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Thu 29  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Thu 29 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Thu 29 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -596,8 +596,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 30  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -639,8 +639,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 30 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -682,8 +682,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Fri 30 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -725,8 +725,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 31  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -768,8 +768,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 31 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -811,8 +811,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-03-17",
-          "priceValidUntil": "2027-03-17",
+          "validFrom": "2026-04-22",
+          "priceValidUntil": "2027-04-22",
           "name": "Sat 31 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -949,9 +949,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Neil W"
+            "name": "Ross HK"
           },
-          "reviewBody": "Recently I attended a photography workshop with Alan at Batsford Arboretum.  The focus of the session concentrated on composition, aiming to make you think about the photograph you have in mind.  Alan has a wealth of knowledge and has the knack of being able to explain topics in an easy to understand way pitching at the right level - he’s very happy to take questions and encourages engagement.  A very positive experience, I enjoyed my afternoon taking on board the hints and tips that Alan provided.  Thank you.",
+          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -968,9 +968,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ross HK"
+            "name": "Neil W"
           },
-          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
+          "reviewBody": "Recently I attended a photography workshop with Alan at Batsford Arboretum.  The focus of the session concentrated on composition, aiming to make you think about the photograph you have in mind.  Alan has a wealth of knowledge and has the knack of being able to explain topics in an easy to understand way pitching at the right level - he’s very happy to take questions and encourages engagement.  A very positive experience, I enjoyed my afternoon taking on board the hints and tips that Alan provided.  Thank you.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1035,6 +1035,101 @@
             "worstRating": "1"
           },
           "datePublished": "2025-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Philip Hart"
+          },
+          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Yumna I S"
+          },
+          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Atmos"
+          },
+          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Neil Barford"
+          },
+          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dianne Morgan"
+          },
+          "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1139,9 +1234,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clifford Porter"
+            "name": "Linda Newbery"
           },
-          "reviewBody": "Autumn Photo workshop at Batsford Arboretum on Wednesday 27 October 2021.  A great day with Alan and another 3 in the group.  Very relaxed style of tuition.  Loved the panning trees technique as motorsport photography is my 1st priority!  Thank you. The Lake District events look good.  Maybe next year.  Thank you Alan, I learned so much. Even the visitors enjoyed the Redwood trees.",
+          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1177,9 +1272,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Hardwick"
+            "name": "Clifford Porter"
           },
-          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
+          "reviewBody": "Autumn Photo workshop at Batsford Arboretum on Wednesday 27 October 2021.  A great day with Alan and another 3 in the group.  Very relaxed style of tuition.  Loved the panning trees technique as motorsport photography is my 1st priority!  Thank you. The Lake District events look good.  Maybe next year.  Thank you Alan, I learned so much. Even the visitors enjoyed the Redwood trees.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1196,9 +1291,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Linda Newbery"
+            "name": "Ian Hardwick"
           },
-          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
+          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1229,106 +1324,11 @@
             "@type": "Organization",
             "name": "Google"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Morgan Andringa"
-          },
-          "reviewBody": "Great afternoon with Alan. I have learnt lots and I am sure that my photos have been improved as a result.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mandy Waters"
-          },
-          "reviewBody": "A great afternoon at Batsford Arboretum for the autumn workshop.  Alan was very helpful giving me ideas to improve my composition, assisting with my camera settings, answering any photography questions I had. A really enjoyable afternoon and look forward to going out to practice some new techniques and skills. Thanks again",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-24",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Garry Mumford"
-          },
-          "reviewBody": "I attended a one day workshop run by Alan in the Peak District. I found him very approachable and he offered up great ideas about composition and suggested using a polarising filter in situations I’d never thought of before. He was selfless in his support of all the participants and had a great sense of humour too. I thoroughly enjoyed the workshop, learned a few things (always good) and would recommend his workshops to photographers of all levels.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-19",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Linda Smith"
-          },
-          "reviewBody": "Excellent 'Get off Auto' class. Has given me the confidence to have a go.  Clear and easy to understand presentation and friendly manner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-19",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Trevor Davis"
-          },
-          "reviewBody": "I enjoyed a very informative day with Alan at Padley Gorge and Bolehill Quarry, picking up some fresh ideas that will help improve my photography. The workshop was very well organised.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
+        "ratingValue": "4.96",
         "reviewCount": 25
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#product"

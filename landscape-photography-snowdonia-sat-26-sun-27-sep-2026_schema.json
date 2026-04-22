@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Landscape Photography Snowdonia - Sat 26th - Sun 27th Sep 2026",
+          "name": "Landscape Photography Snowdonia - Sat 26 - Sun 27 Sep 2026",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
         }
       ],
@@ -64,7 +64,7 @@
     },
     {
       "@type": "Product",
-      "name": "Landscape Photography SNOWDONIA - Sat 26th - Sun 27th Sep 2026",
+      "name": "Landscape Photography SNOWDONIA - Sat 26 - Sun 27 Sep 2026",
       "sku": "SQ0548499",
       "brand": {
         "@type": "Brand",
@@ -79,8 +79,8 @@
         "price": "595.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-03-17",
-        "priceValidUntil": "2027-03-17",
+        "validFrom": "2026-04-22",
+        "priceValidUntil": "2027-04-22",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#offer",
         "seller": {

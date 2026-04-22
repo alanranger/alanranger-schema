@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Urban Architecture Photography Workshops - Coventry 16 Apr",
+          "name": "Urban Architecture Photography Workshops - Coventry 9 Sep",
           "item": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "URBAN ARCHITECTURE Photography Workshops - Coventry 16 Apr",
+      "name": "URBAN ARCHITECTURE Photography Workshops - Coventry 9 Sep",
       "sku": "SQ4066377",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "We will walk around several historic parts of Coventry in this 2.5 hr Urban Architecture Photography Workshop, photographing buildings and ruins.Summary Location: Coventry City Centre Dates: Thu 16 Apr 2026 - 18:15-20:15 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Street Photography Description: Join me on this evening urban architecture photography workshop and learn how to see and design images at night! We will walk around several historic parts of Coventry in this 2.5...",
+      "description": "We will walk around several historic parts of Coventry in this 2.5 hr Urban Architecture Photography Workshop, photographing buildings and ruins.Summary Location: Coventry City Centre Dates: Wed 9 Sep 2026 - 18:15-20:15 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Street Photography Description: Join me on this evening urban architecture photography workshop and learn how to see and design images at night! We will walk around several historic parts of Coventry in this 2.5...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1658913526124-UHAZAOPDEELSFKC627FT/Coventry+1.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-03-17",
-        "priceValidUntil": "2027-03-17",
+        "validFrom": "2026-04-22",
+        "priceValidUntil": "2027-04-22",
         "priceSpecification": {
           "price": "50.00",
           "priceCurrency": "GBP"

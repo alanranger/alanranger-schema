@@ -79,8 +79,8 @@
         "price": "1450.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-03-17",
-        "priceValidUntil": "2027-03-17",
+        "validFrom": "2026-04-22",
+        "priceValidUntil": "2027-04-22",
         "priceSpecification": {
           "price": "1450.00",
           "priceCurrency": "GBP"
@@ -116,6 +116,120 @@
         }
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Keating"
+          },
+          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miles Huckle"
+          },
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Bailey"
+          },
+          "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex Rainer"
+          },
+          "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Harrott"
+          },
+          "reviewBody": "Beginners Camera Class Good informative sessions at a good pace to enable learning and understanding. Now starting to understand the basics of how my camera works and how to set it up. Enjoyed it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Stamp"
+          },
+          "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-13",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -214,7 +328,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 5
+        "reviewCount": 11
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#product"
     }
