@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide",
+  "name": "Airbnb Photography Guide",
+  "description": "Airbnb Photography Guide.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#blogposting"
+  }
+}
