@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69eb3864e3d35f3a511937ee/1777025390013/cf5554d3-f7e1-4fb1-a936-4fa91d70412b.png?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Airbnb Photography Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
