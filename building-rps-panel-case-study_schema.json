@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study",
+  "name": "Building Rps Panel Case Study",
+  "description": "Building Rps Panel Case Study.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study#blogposting"
+  }
+}
