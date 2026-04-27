@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework",
+  "name": "Landscape Photography Vision Framework",
+  "description": "Landscape Photography Vision Framework.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#blogposting"
+  }
+}
