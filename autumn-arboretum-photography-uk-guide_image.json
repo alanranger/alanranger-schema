@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/69ef6840dd41665344181b94/1777298637101/Autumn+Arboretum+%26+Garden+Photography.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Autumn Arboretum Photography Uk Guide",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
