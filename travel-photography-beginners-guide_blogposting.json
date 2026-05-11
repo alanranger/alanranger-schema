@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide#blogposting",
-  "headline": "Travel Photography Beginners Guide",
-  "alternativeHeadline": "Travel Photography Beginners Guide | Alan Ranger Photography",
+  "headline": "Travel Photography - A Practical UK Beginner's Guide",
+  "alternativeHeadline": "Travel Photography - A Practical UK Beginner's Guide | Alan Ranger Photography",
   "description": "This guide covers the kit that packs light, the settings that cope with fast-changing conditions, the compositions that travel well home, and the daily.",
   "url": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide",
   "datePublished": "2026-04-24T00:00:00.000Z",
@@ -48,12 +48,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide#video-youtube-S1I_V0UciOQ",
-    "name": "Travel Photography Beginners Guide - Video",
+    "name": "Travel Photography - A Practical UK Beginner's Guide - Video",
     "description": "This guide covers the kit that packs light, the settings that cope with fast-changing conditions, the compositions that travel well home, and the daily.",
     "url": "https://www.youtube.com/watch?v=S1I_V0UciOQ",
     "embedUrl": "https://www.youtube.com/embed/S1I_V0UciOQ",
     "thumbnailUrl": "https://i.ytimg.com/vi/S1I_V0UciOQ/hqdefault.jpg",
-    "uploadDate": "2026-04-24",
+    "uploadDate": "2026-04-24T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
