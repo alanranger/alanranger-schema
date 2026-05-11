@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-04-22T15:25:48.531Z",
-  "totalEvents": 100,
+  "generatedAt": "2026-05-11T21:12:56.765Z",
+  "totalEvents": 99,
   "entries": [
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-oct1",
-      "schemaFileName": "camera-courses-for-beginners-coventry-oct1_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-oct1_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wc34j",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-wc34j",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-wc34j",
-      "schemaFileName": "camera-courses-for-beginners-coventry-wc34j_event_schema.json",
-      "faqFileName": "camera-courses-for-beginners-coventry-wc34j_event_faq.json"
-    },
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
       "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -315,110 +299,6 @@
       "faqFileName": "lightroom-photo-editing-classes-wk3-7cd64_event_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-25",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-25_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-25_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-17",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-17_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-17_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-18",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-18_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-18_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-19",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-19_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-19_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-29",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-29_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-29_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-30",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-30_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-30_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-01",
-      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-01",
-      "group": "workshops",
-      "slug": "bluebell-photography-photo-workshop-warwickshire-01",
-      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-01_event_schema.json",
-      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-01_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-burnham-on-sea",
-      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-burnham-on-sea",
-      "group": "workshops",
-      "slug": "long-exposure-photography-burnham-on-sea",
-      "schemaFileName": "long-exposure-photography-burnham-on-sea_event_schema.json",
-      "faqFileName": "long-exposure-photography-burnham-on-sea_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood",
-      "pathKey": "/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood",
-      "group": "workshops",
-      "slug": "woodland-photography-walk-meriden-millisons-wood",
-      "schemaFileName": "woodland-photography-walk-meriden-millisons-wood_event_schema.json",
-      "faqFileName": "woodland-photography-walk-meriden-millisons-wood_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
-      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
-      "group": "workshops",
-      "slug": "long-exposure-photography-workshop-kenilworth1",
-      "schemaFileName": "long-exposure-photography-workshop-kenilworth1_event_schema.json",
-      "faqFileName": "long-exposure-photography-workshop-kenilworth1_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
-      "pathKey": "/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
-      "group": "workshops",
-      "slug": "fairy-glen-photography-betws-y-coed",
-      "schemaFileName": "fairy-glen-photography-betws-y-coed_event_schema.json",
-      "faqFileName": "fairy-glen-photography-betws-y-coed_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
-      "pathKey": "/photographic-workshops-near-me/anglesey-photography-workshop-wales",
-      "group": "workshops",
-      "slug": "anglesey-photography-workshop-wales",
-      "schemaFileName": "anglesey-photography-workshop-wales_event_schema.json",
-      "faqFileName": "anglesey-photography-workshop-wales_event_faq.json"
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
-      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
-      "group": "workshops",
-      "slug": "long-exposure-photography-workshop-kenilworth4",
-      "schemaFileName": "long-exposure-photography-workshop-kenilworth4_event_schema.json",
-      "faqFileName": "long-exposure-photography-workshop-kenilworth4_event_faq.json"
-    },
-    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring",
       "pathKey": "/photographic-workshops-near-me/peak-district-photography-workshops-spring",
       "group": "workshops",
@@ -499,6 +379,14 @@
       "faqFileName": "garden-photography-workshop_event_faq.json"
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-burnham-on-sea",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-burnham-on-sea",
+      "group": "workshops",
+      "slug": "long-exposure-photography-burnham-on-sea",
+      "schemaFileName": "long-exposure-photography-burnham-on-sea_event_schema.json",
+      "faqFileName": "long-exposure-photography-burnham-on-sea_event_faq.json"
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-summer",
       "pathKey": "/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-summer",
       "group": "workshops",
@@ -529,6 +417,14 @@
       "slug": "landscape-photography-wales-gower-peninsular",
       "schemaFileName": "landscape-photography-wales-gower-peninsular_event_schema.json",
       "faqFileName": "landscape-photography-wales-gower-peninsular_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
+      "group": "workshops",
+      "slug": "long-exposure-photography-workshop-kenilworth4",
+      "schemaFileName": "long-exposure-photography-workshop-kenilworth4_event_schema.json",
+      "faqFileName": "long-exposure-photography-workshop-kenilworth4_event_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes",
@@ -569,6 +465,14 @@
       "slug": "lake-district-photography-workshop-late-summer",
       "schemaFileName": "lake-district-photography-workshop-late-summer_event_schema.json",
       "faqFileName": "lake-district-photography-workshop-late-summer_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
+      "group": "workshops",
+      "slug": "long-exposure-photography-workshop-kenilworth1",
+      "schemaFileName": "long-exposure-photography-workshop-kenilworth1_event_schema.json",
+      "faqFileName": "long-exposure-photography-workshop-kenilworth1_event_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
@@ -755,12 +659,36 @@
       "faqFileName": "northumberland-landscape-photography-workshop_event_faq.json"
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
+      "group": "workshops",
+      "slug": "long-exposure-photography-workshop-kenilworth2",
+      "schemaFileName": "long-exposure-photography-workshop-kenilworth2_event_schema.json",
+      "faqFileName": "long-exposure-photography-workshop-kenilworth2_event_faq.json"
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
       "pathKey": "/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
       "group": "workshops",
       "slug": "secrets-of-woodland-photography-masterclass-spring",
       "schemaFileName": "secrets-of-woodland-photography-masterclass-spring_event_schema.json",
       "faqFileName": "secrets-of-woodland-photography-masterclass-spring_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
+      "group": "workshops",
+      "slug": "long-exposure-photo-workshop-sunset-kenilworth",
+      "schemaFileName": "long-exposure-photo-workshop-sunset-kenilworth_event_schema.json",
+      "faqFileName": "long-exposure-photo-workshop-sunset-kenilworth_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
+      "pathKey": "/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
+      "group": "workshops",
+      "slug": "yorkshire-dales-photography-workshop",
+      "schemaFileName": "yorkshire-dales-photography-workshop_event_schema.json",
+      "faqFileName": "yorkshire-dales-photography-workshop_event_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
@@ -801,6 +729,70 @@
       "slug": "bluebell-photography-photo-workshop-warwickshire-24",
       "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_schema.json",
       "faqFileName": "bluebell-photography-photo-workshop-warwickshire-24_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-25",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-25_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-25_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-17",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-17_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-17_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-18",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-18_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-18_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-19",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-19_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-19_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-29",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-29_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-29_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
+      "pathKey": "/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
+      "group": "workshops",
+      "slug": "bluebell-photography-photo-workshop-warwickshire-30",
+      "schemaFileName": "bluebell-photography-photo-workshop-warwickshire-30_event_schema.json",
+      "faqFileName": "bluebell-photography-photo-workshop-warwickshire-30_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
+      "pathKey": "/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
+      "group": "workshops",
+      "slug": "fairy-glen-photography-betws-y-coed",
+      "schemaFileName": "fairy-glen-photography-betws-y-coed_event_schema.json",
+      "faqFileName": "fairy-glen-photography-betws-y-coed_event_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
+      "pathKey": "/photographic-workshops-near-me/anglesey-photography-workshop-wales",
+      "group": "workshops",
+      "slug": "anglesey-photography-workshop-wales",
+      "schemaFileName": "anglesey-photography-workshop-wales_event_schema.json",
+      "faqFileName": "anglesey-photography-workshop-wales_event_faq.json"
     }
   ]
 }
