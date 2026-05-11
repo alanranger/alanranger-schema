@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide#blogposting",
-  "headline": "Uk Sports Action Photography Guide",
-  "alternativeHeadline": "Uk Sports Action Photography Guide | Alan Ranger Photography",
+  "headline": "Sports and Action Photography Guide - Master the techniques",
+  "alternativeHeadline": "Sports and Action Photography Guide - Master the techniques | Alan Ranger Photography",
   "description": "This guide pulls together the principles I teach photographers who come to me wanting to shoot their kids' weekend matches, their local club games, or — at.",
   "url": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide",
   "datePublished": "2026-05-05T00:00:00.000Z",
@@ -52,12 +52,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide#video-youtube-f0flst8KB4U",
-    "name": "Uk Sports Action Photography Guide - Video",
+    "name": "Sports and Action Photography Guide - Master the techniques - Video",
     "description": "This guide pulls together the principles I teach photographers who come to me wanting to shoot their kids' weekend matches, their local club games, or — at.",
     "url": "https://www.youtube.com/watch?v=f0flst8KB4U",
     "embedUrl": "https://www.youtube.com/embed/f0flst8KB4U",
     "thumbnailUrl": "https://i.ytimg.com/vi/f0flst8KB4U/hqdefault.jpg",
-    "uploadDate": "2026-05-05",
+    "uploadDate": "2026-05-05T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
