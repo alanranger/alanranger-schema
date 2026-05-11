@@ -2,9 +2,9 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography#blogposting",
-  "headline": "Uk Architectural Exterior Photography",
-  "alternativeHeadline": "Uk Architectural Exterior Photography | Alan Ranger Photography",
-  "description": "Frequently asked questions Practical answers to the questions intermediate photographers ask when moving from beginner architectural work to consistently.",
+  "headline": "UK Architectural Exterior Photography - Intermediate Guide",
+  "alternativeHeadline": "UK Architectural Exterior Photography - Intermediate Guide | Alan Ranger Photography",
+  "description": "This guide is the intermediate decision-layer companion to my master architecture photography guide (which covers gear, fundamentals, and beginner.",
   "url": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography",
   "datePublished": "2026-04-27T00:00:00.000Z",
   "dateModified": "2026-04-27T00:00:00.000Z",
@@ -62,12 +62,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography#video-youtube-pkMssQPul9o",
-    "name": "Uk Architectural Exterior Photography - Video",
-    "description": "Frequently asked questions Practical answers to the questions intermediate photographers ask when moving from beginner architectural work to consistently.",
+    "name": "UK Architectural Exterior Photography - Intermediate Guide - Video",
+    "description": "This guide is the intermediate decision-layer companion to my master architecture photography guide (which covers gear, fundamentals, and beginner.",
     "url": "https://www.youtube.com/watch?v=pkMssQPul9o",
     "embedUrl": "https://www.youtube.com/embed/pkMssQPul9o",
     "thumbnailUrl": "https://i.ytimg.com/vi/pkMssQPul9o/hqdefault.jpg",
-    "uploadDate": "2026-04-27",
+    "uploadDate": "2026-04-27T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
