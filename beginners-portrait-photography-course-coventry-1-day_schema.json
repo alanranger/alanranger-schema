@@ -79,8 +79,8 @@
         "price": "195.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-04-22",
-        "priceValidUntil": "2027-04-22",
+        "validFrom": "2026-05-11",
+        "priceValidUntil": "2027-05-11",
         "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
         "seller": {
@@ -130,12 +130,217 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen Maddison"
+          },
+          "reviewBody": "I am new to photography and feel as though I got a lot from the course already.  It was explained in an easy to understand way and not too much 'technical' jargon for beginners.  Alan was very friendly and happy to answer questions from the whole group.  I am really excited to be starting the beginner course.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pauli"
+          },
+          "reviewBody": "Excellent tuition with a knowledgeable instructor. Lots of tips, interaction and practical knowledge to help begin the photography journey",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Welly"
+          },
+          "reviewBody": "Excellent course that was pitched at the right level.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nuria Alonso"
+          },
+          "reviewBody": "Alan is a great teacher and the class was well structured. A lot of information provided which gives you a good fundation.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-09-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Butler"
+          },
+          "reviewBody": "As a complete beginner, it was very helpful and informative. Now to get started putting it in to practice.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Emmanuel-Hunt"
+          },
+          "reviewBody": "I learn a lot from the get off auto course, I would recommend.  I would do the rest of course but it’s to far to drive",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S O"
+          },
+          "reviewBody": "Great introduction to ‘Getting off auto’  Thank you",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Molly"
+          },
+          "reviewBody": "Very good teacher, a lot of useful information packed into a short amount of time.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Carroll"
+          },
+          "reviewBody": "Great intro into getting off auto",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah  Dixon"
+          },
+          "reviewBody": "Very knowledgeable teacher who was happy to answer questions no matter how simple or silly.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mmctaffy"
+          },
+          "reviewBody": "Throughly enjoyable evening and I learnt quite a few things about my camera...bring on the next 4 lessons.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 1
+        "ratingValue": "4.67",
+        "reviewCount": 12
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#product"
     }

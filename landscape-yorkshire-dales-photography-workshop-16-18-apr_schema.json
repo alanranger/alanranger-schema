@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Landscape Yorkshire Dales Photography Workshop - 10 – 12 Apr",
+          "name": "Landscape Yorkshire Dales Photography Workshop - 16 – 18 Apr",
           "item": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
         }
       ],
@@ -64,27 +64,23 @@
     },
     {
       "@type": "Product",
-      "name": "Landscape YORKSHIRE DALES Photography Workshop - 10 - 12 Apr",
+      "name": "Landscape YORKSHIRE DALES Photography Workshop - 16 - 18 Apr",
       "sku": "SQ9211910",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Yorkshire Dales Photography Workshop - Join me for this fantastic landscape workshop on limestone pavements and waterfalls.Summary Location: Yorkshire Dales Dates: Fri 10 th - Sun 12 th Apr 2026 - 3 Days/2 Nights Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Yorkshire Dales Description: Yorkshire Dales photography workshop - An exciting 3-day residential photography workshop visiting some gorgeous spots around the Yorkshire Dales. Includes early morning shoots and a...",
+      "description": "Yorkshire Dales Photography Workshop - Join me for this fantastic landscape workshop on limestone pavements and waterfalls.Summary Location: Yorkshire Dales Dates: Fri 16 th - Sun 18 th Apr 2027 - 3 Days/2 Nights Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Yorkshire Dales Description: Yorkshire Dales photography workshop - An exciting 3-day residential photography workshop visiting some gorgeous spots around the Yorkshire Dales. Includes early morning shoots and a...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714659095505-TB874TXCA6ADNDFC82FX/Muker+%2302+-+July+2021.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "offers": {
         "@type": "Offer",
         "sku": "SQ9211910",
-        "price": "825.00",
+        "price": "895.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-04-22",
-        "priceValidUntil": "2027-04-22",
-        "priceSpecification": {
-          "price": "825.00",
-          "priceCurrency": "GBP"
-        },
+        "validFrom": "2026-05-11",
+        "priceValidUntil": "2027-05-11",
         "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#offer",
         "seller": {

@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Burnham On Sea Long Exposure Photography Workshop 2 May",
+          "name": "Burnham On Sea Long Exposure Photography Workshop 1 Aug",
           "item": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "BURNHAM ON SEA Long Exposure Photography Workshop 2 May",
+      "name": "BURNHAM ON SEA Long Exposure Photography Workshop 1 Aug",
       "sku": "SQ9466277",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Seascape and Long Exposure Photography workshop at this iconic location in Somerset with the lighthouse at Burnham on Sea Summary Location: Somerset - Burnham On Sea Dates: Sat 2 nd May 2026 - 18:30 - 21:00 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Burnham Description: Experience the magic of long exposure photography against the breathtaking backdrop of Burnham on Sea's iconic lighthouse. Join us for an unforgettable workshop where you'll master the art of capturing...",
+      "description": "Seascape and Long Exposure Photography workshop at this iconic location in Somerset with the lighthouse at Burnham on Sea Summary Location: Somerset - Burnham On Sea Dates: Sat 1 st Aug 2026 - 18:45 - 21:15 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Burnham Description: Experience the magic of long exposure photography against the breathtaking backdrop of Burnham on Sea's iconic lighthouse. Join us for an unforgettable workshop where you'll master the art of capturing...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714573609279-RSKP2ELI51B1VY87SOCS/Burnham+Still.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "95.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-04-22",
-        "priceValidUntil": "2027-04-22",
+        "validFrom": "2026-05-11",
+        "priceValidUntil": "2027-05-11",
         "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham",
         "@id": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham#offer",
         "seller": {

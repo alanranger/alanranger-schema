@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Anglesey Landscape Photography Workshop - May 2026",
+          "name": "Anglesey Landscape Photography Workshop - May 2027",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
         }
       ],
@@ -64,23 +64,23 @@
     },
     {
       "@type": "Product",
-      "name": "ANGLESEY Landscape Photography Workshop -  May 2026",
+      "name": "ANGLESEY Landscape Photography Workshop -  May 2027",
       "sku": "SQ8503376",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this exciting Anglesey landscape photography workshop, where we will shoot along the stunning coastline features to capture breathtaking vistas that showcase the natural beauty surrounding the shorelines and iconic lighthouses.Summary - Anglesey Photography Workshop Location: Wales - Anglesey Island Dates: Fri 8 th May 15:00 - Sun 10 th May 14:00, 2026 Duration: 3 Days/2 Nights Participants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod...",
+      "description": "Join me for this exciting Anglesey landscape photography workshop, where we will shoot along the stunning coastline features to capture breathtaking vistas that showcase the natural beauty surrounding the shorelines and iconic lighthouses.Summary - Anglesey Photography Workshop Location: Wales - Anglesey Island Dates: Fri 14 th May 15:00 - Sun 16 th May 14:00, 2027 Duration: 3 Days/2 Nights Participants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707225841274-TEMCPAEP5DHDVCBJP2RD/anglesey+photography+workshop.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
       "offers": {
         "@type": "Offer",
         "sku": "SQ8503376",
-        "price": "875.00",
+        "price": "975.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-04-22",
-        "priceValidUntil": "2027-04-22",
+        "validFrom": "2026-05-11",
+        "priceValidUntil": "2027-05-11",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
         "seller": {
