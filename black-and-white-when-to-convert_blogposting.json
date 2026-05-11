@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#blogposting",
-  "headline": "Black And White When To Convert",
-  "alternativeHeadline": "Black And White When To Convert | Alan Ranger Photography",
+  "headline": "Black &amp; White Photography: When to Convert and Why 2026",
+  "alternativeHeadline": "Black &amp; White Photography: When to Convert and Why 2026 | Alan Ranger Photography",
   "description": "Black and white as a choice, not a rescue The most common misuse of black-and-white conversion is as a rescue mechanism — the frame that didn't quite work.",
   "url": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert",
   "datePublished": "2026-04-26T00:00:00.000Z",
@@ -58,12 +58,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#video-youtube-yT34iZEsAgQ",
-    "name": "Black And White When To Convert - Video",
+    "name": "Black &amp; White Photography: When to Convert and Why 2026 - Video",
     "description": "Black and white as a choice, not a rescue The most common misuse of black-and-white conversion is as a rescue mechanism — the frame that didn't quite work.",
     "url": "https://www.youtube.com/watch?v=yT34iZEsAgQ",
     "embedUrl": "https://www.youtube.com/embed/yT34iZEsAgQ",
     "thumbnailUrl": "https://i.ytimg.com/vi/yT34iZEsAgQ/hqdefault.jpg",
-    "uploadDate": "2026-04-26",
+    "uploadDate": "2026-04-26T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
