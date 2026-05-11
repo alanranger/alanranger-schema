@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#blogposting",
-  "headline": "Airbnb Photography Guide",
-  "alternativeHeadline": "Airbnb Photography Guide | Alan Ranger Photography",
+  "headline": "Airbnb Photography Guide For Holiday Let And Rental Hosts",
+  "alternativeHeadline": "Airbnb Photography Guide For Holiday Let And Rental Hosts | Alan Ranger Photography",
   "description": "This guide covers what Airbnb photography actually needs to do, the kit that makes the job easy rather than painful, the seven shots every listing should.",
   "url": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide",
   "datePublished": "2026-04-24T00:00:00.000Z",
@@ -58,12 +58,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide#video-youtube-hEZlETzzI34",
-    "name": "Airbnb Photography Guide - Video",
+    "name": "Airbnb Photography Guide For Holiday Let And Rental Hosts - Video",
     "description": "This guide covers what Airbnb photography actually needs to do, the kit that makes the job easy rather than painful, the seven shots every listing should.",
     "url": "https://www.youtube.com/watch?v=hEZlETzzI34",
     "embedUrl": "https://www.youtube.com/embed/hEZlETzzI34",
     "thumbnailUrl": "https://i.ytimg.com/vi/hEZlETzzI34/hqdefault.jpg",
-    "uploadDate": "2026-04-24",
+    "uploadDate": "2026-04-24T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
