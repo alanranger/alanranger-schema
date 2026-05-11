@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/headshots-at-home-guide#blogposting",
-  "headline": "Headshots At Home Guide",
-  "alternativeHeadline": "Headshots At Home Guide | Alan Ranger Photography",
+  "headline": "Headshots at Home: A DIY Lighting and Backdrop Guide",
+  "alternativeHeadline": "Headshots at Home: A DIY Lighting and Backdrop Guide | Alan Ranger Photography",
   "description": "Before you spend a penny on ring lights, softboxes or AI headshot generators, read the next two thousand words.",
   "url": "https://www.alanranger.com/blog-on-photography/headshots-at-home-guide",
   "datePublished": "2026-04-23T00:00:00.000Z",
@@ -52,12 +52,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/headshots-at-home-guide#video-youtube-G95axag1gMA",
-    "name": "Headshots At Home Guide - Video",
+    "name": "Headshots at Home: A DIY Lighting and Backdrop Guide - Video",
     "description": "Before you spend a penny on ring lights, softboxes or AI headshot generators, read the next two thousand words.",
     "url": "https://www.youtube.com/watch?v=G95axag1gMA",
     "embedUrl": "https://www.youtube.com/embed/G95axag1gMA",
     "thumbnailUrl": "https://i.ytimg.com/vi/G95axag1gMA/hqdefault.jpg",
-    "uploadDate": "2026-04-23",
+    "uploadDate": "2026-04-23T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
