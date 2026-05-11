@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners#blogposting",
-  "headline": "Macro Photography Beginners",
-  "alternativeHeadline": "Macro Photography Beginners | Alan Ranger Photography",
+  "headline": "Macro Photography for Beginners: A UK Starter's Guide",
+  "alternativeHeadline": "Macro Photography for Beginners: A UK Starter's Guide | Alan Ranger Photography",
   "description": "This guide covers the kit that actually works for UK subjects, the camera settings that give you a fighting chance of sharpness, the subjects to start with,.",
   "url": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners",
   "datePublished": "2026-04-24T00:00:00.000Z",
@@ -58,12 +58,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners#video-youtube-YTl9-VWe1xg",
-    "name": "Macro Photography Beginners - Video",
+    "name": "Macro Photography for Beginners: A UK Starter's Guide - Video",
     "description": "This guide covers the kit that actually works for UK subjects, the camera settings that give you a fighting chance of sharpness, the subjects to start with,.",
     "url": "https://www.youtube.com/watch?v=YTl9-VWe1xg",
     "embedUrl": "https://www.youtube.com/embed/YTl9-VWe1xg",
     "thumbnailUrl": "https://i.ytimg.com/vi/YTl9-VWe1xg/hqdefault.jpg",
-    "uploadDate": "2026-04-24",
+    "uploadDate": "2026-04-24T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
