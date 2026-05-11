@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#blogposting",
-  "headline": "Autumn Arboretum Photography Uk Guide",
-  "alternativeHeadline": "Autumn Arboretum Photography Uk Guide | Alan Ranger Photography",
+  "headline": "Autumn Arboretum &amp; Garden Photography: A UK Guide 2026",
+  "alternativeHeadline": "Autumn Arboretum &amp; Garden Photography: A UK Guide 2026 | Alan Ranger Photography",
   "description": "This guide is the cultivated-environment companion to my UK autumn landscape photography guide (which covers wild locations, golden hour, filters, and the.",
   "url": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide",
   "datePublished": "2026-04-27T00:00:00.000Z",
@@ -60,12 +60,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#video-youtube-qP2clcAHb40",
-    "name": "Autumn Arboretum Photography Uk Guide - Video",
+    "name": "Autumn Arboretum &amp; Garden Photography: A UK Guide 2026 - Video",
     "description": "This guide is the cultivated-environment companion to my UK autumn landscape photography guide (which covers wild locations, golden hour, filters, and the.",
     "url": "https://www.youtube.com/watch?v=qP2clcAHb40",
     "embedUrl": "https://www.youtube.com/embed/qP2clcAHb40",
     "thumbnailUrl": "https://i.ytimg.com/vi/qP2clcAHb40/hqdefault.jpg",
-    "uploadDate": "2026-04-27",
+    "uploadDate": "2026-04-27T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
