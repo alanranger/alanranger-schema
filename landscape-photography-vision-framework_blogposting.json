@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#blogposting",
-  "headline": "Landscape Photography Vision Framework",
-  "alternativeHeadline": "Landscape Photography Vision Framework | Alan Ranger Photography",
+  "headline": "Landscape Photography Vision: The 30-50-10-10 Framework",
+  "alternativeHeadline": "Landscape Photography Vision: The 30-50-10-10 Framework | Alan Ranger Photography",
   "description": "This guide is the intermediate decision layer for UK landscape photography — the companion to my master landscape photography guide (foundational.",
   "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework",
   "datePublished": "2026-04-27T00:00:00.000Z",
@@ -48,12 +48,12 @@
   "video": {
     "@type": "VideoObject",
     "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#video-youtube-ZblCvJpjLQQ",
-    "name": "Landscape Photography Vision Framework - Video",
+    "name": "Landscape Photography Vision: The 30-50-10-10 Framework - Video",
     "description": "This guide is the intermediate decision layer for UK landscape photography — the companion to my master landscape photography guide (foundational.",
     "url": "https://www.youtube.com/watch?v=ZblCvJpjLQQ",
     "embedUrl": "https://www.youtube.com/embed/ZblCvJpjLQQ",
     "thumbnailUrl": "https://i.ytimg.com/vi/ZblCvJpjLQQ/hqdefault.jpg",
-    "uploadDate": "2026-04-27",
+    "uploadDate": "2026-04-27T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
