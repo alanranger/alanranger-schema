@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/alternative-long-exposure-photography-techniques#howto",
   "name": "Tip of the day -  Alternative Long Exposure Photography",
-  "description": "Photography Basics – Tip of the day - Alternative Long Exposure Photography methods when there is no visible movement or you don't have Neutral Density Filters.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/alternative-long-exposure-photography-techniques#primaryimage"
@@ -18,32 +18,62 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Place the camera on the tripod and follow the same \"rules\" for the compositio...",
+      "text": "Place the camera on the tripod and follow the same \"rules\" for the composition of your image and test shots as you would normally do. I.e. Take your shot and inspect it for sharpness, DoF, exposure and framing adjustments."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Having checked everything you can shoot a series of shots which show the move...",
+      "text": "Having checked everything you can shoot a series of shots which show the movement of your element. You may need at least 10-30 images taken 30 secs or longer apart, depending on the speed of movement. (optimise your ISO/Aperture combo to reduce noise)"
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "If you have a remote release with a lock option, you can switch your drive mo...",
+      "text": "If you have a remote release with a lock option, you can switch your drive mode from single shot to continuous and lock the remote release, so it automatically takes a shot one after the other at the exposure time intervals set by the meter. My camera does adjust exposure time between frames to take into account changes in light throughout the process."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "You can use this method with or without ND filters in Aperture priority for e...",
+      "text": "You can use this method with or without ND filters in Aperture priority for exposure times up to 30 seconds. See my examples below"
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "When home, go to Adobe Lightroom.",
+      "text": "When home, go to Adobe Lightroom. Import the images into the catalogue, work your basic edits on the first shot (crop/framing adjustments, dust spot removal and anything critical.) Then synchronise all the edits of this shot with the others of the series."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Then select all the images in the series, right-click, and open in Photoshop ...",
+      "text": "Then select all the images in the series, right-click, and open in Photoshop as layers. This process may take some time depending on the size of files (RAW or JPG) and the processor and memory of your computer. So be patient. When finished, you will have a Photoshop document with all the images in a stack of layers."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "The next step is to select all the layers and then right-click \"Convert to a ...",
+      "text": "The next step is to select all the layers and then right-click \"Convert to a smart object\". This is a single layer object that contains the information of all the previous layers."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "When finished, go to the menu at the top and select Layers -> Smart Object ->...",
+      "text": "When finished, go to the menu at the top and select Layers -> Smart Object -> Stack Mode -> Mean . It will take a little time to combine the layers and movement, but you will end up with a combined image simulating your long exposure."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Finally, flatten the smart object because Photoshop has a limit on the size o...",
+      "text": "Finally, flatten the smart object because Photoshop has a limit on the size of the image of 4GB so you won't be able to save back to Lightroom if you have used multiple frames in RAW format - Check document size bottom left of Photoshop for file size."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Now work on the combined time-lapse, long exposure image as you would typical...",
+      "text": "Now work on the combined time-lapse, long exposure image as you would typically do for stylising the result."
     }
   ]
 }

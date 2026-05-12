@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod#howto",
   "name": "5 Reasons why a tripod will help you to become better",
-  "description": "5 Reasons why camera tripods will help you to become a better photographer. A tripod is one of the most essential accessories available to photographers &nbsp;.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/5-reasons-to-use-a-tripod#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Tighter compositions",
+      "text": "A tripod allows you to slow down and really think about the scene that you want to capture. You can make minor panning, tilting and height adjustments to get tighter compositions and with ultimate image-control you’ll create the perfect shot."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Achieve longer exposure",
+      "text": "The effects of using long exposure in photography are stunning and it’s absolutely essential to make use of a tripod to create such enhanced images. This is because by lengthening the shutter speed on your camera you are exposing yourself to the risk of camera shaking and blurring."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Forget compromise of depth of field, ISO or sharpness",
+      "text": "For maximum depth of field you’ll probably be shooting at a small aperture, and ISO 100 to 400. When light is slightly restricted a slower shutter speed is required to get adequate exposure in the image. By using a tripod you won’t need to compromise on anything and you’ll be able to achieve perfectly exposed and pin-sharp depth of field."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Expand photographic range",
+      "text": "The number of subjects and situations where a tripod is essential or at least, beneficial, are endless. Night photography, macro or panoramic shots are just some examples that require an unnaturally steady hand due to the requirement of long exposure; however this is easily achievable when a sturdy tripod optimises the effect."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Take a load off",
+      "text": "As a landscape photographer, you will need to carry around heavy sets of kit whilst hiking or climbing through tumultuous environments - and fatigue will be your enemy. It may, therefore, seem counterproductive to suggest that adding more equipment to your load, such as a tripod, will make life easier on location photo shoots. Yet there is logic to this madness: it makes sense to let your tripod do the work and avoid shaky hands. Join me on Photography Workshop s to get first-hand experience and learn how to make the most of your equipment on location. Available throughout the year, the car..."
     }
   ]
 }

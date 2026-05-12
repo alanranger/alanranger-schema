@@ -5,66 +5,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers case study - alistair willis - arps | rps distinctions panel. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "A well-regarded award. I've been a keen photographer since I was about 10, but hadn't done any structured learning until my late 40s. I was originally aiming for an LRPS, but ended up going directly for the ARPS."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "2.&nbsp;&nbsp;Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Mentoring Course?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "I'd been thinking of submitting for the LRPS in about 2017, and visited the Photography Show at the NEC that year. A leaflet had some comments about the value of finding a mentor before submitting, so I went on the internet. Alan's site came up so I called him, and after a discussion about my initial proposed panel, I started on the LRPS mentoring course.\n\nIn fact, while preparing for the LRPS, I started developing a strong interest in still-life photography. Rather than finishing the LRPS submission, Alan then suggested building a project on his Intentions course, and my images for that ended up as the starting point for the ARPS mentoring course."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "&nbsp;7.&nbsp;&nbsp;What was your experience like of the RPS Assessment Day?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "Quite nerve-wracking... my panel was the last of the associate panels to be assessed, and many of the panels that day didn't make the cut. Fortunately, the assessors' comments on my panel were very positive and I was awarded the distinction."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "&nbsp;9.&nbsp;Having completed the course and Distinction Assessment, what advice would you like to share with others?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "The phrase that the assessors used a lot for the was that the successful panels look like \"the work of one photographer\". Meaning that they are looking for a distinctive style, but which is consistent across the panel. The assessors also put a lot of emphasis on the statement of intent, and preferred statements which were about the content of the images (\"this topic means a lot to me because...\"), rather than about the technical aspects of the images (\"I wanted to explore this technique because...\")\n\nIt is also worth exploring other guides and reference books in your chosen area of photography: I found Kevin Best's book \"Still Life Photography\" to be extremely inspiring, and gave me lots of ideas. Also, the Strobist blog (https://strobist.blogspot.com/) is an absolutely invaluable guide to using artificial light. I would have found preparing my panel far, far harder without these two sources of information."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "&nbsp;11.&nbsp; Has working for a distinction helped you progress as a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "Immensely so: my final panel is way beyond what I was doing when I started working for the distinction. It's very satisfying to look at some of the early attempts to see how much I've developed."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "&nbsp;12.&nbsp;Any other comments you would like to add?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I practice these techniques?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "Does anyone need a mechanical gramophone?\n\nClick on images to see full screen\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nView fullsize\n\nIf you are interested in attaining an RPS distinction I can support you with my RPS Courses for distinctions\n\nRPS Mentoring Course"
       }
     }
   ]

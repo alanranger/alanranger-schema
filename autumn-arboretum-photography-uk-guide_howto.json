@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#howto",
+  "name": "Autumn Arboretum & Garden Photography: A UK Guide 2026 ",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Watch the colour reports the week before",
+      "text": "Westonbirt and Batsford publish weekly autumn updates. Combine with Met Office 10-day forecast. Sustained cool nights plus bright days = peak approaching. Pick visit date based on reports, not calendar."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Book your timing carefully",
+      "text": "Most major UK arboretums require pre-booked timed-entry tickets in autumn. First opening slot of a weekday during peak window. Avoid weekends if possible. Book parking at same time."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Commit to one shot type before you arrive",
+      "text": "Pick one of four shot types — full-tree, intimate leaf, woodland-floor carpet, or light-through-canopy backlit. Pack accordingly. One body, two lenses, polariser always."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Walk the site before shooting",
+      "text": "First 20-30 minutes walking without camera raised. Find headline colour, identify peak specimens, note light directions, look for positions other photographers haven't found. Mental-map 3-4 target compositions before raising the camera."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Compose, polariser, expose, refine",
+      "text": "Tripod if shutter slow. Compose without filters. Check man-made elements in frame — compose in deliberately or out fully. Manual focus, reference frame, fit polariser, bracket exposures. Wait for visitors to clear if needed. Move to next target when this one is in the bag."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Cull same day, edit lightly",
+      "text": "Cull on import. 6-12 keepers from a productive 90-minute session. Edit next day. Lift shadows for foliage texture. Hold saturation back. Use colour channel sliders. Don't push clarity."
+    }
+  ]
+}

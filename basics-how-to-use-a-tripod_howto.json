@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#howto",
   "name": "How to use a tripod correctly | Professional Guide",
-  "description": "Tip of the day - Photography Basics – How to use a tripod correctly - 15 Tips from a professional photographer | Photography News Blog | Free Photography Tips.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Always start with extending the smallest, bottom legs first.",
+      "text": "Always start with extending the smallest, bottom legs first. It’s will help prevent dirt, sand and grit being pushed up inside the next leg and preserve the joints."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Increase the tripod height by extending bottom legs fully first, then the nex...",
+      "text": "Increase the tripod height by extending bottom legs fully first, then the next section and finally top section. It saves you bending down to make height adjustments."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Always extend the legs fully so they are at their widest stopping point at th...",
+      "text": "Always extend the legs fully so they are at their widest stopping point at that angle. Most tripod legs allow two or three further width positions if needed to stabilise further or get lower down."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Try to get the tripod as level as possible.",
+      "text": "Try to get the tripod as level as possible. Use the spirit level on the tripod head or stand 90 degrees on (to side) and look at the centre column to see if it looks 180 degrees vertical (for those that don’t do degrees that’s 6 O’clock with clock hands)"
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Always have one tripod leg pointing out at the same angle as the lens.",
+      "text": "Always have one tripod leg pointing out at the same angle as the lens. Having a tripod leg under the lens reduces the chance of the tripod falling forwards and means you will be positioned between the rear two legs /\\"
     }
   ]
 }
