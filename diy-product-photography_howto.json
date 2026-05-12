@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/diy-product-photography#howto",
-  "name": "Diy Product Photography",
-  "description": "Product Photography: Shoot Professional Images at Home document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color:.",
+  "name": "DIY Product Photography: Shoot Professional Images at Home",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/diy-product-photography#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Step 1: Planning Your Product Shoot",
+      "text": "Good planning saves time and stops you from re‑shooting later. First, write down what you need to sell. Is it a mug, a piece of jewellery or a knitted scarf? The answer tells you the angle, the background and the light you will need. Next, make a simple shot list. Write the hero shot, a 45° angle, a close‑up of any detail and a scale shot with a ruler or coin. Having a list means you won’t forget the little things that make a product look trustworthy. Don’t forget to prep the product. Wipe dust away with a lint‑free cloth. Use gloves if the item is shiny , fingerprints ruin the look. A tidy..."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Step 2: Setting Up Affordable Lighting",
+      "text": "Light is the heart of any diy product photography set‑up. You have two routes: use the sun that shines through a window, or use cheap continuous lights you can buy online. If you have a large window that faces north (in the UK), you get soft, even light most of the day. Hang a white sheet or a piece of foam board opposite the window to bounce light back onto the product. This reduces shadows and gives a clean look. When the sun is too strong, use a simple diffuser. A white shower curtain works well , just clip it over the window and let the light pass through. The result is a soft glow that..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Step 3: Camera Settings for Sharp Product Shots",
+      "text": "Now that the light is ready, we need the right camera settings. The goal is a crisp image with no noise and accurate colour. Start with ISO 100. Low ISO keeps the image clean. If you are using a phone, set the exposure to the lowest possible noise setting in the pro mode. Aperture should be around f/8 to f/11. This range gives enough depth of field to keep the whole product sharp, even if it is a small item on a table. Shutter speed depends on the light. With the soft window light you may need 1/60 sec or slower. Use a tripod to avoid shake. If you are using a lamp, you can often go up to 1..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Step 4: Styling, Backdrops & Props",
+      "text": "Styling makes a product look appealing. Keep the scene simple , one hero item, a couple of supporting props, and a clean background. Choose a backdrop that matches the brand colour. White works for most e‑commerce sites because it removes distraction. If the product is colourful, a neutral grey or pastel can make it pop. Use a table cloth, a sheet of matte paper or a piece of canvas as your background. Avoid glossy surfaces that reflect the product. Props should add context, not clutter. For a candle, a small wooden block and a soft fabric work. For jewellery, a plain stand or a piece of ba..."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Step 5: Basic Post‑Processing Techniques",
+      "text": "After the shoot, the work moves to the computer. The goal is to make the image look clean, bright and true to the product. First, import the RAW files into Lightroom or a similar editor. Keep the folder structure you set up earlier , it helps you find the right file fast. Start with basic exposure tweaks. Raise the shadows a bit if the product looks too dark, and pull down the highlights to keep the white background pure. Next, set a custom white balance using the grey card you placed in the first shot. Apply that balance to all images in the batch. Use the crop tool to remove any unwanted..."
     }
   ]
 }

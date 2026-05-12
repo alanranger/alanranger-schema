@@ -5,66 +5,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers case study - dennis jeffrey lrps | rps distinctions. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "I had subscribed to RPS for many years and therefore saw successful panels and always wondered whether I could get up to that standard. At 71 I decided to put that to the test."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "2.&nbsp;&nbsp;Why did you choose Alan to mentor you for RPS Distinctions and had you worked with Alan before the RPS Mentoring Course?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "I wasn’t a member of a photography club with regular competitions and consequently didn’t have much experience of selecting images against a set of criteria and for those images to be critiqued by someone else. I, therefore, needed to learn those skills. Before joining the course, I attended one of Alan’s Arboretum workshops."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "6.&nbsp;&nbsp;What RPS Distinctions did you apply for and were you successful?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "I successfully submitted a panel for the Print ‘Licentiate’ Fine Art."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "&nbsp;7.&nbsp;&nbsp;What was your experience like of the RPS Distinctions Assessment Day?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "I found the RPS staff very helpful in dealing with queries I had about the submission prior to the Assessment but I had a prior commitment on the day of the Assessment."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "&nbsp;9.&nbsp;Having completed the course and RPS Distinctions Assessment, what advice would you like to share with others?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "If you can accept ‘critique’ and learn from that process you should go for it! With Alan’s guidance, as a minimum, you will learn to be a better photographer and, if you acquire the necessary skills, you will have the satisfaction of your achievement being recognised."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "&nbsp;11.&nbsp; Has working for a RPS Distinctions helped you progress as a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I practice these techniques?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "Yes. That was one of the objectives and consequently, I tried to ensure that I did so across the whole range of skills required to gain the Licentiate."
       }
     }
   ]

@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/food-photography-at-home#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best lens for food photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 50mm prime lens (the \"nifty fifty\") is the best all-rounder for home food photography. It gives natural-looking perspective, a wide aperture for soft backgrounds, and costs under £150 used. A 35mm prime is a good alternative if you shoot a lot of overhead flat-lays in tight kitchens. Avoid zoom lenses wider than 35mm — they distort plates unattractively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take professional-looking food photos with my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — modern phones are genuinely capable for food work, especially for Instagram and food blogs. The limitations are in low light (phones struggle with dim dining rooms) and background blur (phone \"portrait mode\" can look artificial around plates and cutlery). Invest in a phone tripod, a foam board reflector, and shoot near a bright window — you'll be 90% of the way there."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do my food photos look so flat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common cause is front-lighting — shooting with the light source behind you. Side-light and back-light give food three-dimensionality. Move so the window is directly to your left or right, or behind the plate at a slight angle. The difference is immediate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best time of day to photograph food at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For north-facing windows, any time during daylight hours. For east-facing rooms, mid-morning before the sun goes overhead. For west-facing, early afternoon. South-facing rooms are brightest in the middle of the day but often too harsh — diffuse the window if you must shoot then. Avoid shooting at golden hour or after sunset with window light; the colour cast is hard to correct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use autofocus or manual focus for food?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Single-point autofocus works well for most food photography. Place the focus point on the most important feature — usually the main food element, not the plate edge or a prop. For very shallow depth of field at f/1.8 or f/2.8, manual focus with live view zoomed in is more reliable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a tripod for food photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not essential for three-quarter or straight-on shots, but genuinely transformative for overhead work. A tripod with a horizontal centre column or a dedicated overhead arm lets you get a true 90° shot without leaning over the plate precariously. You'll get sharper images too, because you can use lower ISO and slower shutter speeds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What props should I buy first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In order: one large white linen napkin or tea towel, two matte ceramic plates (one light, one dark), a plain wooden chopping board, a couple of small ceramic bowls, cutlery with a matte finish (not chrome). That's enough for six months of shooting. Avoid anything shiny, anything branded, and anything the internet tells you to buy because a famous food photographer uses it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I stop food from looking unappetising in photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three causes account for most unappetising food photos: cold temperature colour cast (fix: warm up white balance), shiny surfaces reflecting light (fix: dull with a light brush of oil or dim the window), and food that's been sitting too long (fix: shoot fresh, never reheat for a reshoot). If meat looks grey, soup looks brown, or salad looks wilted, the food itself is the problem — photograph it sooner."
+      }
+    }
+  ]
+}

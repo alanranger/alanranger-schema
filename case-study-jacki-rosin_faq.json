@@ -5,66 +5,90 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "1.&nbsp;&nbsp;&nbsp; Why did you want to become a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers case study - jacki rosin - client a photographic journey. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "I’d always had an interest, which I think comes from my Dad, but had only ever owned a compact camera. When I realised what you could achieve with a DSLR once it was out of the auto mode I was determined to learn how to use it to its full potential"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "2.&nbsp;&nbsp;&nbsp; Were you scared or anxious to start out?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "The answer to that has to be yes! Not so much in terms of learning and getting to grips with different technical ideas and managing my camera, but definitely when it came to showing my images and getting feedback from the rest of the group, which was really scary for the first few sessions."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "3.&nbsp;&nbsp;&nbsp; Why did you select Alan as your tutor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "I attended a 3 hour introductory session and was inspired by both Alan’s images and his method of teaching, which is both relaxed and informative\n\nView fullsize\n\nSep 2012 - room for improvement at the start of the journey"
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "4.&nbsp;&nbsp;&nbsp; What was your main motivation to commit to Alan’s tuition?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "Prior to meeting Alan I had done an 8 week beginners course and had come away feeling quite despondent, in that, the group was large and there seemed to be no structure to the sessions. I really didn't feel I had achieved anything. Alan’s course was totally different. The group was small and each one of us had personal attention therefore ensuring our individual requirements were met, whatever stage of photography we were at."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "5.&nbsp;&nbsp;&nbsp; What type of tuition have you had from Alan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "5 Week Beginners Course\n\nPost Processing Lightroom Course\n\nSeveral location workshops\n\nOn-line Mentoring\n\nIntermediates Photography Course\n\nMasterclasses"
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "6.&nbsp;&nbsp;&nbsp; How do you feel Alan’s teaching style has helped develop your skills the most?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
+        "text": "Alan doesn't beat about the bush when it comes to giving feedback on your images! Having said that, all feedback is both honest and constructive and that is the only way to learn. That, combined with a relaxed (honest!) atmosphere makes for an enjoyable learning experience with plenty of banter flying about. The odd glass of wine thrown in helps too!\n\nView fullsize\n\nA step up in quality of composition and technical execution"
       }
     },
     {
       "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
+      "name": "7.&nbsp;&nbsp;&nbsp; What are the key things Alan has helped you with?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
+        "text": "The main one is to have a vision of what you want to convey to others with your photograph, both visually and emotionally. Also the importance of good composition. I now take time to think about how I really want the image to look."
       }
     },
     {
       "@type": "Question",
-      "name": "Where can I practice these techniques?",
+      "name": "8.&nbsp;&nbsp;&nbsp; How do you think you’ve grown as a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "I have definitely improved from a technical point of view and am happy with using my camera, which in turn allows me to be more creative with my photography. The mentoring scheme often takes me out of my comfort zone when it comes to meeting Alan’s assignments, but this encourages me to try new ideas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "9.&nbsp;&nbsp;&nbsp; Could you describe how you felt when you were featured in the intermediates photography exhibition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A combination of utter terror and excitement of having my images on display in a public gallery. However the opening night was great and we all had positive comments from both friends and complete strangers.\n\nView fullsize\n\nResting - one of Jacki's emotive flower images from her exhibition panel"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "10.&nbsp; What are your ambitions for the future with photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I still have a long way to go before I achieve the really high standard I would like to be at, but I will keep learning and practicing, but above all continue to enjoy it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "11.&nbsp; What advice would you give others who are thinking of starting photography tuition or who are currently studying?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You definitely need determination to just keep trying. I’ve hit the delete button more times than not, but when a shot works on all levels it is something to be proud of."
       }
     }
   ]

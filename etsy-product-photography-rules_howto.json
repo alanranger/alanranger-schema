@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/etsy-product-photography-rules#howto",
+  "name": "Etsy Product Photography: Rules, Specs and Best Practice",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/etsy-product-photography-rules#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Pick your window and clear the space",
+      "text": "Choose a room with a large north-facing window. Clear a table near the window and turn off every indoor light to avoid mixed colour temperatures."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Set up your infinity sweep backdrop",
+      "text": "Tape a sheet of white poster board to the table and curve it up the wall behind to create a seamless background with no visible horizon line."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Position your reflector",
+      "text": "Place a white foam board or reflector opposite the window within two feet of the product to bounce light back into the shadow side."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Mount your camera on a tripod",
+      "text": "Set phone or camera on a mini tripod at product height. Frame the product in the middle 70 percent of the shot. Use the rear camera in portrait mode."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Shoot the full sequence for each product",
+      "text": "Shoot at minimum: hero, scale reference, detail shot, and alternate angle. Use a self-timer and aim for 5 to 10 frames per product."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Process to Etsy specs in batch",
+      "text": "Crop each to 3000 x 3000 pixels, apply consistent brightness and white balance, and export as JPG at 80-90 percent quality under 1 MB per file."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Upload and test at thumbnail size",
+      "text": "Upload to Etsy with hero shot as photo 1. Use the thumbnail adjustment tool and check how it reads at 25 percent browser zoom."
+    }
+  ]
+}

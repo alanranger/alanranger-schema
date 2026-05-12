@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/food-photography-at-home#howto",
+  "name": "Food Photography at Home: A Practical UK DIY Guide",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/food-photography-at-home#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Pick the angle before you plate up",
+      "text": "Decide overhead, three-quarter, or straight-on before the food is on the plate. Overhead needs negative space, three-quarter needs height and garnish on top, straight-on needs layers."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Set up by the best window, kill all other lights",
+      "text": "Move the dish to your best window — north-facing ideally. Turn off every lamp and overhead in the room. Mixed light ruins colour. Diffuse direct sun with baking paper on the window."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Put the window 90° to the camera",
+      "text": "Side light is safest for food — it gives texture and three-dimensional feel. Position the dish so the window is directly to the left or right of the camera."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Bounce light back with a reflector",
+      "text": "Place an A3 white foam board on the shadow side of the dish, 30cm away, to bounce light back into the shadows. Watch the shot change as you move the reflector."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Set exposure for the brightest part of the food",
+      "text": "Expose so the brightest part of the dish retains texture. Use exposure compensation -0.3 to -0.7 if auto tends to overexpose. Blown highlights on food are hard to recover."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Take six frames, vary one thing at a time",
+      "text": "One safe frame at your chosen composition, then vary one element per frame — napkin, fork, garnish, reflector, plate position. Choose the keeper later in edit."
+    }
+  ]
+}

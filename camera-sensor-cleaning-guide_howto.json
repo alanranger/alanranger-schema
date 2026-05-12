@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#howto",
   "name": "Camera Sensor Cleaning: The Ultimate Step-by-Step Guide",
-  "description": "A comprehensive guide on camera sensor cleaning techniques, preventive measures, and the importance of removing dust spots for maintaining image quality.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide#primaryimage"
@@ -18,32 +18,20 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Ideal Cleaning Workspace : Seek a clean, dust-free area to perform sensor cle...",
+      "text": "Ideal Cleaning Workspace : Seek a clean, dust-free area to perform sensor cleaning. Gather your essential tools like sensor swabs and camera sensor cleaning fluid, designed specifically for this delicate process."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Fully Charged Battery : Always start with a full battery to prevent the camer...",
+      "text": "Fully Charged Battery : Always start with a full battery to prevent the camera from shutting off during the cleaning process. A camera suddenly powering down could damage the sensor or other internal elements."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Lens and Memory Card attached : You may need to take multiple shots before an...",
+      "text": "Lens and Memory Card attached : You may need to take multiple shots before and after each clean to determine spot removal."
     }
   ]
 }

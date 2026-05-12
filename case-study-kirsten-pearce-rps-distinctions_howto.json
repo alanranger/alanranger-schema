@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#howto",
   "name": "Case Study - Kirsten Pearce - LRPS | RPS Distinctions",
-  "description": "Another successful pass from my RPS mentoring programme. Kirsten Pearce shares her LRPS - RPS Distinctions, the challenges and the resulting successful panel.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#primaryimage"
@@ -18,32 +18,44 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "text": "A question I asked myself many times! I’d made the commitment to develop my skills in photography. It is a recognised international qualification and was a standard to aim for and to challenge myself to reach."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Why did you choose Alan to mentor you for RPS Distinctions and had you worked with Alan before the RPS Mentoring Course?",
+      "text": "I completed Alan’s beginner’s course in 2014 as my first step in photography. Since then I have taken part in mentoring, many workshops and the intentions course. Alan was therefore the natural choice of mentor."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Describe how you found the RPS Mentoring Classes.",
+      "text": "The classes were really helpful in learning what made a good panel. Alan’s honest feedback and high standards gave me confidence that I was as prepared as I could be when I got to the assessment stage. It was a supportive way of working, good to learn from people on the same journey and to help and support each other. This extended outside of the classes with shared photo trips to look for images to fill any gaps."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "What was your experience like of the RPS Distinctions Assessment Day?",
+      "text": "Daunting! I wanted to attend in person as I’d heard from others about their experiences of the day. It turned out that audiences haven’t really returned in numbers post covid and I was the only observer there. Fortunately I was successful, otherwise it would have been very awkward! The staff there were very welcoming and after my assessment had been completed I had the opportunity to talk to the assessors who were very encouraging. I’m glad I went as it was good to be there in person to listen to their comments during my assessment, it made the experience feel more complete than it would ha..."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "text": "I signed up for a one2one with the RPS once my draft panel of 10 with 5 spares was ready. This was by zoom and with a volunteer that is sometimes a panel member. The second opinion gained by someone looking at the images with a fresh pair of eyes was really helpful. He made a number of suggestions that helped to refine my final panel."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "text": "I’d definitely recommend getting your images printed rather than doing the digital assessment. I felt that learning about the printing process and having something physical at the end made everything feel more complete. I had my images printed at One Vision and Adam and the team there were incredibly supportive and helpful."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
+      "text": "Staying motivated. I had a few false starts before getting to this point and it would have been very easy to give up. I can’t begin to imagine how many images were rejected before getting to the final 10"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the definition of composition balance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition balance is the distribution of visual weight so that no element overpowers the others. It creates harmony between positive space, negative space, and subject placement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is compositional balance in film?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compositional balance in film arranges elements within the frame to guide attention and create visual harmony. Imbalance may also be used intentionally for tension or drama."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is balance as a compositional rule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Balance as a compositional rule means arranging elements so their visual weight feels equal. This prevents one part of the image from dominating and makes the scene more engaging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the types of compositional balance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main types of balance are symmetrical (equal sides), asymmetrical (different but balanced), radial (elements radiating from a centre), and mosaic (pattern-like harmony within variety)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you create balance in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create balance in photography, position subjects with care, use the rule of thirds, control horizon placement, and counterweight with light, colour, or supporting elements."
+      }
+    }
+  ]
+}

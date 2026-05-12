@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/case-study-ian-slater-rps-distinctions#howto",
   "name": "Case Study - Ian Slater - LRPS | RPS Distinctions Panel",
-  "description": "Another successful LRPS pass from my mentoring programme. Ian Slater shares his LRPS - RPS Distinctions, the challenges and the resulting successful panel.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/case-study-ian-slater-rps-distinctions#primaryimage"
@@ -18,32 +18,38 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "text": "I see photography as my creative outlet and, rightly or wrongly, I felt that the journey to become a Licentiate of the RPS was an opportunity to learn, develop and push myself beyond my comfort zone. It has been all those things and more."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Describe how you found the RPS Distinctions Mentoring Classes.",
+      "text": "In a word “difficult”. This isn’t an easy option: there are no short cuts… the RPS assessors will, on the surface, be kind and considerate but they will not overlook any deficiencies in your work and nor should they. Alan’s classes are an exercise in acclimatisation, he will be straight with you and, personally, I valued that above all else."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "What was your experience like of the RPS Assessment Day?",
+      "text": "I attended by Zoom which is slightly artificial but convenient. It was very clear that the print panels were far more successful as a group than the digital panels. I would say 70 - 80% of the print candidates were successful whereas there were only 3 digital candidates who succeeded. It is harder to hide deficiencies in a digital image but by the same token the standard of some of the digital panels really wasn’t great. It felt as if some of the candidates were just taking a punt on a random collection of 10 images but this is an internationally recognised achievement: no one should under..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "text": "I had a 1-2-1 with one of the RPS assessors prior to the final selection of my 10 panel images. There is a degree of subjectivity in all of this but with the knowledge that Alan had given me I found the 1-2-1 a useful mechanism to get inside the mindset of an assessor."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "text": "Don’t underestimate the task ahead: it is a high bar that you are seeking to get over but if you are determined and willing to think critically about your own work and development then Alan can (and will) help you."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
+      "text": "For me the hardest part was recognising my own deficiencies and ignoring the well wishers who told me that nearly every image I produced was a good one. There is a world of difference between Instagram likes and being a technically proficient and critically thinking photographer."
     }
   ]
 }

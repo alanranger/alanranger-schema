@@ -5,66 +5,74 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "1.&nbsp;&nbsp;&nbsp; Why did you want to become a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers case study - joyce james shares a photographic journey. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "I've enjoyed taking photographs for many years – and initially I just wanted to improve. I guess that is still what drives me – but the desire to improve has taken on a much deeper meaning!"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "2.&nbsp;&nbsp;&nbsp; Were you scared or anxious to start out?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "No – ignorance is bliss! I had no idea at the outset that it would become such a big part of my life."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "3.&nbsp;&nbsp;&nbsp; Why did you select Alan as your tutor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "I bought a Groupon voucher – on a whim.\n\nView fullsize\n\nAn early attempt Sep 2013"
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "4.&nbsp;&nbsp;&nbsp; What was your main motivation to commit to Alan’s course?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "I was hooked at the Introductory Session. I came home buzzing and couldn't wait to do the next one. I've been like that ever since!"
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "5.&nbsp;&nbsp;&nbsp; How do you feel Alan’s teaching style has helped develop your skills the most?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "He has a very direct and honest style and he completely respects my intelligence – he doesn't do flannel or give false praise. That suits me – he tells me quite candidly what is right or wrong with my efforts and I listen and do my best to learn.\n\nHe sets high expectations and can be quite demanding – but that's like an unspoken agreement between us. I want to be as good as I can be and he wants that too. I like that he sets the bar high.\n\nI should also stress that Alan has a lively sense of humour and the sessions are good fun - we get on well. It wouldn’t work otherwise."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "6.&nbsp;&nbsp;&nbsp; What are the key things Alan has helped you with?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
+        "text": "I was a complete novice and so I needed to learn all aspects of photography – technical know how, composition, the importance of light – you name it, I'm learning about it!\n\nView fullsize"
       }
     },
     {
       "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
+      "name": "7.&nbsp;&nbsp;&nbsp; How do you think you’ve grown as a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
+        "text": "I’d say I probably scored 1/10 in terms of ability when I started out almost 2 years ago. I'm probably at 6/10 now. I still have a lot to learn. But that's good – if it was easy it wouldn't be nearly as much fun."
       }
     },
     {
       "@type": "Question",
-      "name": "Where can I practice these techniques?",
+      "name": "8.&nbsp;&nbsp;&nbsp; Could you describe how you felt when you were featured in the intermediates photography exhibition?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "The Opening Night was amazing - my family and friends turned out to support me and I felt proud, excited and somewhat emotional.\n\nThe exhibition itself was the culmination of a lot of hard work – I was also delighted and relieved that I'd succeeded in getting my panel ready."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "9.&nbsp;&nbsp;&nbsp; What are your ambitions for the future with photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I don't know – I wouldn't like to put a ceiling on my ambition. I have no intentions of making a career out of it or anything like that – but I certainly intend to be a lot better at it than I am now.\n\nView fullsize\n\nMy eye has developed and subject range is much broader than it used to be"
       }
     }
   ]
