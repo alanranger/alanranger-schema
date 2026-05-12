@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography#howto",
   "name": "11 What is WHITE BALANCE in photography: A Beginners Guide",
-  "description": "Learn What is WHITE BALANCE in photography, how Kelvin and Tint fix colour casts, handle mixed light, and grab the free 1-page checklist for skin tones.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography#primaryimage"
@@ -18,32 +18,62 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Prep: shoot RAW (max latitude) and pick a neutral picture profile.",
+      "text": "Prep: shoot RAW (max latitude) and pick a neutral picture profile. If colour-critical, keep a grey card handy."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Choose your method (from quick → precise): Auto WB (AWB): fine for changing d...",
+      "text": "Choose your method (from quick → precise): Auto WB (AWB): fine for changing daylight; can drift in mixed/coloured light."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Presets: fast and consistent.",
+      "text": "Presets: fast and consistent. Daylight: 5200–5600 K"
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Tungsten/Incandescent: 2800–3200 K",
+      "text": "Tungsten/Incandescent: 2800–3200 K"
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Fluorescent: 3800–4500 K (often needs +magenta tint)",
+      "text": "Fluorescent: 3800–4500 K (often needs +magenta tint)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Kelvin (K): enable Temp/K on the camera, dial until neutrals look neutral in ...",
+      "text": "Kelvin (K): enable Temp/K on the camera, dial until neutrals look neutral in live view; then nudge Tint (G↔M) if needed. Good starting points are above."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Custom WB (grey card / ExpoDisc): Place the card in your key light (same ligh...",
+      "text": "Custom WB (grey card / ExpoDisc): Place the card in your key light (same light as your subject)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Fill the frame with the card and capture a reference.",
+      "text": "Fill the frame with the card and capture a reference."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Run Custom WB in the menu and assign it to a slot.",
+      "text": "Run Custom WB in the menu and assign it to a slot."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Use that WB for all shots under the same lighting.",
+      "text": "Use that WB for all shots under the same lighting."
     }
   ]
 }
