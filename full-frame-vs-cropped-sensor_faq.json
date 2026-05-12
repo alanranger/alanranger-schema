@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/full-frame-vs-cropped-sensor#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which is better: full-frame or crop sensor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Neither is universally better — it depends on the job. <strong>Full-frame</strong> excels for low light, maximum dynamic range and shallow depth-of-field (portraits, weddings, night). <strong>APS-C/Micro 4/3</strong> shine for reach, lighter kits and lower cost (wildlife, travel, hiking). Choose by subject, working light and how large you print.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a disadvantage of a full-frame camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Full-frame systems cost more and are usually bigger/heavier (bodies and lenses). Files are larger, and very fast lenses can give <em>very</em> thin DoF, demanding precise focus. For long hikes or tight budgets, a crop system can be more practical.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the benefit of a crop sensor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Crop sensors (e.g., APS-C ≈1.5×) offer smaller, lighter, cheaper kits and effectively <em>narrower field of view</em> for the same lens, helping frame distant subjects. Many crop bodies also have high pixel density that resolves fine detail on small subjects.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a crop sensor better for wildlife?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Often, yes. The narrower field of view helps fill the frame, and high pixel density can put more pixels on the bird/animal. Trade-offs: less clean at high ISO than full-frame and shallower dynamic range in difficult light.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does crop factor mean and how does it affect field of view?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Crop factor compares a sensor’s diagonal to 35mm (full-frame). It changes <strong>field of view</strong>, not focal length. 35mm-equivalent focal length = <code>actual focal length × crop factor</code>. Example: 200mm on APS-C (1.5×) frames like a 300mm on full-frame.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does a crop sensor change the lens focal length?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>No. Focal length is a physical property of the lens. A smaller sensor simply <em>crops</em> the image circle, giving a tighter angle of view that <em>behaves</em> like a longer lens would on full-frame.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does sensor size affect depth of field (DoF)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>For the <em>same framing and output size</em>, smaller sensors give <strong>more</strong> depth of field at the same f-number. To match blur between formats you typically stop the smaller sensor down ~1 stop for APS-C (1.5×) and ~2 stops for Micro 4/3 (2×).</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use full-frame lenses on APS-C (and APS-C lenses on full-frame)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p><strong>FF lens → APS-C:</strong> Works fine; you see a tighter view (crop factor). <strong>APS-C lens → FF:</strong> Often vignettes; use your camera’s crop mode if available. Always check the mount and manufacturer guidance.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does full-frame always give sharper images?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>At the <em>same output size</em>, full-frame is typically <strong>cleaner</strong> (less noise at high ISO) and holds more highlight detail, but sharpness depends on lens quality, aperture, shutter stability and total megapixels — not sensor size alone.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does a crop body give me extra zoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Not extra optical zoom — it crops the image circle for a tighter field of view. If your crop body has higher pixel density, you may capture <em>more pixels on the subject</em> than a same-MP full-frame cropped later.</p>"
+      }
+    }
+  ]
+}

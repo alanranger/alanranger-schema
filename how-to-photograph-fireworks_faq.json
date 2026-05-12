@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-photograph-fireworks#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What mode should I use to photograph fireworks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manual mode is the safest choice, ideally with bulb mode. Fireworks change brightness constantly, so relying on automatic exposure usually gives inconsistent results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What aperture is best for fireworks photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good starting point is around f/8. If the display is sparse, you may move towards f/9 or f/10. If the finale becomes dense and bright, f/6.3 to f/8 can be more practical."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ISO should I use for fireworks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep ISO low. ISO 100 on full frame and ISO 200 on crop is a strong starting point. Low ISO helps keep the sky clean and the colours stronger."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a tripod for fireworks photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for the classic long-exposure fireworks look a tripod is essential. It gives you stability, sharper trails and proper control over bulb exposures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use autofocus for fireworks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Pre-focus before the display starts, then switch to manual focus. Autofocus often hunts in the dark and causes missed shots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do my fireworks photos look smoky and dull later in the display?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because smoke builds up as the display continues. It can soften contrast, flatten colour and make the sky look muddy. Earlier frames are often cleaner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I photograph fireworks handheld?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can, but it gives a different result. Handheld shooting is more useful for quick documentary-style images rather than classic flowing light trails."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lens is best for photographing fireworks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A wide-angle lens is often the best starting point, especially if you want foreground and a sense of place. It is usually better to frame slightly wider and crop later than clip the top of the burst."
+      }
+    }
+  ]
+}

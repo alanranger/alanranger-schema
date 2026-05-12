@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/how-to-photograph-jewelry#howto",
-  "name": "How To Photograph Jewelry",
-  "description": "How To Photograph Jewelry.",
+  "name": "How to Photograph Jewelry: A Guide for UK Photographers",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/how-to-photograph-jewelry#primaryimage"
@@ -18,32 +18,38 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Step 1: Gather the Right Gear",
+      "text": "Getting the right gear is the first step in learning how to photograph jewelry. You don’t need a huge budget, but you do need a few key tools. First, pick a camera that lets you control aperture, shutter speed and ISO. A DSLR or mirrorless body works well. If you’re on a phone, look for a model that supports manual mode and can attach a macro lens. Next, a macro lens is the workhorse for close‑up work. Something in the 60‑105mm range gives you room to move while staying sharp. For tighter shots, a 100mm macro works great on full‑frame bodies. Don’t forget a sturdy tripod. A pocket‑size tabl..."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Step 2: Master Lighting for Sparkle",
+      "text": "Lighting makes or breaks how to photograph jewelry. You want light that is bright enough to show detail but soft enough to stop harsh glare. Start with a single softbox placed at a 45‑degree angle to the piece. This angle reduces direct reflections on polished metal while still giving the stone a little highlight. If you only have desk lamps, point them through a thin white sheet or a white shower curtain. The diffused light will wrap around the piece. Use a reflector opposite the softbox. A simple white card or a piece of tin foil works. It fills in the shadows without creating a second ho..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Step 3: Choose Backgrounds and Props",
+      "text": "The background should keep the focus on the jewellery. A neutral colour , white, grey or black , works for most pieces. If you sell a range of items, keep the background consistent so the whole catalogue looks cohesive. Paper sheets are cheap and easy. A matte white sheet prevents extra shine. Slate or marble tiles give a premium feel for high‑end pieces. Wood adds a warm, handcrafted vibe that works well for handmade collections. Props can help tell a story, but they must be subtle. A single sprig of rosemary can hint at a natural theme, but too many leaves will drown the ring. Use acrylic..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Step 4: Set Precise Camera Settings",
+      "text": "Now that the gear and light are ready, set the camera for maximum detail. The sweet spot for aperture in jewellery work is between f/11 and f/16. That range gives enough depth of field to keep the whole piece in focus. Keep ISO low , 100 is ideal. Low ISO means less noise, which is crucial when you zoom in on a diamond’s facets. If you have to raise ISO because the light is weak, stay under 200 and add a little extra light instead of pushing the sensor. Shutter speed is mostly about exposure, not freezing motion , the jewellery isn’t moving. A speed around 1/125 sec works well with a softbo..."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Step 5: Shooting Techniques & Data Table",
+      "text": "Even with perfect gear and light, the way you compose each shot matters. Below is a quick reference table that matches a common jewellery type with the best shooting angle and a tip. Jewellery Shooting Angles and Quick Tips A simple reference table showing the most effective angle and a practical shooting tip for common types of jewellery. Jewellery Type Best Angle Key Tip Ring 45° side view Use a reflector to fill the underside of the stone. Necklace Flat lay Lay it on a matte surface and use a light tent for even light. Earring Straight on Raise the earring on a thin wire to avoid shadows..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Post‑Processing and Retouching",
+      "text": "After the shoot, the work moves to the computer. The goal is to keep the jewellery looking true to life while removing distractions. Start with raw files. In Lightroom or Capture One, adjust exposure first. Bring up the shadows just enough to see any fine engraving without blowing out the highlights. White balance is next. Use the eyedropper on a neutral part of the metal , often the edge of a silver band , to set a true neutral tone. For colour correction, use the HSL panel. Slightly boost the saturation of a ruby’s red without affecting the metal. Keep the adjustments subtle , you want th..."
     }
   ]
 }

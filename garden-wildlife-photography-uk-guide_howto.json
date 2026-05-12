@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/garden-wildlife-photography-uk-guide#howto",
+  "name": "UK Garden Wildlife Photography: Birds, Bees, and Beyond",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/garden-wildlife-photography-uk-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Choose your shot type and target species",
+      "text": "Decide before session begins. One shot type — feeder/bird, pollinator, pond, or small mammal — with a specific target species. Decision drives lens, time of day, position, infrastructure. 'See what shows up' is not a plan."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Refine the setup the day before",
+      "text": "Walk garden evening before with shot type in mind. Check perch condition and light direction. Replace tired perches. Top up feeders. Clear background distractions. Half the keeper-versus-throwaway difference decided here."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Be in position before activity starts",
+      "text": "20 minutes before peak activity. Dawn songbirds = 4:50am May/June. Pollinators = 9:30am. Dusk hedgehogs = 8pm. Birds need time to confirm you're not a threat."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Dial in settings while you wait",
+      "text": "Aperture priority f/4-f/6.3 birds, f/8 macro. Auto ISO with sensible upper. Shutter min 1/500 songbirds, 1/1000 in-flight. Continuous AF on perch position. RAW. Test-shoot before subject arrives."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Shoot in burst, hold for behaviour",
+      "text": "Short bursts of 3-5 frames when target lands. Focus on eye. Hold and wait for behaviour. Don't chase moving subjects randomly. Keeper rarely first frame — usually frame 2-3 of burst."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Cull, edit, and plan next session",
+      "text": "Cull on import — only sharp frames with eye catch-light. 5-15 keepers from 90-minute session. Edit lightly. Note what worked for next session. Long-running practice, not one-off."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator#howto",
   "name": "Mastering Exposure: Outdoor Photography Exposure Calculator",
-  "description": "Master exposure with this free Outdoor Photography Exposure Calculator - Perfect for beginners learning aperture, shutter speed, ISO and the exposure triangle.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator#primaryimage"
@@ -18,32 +18,26 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Select the lighting conditions (bright sunlight, cloudy, golden hour, etc.).",
+      "text": "Select the lighting conditions (bright sunlight, cloudy, golden hour, etc.)."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Choose your desired aperture, ISO, or shutter speed.",
+      "text": "Choose your desired aperture, ISO, or shutter speed."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "The calculator will automatically show the correct corresponding values to ma...",
+      "text": "The calculator will automatically show the correct corresponding values to maintain exposure balance."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Adjust and experiment freely to see how exposure changes depending on your ch...",
+      "text": "Adjust and experiment freely to see how exposure changes depending on your choices."
     }
   ]
 }
