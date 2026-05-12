@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/uk-woodland-photography-year-round-guide#howto",
+  "name": "UK Woodland Photography: A Year-Round Practical Guide",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/uk-woodland-photography-year-round-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Pick the shot type before you arrive",
+      "text": "Decide day before. One of four shot types — chaos-tamed wide, single-tree subject, intimate detail/macro, abstract minimalism. Drives lens, arrival time, conditions wanted. Commit and build session around delivering it."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Check forecast for right conditions",
+      "text": "Met Office 24-48 hours out. Looking for overcast bright, mist, or low-angle directional sun. Avoid bright direct sun under full canopy June-August. Mist forecast: cold clear overnight + damp ground + still wind. Switch shot type if forecast wrong."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Arrive before conditions peak",
+      "text": "Mist: 30 min before sunrise (burns off in 90-120 min on dry days). Side-lit edges: 60-90 min before peak directional light. Walk woodland on arrival — 15-minute slow scout consistently produces better frames than hurried setups."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Set up tripod deliberately at chosen viewpoint",
+      "text": "Not full extension by default — lower viewpoints often stronger. Polariser rotated for maximum effect on wet surfaces. Aperture priority f/8-f/11, ISO 100, RAW. Mirror lockup or electronic shutter. Single-point AF on most important plane."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Run squinting test before each frame",
+      "text": "Bright patches must be excluded by recomposition or wide-margin capture for cropping. Dark masses revealed by squinting are structural elements. 3-5 bracketed exposures per composition. Move on while light still good."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Cull and edit lightly with restrained tonality",
+      "text": "Cull on import — sharp frames only, exclude bright-sky patches. 4-8 keepers per 90-minute session. Restrained editing — woodland tonality is naturally subtle, heavy contrast/clarity breaks the genre's register. Heavy editing = capture wasn't strong enough."
+    }
+  ]
+}

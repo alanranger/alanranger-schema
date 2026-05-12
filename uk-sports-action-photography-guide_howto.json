@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide#howto",
+  "name": "Sports and Action Photography Guide - Master the techniques",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Research and plan before you arrive",
+      "text": "Know the storyline. Identify key players, milestones, kit colours, sun direction at kick-off. Confirm photographer access policy and consent arrangements if shooting children."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Arrive early, watch the venue, choose your position",
+      "text": "Arrive 30 minutes before kick-off. Walk the venue. Identify where action will concentrate, sun direction, cleanest backgrounds. Pick a primary and backup shooting position."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Set up your camera before play starts",
+      "text": "Continuous AF, single centre point, burst mode high. Shutter speed at table value, aperture wide, ISO managed. Test on warm-up."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Watch the play, anticipate the moments",
+      "text": "Camera at chest height, both eyes on play. Bring camera up only when you know where next action will be. Read patterns and player tendencies."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Capture in short deliberate bursts",
+      "text": "3-6 frame bursts at moments of action. Mix freezes with the occasional pan. Avoid holding the shutter down for long sprays."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Adjust as conditions change",
+      "text": "Check exposure every 10-15 minutes. Adjust shutter, aperture, or ISO as light shifts. Raise ISO before letting shutter speed drop."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Cull and edit with discipline",
+      "text": "Import, rate, cull aggressively. Keep 5-10% of frames as keepers. Edit only those. Output sized for the destination — print, web, or messaging."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test#howto",
   "name": "Take the free online colour test - how good is your vision?",
-  "description": "Find out how good your vision is with the free online colour test. Take the Munsell 100 Hue Test and discover if you have any colour vision deficiencies.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Custom White Balance: Always perform a custom white balance in your camera to...",
+      "text": "Custom White Balance: Always perform a custom white balance in your camera to obtain accurate colour representation."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Use Adobe RGB: Set your camera to use the Adobe RGB colour space, which offer...",
+      "text": "Use Adobe RGB: Set your camera to use the Adobe RGB colour space, which offers a wider colour gamut than sRGB."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Calibrate Your Monitor: Use a device like the Spyder or Colour Munki to calib...",
+      "text": "Calibrate Your Monitor: Use a device like the Spyder or Colour Munki to calibrate your computer monitor, ensuring that the colours you see on screen are true to life."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Calibrate Your Printer: Calibrate your printer for different ink and paper ty...",
+      "text": "Calibrate Your Printer: Calibrate your printer for different ink and paper types. Most printer manufacturers provide colour profiles for each paper type online, so make sure to download and use them."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Maintain Consistent Colour Profiles: Keep your colour profile consistent thro...",
+      "text": "Maintain Consistent Colour Profiles: Keep your colour profile consistent throughout any editing in software. Stick to Adobe RGB for accurate colour representation."
     }
   ]
 }

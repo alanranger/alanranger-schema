@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What camera should I take on a photography holiday?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The one you already know. Travel rewards fluency with your kit, not theoretical sensor quality. If buying, an APS-C or full-frame mirrorless with a 24-105mm zoom covers 90% of scenarios in the lightest package."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is one lens really enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most travel, yes. A 24-105mm or 24-120mm zoom covers wide landscapes, portraits, street scenes, and food details. You'll photograph more overall because you're not changing lenses or leaving kit at the hotel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I do travel photography on my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, entirely. Modern phones are excellent for street, food, interiors, and daylight landscapes. Limitations are low-light and reach. For city-focused holidays, a phone is a legitimate travel camera."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I photograph people respectfully while travelling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask first for posed portraits. Chat for two minutes after they say yes — the photograph after that is immeasurably better. For candid street, make people one element of a wider story. Never photograph children without parent consent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep gear safe in unfamiliar places?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plain-looking bag, short cross-body strap, nothing visible in car boots. Split kit across bags. Back up daily. Check travel insurance covers your gear value — standard policies cap at £1,500 and may need a photographic add-on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best way to back up photos on the road?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two-device rule minimum. Options: laptop + portable SSD, portable card-to-SSD reader, or cloud (needs reliable WiFi). Whichever you choose, every night, no exceptions. Lost cards and stolen laptops happen eventually."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a tripod for travel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no — modern high-ISO lets you handhold at 1/30s ISO 6400 for most scenes. A travel tripod earns its weight only for long-exposure landscapes or interiors. A 200g tabletop tripod fits in a jacket pocket as a compromise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I not spend my whole holiday behind the camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoot with intention the first two hours and last two hours of the day. Put the camera away between. Stronger portfolio, actual memories. The every-waking-hour photographer comes home exhausted with 2,000 frames and 20 keepers."
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/uk-waterfall-photography-guide#howto",
+  "name": "UK Waterfall Photography: A Complete Field Guide 2026",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/uk-waterfall-photography-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Check rainfall and timing the week before",
+      "text": "Look at rainfall over upstream catchment for past week. 2-3 days after sustained rain is sweet spot. Check forecast for overcast bright. Avoid direct sun days. If conditions wrong, postpone."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Commit to one shot type before you leave",
+      "text": "Pick one of four shot types — full-fall classic, intimate cascade detail, environmental wide, layered foreground-stream. Pack lens accordingly. Polariser always. ND only if going beyond 1-second in bright light."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Arrive early, scout safely, work the surround",
+      "text": "60-90 minutes early. Walk location, find positions others don't reach, test wet-rock surfaces. Look at surround as much as falls — moss, fern, foliage, gorge geometry, sky."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Compose, focus, fit polariser first",
+      "text": "Tripod low and stable. Compose without filters. Manual focus on static rock edge. Reference frame at base ISO, f/8-f/11. Then fit polariser. Rotate to maximise rock saturation, minimise water glare. Polariser typically buys 1.5-2 stops light reduction."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Add ND only if you still need shutter time",
+      "text": "Check shutter speed with polariser fitted. If 1/4-2 seconds, no ND needed. If longer exposure wanted, add 3-stop or 6-stop. 10-stop rarely needed for UK waterfalls. Use Bulb for over 30 seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Bracket shutter speeds and clean the lens",
+      "text": "Three frames at different shutter speeds: 1/4s, 1s, 4s. Keeper usually middle range. Between frames check front element with microfibre and rocket blower. Spray lands on lens within minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Cull same day, edit lightly",
+      "text": "Cull on import. From three bracketed exposures, one is keeper. Expect 4-8 keepers from 90-minute session. Edit next day. Lift shadows on rock, gentle clarity, hold saturation back on greens (polariser already saturated them). Don't push water to pure white."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is manual exposure in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Manual exposure (M mode) means you set <strong>aperture</strong>, <strong>shutter speed</strong> and <strong>ISO</strong> yourself. You decide the depth of field and motion look, then match the meter (and histogram) for a consistent, deliberate result.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why use Manual instead of Aperture or Shutter Priority?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use Manual when you want <strong>consistency across a series</strong> or when the meter is easily fooled (backlight, stage, snow/sand). In M the camera won’t change exposure just because you reframe, so panoramas, interiors and long exposures match frame-to-frame.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set manual exposure step by step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>1) Pick your priority: aperture for depth or shutter for motion.<br>2) Set a sensible base ISO (lowest that allows your chosen settings).<br>3) Dial the remaining setting until the meter is right for your subject; confirm with histogram/blinkies and bias to <strong>protect highlights</strong>.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are good starting points for common scenes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p><strong>Portraits:</strong> f/2–f/2.8, 1/250–1/500 s, lowest ISO that holds the speed.<br><strong>Groups/street:</strong> f/5.6–f/8, ≥1/250 s, Auto ISO optional.<br><strong>Landscapes:</strong> f/8–f/11, shutter as needed on tripod, base ISO.<br><strong>Sport:</strong> shutter ≈ 1/1000–1/2000 s; open aperture/raise ISO to match.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep exposures consistent across a panorama or sequence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Set M for the <em>brightest</em> frame (protect highlights), then keep the same A/S/ISO for the whole sweep. Don’t re-meter every frame. In post, sync WB and exposure for seamless stitching.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Manual with Auto ISO still count as manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Yes—many photographers use <strong>M + Auto ISO</strong>. You lock aperture and shutter for creative intent and let ISO ride to meet the meter. Set a <strong>minimum shutter</strong> and use exposure compensation to bias the ISO up/down.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid blur when hand-holding in Manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use a safe speed ≈ <strong>1/(2× focal length)</strong> on high-resolution cameras (e.g., 100 mm → ~1/200 s). If speeds drop, open the aperture, raise ISO, or stabilise (tripod/IBIS). Remember IS/IBIS fixes <em>shake</em>, not <em>subject motion</em>.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does exposure compensation do in Manual mode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>In pure M (fixed A/S/ISO), exposure compensation does nothing. In <strong>M + Auto ISO</strong>, it biases the ISO target so you can place tones (e.g., +1 EV for snow, −1 EV to protect highlights) without changing A or S.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I meter tricky high-contrast scenes in Manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Expose for the important highlights (watch clipping warnings). Use spot/partial metering on bright areas, then confirm with the histogram and back off ~1/3–2/3 stop if highlights are close to clipping. Lift shadows later from RAW.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is Manual exposure not ideal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>When <strong>light and action change rapidly</strong> (breaking news, fast events), semi-auto modes can be faster: Aperture Priority with exposure comp, or M + Auto ISO with min shutter, to maintain intent while the camera follows the light.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle long exposures and Bulb in Manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use tripod, base ISO, an appropriate aperture (often f/8–f/11), then lengthen shutter. For times beyond 30 s, use <strong>Bulb</strong> with a remote. In bright conditions, fit an ND filter to achieve seconds-long exposures without overexposure.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I download the Manual Exposure checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Get the free 1-page PDF here: <a href=\"https://www.alanranger.com/s/Manual_Exposure_Field_Checklist.pdf\">Manual Exposure Field Checklist</a>.</p>"
+      }
+    }
+  ]
+}

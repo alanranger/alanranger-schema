@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#howto",
   "name": "Technical Skills Photography Students Need Beyond Creativity",
-  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#primaryimage"
@@ -18,32 +18,50 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Control over exposure and results that are always the same",
+      "text": "A lot of newbies use auto mode and hope the camera \"gets it right.\" That works unless you take pictures of people with the sun behind them, dazzling snow, or a dark concert. Students need to know what the exposure triangle is: ISO, shutter speed, and aperture. They should also know how these choices will affect the result. Aperture is more than just brightness. It determines how sharp the lens is and how deep the field is. Shutter speed is more than just how bright it is. It changes how blurry motion seems, how shaky the camera is, and how the scene moves. ISO alters the noise, dynamic rang..."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Choose the precision and sharpness of the focus.",
+      "text": "Sharp images are not always “better” but missed focus is rarely an artistic statement. Students should learn autofocus modes and when to switch them fast. Single-shot AF works for still subjects. Continuous AF is vital for sports, wildlife and events. Face and eye detection helps but it can fail in low light or fast motion. Beyond modes students must understand focus points and how depth of field changes with distance. A portrait at f/1.8 can look cinematic yet it can place sharpness on lashes and miss the eyes. Mastering these technical nuances takes hours of field practice. To free up the..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Simple lighting and sets",
+      "text": "A lot of fantastic lighting ideas don't work. A brilliant idea could not be as good if the light is flat or not handled. Students should be able to \"see\" the color, direction, and harshness of light. Window light, shade, golden hour, and reflectors are all easy methods to use natural light. You should also know how to deal with mixed lighting, which can mess up colors. You don't have to fight with fake light. To learn how to use modifiers, start with a speedlight or continuous light. Softboxes, umbrellas, grids, and bounce change how soft or hard something is. To control how bright or dark..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Tools for composition that you can use over and over again while you're under duress",
+      "text": "People think of composition as creative work, however technical composition abilities may be used over and over again. Students need to learn how to choose the right horizon, viewpoint, and lens. A wide lens close to a face might change how it looks. Portraits seem better with a longer focus length, and space looks smaller. This will help you pick gear that fits your style, not just what's out there. Learn how to use negative space, leading lines, framing, and visual hierarchy. Work the scene: start with a safe photo, then get closer, shift your point of view, try a vertical frame, and make..."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Managing color and white balance",
+      "text": "Color is both emotive and technical. Find out how to set white balance and when to use custom WB. Auto white balance sometimes changes between frames when you're shooting a series or event, which is annoying. You have more options when you shoot in RAW, but it's vital to choose the right color temperature. Find out what color spaces are and why sRGB is still good for the web. Calibration and soft proofing are needed for printing. An improper display can make a great picture look dull or too bright. Students don't need a perfect studio setup, but they should know how to set up their display,..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Editing habits and processes that don't harm the work",
+      "text": "Photographers edit their images after they take them. \"Making it look cool\" isn't a technical term. A method that is clean and smooth is made. Students should know how to name, organize, and back up files. Don't learn the hard way that a broken drive can make you lose a semester's worth of work. Focus on changes to editing tools that don't hurt the image, like exposure, contrast, curves, color correction, and masks. If you make noise too low or sharpen photographs too much, you might lose detail. You also need to decide ahead of time how to crop and straighten the picture. Consistency in a..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Skills for output: printing, making a portfolio, and making a website",
+      "text": "A good picture can go bad if you don't show it right. Students need to know how resolution, aspect ratios, and scaling affect quality. Find out about compression, gradient banding, and the differences between JPEG and TIFF. Know what DPI and pixel dimensions mean so you don't get confused when you get files ready for printing. Learn how to arrange, describe, and show off images that are good enough for a portfolio. A good technical presentation has colors that are the same, contrast that is right, and not too much processing."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Learn about gear without getting too into it",
+      "text": "You don't need the most expensive camera to learn. You need to know how to use your tools. Students should know how lenses work, how sensor size changes the field of view, and which camera settings are optimal for their photos. Keep your gear clean, dry, and correct faults as soon as you can. True technical skill is being able to fix problems while listening to the story. Alan Ranger 4 March 2025 Facebook 0 LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes"
     }
   ]
 }

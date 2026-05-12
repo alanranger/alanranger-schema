@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can beginners effectively frame their photographs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners should utilise natural lines to guide viewers' eyes. Use straight lines, curves, and diagonal shapes found in elements like roads, rivers, or branches to add depth to your photographs. When framing your shot, align these lines with the grid on your camera's viewfinder to enhance the composition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a basic guideline for framing in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A fundamental guideline for framing in photography is the rule of thirds. This rule suggests positioning the main subject off-center, either one-third or two-thirds into the frame. This technique makes the composition more engaging and visually pleasing compared to centering the subject."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does framing mean in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Framing in photography is a technique used to draw attention to the subject by using elements within the image to create a visual frame around the focal point. This method helps to isolate the subject and enhance its prominence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the rule of thirds in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The rule of thirds is a crucial composition rule in photography, which involves dividing the frame into nine equal parts with three horizontal and three vertical lines. Placing the subject at the intersections of these lines creates a more aesthetically pleasing and balanced photo."
+      }
+    }
+  ]
+}
