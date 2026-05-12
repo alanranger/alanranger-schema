@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/lightroom-classic-latest-version-whats-new#howto",
-  "name": "Lightroom Classic Latest Version 13.3 - What's New",
-  "description": "What’s new - latest features and enhancements in Adobe Lightroom Classic Latest Version 13.3, empowering photographers to redefine creativity in photography.",
+  "name": "Lightroom Classic Latest Version 13.3 - What&#39;s New",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/lightroom-classic-latest-version-whats-new#primaryimage"
@@ -18,32 +18,20 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Accessing the Tool To begin using Generative Remove, photographers can select...",
+      "text": "Accessing the Tool To begin using Generative Remove, photographers can select the Remove tool in Lightroom Classic. By default, generative AI is off, allowing the use of traditional removal methods. However, activating the Generative AI option transforms the tool's capabilities, enabling it to tackle more complex removal tasks."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Removing Distractions After enabling Generative AI, users can paint over the ...",
+      "text": "Removing Distractions After enabling Generative AI, users can paint over the object or area they wish to remove. Lightroom Classic then displays a red overlay of the masked area, offering mask refinement options. By applying the changes, Lightroom generates multiple variations of the area without the unwanted object, using Adobe Firefly's generative AI."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Choosing the Best Outcome Once the variations are generated, users can review...",
+      "text": "Choosing the Best Outcome Once the variations are generated, users can review and select the one that best fits their vision. If unsatisfied with the options, they can refresh to create additional variations. This feature is handy for achieving a seamless blend with the surrounding image areas."
     }
   ]
 }

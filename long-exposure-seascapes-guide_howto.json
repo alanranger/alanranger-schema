@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/long-exposure-seascapes-guide#howto",
+  "name": "Long Exposure Seascapes: A UK Coastal Photography Guide ",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/long-exposure-seascapes-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Plan the tide the night before",
+      "text": "Check tide tables for your location. Decide which tide state to shoot (low, rising, high, falling). Plan arrival 90 minutes before the window opens and departure 60 minutes before the opposite state arrives."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Commit to one shot type before you leave",
+      "text": "Pick one of the five seascape shot types (glassy mirror, streaking wave, milky smooth, silhouette, rock-texture) and pack only the gear that serves it. One body, two lenses, two ND filters plus polariser."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Arrive early, scout safely",
+      "text": "90 minutes before window opens. Walk the location, identify foreground, anchor subject, exit route. Test wet-rock surfaces. Note current wave reach line and add 1m margin for sneaker waves."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Compose then expose — never the other way round",
+      "text": "Tripod low and stable. Compose without filter, lock focus manually on static edge. Take reference frame at base ISO f/8-f/11, check histogram. Reference frame becomes exposure you extend with ND."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Add the filter, calculate, fire",
+      "text": "Fit ND plus polariser plus any grad. For sub-30s exposures camera meters normally. For longer use Bulb and long-exposure calculator app. Cover viewfinder on DSLR. Take three frames at different exposure times to pick from later."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Work the window, then leave",
+      "text": "60-120 minute productive window. Stop at planned departure time even if conditions are incredible. The tide waits for no one. Knowing when to walk away from good light is the hardest professional discipline in seascape photography."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Review, cull, edit lightly",
+      "text": "Cull same day. Expect 4-10 keepers from 2-hour shoot. Edit next day with fresh eyes. Blend sky from reference frame if dynamic range was tight. Hold saturation back. Gentle dodge and burn. Keep water looking like water, not cream."
+    }
+  ]
+}

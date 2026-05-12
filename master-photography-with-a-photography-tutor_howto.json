@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/master-photography-with-a-photography-tutor#howto",
   "name": "Master Photography with a Professional Photography Tutor",
-  "description": "Unlock your creativity with a photography tutor near you. Receive tailored guidance, constructive feedback, and expert insights to elevate your photography.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/master-photography-with-a-photography-tutor#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Technical expertise - A photography tutor can teach you the technical aspects...",
+      "text": "Technical expertise - A photography tutor can teach you the technical aspects of photography, such as understanding aperture, shutter speed, and depth of field. They can help you grasp the technicalities behind capturing a well-exposed and sharp image, ensuring you master the foundation of great photography."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Composition and visual storytelling - A photography tutor can teach you compo...",
+      "text": "Composition and visual storytelling - A photography tutor can teach you composition techniques, such as the rule of thirds, leading lines, and framing, especially in photographic portraits and studio photography. They can guide you in creating visually compelling images that effectively communicate your intended message or story."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Editing and post-processing - A photography tutor can teach you how to edit a...",
+      "text": "Editing and post-processing - A photography tutor can teach you how to edit and enhance your photographs using photography software such as Adobe Lightroom or Photoshop. They can help you develop your own editing style while maintaining the integrity of the original image, ensuring your photographs stand out."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Portfolio development - A photography tutor can assist you in curating a port...",
+      "text": "Portfolio development - A photography tutor can assist you in curating a portfolio that showcases your best work. They can provide feedback on your selection of images, sequencing, and presentation, helping you create a cohesive and impactful portfolio."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Creative exploration - A photography tutor can encourage you to step out of y...",
+      "text": "Creative exploration - A photography tutor can encourage you to step out of your comfort zone and explore new genres, techniques, or subjects. They can inspire you to think outside the box and experiment with different approaches to photography, enhancing your artistic vision through photography workshops."
     }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide#howto",
+  "name": "Dog Photography for Owners: A Practical UK Guide 2026",
+  "description": "",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Decide the scenario before you pick up the camera",
+      "text": "Pick one of the five scenarios — garden portrait, walkies action, indoor light, beach/water, with-the-family. One scenario per session, different scenarios need different lenses and approaches."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Set up the camera while the dog is doing something else",
+      "text": "All settings configured before the dog is involved. Test frame on a stationary object at correct distance. Don't make the dog wait while you fiddle."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Get the camera below dog eye-level",
+      "text": "Kneel, sit, or lie flat depending on dog size. Single biggest improvement an owner can make. Use a kneeling mat or bin liner."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Three short rounds of three frames",
+      "text": "For static portraits: dog into position, three frames in 30 seconds, release with treat. Do something else for 5 minutes. Repeat. Three short rounds beats one long marathon."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "For action: pre-focus, then trigger",
+      "text": "Pre-focus on a static reference at the same distance as the predicted action. AF-C with animal-eye detect, burst drive. Trigger when dog enters frame. Keeper is usually frame 3-5 of the burst, not frame 1."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Watch the body language and stop early",
+      "text": "Whale eye, lip lick, head turn, lowered ears, raised paw, body shake — stop at first signal. End session while dog still enjoying it, not when they've quit."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Cull same day, edit lightly later",
+      "text": "1-3 keepers from a 9-frame static session, 2-4 from 30+ frame burst. Cull same day. Edit next evening: lift shadows, gentle clarity, light dodge on near eye. Don't push saturation."
+    }
+  ]
+}

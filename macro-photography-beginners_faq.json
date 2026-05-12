@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best macro lens for a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 90mm or 100mm macro lens is the best all-round starting point. The working distance of around 15cm at 1:1 means you can photograph insects without scaring them, and the focal length works for flowers, textures, and general close-ups. Sigma 105mm, Tamron 90mm, Nikon 105mm, and Canon 100mm are all excellent options at various price points."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I do macro photography with my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern iPhones (13 Pro and later) and Pixel phones have usable macro modes for casual shots, but they hit a ceiling fast. Phone macro is typically 1:3 or 1:4 at best, and the small sensor struggles with the shallow depth of field macro demands. A second-hand camera body with a used 60mm macro lens will cost around £500 and transform your results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a tripod for macro photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For static subjects — flowers, water droplets, indoor setups — yes, a tripod transforms results. For garden insects and moving subjects, handheld is the only realistic option because insects don't wait for you to set up. Buy a decent tripod when you start, but don't let the lack of one stop you from shooting handheld."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What aperture should I use for macro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "f/8 to f/11 is the sweet spot for most macro work — enough depth of field to get the subject's main features sharp, while avoiding the diffraction that softens images at f/16 and smaller. For artistic, selective-focus shots, f/2.8 to f/5.6 works. For very small subjects that need edge-to-edge sharpness, explore focus stacking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep insects in the frame long enough to photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoot in the early morning when insects are cool, slow, and far easier to approach. Move slowly — no sudden motions, no shadows falling across the subject, no breathing on it. Use a longer macro lens (90mm or 105mm) so you can work from a distance. Accept that you'll lose plenty of subjects and come back tomorrow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ISO can I use before images get noisy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern cameras produce clean images up to ISO 1600, and often to ISO 3200 with some noise reduction in post. Don't be afraid to raise ISO for a faster shutter speed — a sharp, slightly noisy image is always better than a soft, clean one. Noise reduction in Lightroom or free tools like Darktable handles ISO 1600 noise comfortably."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my macro photographs always slightly soft?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The usual culprit is shutter speed. At 1:1 magnification, camera shake is magnified enormously — 1/125s feels fast but often isn't enough. Try 1/500s handheld as a minimum. If your shots are still soft on a tripod, check that mirror-lock-up or electronic shutter is enabled to eliminate mirror slap vibration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's focus stacking and do I need to learn it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus stacking is taking multiple frames at different focus distances and combining them in software for edge-to-edge sharpness. It's extremely useful for static subjects like insects on cold mornings or still-life work, but it's a rabbit hole. Get your first hundred handheld macro keepers before you invest time in stacking."
+      }
+    }
+  ]
+}
