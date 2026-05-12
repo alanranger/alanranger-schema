@@ -1,12 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  "@id": "https://www.alanranger.com/blog-on-photography//product-photography-warwickshire#howto",
-  "name": "Product Photography Warwickshire",
-  "description": "The Complete Guide - 2026 document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading.",
+  "@id": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire#howto",
+  "name": "Product Photography Warwickshire: The Complete Guide - 2026",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
-    "@id": "https://www.alanranger.com/blog-on-photography//product-photography-warwickshire#primaryimage"
+    "@id": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire#primaryimage"
   },
   "author": {
     "@id": "https://www.alanranger.com/#person"
@@ -18,32 +18,20 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Prepare a Shot List",
+      "text": "Know exactly what you want before you arrive. A shot list tells your photographer how many products you have, how many angles you need for each one, and any specific details to capture. A clear shot list is the single biggest thing you can do to keep a shoot on time and on budget. Without one, you end up paying hourly for decisions that could have been made at home."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Think About Your End Use",
+      "text": "Where will these images live? Amazon has specific pixel size requirements and mandates white backgrounds for the main product image. Shopify gives you more flexibility. Instagram favours square or portrait crops. If you know where the images are going before the shoot, your photographer can set up the correct ratios and compositions from the start, saving time in post-production. Product photography Warwickshire — shoot preparation checklist Product photography Warwickshire: five shoot preparation items including cleaned products, a printed shot list, a laptop with platform requirements, a..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Check Whether They Offer Product Photography Training",
+      "text": "For businesses with an ongoing need for product imagery, investing in a one-off training session can make long-term financial sense. Some photographers, including Alan Ranger Photography, offer corporate photography training for staff teams. This is especially useful for businesses that regularly add new products and can't justify hiring a photographer for every batch of new stock."
     }
   ]
 }

@@ -5,66 +5,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "What is the best lighting setup for product photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers product photography lighting. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "The most reliable setup is a two‑light arrangement with a key softbox at 45° and a white reflector opposite it. Pair that with a consistent background and low ISO (100‑200). This gives even light, soft shadows and colour accuracy for most e‑commerce items."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "Do I need two lights for product photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "Two lights are ideal because they let you shape both the main highlight and the fill. A single light can work for minimalist looks, but you’ll often end up with harsh shadows or uneven colour, especially on textured or reflective items."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "Can I use natural light for product photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "Yes. A large window with sheer curtains gives soft, diffused light that works well for lifestyle shots. You’ll need a reflector to fill shadows and a white sweep to keep the background clean. The downside is that the light changes throughout the day, so you must shoot at the same time for consistency."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "How do I stop reflections in product photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "Use a large softbox or diffuse a desk lamp to soften the light. Add a black card behind glossy items to absorb stray highlights. A white reflector on the opposite side fills in shadows without creating new reflections. Position the product slightly off‑centre to move the hot spot out of view."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "What light is best for white background product photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "A soft, even light from a large modifier (softbox or LED panel with built‑in diffuser) placed at 45° works best. Pair it with a white reflector to bounce light into the shadow side. Keep the background a few inches behind the product to avoid spill and keep the background pure white in the histogram."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "When should I hire a professional product photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I practice these techniques?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "If you need a large catalogue, have reflective or highly detailed items, or lack time to fine‑tune lighting, a professional can save you weeks of work. They have calibrated equipment, studio space and the know‑how to get consistent results fast. For a small batch of items, a DIY setup may be enough.\n\nphotography-tips Alan Ranger 7 April 2026 photography tips\n\nFacebook 0\n\nLinkedIn 0\n\nReddit\n\nTumblr\n\nPinterest 0\n\n0 Likes"
       }
     }
   ]

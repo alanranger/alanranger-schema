@@ -5,66 +5,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "What is the best time of day for natural‑light portraits in the UK?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers portrait photography tips. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "Early morning and late afternoon give you soft, directional light that flatters skin. Aim for about an hour after sunrise or two hours before sunset. Overcast days also work well because the clouds act like a giant diffuser. Adjust ISO to keep your shutter above 1/160s and you’ll avoid blur."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "Do I need a pricey flash for indoor portraits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "Not at all. A single flash with a softbox can give you a professional look for under £150. Use a reflector opposite the flash to fill shadows. The research shows a single‑light Silver reflector setup costs the same as a three‑light 2‑stop ratio, so you can stay budget‑friendly."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "How can I make my subjects feel comfortable?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "Start with a short chat about something they enjoy. Offer a simple pose like “lean against the wall” and let them adjust. Small actions , a gentle shake of the shoulders or a quick walk , release tension. Praise genuine moments, and the subject will relax faster."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "What focal length should I use for flattering headshots?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "A lens between 85mm and 135mm on full‑frame gives a natural perspective and nice background blur. If you’re on a crop sensor, add the crop factor (1.5× or 1.6×) and aim for about 50‑70mm. This range compresses facial features just enough to look pleasing."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "Can I edit out blemishes without looking fake?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "Yes. In Lightroom use the spot removal tool at a low opacity and brush over the blemish. Keep the feather high so the edit blends with skin texture. If you need more control, a local mask in Photoshop lets you smooth only the area you want."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "How do I choose the right aperture for a group portrait?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I practice these techniques?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "Start at f/4 to f/5.6. This keeps everyone’s face sharp while still giving a soft background. If the group is large and you need more depth, move to f/8. Always check focus on the nearest eye and re‑compose if needed."
       }
     }
   ]

@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners#howto",
   "name": "Photography Concepts for Beginners - 3 Basic Components",
-  "description": "Learn the three basic components that every good photographer should know to capture stunning images in this guide on photography concepts for beginners.",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners#primaryimage"
@@ -18,32 +18,20 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Subject",
+      "text": "Photograph the same subject with less clutter around it. Check the edges of the frame."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Light",
+      "text": "Move position or wait for better light. Look for shape, shadow and direction."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Composition",
+      "text": "Change your viewpoint, distance or framing so the picture feels more intentional. Repeat this exercise with five different subjects and you will start to see which decisions make the biggest difference. Need help putting this into practice?"
     }
   ]
 }

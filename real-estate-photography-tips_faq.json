@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/real-estate-photography-tips#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What lens is best for real estate photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most UK interiors a 24 mm prime on a crop‑sensor body gives a wide view without extreme distortion. In larger rooms a 16‑35 mm zoom works well, while a 35 mm lens is ideal for tighter spaces like bathrooms. Pair the lens with a tripod and keep the aperture around f/8‑f/11 for depth of field."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What camera height should I use for property photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good rule is to set the camera at about 1.2 metres , roughly eye level for a standing adult. This height mimics how a buyer would view the room and keeps perspective natural. For low‑level features like a coffee table, crouch slightly and keep the horizon low."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make small rooms look good without making them look fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a modest wide‑angle lens (around 24 mm) and keep the camera level. Stage the room to show depth , a rug or a line of chairs leads the eye. Avoid excessive distortion by not getting too close to the walls, and correct any keystone in post‑processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use flash for property photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flash can help fill shadows, but it often creates harsh spots. If you use flash, bounce it off a ceiling or a reflector to soften the light. In most cases natural light plus a continuous LED panel gives a more realistic result."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much editing should real estate photos have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Editing should enhance clarity, correct colour and straighten verticals. Keep changes subtle , aim for a natural look that matches what a buyer would see in person. Over‑saturation or heavy HDR can make a listing look deceptive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I hire a professional property photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider hiring a pro if you have high‑value properties, limited time, or want a consistently polished look across many listings. Professional photographers bring specialised lenses, lighting rigs and post‑processing expertise that can boost the perceived value of a property.\n\nRead more: How to Take Real Estate Photos and explore our services at Professional Commercial Photographer Coventry .\n\nphotography-tips Alan Ranger 7 April 2026 photography tips\n\nFacebook 0\n\nLinkedIn 0\n\nReddit\n\nTumblr\n\nPinterest 0\n\n0 Likes"
+      }
+    }
+  ]
+}

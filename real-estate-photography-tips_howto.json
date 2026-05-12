@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/real-estate-photography-tips#howto",
-  "name": "Real Estate Photography Tips",
-  "description": "7 Strategies for Photographers document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } }.",
+  "name": "Real Estate Photography Tips: 7 Strategies for Photographers",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/real-estate-photography-tips#primaryimage"
@@ -18,32 +18,38 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Use Natural Light to Highlight Space",
+      "text": "Natural light is the cheapest way to make a room feel open. When the sun streams through a window it adds warmth, depth and colour that artificial bulbs can’t match. Here’s what I mean: a bright living room in the morning looks inviting, while the same space under harsh overhead lights feels flat. Start by scouting the property at different times of day. Early morning and late afternoon give you soft, diffused light that reduces harsh shadows. Mid‑day sun can be too strong, but you can soften it with sheer curtains or a white reflector. A quick test is to open all blinds, turn on any interi..."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Master Composition with the Rule of Thirds",
+      "text": "The rule of thirds is a simple grid that helps you place the most interesting parts of a room in the right spots. Imagine a tic‑tac‑toe board over your viewfinder , the four intersections are where you want key features. When you line a kitchen island, a fireplace or a large window with one of those points, the eye naturally follows and the scene feels balanced. It also stops you from putting the main wall dead centre, which can make the shot feel static. Here’s a step‑by‑step way to use it: Turn on the grid overlay in your camera. Identify the focal point , a piece of furniture, a doorway..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Stage Rooms for Visual Appeal",
+      "text": "Staging is about showing the space at its best, not about faking a lifestyle. A tidy room with a few purposeful items helps buyers picture themselves inside. Start with a clean slate. Remove personal photos, stray toys and any clutter that distracts from the room’s shape. Then add a few neutral accessories , a plush throw, a couple of decorative pillows or a tasteful plant. The idea is to add a pop of colour without overwhelming the space. When you stage a kitchen, keep countertops clear except for a bowl of fruit or a coffee maker. In a bedroom, make the bed neatly, add a folded throw at t..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Choose the Right Lens and Settings",
+      "text": "Lens choice makes a huge difference in how a room feels. A wide‑angle lens (around 16‑35 mm on full‑frame) captures more of the space, but it can stretch walls if you get too close. My go‑to for UK interiors is a 24 mm prime on a crop‑sensor body. It gives you a wide view without the extreme distortion of a 14 mm lens. For tight spaces like bathrooms, a 35 mm works well , you stay a comfortable distance from the wall and still get a good field of view. When you’re shooting exteriors, a 35‑70 mm zoom lets you frame the whole façade and then pull back for detail shots of doors or roof tiles...."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Capture Accurate Colours with White Balance",
+      "text": "White balance is the secret to natural‑looking walls and furniture. If the colour looks too blue or orange, buyers will think the paint is wrong. Start with the camera’s preset for “Daylight” when you shoot in natural light. If you’re mixing artificial lamps, switch to “Auto” or manually set a Kelvin temperature , 3500 K for warm bulbs, 5600 K for daylight LEDs. Take a quick reference shot of a white sheet of paper in the room. Use the camera’s custom white balance feature to set that as the neutral point. This locks the colour balance for the whole shoot. Remember the research note: in ver..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Edit Images for Consistency and Impact",
+      "text": "Editing turns a good shot into a great listing photo. The aim is to be consistent across the whole property so the buyer gets a unified feel. Start in Lightroom. Import all RAW files, then apply a basic develop preset that sets exposure, contrast and clarity to a neutral baseline. From there, sync the settings across the batch so each room shares the same tone. Next, correct perspective. Use the Transform panel to straighten verticals , a crooked wall will look unprofessional. If you used a wide‑angle lens, a slight keystone correction will bring walls back to true vertical. Colour correcti..."
     }
   ]
 }

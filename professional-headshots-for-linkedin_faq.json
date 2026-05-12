@@ -5,66 +5,50 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is this photography technique about?",
+      "name": "What size should a professional headshot for LinkedIn be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This article covers professional headshots for linkedin. It provides guidance on photography techniques, camera settings, and practical tips to help you improve your photography skills."
+        "text": "The guidelines allow anywhere from 400 × 400 px up to 7680 × 4320 px. Most users aim for around 1200 × 1200 px for a balance of quality and quick loading. Keep the file under 3 MB and in JPEG format."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I apply these techniques?",
+      "name": "Do I need a studio for professional headshots for LinkedIn?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Follow the step-by-step guidance provided in the article. Practice the techniques in real-world conditions, adjust your camera settings as recommended, and review your results to refine your approach."
+        "text": "A studio gives you control over light and background, but a well‑lit room with a plain wall works too. Natural window light combined with a reflector can produce excellent results if you manage shadows carefully."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings should I use?",
+      "name": "How many outfit changes are ideal for a LinkedIn session?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The optimal camera settings depend on your specific equipment, lighting conditions, and the photography technique being demonstrated. Refer to the article for detailed recommendations tailored to different scenarios."
+        "text": "Two to three options are enough. Bring a classic navy or black blazer, a solid‑colour shirt, and a more relaxed top if the client’s industry allows a bit of personality. This gives variety without overwhelming the edit process."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need special equipment?",
+      "name": "Should I retouch my LinkedIn headshot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The equipment requirements vary depending on the technique. While some methods can be achieved with basic camera gear, others may benefit from specific lenses, filters, or accessories. Check the article for detailed equipment recommendations."
+        "text": "Yes, but keep it subtle. Remove obvious blemishes, smooth minor shine, and ensure the eyes are sharp. Avoid over‑smoothing skin , the goal is to look like you, just a little sharper."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I improve my results?",
+      "name": "Can I use my phone for a professional headshot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Practice regularly, pay attention to lighting conditions, experiment with different settings, and review your images critically. The article provides specific tips and common mistakes to avoid that will help you achieve better results."
+        "text": "Modern phones can capture high‑resolution images, but they lack the depth‑of‑field control of a DSLR or mirrorless camera. If you use a phone, add a portable softbox and shoot in RAW (if supported) to retain editing flexibility."
       }
     },
     {
       "@type": "Question",
-      "name": "Is this suitable for beginners?",
+      "name": "How often should I update my LinkedIn headshot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article is designed to be accessible to photographers of various skill levels. Beginners will find clear explanations and step-by-step guidance, while more experienced photographers can use it as a reference for refining their technique."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the most common mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include incorrect camera settings for the conditions, poor composition choices, and not paying attention to lighting. The article addresses these issues and provides solutions to help you avoid these pitfalls."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I practice these techniques?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can practice these photography techniques in various locations depending on the specific method. The article may suggest ideal locations, but many techniques can be practiced in your local area with the right conditions and approach."
+        "text": "Refresh it every 12‑18 months or after a major change in appearance or role. A current photo signals that you’re active and up‑to‑date, which helps recruiters trust your profile."
       }
     }
   ]

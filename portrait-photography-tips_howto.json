@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-tips#howto",
-  "name": "Portrait Photography Tips",
-  "description": "Portrait Photography Tips.",
+  "name": "15 Essential Portrait Photography Tips for UK Photographers",
+  "description": "",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-tips#primaryimage"
@@ -18,32 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Prepare equipment",
-      "text": "Prepare your camera equipment and any necessary accessories for the photography technique described in this article."
+      "name": "Master Your Light , Choose the Right Natural Light",
+      "text": "Good natural light is the backbone of most portrait photography tips. It’s free, it’s beautiful and it works everywhere in the UK , from a London flat to a Scottish loch shore. Open shade is the sweet spot. Look for a doorway, an awning or a tree canopy that blocks direct sun but still lets soft light spill through. I love the shade under a café roof on a bright summer day; the light is even and the shadows are gentle. When the sky is overcast, you already have a giant diffuser. The clouds scatter the sun and give you a soft wrap that flatters skin. I’ve shot a whole family session in Manch..."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Evaluate scene and lighting",
-      "text": "Evaluate the scene and lighting conditions to determine the best approach for capturing the images."
+      "name": "Perfect Your Pose , Simple Guidance for Flattering Angles",
+      "text": "Pose is the language of a portrait. A small tweak can turn a stiff shot into a lively one. Start with the basics: shoulders back, chin slightly forward, eyes off the lens. That tiny chin lift opens the throat and avoids a double‑chin look. If you want more drama, angle the shoulders about 45 degrees from the camera and turn the head toward the light. Make the subject move a little. Ask them to shift weight from one foot to the other or to roll their shoulders. The movement creates natural tension and the camera catches a relaxed pose. Use props that feel real , a coffee cup, a book or a sim..."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Apply technique",
-      "text": "Apply the photography technique described in the article, following the guidance and recommendations provided."
+      "name": "Gear Essentials , What to Bring for Every Portrait Session",
+      "text": "Gear doesn’t make the photographer, but the right kit makes the job smoother. Below is a quick rundown of what I always pack for a UK portrait day. Portrait Photography Gear Essentials A simple kit guide covering useful portrait gear, why it helps, and typical price points. Item Why it helps Typical cost (GBP) Prime lens 85mm f/1.8 Flattering compression and shallow depth of field for clean, professional-looking portraits. ≈£900 Zoom 70-200mm f/2.8 Flexibility for everything from tighter headshots to longer full-length portrait work. ≈£1,800 Collapsible reflector (silver) Useful for adding..."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Capture images",
-      "text": "Capture images following the advice and tips outlined in the post, adjusting settings as needed."
+      "name": "Capture Movement , Using Shutter Speed to Add Life",
+      "text": "Static portraits are fine, but a hint of motion can make a portrait feel alive. The key is shutter speed. Start with 1/125s as a baseline. If the subject is standing still, that speed freezes minor movement. For a walking client, bump it up to 1/250s. For a child or a pet you’ll need 1/500s or faster. Use motion blur creatively. Ask the subject to turn slowly while you keep the shutter at 1/30s. The background blurs, the face stays sharp, and you get a sense of movement. Here’s a step‑by‑step way to test shutter speed on location: Set your camera to Manual mode. Choose a focal length you pl..."
     },
     {
       "@type": "HowToStep",
       "position": 5,
-      "name": "Review and refine",
-      "text": "Review your captured images and refine your technique based on the results and feedback from the article."
+      "name": "Post‑Processing Polish , Quick Editing Hacks in Lightroom",
+      "text": "Editing is the final polish that turns a good portrait into a great one. Lightroom lets you do it fast. First, apply a preset that matches your style , warm for sunrise shoots, cool for city backdrops. Then fine‑tune the exposure. A slight lift in the shadows brings out details in the hair without blowing out the highlights. Next, add a subtle split‑tone. Push the highlights a tad yellow and the shadows a soft teal for a modern look. Keep it light , you want to enhance, not dominate. Use the adjustment brush to brighten the catchlights in the eyes. A small brush with +0.2 exposure does the..."
     }
   ]
 }
