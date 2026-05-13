@@ -120,9 +120,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Keating"
+            "name": "Miles Huckle"
           },
-          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -139,9 +139,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Miles Huckle"
+            "name": "Paul Keating"
           },
-          "reviewBody": "An excellent day! Learned loads. Many thanks.",
+          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
