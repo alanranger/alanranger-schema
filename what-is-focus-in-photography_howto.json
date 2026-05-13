@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography#howto",
+  "name": "08 What is FOCUS in Photography: Key Concepts Explained",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Focus — Turn “Almost Sharp” into Keepers",
+      "text": "Soft portraits, missed eyes, back-focused wildlife, front-focused macro… most aren’t lens faults — they’re focus setup issues. This lesson explains what focus is (and isn’t), how autofocus modes/areas work, and the simple habits that raise your sharp-hit rate fast. Mode vs area: AF-S/One-Shot for static; AF-C/AI-Servo for movement. Choose an area that matches your subject size (single point, expanded, zone, wide/auto with eye detection). Aim the right point: eyes for people, closest eye if angled; leading edge for wildlife/sport; avoid focus-recompose at shallow depth of field. Technique ma..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Focus and Recompose",
+      "text": "The technique of focus and recompose is particularly useful when photographers face limitations with autofocus points, especially in low-light conditions where the lens may struggle to find focus. By setting the camera to Single Servo (AF-S) mode, one can ensure the focus is acquired once and maintained, even when recomposing the shot. This method involves focusing on the subject with a half-press of the shutter button, then while keeping the button half-pressed, the camera is moved to reframe the shot. It's crucial, however, to be cautious with this technique when using wide apertures or s..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Focus Stacking",
+      "text": "Focus stacking is a sophisticated technique used to extend depth of field in photography. This method is particularly beneficial when dealing with macro photography or any scenes requiring front-to-back sharpness. It involves taking multiple photos at different focus distances and blending them to create a single image with greater depth of field than any single shot could achieve. Using a tripod is essential to maintain consistent framing across shots, and manual focus is recommended to adjust the focus precisely for each shot. After capturing the necessary images, software like Photoshop..."
+    }
+  ]
+}
