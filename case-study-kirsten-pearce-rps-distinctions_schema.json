@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions",
+  "name": "Case Study - Kirsten Pearce - LRPS | RPS Distinctions",
+  "description": "View fullsize Kirsten has been a regular client at my events for some years, so it was fitting that she decided to take that step of gaining a RPS.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#blogposting"
+  }
+}
