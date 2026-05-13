@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I shoot in monochrome mode in-camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for live view, no for recorded file. Set picture profile to monochrome so live view shows B&W (trains pre-visualisation), but shoot RAW so the file retains full colour information. RAW + mono picture profile gives best of both worlds: see in monochrome at capture, full colour data for channel-slider work in post."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between desaturation and a proper B&W conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Desaturation sets all colour channels to zero saturation — technically monochrome but tonally flat. Proper conversion uses colour information to make tonal decisions: darken blues, lighten oranges, darken greens. Lightroom, Capture One and Silver Efex let you adjust each colour channel's brightness independently. Default desaturation is the worst B&W conversion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a scene will work in B&W before clicking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three field tests. Camera mono preview — switch picture profile to monochrome and look through live view. Squint test — half-close eyes to reduce colour and approximate monochrome. Contrast test — identify brightest and darkest areas; strong separation = good B&W candidate. Scenes failing all three aren't B&W candidates regardless of post-processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of light is best for black-and-white photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anything with directional contrast and tonal variation. Hard side-light, backlight silhouettes, raking morning/evening light, broken cloud light. Flat overcast is generally weakest for B&W (no tonal skeleton). Hard midday sun, often worst for colour landscape, can be excellent for B&W because harsh shadows become a feature."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I add grain to my black-and-white conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sparingly and with intent. Grain references analogue film and lends documentary or fine-art character. Keep amount low (5-15 Lightroom grain slider). Match grain to subject — heavier for street/reportage, lighter for fine-art landscape. Never use grain to disguise soft or noisy frames; it amplifies underlying problems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does my black-and-white work look flat and grey?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three causes. Original scene lacked tonal contrast (no skeleton to build from). Conversion used default desaturation rather than channel-aware processing. Black point and white point not set — strong B&W needs a deep true-black and clean true-white somewhere. Histograms clustering in the middle = muddy grey result."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is film black-and-white different from digital black-and-white?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In look yes — silver-halide film has a tonal character digital approximates rather than reproduces. In decision-making no — the question of whether a scene works in monochrome is the same regardless of medium. Modern digital tools (Silver Efex, Lightroom film profiles) can emulate specific film stocks closely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know when to stop processing a B&W image?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When it looks like a photograph rather than a B&W treatment. Harsh crunchy over-clarified look is the modern equivalent of HDR overcooking. Keep contrast +10 to +25, clarity +5 to +20. Preserve detail in highlights and shadows. Let original scene's tonal structure carry the photograph. Strong B&W conversions look like darkroom prints — restrained, tonal, considered."
+      }
+    }
+  ]
+}
