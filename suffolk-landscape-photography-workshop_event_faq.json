@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Suffolk Landscape Photography Workshop - Long Exposure\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Suffolk Landscape Photography Workshop - Long Exposure takes place at Suffolk. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Suffolk Landscape Photography Workshop - Long Exposure\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Suffolk Landscape Photography Workshop - Long Exposure is scheduled for 2027-02-05 to 2027-02-07. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Suffolk Landscape Photography Workshop - Long Exposure\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Suffolk Landscape Photography Workshop - Long Exposure is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Suffolk Landscape Photography Workshop - Long Exposure\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Suffolk Landscape Photography Workshop - Long Exposure. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

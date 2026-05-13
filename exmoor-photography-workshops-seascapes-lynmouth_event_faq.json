@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Exmoor Photography Workshops - Seascapes | Lynmouth\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exmoor Photography Workshops - Seascapes | Lynmouth takes place at North Devon/Exmoor. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Exmoor Photography Workshops - Seascapes | Lynmouth\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exmoor Photography Workshops - Seascapes | Lynmouth is scheduled for 2026-05-23 to 2026-05-24. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Exmoor Photography Workshops - Seascapes | Lynmouth\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Exmoor Photography Workshops - Seascapes | Lynmouth is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Exmoor Photography Workshops - Seascapes | Lynmouth\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Exmoor Photography Workshops - Seascapes | Lynmouth. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

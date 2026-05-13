@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Sunset Photographic Workshop - Chesterton Windmill 16-09\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sunset Photographic Workshop - Chesterton Windmill 16-09 takes place at Warwickshire. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Sunset Photographic Workshop - Chesterton Windmill 16-09\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sunset Photographic Workshop - Chesterton Windmill 16-09 is scheduled for 2026-09-16 to 2026-09-16. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Sunset Photographic Workshop - Chesterton Windmill 16-09\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Sunset Photographic Workshop - Chesterton Windmill 16-09 is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Sunset Photographic Workshop - Chesterton Windmill 16-09\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Sunset Photographic Workshop - Chesterton Windmill 16-09. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

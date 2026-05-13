@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Lake District Photography Workshop | Winter in Cumbria\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lake District Photography Workshop | Winter in Cumbria takes place at Lake District. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Lake District Photography Workshop | Winter in Cumbria\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lake District Photography Workshop | Winter in Cumbria is scheduled for 2027-01-22 to 2027-01-24. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Lake District Photography Workshop | Winter in Cumbria\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Lake District Photography Workshop | Winter in Cumbria is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Lake District Photography Workshop | Winter in Cumbria\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Lake District Photography Workshop | Winter in Cumbria. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

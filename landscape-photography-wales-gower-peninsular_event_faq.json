@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Gower Peninsula Photo Workshop - Landscape Photography Wales\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gower Peninsula Photo Workshop - Landscape Photography Wales takes place at wales - Gower Peninsular. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Gower Peninsula Photo Workshop - Landscape Photography Wales\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gower Peninsula Photo Workshop - Landscape Photography Wales is scheduled for 2026-08-28 to 2026-08-30. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Gower Peninsula Photo Workshop - Landscape Photography Wales\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Gower Peninsula Photo Workshop - Landscape Photography Wales is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Gower Peninsula Photo Workshop - Landscape Photography Wales\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Gower Peninsula Photo Workshop - Landscape Photography Wales. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

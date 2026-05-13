@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/sezincote-garden-photography-workshop#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Sezincote Garden Photography - Mughal palace in Cotswolds\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sezincote Garden Photography - Mughal palace in Cotswolds takes place at Gloucestershire. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Sezincote Garden Photography - Mughal palace in Cotswolds\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sezincote Garden Photography - Mughal palace in Cotswolds is scheduled for 2026-05-29 to 2026-05-29. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Sezincote Garden Photography - Mughal palace in Cotswolds\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Sezincote Garden Photography - Mughal palace in Cotswolds is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Sezincote Garden Photography - Mughal palace in Cotswolds\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Sezincote Garden Photography - Mughal palace in Cotswolds. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-piles-coppice#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Woodland Photography Walk | Coventry | Piles Coppice\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Woodland Photography Walk | Coventry | Piles Coppice takes place at Coventry. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Woodland Photography Walk | Coventry | Piles Coppice\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Woodland Photography Walk | Coventry | Piles Coppice is scheduled for 2026-10-16 to 2026-10-16. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Woodland Photography Walk | Coventry | Piles Coppice\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Woodland Photography Walk | Coventry | Piles Coppice is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Woodland Photography Walk | Coventry | Piles Coppice\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Woodland Photography Walk | Coventry | Piles Coppice. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

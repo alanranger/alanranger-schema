@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Dartmoor Photography Workshop | Woodlands, Moors and Tors\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dartmoor Photography Workshop | Woodlands, Moors and Tors takes place at Dartmoor. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Dartmoor Photography Workshop | Woodlands, Moors and Tors\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dartmoor Photography Workshop | Woodlands, Moors and Tors is scheduled for 2026-10-09 to 2026-10-11. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Dartmoor Photography Workshop | Woodlands, Moors and Tors\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Dartmoor Photography Workshop | Woodlands, Moors and Tors is 0.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Dartmoor Photography Workshop | Woodlands, Moors and Tors\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Dartmoor Photography Workshop | Woodlands, Moors and Tors. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}
