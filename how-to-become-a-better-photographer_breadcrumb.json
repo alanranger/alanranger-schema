@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Seven Tips On How To Become A Better Photographer?",
+      "item": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer"
+    }
+  ]
+}
