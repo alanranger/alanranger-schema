@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off#primaryimage",
+  "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1403082135368-LIZJ6HVZD07KUSBVXT0S/linhof+offer.JPG",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Lee Filters - 15% Off for clients - Grab a deal today",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
