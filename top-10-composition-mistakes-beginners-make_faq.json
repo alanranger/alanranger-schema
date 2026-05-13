@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/top-10-composition-mistakes-beginners-make#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I improve my composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition is about leading the viewer's eye through your image. Start by mastering one principle at a time: rule of thirds, leading lines, framing, simplification, balance, foreground interest. The single biggest improvement most photographers make isn't learning more techniques — it's slowing down before pressing the shutter. Walk around the subject, consider three or four angles, watch the edges of the frame and the background as carefully as the subject itself. Most weak compositions have distractions or clutter at the edges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the single most common composition mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Putting the subject dead centre by default. The centre is often the weakest place in the frame because there's no tension or visual journey for the eye. The rule of thirds — placing subjects on the upper or lower third lines or at their intersections — produces stronger compositions most of the time. Centred works for symmetrical compositions where the symmetry itself is the subject, but accidental centring is the most common beginner habit and the easiest one to fix."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do my photos look cluttered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the frame contains too many competing elements. Strong compositions are typically simpler than beginners expect. Three fixes: walk closer to the subject so less peripheral stuff fits in; change your angle so a clean area (sky, plain wall, distant water) sits behind the subject; or use a longer focal length to compress and isolate. If you're not sure whether something belongs in the frame, leave it out. The 'less is more' principle is consistently more useful than trying to cram everything in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's wrong with cutting people off at the joints?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cropping subjects at major joints (wrists, ankles, knees, elbows, neck) looks like a mistake even when it isn't. The eye reads it as an amputation rather than a deliberate crop. The rule for portraits and figure work: crop above the joints (mid-thigh, upper arm, mid-calf) or well below them (full body with space around the feet). Same applies to the top of the head — either include it fully or crop tight enough that it's clearly a deliberate choice (mid-forehead or above the brow), never just clipping the hair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do my horizons look wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two common faults. First, the horizon isn't level — even a 1-degree tilt looks like a mistake. Use the camera's electronic level or grid overlay; straighten in editing if needed. Second, the horizon is dead centre when it shouldn't be. If the sky is more interesting than the ground, put the horizon on the lower third. If the ground is more interesting, put it on the upper third. Centred horizons work for symmetrical reflections (where the symmetry is the point), but elsewhere they split the image awkwardly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's a 'distracting background' and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A distracting background is anything competing with the subject for attention: bright spots, busy patterns, half-cropped objects, intruding branches, harsh edges. Fixes: move yourself so a cleaner area sits behind the subject; move the subject to a better location; use a wider aperture (smaller f-number) to blur the background; or change focal length to compress or change what's behind. Watching the background is as important as composing the subject. Most weak compositions have backgrounds the photographer didn't consider."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does my photo feel 'flat'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually because it lacks depth. Strong photographs typically have three layers — foreground, middle ground, background — that lead the eye through the image. Flat photographs have only one layer (just the subject) or two layers that don't relate. Fixes: introduce foreground interest (rocks, flowers, a path); shoot at an angle that emphasises depth rather than straight-on; use a wider lens with strong foreground; or wait for atmospheric conditions (mist, side-light) that create natural depth through tonal separation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I always follow composition rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — but learn them first. Rules describe arrangements that consistently work for human perception. Once you've internalised them, you can break them deliberately, and those broken compositions often produce strong images precisely because the rules give them meaning. Photographers who reject the rules entirely usually produce work that feels random; photographers who follow them rigidly produce work that feels formulaic. The goal is fluency, which comes from learning the rules properly before deciding when to break them."
+      }
+    }
+  ]
+}
