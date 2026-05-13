@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography",
+  "name": "What is MINIMALIST PHOTOGRAPHY: Key Concepts for Beginners",
+  "description": "This guide shows how to use space, shape and restraint to create clean, powerful images.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography#blogposting"
+  }
+}
