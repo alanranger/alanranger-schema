@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/10-basic-camera-settings-for-camera#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the 10 basic camera settings I should learn first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A quick starter list: exposure mode (P/A/Av, S/Tv, M), shutter speed, aperture (f-number), ISO (or Auto ISO), exposure compensation (±EV), metering mode, autofocus mode (AF-S/One-Shot, AF-C/AI-Servo) and AF area, white balance, drive mode (single/continuous/self-timer), and image format (RAW/JPEG)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which exposure mode should I use: Aperture, Shutter, Manual or Program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use A/Av (Aperture Priority) when depth of field is the priority (portraits, landscapes). Use S/Tv (Shutter Priority) for motion control (action, panning, waterfalls). Use M (Manual) for flash, repeatable studio light, or very tricky scenes. Program (P) is fine for snapshots but offers less intentional control."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a safe shutter speed for hand-held shots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As a rule of thumb, keep shutter speed at about 1/(focal length) on full-frame (e.g., 1/100 s at 100 mm). With high-resolution bodies or moving subjects, go 1–2 stops faster. Image stabilisation helps static scenes but won’t freeze subject movement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I set Auto ISO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Enable Auto ISO, set a sensible maximum (e.g., ISO 3200–6400) and define a minimum shutter (e.g., 1/125 s, or faster for telephoto/action). This keeps exposure stable while protecting sharpness and noise levels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What aperture should I use for portraits, landscapes and products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Portraits: f/1.8–f/2.8 for background blur. General scenes: f/5.6–f/8. Landscapes/products: f/8–f/11 for edge-to-edge detail. Avoid stopping down too far (e.g., f/22) unless you need maximum depth—diffraction can soften the image."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I use exposure compensation (±EV)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use +EV when bright backgrounds fool the meter (snow, beach, backlight) and −EV when the scene is very dark or high contrast. Check the histogram/highlight warnings to avoid clipping important tones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which metering mode is best?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluative/Matrix works well for most scenes. Use Centre-weighted for balanced mid-tones and Spot for precise subjects (e.g., a face against bright sky). Always verify with the histogram and adjust ±EV."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What AF mode and AF area should I choose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AF-S/One-Shot with a single AF point for static subjects. AF-C/AI-Servo with tracking/zone for moving subjects. Eye/face detect is great when reliable, but switch to a single point for precision when needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot RAW or JPEG?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RAW preserves maximum detail and editing latitude—ideal for learning and consistent quality. JPEG is smaller and faster to share but offers less headroom for exposure and white balance corrections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What white balance should I use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auto WB is fine for mixed light; for consistent colour choose a preset (Daylight/Shade/Tungsten) or set Kelvin/custom WB with a grey card. In RAW you can refine WB non-destructively in editing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should image stabilisation be on or off?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use stabilisation ON for hand-held shooting and OFF on a locked-down tripod to avoid micro-vibrations. Remember that stabilisation won’t freeze subject motion—use a faster shutter for that."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are sensible default settings for everyday shooting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Try A/Av mode, f/5.6–f/8, Auto ISO 100–3200, minimum shutter 1/125 s, Evaluative/Matrix metering, Auto WB, AF-S single point for static subjects (AF-C for moving), RAW (or RAW+JPEG). Adjust to taste."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up quickly for action and sports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "S/Tv around 1/1000–1/2000 s, AF-C with subject tracking, continuous drive, Auto ISO with a higher cap (e.g., 6400), and a slightly wider aperture (f/2.8–f/4). Pre-focus where action will happen and pan smoothly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos blurry and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes: shutter too slow, focus on the wrong plane, camera shake, or subject movement. Solutions: raise shutter speed, use AF-C for motion or single-point AF for precision, stabilise the camera, increase ISO to protect shutter speed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I reduce noise in low light?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expose to protect important highlights (avoid heavy under-exposure), use the lowest ISO that still gives a safe shutter, stabilise for static scenes, and apply noise reduction before sharpening in post. Consider faster lenses or adding light."
+      }
+    }
+  ]
+}
