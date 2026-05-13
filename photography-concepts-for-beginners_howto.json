@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners#howto",
+  "name": "Photography Concepts for Beginners - 3 Basic Components",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Subject",
+      "text": "Photograph the same subject with less clutter around it. Check the edges of the frame."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Light",
+      "text": "Move position or wait for better light. Look for shape, shadow and direction."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Composition",
+      "text": "Change your viewpoint, distance or framing so the picture feels more intentional. Repeat this exercise with five different subjects and you will start to see which decisions make the biggest difference. Need help putting this into practice?"
+    }
+  ]
+}
