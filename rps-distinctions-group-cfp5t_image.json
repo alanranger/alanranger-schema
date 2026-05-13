@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/rps-distinctions-group-cfp5t#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6124dc53e2ae9e63077bc5aa/1730124197547/RPS-Distinctions-photography-course.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "RPS Distinctions: Gain Licentiate &amp; Associate Mentoring",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
