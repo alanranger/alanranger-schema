@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-a-guide-for-photographers#howto",
+  "name": "07 Explaining EXPOSURE BRACKETING- HDR-A Guide for Beginners",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-a-guide-for-photographers#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Assess the scene: Before starting your bracketed series, evaluate the lightin...",
+      "text": "Assess the scene: Before starting your bracketed series, evaluate the lighting conditions and dynamic range of the scene. This will help you determine the number of shots and the range of exposures needed. Alternatively a histogram with a spike at both ends of the graph indicating that the shadows have turned to black and the highlights have turned to white is a sure sign that you need to bracket the exposure."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "You can quickly measure the difference between the brightest and darkest poin...",
+      "text": "You can quickly measure the difference between the brightest and darkest points in the frame by taking a spot metering measurement and then calculating the difference in the stops of light to work out the dynamic range required."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Set your camera to automatic bracketing mode: Access the bracketing settings ...",
+      "text": "Set your camera to automatic bracketing mode: Access the bracketing settings on your camera and choose the number of shots and the exposure increments you want. This will vary depending on the camera model, so consult your camera's manual for specific instructions. Most modern DSLR cameras will do a minimum of three bracketed exposures with up to three stops of light difference. -3, 0, +3. More sophisticated cameras allow you to take more than three exposures, each with a greater range of stops between them if required. Some cameras also require you to switch drive mode to continuous shooti..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Choose the appropriate exposure mode: Depending on the shooting situation, se...",
+      "text": "Choose the appropriate exposure mode: Depending on the shooting situation, select the appropriate one, such as aperture priority, shutter priority, or manual mode. This will allow you to control specific exposure settings while the camera adjusts the others."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Focus and compose your shot: Set your focus and compose your shot before init...",
+      "text": "Focus and compose your shot: Set your focus and compose your shot before initiating the bracketed series. This will ensure that each shot in the series captures the subject in the desired way."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Capture the bracketed series: Press and hold the shutter button to capture th...",
+      "text": "Capture the bracketed series: Press and hold the shutter button to capture the bracketed series of shots. Make sure to keep the camera steady to avoid any blurring between shots. You may need a tripod if the exposure time between shots is slower than you can hold the camera steady to avoid ghosting or out of focus objects."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Review and check the histogram for the darkest shot to confirm the highlights...",
+      "text": "Review and check the histogram for the darkest shot to confirm the highlights (brightest part) of the image are not over-exposed, and check the histogram for the brightest image to check that the darkest part is not under-exposed."
+    }
+  ]
+}
