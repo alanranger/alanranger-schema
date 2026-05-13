@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does product photography cost in Warwickshire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product photography in Warwickshire typically costs between £15 and £30 per product for white background packshots, with bulk discounts available for larger ranges. Lifestyle photography sessions run from around £350 for a half-day to £1,400 or more for a full-day commercial shoot. Ghost mannequin photography for clothing sits between £20 and £45 per garment. Always request a written quote that specifies exactly what's included, such as the number of angles, retouching, and file formats delivered."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between packshot and lifestyle product photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Packshot product photography shows your product on a clean white or neutral background, clearly and accurately. It's what Amazon requires for main listing images. Lifestyle photography shows the product in a real-world setting or in use, which is better for social media, advertising, and website hero images. Most Warwickshire ecommerce businesses benefit from having both."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many product images do I need for my ecommerce listing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leading brands use an average of 8 images per product. At minimum you need one clean front-facing packshot, one back or side view, and one detail shot. Amazon allows up to nine images per listing, and using more high-quality images consistently increases click-through and conversion rates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need product photography if I sell on Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon requires a pure white background for main product images, with the product filling at least 85% of the frame. Beyond compliance, listings with professional product photography receive higher click-through rates and convert far more effectively. Poor images on Amazon also lower your listing's organic search ranking over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a product photography shoot take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional photographer working through a well-prepared shot list can typically shoot 20 to 30 products per day in a studio setting. Post-production editing typically takes as long as the shoot itself. From shoot day to final file delivery, most Warwickshire product photographers work to a 5 to 10 working day turnaround."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is product photography worth it for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shopify research found products with professional images see a 33% higher conversion rate on average. If your product page converts at 1.5% and professional photography lifts that to 2% across 5,000 monthly visitors, that's 25 extra sales per month. For most small businesses, professional product photography is one of the highest-ROI marketing investments available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I prepare my own products for a product photography shoot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Clean all surfaces with a microfibre cloth to remove dust and fingerprints. Iron or steam fabric products. Remove price stickers and unwanted labels. Prepare a clear shot list before the session listing each product, the angles required, and specific details to capture. Good preparation reduces shoot time and keeps costs down."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Alan Ranger Photography train my staff to do product photography in-house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Alan Ranger Photography offers corporate photography training for business teams that want to build an in-house product photography capability. Training covers lighting basics, camera settings, background setup, and basic post-processing — ideal for businesses with a frequently changing product range."
+      }
+    }
+  ]
+}
