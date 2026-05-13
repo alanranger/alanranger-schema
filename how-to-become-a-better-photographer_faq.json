@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-become-a-better-photographer#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the exposure triangle in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exposure triangle is the three settings that control how bright your photograph comes out: aperture (f-stop), which controls depth of field and how much light reaches the sensor; shutter speed, which controls motion blur and how long light is collected; and ISO, which controls the sensor's sensitivity to light. Balancing these three creates a correct exposure. Move one and you have to adjust another to compensate — wider aperture means faster shutter or lower ISO, slower shutter means narrower aperture or lower ISO. Once this clicks, every other photography decision starts to make sense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I improve my photography skills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improvement comes from a mix of practice, fundamentals and feedback. Take photos regularly and experiment with different subjects. Master exposure, composition and focus rather than chasing gear. Study photographs you admire and work out what makes them effective. Get honest feedback from photographers you respect — not just the people who tell you everything is great. Take courses or workshops if structured learning suits you; many people accelerate years of progress in a single weekend with the right tutor. Practise in manual mode for creative control. Edit thoughtfully without over-processing. And try different genres until you find what you genuinely care about — that's where real improvement begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why aren't my pictures sharp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soft photos usually come from three things: focus missing the subject, shutter speed being too slow, or small camera shake. Try this: use single-point autofocus and place it deliberately on the subject's eye or main feature; raise shutter speed to at least 1/(focal length) — so 1/200s on a 200mm lens, faster for moving subjects (1/500s to 1/1000s); and stabilise the camera with proper bracing, image stabilisation turned on, or a tripod. If you're still not sharp after fixing those three, check whether your focus point was actually where you thought it was — most missed-focus issues are user error, not equipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the single biggest thing that improves photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slowing down. Most beginners take photos too quickly — they see something interesting, raise the camera, click, move on. The photographs that actually work usually come from someone who stopped, looked, walked around the subject, considered three or four different angles, and then chose the strongest one. Camera settings matter, but composition decisions made in those slow minutes before pressing the shutter make a bigger difference than any settings change. If you only change one habit, change the speed at which you work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need expensive gear to take better photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Gear matters less than people think, and certainly less than camera manufacturers want you to think. Any camera made in the last ten years is more than capable of producing professional-quality results. What matters is understanding the gear you already have, learning to see light and composition, and putting in time with the camera in your hands. The order to spend money, if you do spend money, is usually: a decent lens (not a body), then a tripod, then perhaps a filter set, and only then think about upgrading the camera itself. A skilled photographer with a £400 camera will out-shoot a beginner with a £4,000 camera every time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is composition compared to technique?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition is at least as important as technique, and arguably more. A technically perfect photograph of a boring subject is still a boring photograph. A technically imperfect photograph of something genuinely well-seen can still be a great photograph. Most photographers spend the first year obsessing over settings and the second year realising they should have spent that time learning to see. Composition is about decisions: what to include, what to exclude, where to place the subject, what to put in the background. None of those decisions require any equipment at all."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot in manual or automatic mode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aperture-priority is where most photographers should live most of the time. You set the aperture (controlling depth of field) and ISO (controlling noise), and let the camera choose the shutter speed. Use manual when you have a specific creative shutter speed in mind (long exposure, panning, motion freeze) or when the meter keeps getting fooled (snow, very dark scenes). Full automatic mode strips away the creative control that's the whole point of having a serious camera. The progression is usually: auto for the first month, aperture-priority for a year, then manual when you have a reason to choose it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to become a good photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There's no fixed timeline, but most people who put in honest practice can produce work they're genuinely proud of within a year. Becoming consistently good takes three to five years. Becoming distinctive and developing a voice that's recognisably yours takes longer than that. The people who progress fastest tend to have three habits: they shoot regularly, they edit critically (deleting most of what they take), and they study other photographers' work seriously. Most don't progress because they wait for inspiration, expect great photos every time out, or only photograph their holidays."
+      }
+    }
+  ]
+}
