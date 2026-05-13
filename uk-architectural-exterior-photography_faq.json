@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a tilt-shift lens for architectural exteriors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Probably not for occasional work. Tilt-shift is cleanest perspective correction (£1,500-£2,500) but Lightroom Transform handles moderate convergence well enough for amateur use with 10-15% resolution loss after correction crop. Buy tilt-shift if architecture is genuine focus and you'll use it monthly; rely on Lightroom with wide-margin capture if occasional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best lens for architectural exterior photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on shot type. Wide-angle (16-35mm) for context. Standard zoom (24-70mm or 24-105mm) for most heritage façade and urban-context work — most useful single architectural lens. Telephoto (70-200mm) for compressed compositions and abstract detail. Strong portfolios cover all three ranges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best time of day to photograph buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern glass towers at pre-sunrise blue hour. Heritage stone façades post-sunset golden-into-blue. Brutalism at midday with hard shadow. Urban-context shots in late afternoon active hours. No universal 'best time' — match building type to moment that suits its visual identity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I fix converging verticals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three options. Tilt-shift lens at capture — cleanest but expensive. Lightroom Transform panel — free, effective for moderate convergence, costs 10-15% resolution. Or embrace the lean as creative choice. Pick deliberately rather than half-committing — heritage façade fine-art needs correction; modern tower editorial often embraces lean."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I photograph buildings without permission in the UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes from public land — pavement, public street, public park — for amateur and editorial use. Tripod use restricted at many heritage sites and central-London locations without permit. Some commercial use considerations for architect-designed buildings. Private land requires permission. Check before traveling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I photograph people in architectural exteriors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on shot type. Pure architectural studies usually exclude people — wait for crowds to clear, use long exposures to blur. Urban-context shots often need people for scale and life. Decide before you arrive — deliberately in or deliberately out. Half-cropped people is the most common amateur tell."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do my architectural exteriors look flat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three causes. Wrong light direction — buildings need directional light to reveal 3D form. Wrong sky — featureless sky behind strong building reads as nothing. Wrong viewpoint — eye-level frontal capture flattens the building. Try lower viewpoints with foreground context, elevated viewpoints, or three-quarter angle showing two façades."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best UK city for architectural photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "London for variety — every shot type within a weekend. Bath for heritage stone at headline level. Edinburgh for Old/New Town contrast. Liverpool for waterfront. Manchester for contemporary. Coventry for heritage-modern juxtaposition. Your nearest workable city beats long-drive pilgrimages — repeat visits outperform one-offs."
+      }
+    }
+  ]
+}
