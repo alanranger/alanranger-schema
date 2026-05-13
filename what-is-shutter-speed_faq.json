@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-shutter-speed#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is shutter speed in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Shutter speed is how long the shutter stays open so the sensor collects the metered light. It controls how motion renders: fast speeds <em>freeze</em> action; slow speeds <em>blur</em> it.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What shutter speed should I use to freeze action?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Guidelines: people 1/250–1/500 s, field sports 1/1000–1/2000 s, birds-in-flight 1/2000–1/4000 s. Increase speed as subject speed and focal length rise.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How slow can I shoot handheld without blur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Start near <strong>1/(2× focal length)</strong> on high-resolution cameras (e.g., 100 mm → ~1/200 s). Image stabilisation can let you go slower for <em>static</em> scenes, but it won’t freeze moving subjects.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos blurry and how do I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Two common causes:<br><strong>Camera shake</strong> → speed up shutter, stabilise, or use a tripod.<br><strong>Subject motion</strong> → use a faster shutter (e.g., 1/500–1/2000 s) and AF-C. Balance exposure by opening aperture or raising ISO.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does image stabilisation stop subject blur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>No. IS/IBIS reduces <em>camera shake</em>. Moving subjects still require a fast shutter speed to appear sharp.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What shutter speed is best for panning shots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Try ~1/15–1/60 s while tracking the subject smoothly. Use AF-C, burst shooting, and your lens’s panning mode if available (horizontal-only stabilisation).</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I shoot silky water or light trails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use a tripod, low ISO and slow speeds. Waterfalls: ~1/4–2 s. Light trails: 5–30 s. In bright light, add an ND filter to keep shutter speeds slow without overexposing.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does shutter speed interact with aperture and ISO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>They trade to keep the same meter reading. If you make the shutter 1 stop faster, open the aperture 1 stop or raise ISO 1 stop (and vice-versa).</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What mode should I use for moving subjects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p><strong>Shutter Priority</strong> (set the speed, camera adjusts aperture) or <strong>Manual + Auto ISO</strong> with a minimum shutter. Use AF-C and burst for action.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Bulb mode and when would I use it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Bulb keeps the shutter open as long as the release is held (or via remote). Use it for exposures longer than your camera’s limit (often 30 s) such as star trails or night landscapes.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What shutter speeds work for everyday handheld shooting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Common ranges: 1/60–1/125 s for static scenes with care; 1/125–1/250 s for casual people shots; go faster indoors or with longer lenses.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I download the Shutter Speed checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Grab the free 1-page PDF here: <a href=\"https://www.alanranger.com/s/Shutter_Speed_Field_Checklist.pdf\">Shutter Speed Field Checklist</a>.</p>"
+      }
+    }
+  ]
+}
