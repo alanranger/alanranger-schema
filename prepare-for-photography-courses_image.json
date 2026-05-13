@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/prepare-for-photography-courses#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/64e1daf8352061084fc1ccbf/1733783815466/Preparation%2BTips%2BFor%2B%2B-%2BPhotography%2BCourses%2Bfor%2BBeginners.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Guide: How to Prepare for Photography Courses for Beginners",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
