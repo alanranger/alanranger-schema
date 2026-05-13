@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/creative-editing-with-nik-collection-6#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/creative-editing-with-nik-collection-6",
+  "name": "Creative Photo Editing with DXO NIK Collection 6 -",
+  "description": "Creative editing plays a crucial role in transforming ordinary images into extraordinary works of art in photography.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/creative-editing-with-nik-collection-6#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/creative-editing-with-nik-collection-6#blogposting"
+  }
+}
