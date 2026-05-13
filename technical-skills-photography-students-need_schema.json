@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need",
+  "name": "Technical Skills Photography Students Need Beyond Creativity",
+  "description": "Technical Skills Photography Students Need Beyond Creativity.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#blogposting"
+  }
+}
