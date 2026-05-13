@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does negative space in photography mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negative space is the empty or open area around your subject. It defines the subject, adds balance, and creates clarity and mood—especially in minimal, clean compositions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is an example of negative space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single subject against a vast sky or plain wall, a landmark surrounded by night darkness, or a portrait with a smooth blurred background—each uses empty areas to amplify the subject."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the negative space in a photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It’s the area of the frame not occupied by the main subject. This ‘breathing room’ guides the eye, prevents clutter, and helps the subject stand out."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a negative image in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A negative is a reversed-tone image (traditionally on film) where light areas appear dark and dark areas appear light, used for making photographic prints."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you use negative space effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simplify the background, step back to include clean sky/walls, place the subject off-centre, and use light or blur to separate it. Aim for clear subject isolation and intentional empty areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much negative space should I use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There’s no fixed rule, but 50–70% negative space often creates calm, impactful images. Adjust to taste—more space for serenity or scale, less space for intensity and tension."
+      }
+    }
+  ]
+}
