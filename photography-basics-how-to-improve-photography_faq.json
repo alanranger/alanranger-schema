@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-basics-how-to-improve-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the exposure triangle and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exposure triangle is the three settings that control how bright your photograph comes out: aperture (f-stop), shutter speed, and ISO. Aperture controls depth of field and how much light reaches the sensor. Shutter speed controls motion blur and how long light is collected. ISO controls the sensor's sensitivity to light. Balancing these three creates correct exposure — move one and you have to adjust another to compensate. It matters because once this clicks, every other photography decision starts to make sense. Until then, the camera feels like a black box with random results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I improve my photography as a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three things matter most in the first year. First, learn the exposure triangle properly — not just the names, but how they trade off against each other. Second, develop the habit of slowing down before pressing the shutter; most beginner photos are taken too quickly. Third, study photographs you admire and work out what specifically makes them work — light, composition, timing, processing. Skip the gear obsession; the camera you already have is more capable than you are right now. Practice regularly, edit critically, and get honest feedback from photographers you respect. Workshops and courses accelerate this dramatically if structured learning suits you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I learn manual mode straight away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Aperture-priority mode is where most photographers should start and live for the first year or more. You control aperture (depth of field) and ISO (noise), and the camera handles shutter speed. This gives you creative control over the most important variables without the cognitive load of choosing all three. Full automatic strips the learning experience away. Full manual adds complexity that doesn't help until you have a specific reason to use it (long exposure, deliberate motion blur, scenes where the meter is being fooled). Start with aperture-priority, understand what it's doing, and progress to manual when you have a reason."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the single most useful skill for a beginner to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Learning to see — to actually look at what's in front of you and what's at the edges of the frame before pressing the shutter. Most beginners point the camera at something interesting and click. The photographs that work usually come from someone who stopped, walked around the subject, considered three or four angles, watched the background as carefully as the subject, and chose the strongest composition. This is a skill that improves entirely through deliberate practice, costs nothing, and makes a bigger difference than any technical setting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What gear do I actually need as a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Less than you think. Any camera made in the last ten years is capable of producing professional-quality results. If you have a camera with manual controls and one decent lens, you have enough. The spending order, if you do spend money, is: a decent lens (often a 50mm prime), then a tripod, then perhaps a polariser filter, and only then think about a camera upgrade. A 50mm prime lens for under £200 will teach you more about composition than the most expensive zoom — because the fixed focal length forces you to move your feet rather than zoom from the same spot."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I learn composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one principle at a time. The rule of thirds is the most useful starting point: imagine your frame divided into thirds horizontally and vertically, and place important elements on those lines or their intersections. Then learn about leading lines, framing, simplification, balance, and foreground interest. Apply one principle per outing rather than trying to remember everything. Study photographs you like and reverse-engineer the compositional decisions. The rules are guidance, not law — once you understand why they work, you can break them deliberately."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I edit my photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — but with restraint, from the start. Basic adjustments (exposure, contrast, white balance, cropping) are part of photography, not cheating. Photographers have been adjusting tone and contrast since the darkroom days; digital editing is the same thing with better tools. The trap is over-processing: heavy clarity, oversaturated colour, crunchy contrast. If you can tell at a glance that an image has been edited, it's been edited too much. Aim for editing that enhances what the photograph was already trying to say."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos not sharp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually three causes: focus missing the actual subject, shutter speed being too slow for handheld shooting, or small camera shake. Use single-point autofocus and place it deliberately (on the subject's eye in portraits, the front feature in landscapes). Use a shutter speed of at least 1/(focal length) seconds — so 1/200s on a 200mm lens. Stabilise with bracing, image stabilisation, or a tripod. Most softness is technique, not equipment. If you've fixed those three and it's still soft, the next suspects are diffraction (apertures smaller than f/16 on most lenses) or a dirty lens front element."
+      }
+    }
+  ]
+}
