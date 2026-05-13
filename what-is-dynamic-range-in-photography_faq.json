@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is dynamic range in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In photography, dynamic range is the difference between the brightest highlights and the darkest shadows that a camera can record in a single exposure. It is usually measured in f-stops. A higher dynamic range allows you to capture more detail in difficult lighting situations, such as backlit subjects, sunsets, or interiors with bright windows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good dynamic range for a camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern DSLRs and mirrorless cameras typically offer between 12 to 15 stops of dynamic range at base ISO (around ISO 100). This means they can retain detail in both bright skies and deep shadows. Medium format sensors may exceed this, while smartphones usually offer less, often compensating with computational HDR."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I capture more dynamic range in my photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To maximise dynamic range, shoot RAW at base ISO, expose for the highlights, and review the histogram. If the scene contrast is too wide, use exposure bracketing and merge the images in post-processing. Graduated ND filters can also help balance skies and land in landscape photography."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is HDR photography and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HDR (High Dynamic Range) photography is a technique where multiple exposures of the same scene are blended together to create one image with extended tonal range. The goal is to preserve highlight and shadow detail that would be lost in a single shot. HDR can be done in-camera with an HDR mode, or by merging bracketed exposures in software like Lightroom or Photoshop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does dynamic range matter in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dynamic range determines how well a camera handles extreme contrasts of light and dark. A wider dynamic range helps avoid blown-out skies and pure-black shadows, resulting in more balanced and natural-looking images. For landscape, architectural, and interior photographers, managing dynamic range is critical for professional results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does human vision compare to camera dynamic range?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The human eye can perceive roughly 20 stops of dynamic range by constantly adjusting between highlights and shadows. Most cameras capture less, around 12–15 stops. This is why scenes that look balanced to our eyes may still produce blown highlights or blocked shadows in a photo without careful exposure or HDR techniques."
+      }
+    }
+  ]
+}
