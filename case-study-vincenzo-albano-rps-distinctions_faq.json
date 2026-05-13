@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-vincenzo-albano-rps-distinctions#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After obtaining my RPS Licentiateship in 2002, I felt it was time, to sum up, my scattered photographic experience into a prestigious qualification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Mentoring Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I felt that my weakest area was editing, therefore I needed to learn how to manage a workflow that would “pop” my images, still retaining their original flavour and immediacy. Alan’s portfolio on his website shows how, carefully taken pictures, could be enhanced to an artistic level, still retaining their authenticity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you feel you got the right level and input of support from the RPS Distinctions course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely yes, Alan was frank in his feedback, no messing around!\n\n5. Did you feel you were already good enough to gain a distinction with the RPS before you started the mentoring course?\n\nRPS distinction has a very high bar and the Advisory Day put me in front of the reality of lots of work ahead if I wanted to achieve success. In particular, after close analysis, I understood that editing was my biggest weakness and Alan’s tutorials lead to a better understanding of the integration process from shooting to post-production and lastly print."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What distinction did you apply for and were you successful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ARPS in Documentary Photography and yes, it was successful."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was your experience like of the RPS Assessment Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I didn’t attend, too stressful!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The standard required for RPS distinctions is very high. You need to demonstrate understanding and control of the three major steps: shooting, editing and printing. Storytelling is also an important part particularly at ARPS level, showing consistency between the Statement of Intent and the Portfolio. Nevertheless, I suppose that Licentiate applicants would also benefit by creating a “narrative” portfolio. Therefore, preparation in all the above fields is highly recommended. Budget is also important to prevent last-minute surprises. Lastly, presentation is so important: I would recommend using a high-level lab for printing (unless you are comfortable with a high-quality printer at home), choosing high-quality paper and using a professional mounting service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;10.&nbsp;&nbsp; What was the hardest part of gaining a distinction with the RPS and why?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There isn’t a specific “hard” part, the entire process is demanding! If I have to pick one, consistency between intent and narrative requires lots of hard thinking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;11.&nbsp;&nbsp; Has working for a distinction helped you progress as a photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely yes, standards required are very high, hence had to up my standards accordingly."
+      }
+    }
+  ]
+}
