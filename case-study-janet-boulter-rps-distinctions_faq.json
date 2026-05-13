@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-janet-boulter-rps-distinctions#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I was keen to improve my photography skills and felt to gain this recognition from RPS a worldwide recognised photography accreditation would be a benchmark of achievement towards that goal. I still have more to learn and this has pushed my ability in the right direction for improvement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Mentoring Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I have worked with Alan on other workshops I felt his driven high standards would benefit my journey to improvement. Alan always gives you an honest opinion and has high expectations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What distinction did you apply for and were you successful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LRPS Fine Art and was successful on 3/3/21"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was your experience like of the RPS Assessment Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The assessment of 2021 done via Zoom was well organised and very informative. Full credit to RPS for achieving this. Due to Covid 19, this was my first assessment and wished I had attended one before. The panel comments were always encouraging and detailed regarding the photography and the print quality; even the quality of the image mount was reviewed, so detail is very important. As it was a Zoom assessment there were regular requests from the home-based panel for the print expert to check the tonal quality, highlights and shadows close up. I would have benefited from seeing and understanding what the panel was looking for, and recommend others do."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;10.&nbsp;&nbsp; What was the hardest part of gaining a distinction with the RPS and why?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a practical sense, personal time was a struggle juggling work and family commitments. From a technical view developing my post-production skills. I have had to increase my Lightroom, Photoshop and Nik abilities to enhance the images. Soft proofing for the final print, unless you have a lot of experience I would leave it to the experts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;11.&nbsp;&nbsp; Has working for a distinction helped you progress as a photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most definitely, I am a far better photographer for working for this distinction. It is evident if I look back over the images from the last few years."
+      }
+    }
+  ]
+}
