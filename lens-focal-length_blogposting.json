@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://www.alanranger.com/blog-on-photography/lens-focal-length#blogposting",
+  "headline": "Lens Focal Length Checklist Photography Guide - 1 Page",
+  "alternativeHeadline": "Lens Focal Length Checklist Photography Guide - 1 Page | Alan Ranger Photography",
+  "description": "Lens Focal Length Photography Guide - 1 Page 1-page field checklistsAlan Ranger 2 January 2026 camera settings guide.",
+  "url": "https://www.alanranger.com/blog-on-photography/lens-focal-length",
+  "datePublished": "2026-01-02T00:00:00.000Z",
+  "dateModified": "2026-01-02T00:00:00.000Z",
+  "dateCreated": "2026-01-02T00:00:00.000Z",
+  "inLanguage": "en-GB",
+  "articleBody": "Lens Focal Length Photography Guide - 1 Page 1-page field checklistsAlan Ranger 2 January 2026 camera settings guide",
+  "wordCount": 18,
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/lens-focal-length#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.alanranger.com/blog-on-photography/lens-focal-length#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photography"
+    }
+  ]
+}
