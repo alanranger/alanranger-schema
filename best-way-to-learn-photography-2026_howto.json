@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/best-way-to-learn-photography-2026#howto",
+  "name": "Best Way to Learn Photography in 2026 - Lessons Guide",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/best-way-to-learn-photography-2026#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Free YouTube videos and blogs",
+      "text": "Pros: Free, flexible, lots of inspiration Cons: Often unstructured, easy to get overwhelmed, no feedback Best for: Quick answers and extra tips alongside a proper learning plan"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Free online photography courses",
+      "text": "Pros: Better structure than random videos, low-risk starting point, ideal for beginners Cons: Usually less personal support than paid learning Best for: Anyone wanting to get off Auto and build a proper foundation"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Photography Academy or paid online learning",
+      "text": "Pros: Step-by-step learning, progress tracking, assignments, support, certificates Cons: Requires commitment, quality varies Best for: Learners who want a clear path and ongoing development"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Local photography lessons",
+      "text": "Pros: Hands-on help, easier to ask questions, more personal support Cons: Less flexible around timing and travel Best for: Beginners who want direct help with their own camera"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Photography workshops",
+      "text": "Pros: Real-world practice, location experience, guidance with light and composition Cons: Often more genre-specific than beginner-focused Best for: People who learn best by doing, especially landscape photographers"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Zoom mentoring or private one-to-one lessons",
+      "text": "Pros: Personalised, flexible, faster progress, tailored to your goals Cons: More expensive than self-study Best for: Learners who want direct feedback and targeted improvement"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Accreditation mentoring",
+      "text": "Pros: Clear goal, detailed critique, expert support Cons: More suitable once you already know the basics Best for: Photographers working towards qualifications or distinction panels"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Start With Clear Foundations",
+      "text": "The best photography lessons teach the essentials properly first. Before worrying about advanced gear or specialist genres, a learner should understand how the camera works and why a photo succeeds or fails. A strong beginner path should cover: What aperture does How shutter speed affects movement How ISO affects brightness and image quality How to focus accurately How available light changes a scene How to move beyond Auto mode with confidence This stage matters because it saves a huge amount of frustration later. If the foundations are weak, progress becomes slower and more confusing."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Use Free Content in the Right Way",
+      "text": "Free photography content still has a place in 2026. Blogs, YouTube videos, and tutorials can all be useful. They are especially helpful when you need a quick answer to a specific question. But free content works best when it supports a learning plan rather than replacing one. The problem with random free advice is that it often leaves gaps. You can spend weeks watching content and still not know what to practise next. That is why a free online photography course is often a much better starting point than random searching. It gives beginners a more logical structure while still being easy to..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Real Progress Comes From Taking Photos",
+      "text": "One of the biggest mistakes people make is confusing watching with learning. Watching photography content can feel productive. But it is not the same as going out with your camera and putting things into practice. The best way to improve is to: Take photos regularly Test settings on purpose Review the results Understand what worked Correct what did not That is why good photography lessons often include assignments, practical exercises, or tasks to shoot between sessions. A proper brief helps far more than simply telling someone to “go and practise”."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Feedback Is One of the Biggest Shortcuts",
+      "text": "This is where many self-taught photographers stay stuck for too long. They may not realise why their images are soft, why the exposure looks off, why a composition feels cluttered, or why the picture does not have the impact they hoped for. Feedback speeds everything up. When an experienced photographer explains what is happening and how to improve it, learning becomes more intentional. That is why one-to-one lessons , mentoring , workshops , and supported Academy learning can be so effective. They do not just deliver information. They help you apply it."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "The Best Learning Path Depends on Your Goal",
+      "text": "Not everyone needs the same kind of support. A complete beginner wanting to get off Auto needs something very different from: A landscape photographer wanting to improve composition A hobbyist wanting more confidence on holiday Someone interested in portraits or wildlife A business owner wanting better product images A photographer working towards accreditation The best learning method is the one that matches your level, your goal, and the amount of flexibility or feedback you need. That is why it helps to choose from a range of options rather than relying on one generic course."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "A Strong Option for Learning Photography in 2026",
+      "text": "If you want a learning path that goes beyond random tips, Alan Ranger Photography offers several ways to learn depending on your level, location, and goals. With over 20 years of professional photography experience, teaching thousands of clients, delivering commercial photography training to businesses, and giving lectures internationally, the teaching is based on real-world experience as well as education. That means learners can choose the style of support that suits them best. Free online course A good first step for beginners who want to understand the basics in a simple and accessible..."
+    }
+  ]
+}
