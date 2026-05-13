@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/natural-light-photography-tips#howto",
+  "name": "Natural Light Photography Tips for Stunning UK Shots",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/natural-light-photography-tips#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Assess Light Quality",
+      "text": "Before you point your camera at anything, you need to know what the light is doing. Light changes colour, intensity and direction throughout the day, and each change creates a different mood. Morning light (the hour after sunrise) is cool‑blue and soft. It wraps around subjects and reduces harsh shadows. Mid‑morning starts to warm up, giving you a subtle golden hue that adds depth without the glare of midday. Midday sun sits high, casting short, hard shadows that can be dramatic for architecture but often flatten faces. Overcast skies act like a giant softbox , they remove contrast and reve..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Choose the Right Equipment",
+      "text": "Even though natural light is free, a few pieces of gear can make the difference between a good shot and a great one. First, a sturdy tripod. When the light is low , early morning, blue hour or a cloudy day , you’ll need longer exposures to avoid blur. A tripod keeps the camera steady, lets you use slower shutter speeds, and frees your hands for a reflector or a remote release. Second, lenses. For portraits, a prime around 85mm or a short telephoto (70‑200mm) lets you isolate the subject and blur the background. For landscapes, a wide‑angle (16‑35mm) captures the sweep of the scene while sti..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 4: Edit While Preserving Light",
+      "text": "Editing is where you can enhance the image, but you must keep the original feel of the natural light. Over‑editing can turn a soft sunrise into a cartoon. Start by opening the RAW file in Lightroom. Check the white balance , sunrise will be cooler, sunset warmer. Use the white‑balance picker on a neutral area (like a grey card or the sky) to keep colours accurate. Next, look at exposure. If you under‑exposed to preserve highlights, gently lift the shadows using the “Shadows” slider. Keep an eye on the histogram , you want a smooth curve without clipping on either side. Contrast can be tweak..."
+    }
+  ]
+}
