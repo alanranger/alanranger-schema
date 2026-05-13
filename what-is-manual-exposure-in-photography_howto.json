@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography#howto",
+  "name": "05 What is MANUAL EXPOSURE in photography:Guide for beginner",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Set Aperture for Depth Single subject/couple close: f/1.8–f/2.8 for separation.",
+      "text": "Set Aperture for Depth Single subject/couple close: f/1.8–f/2.8 for separation. Subjects slightly apart: f/2.8–f/4 to hold both sharp. Larger groups: start at f/2.8–f/4+ and adjust with spacing. Landscapes/architecture: typically f/8–f/11 ."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Choose Shutter for Motion Static scenes: about 1/60 s (watch for shake).",
+      "text": "Choose Shutter for Motion Static scenes: about 1/60 s (watch for shake). Slow movement (walk/dance): ~ 1/200 s . Faster action (quick dance/jog): ≥ 1/500 s to freeze. Hand-held guardrail: ~ 1/(2× focal length) ; use support/IBIS if slower."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Set ISO to Meet the Meter Use the lowest ISO that keeps your chosen aperture/...",
+      "text": "Set ISO to Meet the Meter Use the lowest ISO that keeps your chosen aperture/shutter. Too dark → raise ISO; too bright → lower ISO to hit the meter. Prefer speed? Enable Auto ISO with a minimum shutter so the camera adjusts ISO while you lock aperture & shutter intent."
+    }
+  ]
+}
