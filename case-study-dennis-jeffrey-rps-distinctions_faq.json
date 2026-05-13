@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-dennis-jeffrey-rps-distinctions#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I had subscribed to RPS for many years and therefore saw successful panels and always wondered whether I could get up to that standard. At 71 I decided to put that to the test."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2.&nbsp;&nbsp;Why did you choose Alan to mentor you for RPS Distinctions and had you worked with Alan before the RPS Mentoring Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I wasn’t a member of a photography club with regular competitions and consequently didn’t have much experience of selecting images against a set of criteria and for those images to be critiqued by someone else. I, therefore, needed to learn those skills. Before joining the course, I attended one of Alan’s Arboretum workshops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "6.&nbsp;&nbsp;What RPS Distinctions did you apply for and were you successful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I successfully submitted a panel for the Print ‘Licentiate’ Fine Art."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;7.&nbsp;&nbsp;What was your experience like of the RPS Distinctions Assessment Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I found the RPS staff very helpful in dealing with queries I had about the submission prior to the Assessment but I had a prior commitment on the day of the Assessment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;9.&nbsp;Having completed the course and RPS Distinctions Assessment, what advice would you like to share with others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you can accept ‘critique’ and learn from that process you should go for it! With Alan’s guidance, as a minimum, you will learn to be a better photographer and, if you acquire the necessary skills, you will have the satisfaction of your achievement being recognised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;11.&nbsp; Has working for a RPS Distinctions helped you progress as a photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. That was one of the objectives and consequently, I tried to ensure that I did so across the whole range of skills required to gain the Licentiate."
+      }
+    }
+  ]
+}
