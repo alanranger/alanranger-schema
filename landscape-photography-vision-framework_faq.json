@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between recording a place and making a photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A recording answers 'what was here.' A photograph answers 'what did it feel like to be here, and why did that matter.' Recording is automatic; making a photograph requires deliberate decisions about light, subject, composition, atmosphere, and timing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is observation given more weight than shooting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because seeing is where intention begins. Modern cameras have made the technical phase close to automatic. The differentiator is decisions made before the shutter — where to stand, what to exclude, what light to wait for. Photographers who spend 30 minutes seeing and 10 minutes shooting outperform those who reverse it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the rule of thirds a rule or a guideline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful starting point, not a destination. Strong photographers ask 'does this frame feel balanced?' rather than 'does it follow the rule?' Balance is felt judgement; the rule of thirds is one approximation of it. Once you can feel balance directly, you'll break the rule for good reasons."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I develop a photographic style?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through repetition, not preset packs. Style is the accumulation of consistent decisions over years — same kinds of subjects, same compositional habits, same restraint in post. Stop trying to develop a style. Photograph what you're drawn to, consistently. Style emerges from the work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should I spend at one location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Longer than you think. Most strong landscape work comes from sessions of an hour or more at a single location. The keeper is rarely the first frame — it's usually the result of 15-20 minutes of observing before committing. Some of my best images came from 5 frames over 30 minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I edit my photographs heavily or lightly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lightly, with restraint. Heavy processing usually means the original frame wasn't strong enough. Strong post-processing is mostly invisible — tonal balance, subtle dodging and burning, careful colour control. Photographs that age well are almost always those with the lightest, most considered processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will buying a better camera improve my photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Almost certainly not, after a basic technical floor. The constraint isn't the camera; it's the decisions in front of it. Photographers who improve fastest stop reading gear reviews and shoot more with what they own. Spend the gear-upgrade budget on travel, time, mentoring, or printing instead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know when an image is ready or finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two tests. Can you state in one sentence what the photograph is about? Leave the edit for a week and return with fresh eyes. Frames that still feel right after a week are ready; frames that suddenly look over-processed are telling you what you couldn't see when too close to them."
+      }
+    }
+  ]
+}
