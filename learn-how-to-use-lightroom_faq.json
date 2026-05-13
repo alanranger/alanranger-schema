@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/learn-how-to-use-lightroom#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I edit RAW files in Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Import the RAW file into Lightroom and switch to the Develop module. Work top-to-bottom through the Basic panel: white balance first, then exposure, then contrast, then highlights and shadows, then whites and blacks, then clarity (sparingly) and vibrance/saturation. The histogram on the right tells you whether highlights are clipped or shadows blocked. Lightroom edits are non-destructive — your original RAW file is never altered, and you can reset or revisit at any time. Most photographs need only the Basic panel; reach for HSL, Tone Curve, and local adjustments when the Basic panel doesn't fully solve the problem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Lightroom Classic, Lightroom CC, or something else?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lightroom Classic is the desktop version with local file storage and the deeper feature set — better for serious editing, multi-thousand-image catalogues, and offline work. Lightroom CC (now just 'Lightroom') is cloud-based and simpler — better for casual editing and cross-device workflow. They're sold together in the Adobe Photography Plan. Capture One is a strong alternative for tethered shooting and colour work. DxO PhotoLab is excellent for noise reduction and one-off editing. Most photographers settle on Lightroom Classic for the catalogue management alone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the right order to edit a photo in Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Work top-to-bottom through the Basic panel, then refine. The standard order: white balance → exposure → contrast → highlights → shadows → whites → blacks → texture/clarity → vibrance/saturation. Then crop and straighten. Then HSL adjustments for selective colour work. Then local adjustments (radial filters, graduated filters, brush) for specific areas. Then sharpening and noise reduction last. Working out of order means you'll constantly revisit earlier sliders because later changes shifted the overall look."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid over-editing in Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three habits. First, work in small increments — most sliders are powerful in the 10–30 range, not 50+. Second, walk away and come back: editing fatigue makes oversaturated images look fine in the moment. Third, compare to the original (press backslash to toggle before/after). If the edited version looks dramatically different, you're probably over-cooking it. The mark of strong editing is that someone looking at the photograph wouldn't notice it had been edited at all — just that it looks 'right'."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are presets and should I use them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Presets are saved combinations of slider positions applied with one click. They can speed up batch editing for similar images, and they're useful as starting points when you don't know where to begin. They're not a replacement for understanding what the sliders do, and they rarely produce a finished image on their own — every photograph needs adjustment after the preset is applied. Free presets shared online are often heavy-handed; treat them as suggestions. Build your own presets as you develop a consistent personal style."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I organise my photos in Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three layers. Folders for date-based or shoot-based storage on disk. Collections for grouping images across folders by theme, project, or status. Keywords for cross-referencing subjects (e.g. 'landscape', 'autumn', 'bluebells'). Use star ratings (1–5) and colour labels for editing workflow — many photographers use 1 star = candidate, 2 stars = edited, 3 stars = portfolio. Set up a sensible folder structure before importing 10,000 images; reorganising later is painful."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I export images for web vs print?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For web (social media, blogs): 2048 pixels on the long edge is plenty, JPEG quality 70–80, sRGB colour space, no sharpening or a very small output sharpening for screen. For print: full-resolution TIFF or maximum-quality JPEG, AdobeRGB or ProPhoto colour space depending on the printer/lab, output sharpening for matte or glossy as appropriate. Lightroom's Export presets let you save these as one-click options. The biggest exporting mistake is uploading full-resolution TIFFs to social media — they get re-compressed badly and load slowly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to learn Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Basic panel can be learned in an afternoon. Productive everyday editing within a month. Genuine fluency — knowing which tool to reach for in any situation — takes six months to a year of consistent use. The catalogue/library side has its own learning curve and is worth investing time in early; rebuilding a poorly-organised catalogue is harder than learning the system properly from the start. A structured course or one-to-one tutorial accelerates this dramatically; you'll save weeks of fumbling through menus."
+      }
+    }
+  ]
+}
