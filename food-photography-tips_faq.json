@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/food-photography-tips#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What equipment do I need for food photography as a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You don’t need a pro‑grade DSLR right away. Start with a 50mm f/1.8 prime lens on a mirrorless or crop‑sensor camera, a sturdy tripod and a simple diffuser like a white sheet or baking paper. This setup covers most lighting situations and lets you practice depth‑of‑field control without breaking the bank."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I avoid harsh shadows when shooting near a window?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a diffuser , a thin muslin cloth or a piece of baking paper taped over the glass softens the light. You can also add a white foam core reflector opposite the window to fill in shadows, creating a balanced look that matches the research tip about using a black foam core for contrast when needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot in RAW or JPEG for food photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoot in RAW whenever possible. RAW preserves the full dynamic range, lets you fine‑tune white balance and recover highlights , crucial for brown foods that can look flat in JPEG. The research on workflow highlights that RAW gives you flexibility and speed when paired with tools like Snapseed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose the right aperture for a dish with a shiny sauce?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a glossy sauce you want the texture in focus but the background soft. A mid‑range aperture like f/4‑f/5.6 works well , it gives enough depth to keep the sauce sharp while still blurring the table. If the sauce is very reflective, add a reflector on the opposite side to tame specular highlights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use my phone for food photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially with newer phones that have manual mode and RAW capture. Use natural window light, a simple diffuser, and tap‑focus on the main dish. Keep ISO low and avoid digital zoom , move closer instead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the best way to share my food photos with clients quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set up Olympus Wi‑Fi (or your camera’s built‑in Wi‑Fi) and pair it with Snapseed or Lightroom Mobile. This mirrors the workflow tip that cuts post‑shoot lag by up to 100 %, letting you deliver images within minutes of the shoot."
+      }
+    }
+  ]
+}
