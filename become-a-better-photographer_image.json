@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/become-a-better-photographer#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/543fa80ee4b0e17255038cae/1730283745905/?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "How to develop your skills | Become a better photographer",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
