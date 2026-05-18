@@ -65,24 +65,24 @@
     {
       "@type": "Product",
       "name": "PEAK DISTRICT Photography Workshops - May, Oct and Nov",
-      "sku": "SQ2363666",
+      "sku": "SQ3794821",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sat 16 th May 2026 - 09:30 - 16:00 Sat 17 th Oct 2026 - 09:30 - 16:00 Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 7 th Nov 2026 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: Spring and Autumn Workshops Padley...",
+      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sat 17 th Oct 2026 - 09:30 - 16:00 Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 7 th Nov 2026 - 09:30 - 16:00 Sat 22 nd May 2027 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: Spring and Autumn Workshops Padley...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709626967694-M4DJSC9GYR1R1LZFYBUF/Padley+Gorge+%2304+-+Mar+2024.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ2363666",
+          "sku": "SQ3794821",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Padley and Bolehill Sat 16th May 2026 - 09:30 - 16:00",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Padley and Bolehill Sat 17th Oct  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -119,13 +119,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ3794821",
+          "sku": "SQ8457424",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Padley and Bolehill Sat 17th Oct  2026 09:30am - 4:00pm",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -162,13 +162,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ8457424",
+          "sku": "SQ9037810",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -205,13 +205,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ9037810",
+          "sku": "SQ2363666",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Padley and Bolehill Sat 22nd May 2027 - 09:30 - 16:00",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -248,6 +248,101 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Vincent"
+          },
+          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colin Whittaker"
+          },
+          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Clarke"
+          },
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex McDonald"
+          },
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon McDonald"
+          },
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -345,7 +440,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 5
+        "reviewCount": 10
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#product"
     }

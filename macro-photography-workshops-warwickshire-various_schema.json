@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Macro Photography Workshops Warwickshire - Feb and Mar",
+          "name": "Macro Photography Workshops Warwickshire - Various",
           "item": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
         }
       ],
@@ -64,25 +64,29 @@
     },
     {
       "@type": "Product",
-      "name": "MACRO Photography Workshops Warwickshire - Feb and Mar",
+      "name": "MACRO Photography Workshops Warwickshire - Various",
       "sku": "SQ8482281",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Sat 8 Nov 10:00 - 12:30 Macro Photography - Sun 17 May 10:00 - 12:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro Photography Workshop Event Details: Macro Photography and Abstract Description: Join me at a Warwickshire location for this macro photography...",
+      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Tue July 7 th - 6:30 pm - 8:30 pm Macro Photography - Tue Sep 8 th - 6:00 pm - 8:00 pm Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro Photography Workshop Event Details: Macro Photography and Abstract Description: Join me at a Warwickshire location for this...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/25c550a3-a242-4303-a11b-367dd7055dbe/Abstract%2Band%2BMacro%2BPhotography%2BWorkshops%2B%25282%2529.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "offers": [
         {
           "@type": "Offer",
           "sku": "SQ8482281",
-          "price": "65.00",
+          "price": "50.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Sat 8 Nov 10:00 - 12:30",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Tue Jul 7th - 6:30pm - 8:30pm",
+          "priceSpecification": {
+            "price": "50.00",
+            "priceCurrency": "GBP"
+          },
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer1",
           "seller": {
@@ -116,12 +120,16 @@
         {
           "@type": "Offer",
           "sku": "SQ8660736",
-          "price": "65.00",
+          "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Sun 17 May 10:00 - 12:30",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Tue Sep 8th - 6:00pm - 8:00pm",
+          "priceSpecification": {
+            "price": "50.00",
+            "priceCurrency": "GBP"
+          },
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer2",
           "seller": {

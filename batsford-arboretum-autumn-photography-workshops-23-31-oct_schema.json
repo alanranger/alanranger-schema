@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -596,8 +596,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -639,8 +639,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -682,8 +682,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -725,8 +725,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 31  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -768,8 +768,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 31 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -811,8 +811,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 31 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -873,9 +873,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
+            "name": "supriya s m"
           },
-          "reviewBody": "Learned a lot",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -892,9 +892,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "Chris Franklin"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Excellent day, really enjoyed the support and input for Alan. Helped to blow off the dust",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -930,9 +930,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Chris Franklin"
+            "name": "James Collins"
           },
-          "reviewBody": "Excellent day, really enjoyed the support and input for Alan. Helped to blow off the dust",
+          "reviewBody": "Learned a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1006,25 +1006,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nicholas Barber"
-          },
-          "reviewBody": "I had a 1h 1:1 online mentoring session with Alan to sort out how to deal with my images on a long holiday. He was brilliant, clear instructions and a 2 page accurate summary of our conversation followed the same day.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-24",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Tim Chance"
           },
           "reviewBody": "Great experience in a lovely location at Batsford Arboretum photographing the amazing autumn colours. Alan knows his stuff and the arboretum well so was able to guide us to some great locations and offer tips on composition, light and observation.",
@@ -1044,35 +1025,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Philip Hart"
+            "name": "Nicholas Barber"
           },
-          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Neil Barford"
-          },
-          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
+          "reviewBody": "I had a 1h 1:1 online mentoring session with Alan to sort out how to deal with my images on a long holiday. He was brilliant, clear instructions and a 2 page accurate summary of our conversation followed the same day.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-10-20",
+          "datePublished": "2025-10-24",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1120,12 +1082,50 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Neil Barford"
+          },
+          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Atmos"
           },
           "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Philip Hart"
+          },
+          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
@@ -1158,9 +1158,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clifford Porter"
+            "name": "Linda Newbery"
           },
-          "reviewBody": "Autumn Photo workshop at Batsford Arboretum on Wednesday 27 October 2021.  A great day with Alan and another 3 in the group.  Very relaxed style of tuition.  Loved the panning trees technique as motorsport photography is my 1st priority!  Thank you. The Lake District events look good.  Maybe next year.  Thank you Alan, I learned so much. Even the visitors enjoyed the Redwood trees.",
+          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1196,9 +1196,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Linda Newbery"
+            "name": "Clifford Porter"
           },
-          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
+          "reviewBody": "Autumn Photo workshop at Batsford Arboretum on Wednesday 27 October 2021.  A great day with Alan and another 3 in the group.  Very relaxed style of tuition.  Loved the panning trees technique as motorsport photography is my 1st priority!  Thank you. The Lake District events look good.  Maybe next year.  Thank you Alan, I learned so much. Even the visitors enjoyed the Redwood trees.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

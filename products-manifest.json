@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-13T12:08:48.575Z",
+  "generatedAt": "2026-05-18T17:14:57.878Z",
   "totalProducts": 57,
   "entries": [
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "pathKey": "/photo-workshops-uk/abstract-and-macro-photography-workshops",
-      "schemaFileName": "macro-photography-workshops-warwickshire-feb-and-mar_schema.json",
+      "schemaFileName": "macro-photography-workshops-warwickshire-various_schema.json",
       "faqFileName": ""
     },
     {
@@ -77,7 +77,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
       "pathKey": "/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
-      "schemaFileName": "exmoor-photography-workshop-sat-23rd-sun-24th-may-2026_schema.json",
+      "schemaFileName": "exmoor-photography-workshop-sat-18-sun-19-jul-2026_schema.json",
       "faqFileName": ""
     },
     {
@@ -293,7 +293,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "pathKey": "/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
-      "schemaFileName": "wales-photography-workshop-lake-vyrnwy-30-31-may_schema.json",
+      "schemaFileName": "wales-photography-workshop-lake-vyrnwy-10-11-oct_schema.json",
       "faqFileName": ""
     },
     {

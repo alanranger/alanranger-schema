@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 20 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 20 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 20 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 21 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 21 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 21 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 22 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 22 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 22 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 23 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -596,8 +596,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -639,8 +639,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -682,8 +682,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sat 24 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -725,8 +725,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -768,8 +768,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -811,8 +811,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Sun 25 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -854,8 +854,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Mon 26 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -897,8 +897,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Mon 26 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -940,8 +940,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Mon 26 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -983,8 +983,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 27 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1026,8 +1026,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 27 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1069,8 +1069,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Tue 27 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1112,8 +1112,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 28 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1155,8 +1155,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 28 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1198,8 +1198,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Wed 28 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1241,8 +1241,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1284,8 +1284,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1327,8 +1327,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Thu 29 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1370,8 +1370,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1413,8 +1413,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1456,8 +1456,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
           "name": "Fri 30 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1518,25 +1518,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
-          },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Mike McMahon"
           },
           "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
@@ -1556,9 +1537,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ruth Martin"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mihail Radkov"
+          },
+          "reviewBody": "I joined one of the early morning Bluebells Workshop and had a great experience. Alan is incredibly knowledgeable and passionate about landscape photography, and a pleasure to learn from. His clear tuition and constructive feedback genuinely help you progress as a photographer regardless of your current level.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1575,9 +1575,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mihail Radkov"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "I joined one of the early morning Bluebells Workshop and had a great experience. Alan is incredibly knowledgeable and passionate about landscape photography, and a pleasure to learn from. His clear tuition and constructive feedback genuinely help you progress as a photographer regardless of your current level.",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1670,6 +1670,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Anna Kopytek"
+          },
+          "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Sunil Prasad"
           },
           "reviewBody": "Alan' learning session is much clear and detailed",
@@ -1689,16 +1708,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Anna Kopytek"
+            "name": "Siddharth M"
           },
-          "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
+          "reviewBody": "Alan is a good teacher. Great to learn new tips from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-07-16",
+          "datePublished": "2025-06-25",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1765,6 +1784,63 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Gerard Daykin"
+          },
+          "reviewBody": "I had a great session. Found out more about my cameras and moving away from the \"auto\" setting. Seemed geared towards what was useful to me- with where I am with photography, not a \"standard\" pitch. Very much appreciated.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stuart Hurcomb"
+          },
+          "reviewBody": "I did the Bluebells session which was excellent. Alan is very knowledgabel and approachable when discussing different topics, he has a wealth of knowledge, you just need to engage and ask questions. The session was an early start and very enjoyable, just a shame the bluebell area was not as perfect as it could have been, but not Alans fault. A very good experience all round and I am keen to do other sessions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chan Jandu"
+          },
+          "reviewBody": "A great day spent learning about woodland photography, in fact as a beginner, I learnt a lot more about basic photography and how to use my camera.    Highly recommend spending time with Alan to get some great tips.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "David Orchard"
           },
           "reviewBody": "A good session and well organised.",
@@ -1784,9 +1860,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Stephen Frost"
+            "name": "John Duncombe"
           },
-          "reviewBody": "Well organised photo shoot. Communication was first class with written advice on equipment and camera settings. I would highly recommend this event.",
+          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1803,9 +1879,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Duncombe"
+            "name": "Stephen Frost"
           },
-          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
+          "reviewBody": "Well organised photo shoot. Communication was first class with written advice on equipment and camera settings. I would highly recommend this event.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1889,82 +1965,6 @@
             "worstRating": "1"
           },
           "datePublished": "2019-05-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Helen Sotheran"
-          },
-          "reviewBody": "Alan's bluebell workshop was a rare treat. The location was stunning, and the restricted group size together with Alan's patient and insightful tuition made for a great learning experience. Altogether a very pleasant morning, I would definitely recommend, both this workshop in particular and Alan's tuition in general.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-05-07",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "John Beresford"
-          },
-          "reviewBody": "Had a great time on the Bluebell Workshop, Alan was very helpful and I've learnt a few things to improve my photos",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-05-07",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Grant Kenneth Harbert"
-          },
-          "reviewBody": "Did the Bluebell workshop with Alan this May the third of his training sessions I have now subscribed to. As with the previous experiences Alans help, advice and humor made the afternoon very worthwhile and good value for money. Access to this private woodland as a small group was amazing, no kneeling in dog poop or hordes of Jo public to contend with!! Will be booking again next year.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-05-06",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Julie"
-          },
-          "reviewBody": "A fabulous location and a thoroughly enjoyable workshop.  Advice on techniques and composition was given as needed whilst being allowed time and space to practice different shots.  I would definitely consider attending another workshop in the future.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-05-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

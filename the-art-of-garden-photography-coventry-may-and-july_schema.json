@@ -65,24 +65,24 @@
     {
       "@type": "Product",
       "name": "The Art of GARDEN PHOTOGRAPHY  - Coventry -  May and July",
-      "sku": "SQ0939451",
+      "sku": "SQ3644687",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join us for an unforgettable journey into macro and abstract on this garden photography workshop. Secure your spot today and embark on a transformative learning experience in garden photography.Summary Location: Coventry - CV4 Dates:2026 Dates Sun May 17 th 2026 - 15:00 - 17:00 Sun Jul 12 th 2026 - 15:00 - 17:00 Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Garden Photography Description: Elevate Your Garden Photography Skills With Garden Photography Workshops Immerse...",
+      "description": "Join us for an unforgettable journey into macro and abstract on this garden photography workshop. Secure your spot today and embark on a transformative learning experience in garden photography.Summary Location: Coventry - CV4 Dates: Dates Sun Jul 12 th 2026 - 15:00 - 17:00 Sun May 23 rd 2027 - 15:00 - 17:00 Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Garden Photography Description: Elevate Your Garden Photography Skills With Garden Photography Workshops Immerse yourself...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709974516534-UJBRDOK5RXR4QNLPTECD/_-677.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ0939451",
-          "price": "35.00",
+          "sku": "SQ3644687",
+          "price": "45.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Sun May 17 - 15:00 - 17:00",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Sun Jul 12 2026 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer1",
           "seller": {
@@ -115,13 +115,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ3644687",
-          "price": "35.00",
+          "sku": "SQ0939451",
+          "price": "45.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-13",
-          "priceValidUntil": "2027-05-13",
-          "name": "Sun Jul 12 - 15:00 - 17:00",
+          "validFrom": "2026-05-18",
+          "priceValidUntil": "2027-05-18",
+          "name": "Sun May 23rd 2027 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
           "seller": {
