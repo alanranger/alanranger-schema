@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-arps-panel#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between the LRPS and the ARPS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Licentiate is a panel of ten images demonstrating competence across camera work, visual awareness, technical quality and presentation, with no restriction on subject matter. The Associate is a panel of fifteen images forming a cohesive body of work within a single defined genre, showing an individual vision and supported by a Statement of Intent. The Licentiate rewards range; the Associate rewards depth and a personal voice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to hold the Licentiate before applying for the Associate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is strongly recommended that applicants hold the Licentiate first, but it is not mandatory and you can apply for the Associate directly. Distinctions can only be awarded to members of the Royal Photographic Society, so non-members who apply will need to join in order to receive the Distinction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many images does an ARPS panel need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An Associate submission is fifteen images. You can submit them as fifteen mounted prints, fifteen digital images projected in numeric order, or a book containing fifteen images with two copies required. You choose one format; the three cannot be mixed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a Statement of Intent and how long should it be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Statement of Intent defines the purpose of the work and identifies its aims and objectives. For most genres it has a maximum of 150 words; for Contemporary it is 300 words. It must not include technical information, and a word count must be shown beneath it. At the assessment the Statement is read out and every image is judged on whether it serves the stated aims."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose the right genre for my panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Associate submissions are assessed by genre, so the panel must sit clearly within one of the Royal Photographic Society's genre definitions. Read the definitions in full and pick the one the thesis genuinely belongs to. Some work has a real choice, such as architectural photography sitting in Applied or Landscape, so decide deliberately and keep the whole panel inside that definition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I reuse images from my successful Licentiate panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Images from a previously successful submission cannot be used again, and an individual image may not appear in submissions at different levels. Each submission must be a new body of work, so an Associate panel needs to be planned and made afresh."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to plan and build an ARPS panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no fixed timescale, and it depends on how many new images the panel needs and whether they depend on seasons or conditions. The planning stage can take a few weeks of focused thinking, while building the panel typically takes several months. Many photographers working with structured mentoring spread the process across roughly six to twelve months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is RPS mentoring worth it, and is it official?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Independent mentoring can help most at the planning and editing stages, where an experienced second opinion is hard to find. Alan Ranger's RPS distinctions mentoring is independent and not officially accredited by the Royal Photographic Society; the advice is based on his own experience holding both the Licentiate and Associate distinctions and mentoring others through the process. The Society also runs Advisory Days and a One2One online review, which are complementary to independent mentoring."
+      }
+    }
+  ]
+}
