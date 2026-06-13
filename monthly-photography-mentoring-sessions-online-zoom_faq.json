@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for Monthly Photography Mentoring Sessions - Online - Zoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 6 Nov 2025, 1 Dec 2025, 5 Jan 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Monthly Photography Mentoring Sessions - Online - Zoom online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly Photography Mentoring Sessions - Online - Zoom is positioned as an online option with delivery via Zoom or remote support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What billing cadence is listed for Monthly Photography Mentoring Sessions - Online - Zoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This option is listed as a monthly payment cadence within the plan options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in Monthly Photography Mentoring Sessions - Online - Zoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly Photography Mentoring Sessions - Online - Zoom is listed with online delivery via Zoom."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#faq"
+}

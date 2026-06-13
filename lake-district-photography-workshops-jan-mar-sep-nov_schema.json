@@ -81,7 +81,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -124,7 +124,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -167,7 +167,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
           "priceSpecification": {
             "price": "975.00",
@@ -210,7 +210,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "Fri 12 Mar - Sun 14 Mar - 3 Days/2 Nights 2027",
           "priceSpecification": {
             "price": "1125.00",
@@ -347,9 +347,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Pyta"
+            "name": "Patsy Louer"
           },
-          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
+          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -366,9 +366,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patsy Louer"
+            "name": "Dave Pyta"
           },
-          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
+          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

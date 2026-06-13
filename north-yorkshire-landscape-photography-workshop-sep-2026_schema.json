@@ -80,7 +80,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-13",
         "priceSpecification": {
           "price": "1450.00",
           "priceCurrency": "GBP"
@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Miles Huckle"
-          },
-          "reviewBody": "An excellent day! Learned loads. Many thanks.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Paul Keating"
           },
           "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
@@ -158,9 +139,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex Rainer"
+            "name": "Miles Huckle"
           },
-          "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Bailey"
+          },
+          "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -196,9 +196,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Bailey"
+            "name": "Alex Rainer"
           },
-          "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
+          "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

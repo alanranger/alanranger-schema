@@ -81,7 +81,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Wednesdays - May 5 - May 19 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer1",
@@ -120,7 +120,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Thursdays - May 7 - May 21 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer2",
@@ -159,7 +159,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Tuesdays - Jun 2 - Jun 16 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer3",
@@ -198,7 +198,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Thursdays - Jun 18- Jun 25 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
@@ -237,7 +237,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Wednesdays - Jul 1 - Jul 15 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer5",
@@ -276,7 +276,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Mondays - Jul 6 - Jul 20 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer6",
@@ -315,7 +315,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Thursdays - Sep 17 - Oct 1 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer7",
@@ -354,7 +354,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Tuesdays - Sep 22 - Oct 6 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer8",
@@ -393,7 +393,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Mondays - Oct 12 - Oct 26 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer9",
@@ -432,7 +432,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-05-18",
+          "priceValidUntil": "2027-06-13",
           "name": "3wks Wednesdays - Oct 14 - Oct 28 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer10",
@@ -565,9 +565,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Joint Rollason"
+            "name": "Deb Moffat"
           },
-          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
+          "reviewBody": "Was a complete beginner and found this very useful to get confidence with my camera. Alan has so much knowledge and expertise to impart. Good atmosphere and some laughs along the way.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -584,9 +584,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Deb Moffat"
+            "name": "Joint Rollason"
           },
-          "reviewBody": "Was a complete beginner and found this very useful to get confidence with my camera. Alan has so much knowledge and expertise to impart. Good atmosphere and some laughs along the way.",
+          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -698,9 +698,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "KrishnaKumar Kuttan"
+            "name": "Britt van zeeland"
           },
-          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
+          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cat Harris"
+          },
+          "reviewBody": "Great course, lots of information and resources. Small group therefore not overlooked. Highly recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -736,28 +755,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Britt van zeeland"
+            "name": "KrishnaKumar Kuttan"
           },
-          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-09-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Cat Harris"
-          },
-          "reviewBody": "Great course, lots of information and resources. Small group therefore not overlooked. Highly recommend.",
+          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -831,9 +831,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Jackson"
+            "name": "Shahida Badiani"
           },
-          "reviewBody": "Had a great day with Alan on his woodland photography day. Very knowledgeable and a great teacher. Great tips from compositions and editing. Highly recommended.",
+          "reviewBody": "Great photography workshop with Alan. He was informative and gave 1 to 1 attention to all on the course. Learnt more with him that I did on my own in years!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -850,9 +850,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Shahida Badiani"
+            "name": "Paul Jackson"
           },
-          "reviewBody": "Great photography workshop with Alan. He was informative and gave 1 to 1 attention to all on the course. Learnt more with him that I did on my own in years!",
+          "reviewBody": "Had a great day with Alan on his woodland photography day. Very knowledgeable and a great teacher. Great tips from compositions and editing. Highly recommended.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

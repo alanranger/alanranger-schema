@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in 10 Composition PDFs — Photography Field Checklists Bundle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10 Composition PD Fs — Photography Field Checklists Bundle"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for 10 Composition PDFs — Photography Field Checklists Bundle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 16 Jun 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 10 Composition PDFs — Photography Field Checklists Bundle delivered as downloadable resources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10 Composition PD Fs — Photography Field Checklists Bundle 10 Composition PDFs — Photography Field Checklists Bundle 10 Composition PD Fs — Photography Field Checklists Bundle"
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists#faq"
+}

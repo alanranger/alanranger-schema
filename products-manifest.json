@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T17:14:57.878Z",
+  "generatedAt": "2026-06-13T19:35:18.960Z",
   "totalProducts": 57,
   "entries": [
     {
@@ -204,7 +204,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
       "pathKey": "/photography-services-near-me/monthly-online-photography-mentoring",
       "schemaFileName": "monthly-photography-mentoring-sessions-online-zoom_schema.json",
-      "faqFileName": ""
+      "faqFileName": "monthly-photography-mentoring-sessions-online-zoom_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
@@ -324,19 +324,19 @@
       "url": "https://www.alanranger.com/photography-services-near-me/camera-settings-photography-field-checklists",
       "pathKey": "/photography-services-near-me/camera-settings-photography-field-checklists",
       "schemaFileName": "15-camera-settings-photography-field-checklists-pdf-bundle_schema.json",
-      "faqFileName": ""
+      "faqFileName": "15-camera-settings-photography-field-checklists-pdf-bundle_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists",
       "pathKey": "/photography-services-near-me/composition-settings-photography-field-checklists",
       "schemaFileName": "10-composition-pdfs-photography-field-checklists-bundle_schema.json",
-      "faqFileName": ""
+      "faqFileName": "10-composition-pdfs-photography-field-checklists-bundle_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/photography-35bundle-photography-field-checklists",
       "pathKey": "/photography-services-near-me/photography-35bundle-photography-field-checklists",
       "schemaFileName": "35-pdfs-1-page-photography-field-checklists-bundle_schema.json",
-      "faqFileName": ""
+      "faqFileName": "35-pdfs-1-page-photography-field-checklists-bundle_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/foundation-digital-pack-plus",
