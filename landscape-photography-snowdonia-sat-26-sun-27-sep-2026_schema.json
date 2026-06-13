@@ -116,6 +116,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Nigel Capelle"
+          },
+          "reviewBody": "The landscape photography workshop in Snowdonia proved to be an enlightening experience, offering a comprehensive understanding of capturing nature's beauty. Led by Alan, the workshop adeptly combined theoretical insights with practical fieldwork, enhancing participants' technical skills and creative vision. The breathtaking Snowdonia vistas provided an ideal backdrop for mastering composition, lighting and exposure techniques, fostering a deeper appreciation for the art of landscape photography. The hands-on guidance and personalised feedback was commendable, enabling me to elevate my photography skills. Overall, the workshop's rich content, picturesque location and skilled mentor rendered it an indispensable opportunity for aspiring and seasoned photographers alike. I also enjoyed the relaxed social aspects of the workshop with first class accommodation provided.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-10-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Peter Williams"
           },
           "reviewBody": "Alan has a gentle approach to those people who are on a learning curve whilst being technical and knowledgeable to the more experienced photographer. Good patient manner with a sense of humour. well organised and expects the same from his clients.",
@@ -226,7 +245,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 6
+        "reviewCount": 7
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#product"
     }

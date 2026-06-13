@@ -135,25 +135,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Roger Neal"
-          },
-          "reviewBody": "I’ve attended a number of Alan’s workshops over the last 12 months and would thoroughly recommend them! Alan is extremely knowledgable and spends time with each person to ensure they get the maximum from the workshop. I’m looking forward to attending more workshops into the future.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Joyce James"
           },
           "reviewBody": "Just back from an excellent 3 day workshop in Northumbria. Alan really made the most of the wild and windy conditions and chose great locations to provide opportunities to learn more about fairly advanced techniques such as long exposures, bracketing and taking more than one shot to subsequently 'mask' in photoshop. A fantastic learning experience and great fun! Thanks Alan.",
@@ -336,8 +317,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.83",
-        "reviewCount": 12
+        "ratingValue": "4.82",
+        "reviewCount": 11
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops#product"
     }

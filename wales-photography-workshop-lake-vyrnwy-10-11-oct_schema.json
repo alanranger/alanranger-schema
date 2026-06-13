@@ -116,6 +116,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Graham Ibbetson"
+          },
+          "reviewBody": "As always great experience with a great teacher. Alan is very patient and really helps you learn. Learned a great deal on this course both in camera and post processing",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Serena Nicholls"
           },
           "reviewBody": "Ignited my creative side..... lesson was informative and fun but very intensive as well to get across all the information required. Looking forward to the next course",
@@ -171,7 +190,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 3
+        "reviewCount": 4
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#product"
     }

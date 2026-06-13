@@ -139,6 +139,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Ian Blake"
+          },
+          "reviewBody": "It was a great weekend with Alan - a small group so we had plenty of space but still social. Alan was able to inspire me to extend my photography both in the type of shorts (minimalism), the angles that I choose and the technical details. Thanks!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-03-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Frederick  Stubbs"
           },
           "reviewBody": "Really enjoyable despite the challenges set by Storm Dennis.  Learnt a lot",
@@ -229,7 +248,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 6
+        "reviewCount": 7
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops#product"
     }
