@@ -135,6 +135,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "David Andringa"
+          },
+          "reviewBody": "I have participated in various workshops and training with Alan. He is very knowledgeable and does listen to your needs and acts upon them. Would recommend Alan to anyone who wants to improved their photography skills",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-07-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Janice Jordan"
           },
           "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
@@ -225,8 +244,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.67",
-        "reviewCount": 6
+        "ratingValue": "4.57",
+        "reviewCount": 7
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#product"
     }

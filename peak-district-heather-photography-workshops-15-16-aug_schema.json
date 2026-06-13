@@ -205,6 +205,82 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Joanne Tapp"
+          },
+          "reviewBody": "A great Workshop - I now have the confidence to move from using Auto to Manual with clear straightforward guidance from Alan, plus a new way of looking at composition",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Iglo Losa"
+          },
+          "reviewBody": "Alan was very welcoming. He sent the group landscape tips before we arrived for the workshop. On the day he gave us a print out, to reiterate the essential points, and he was very instructive, supportive and spent dedicated time with each client.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne Veal"
+          },
+          "reviewBody": "I am an absolute beginner and was concerned that I would be overwhelmed. Alan was patient and helped me get to grip with the basics. He shared his knowledge and experience with the group. A thoroughly enjoyable afternoon in the beautiful Peak District.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert Blann"
+          },
+          "reviewBody": "Fantastic experience. Great tuition from a knowledgeable and friendly teacher. I came away with lots to think about. Unfortunately the light was not ideal but I think I learned a lot in one afternoon. Thanks Alan for your help and support.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Robin Killick"
           },
           "reviewBody": "Inspiring, exciting and has made me want to go and take more pictures and experiment with my camera.  I learnt that you just have to give it a go and that it's not just about having a really expensive camera but managing to operate it that counts!",
@@ -279,7 +355,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 4
+        "reviewCount": 8
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#product"
     }

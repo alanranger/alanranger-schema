@@ -271,9 +271,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Farrington"
+            "name": "Brain Smith Dsouza"
           },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
+          "reviewBody": "Before joining the course i thought i knew the camera basics..But really a eye opener. Glad that i joined. Also helped me to think in a more creative way than just clicking photos. Enjoyed it a lot!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -290,9 +290,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Brain Smith Dsouza"
+            "name": "Paul Farrington"
           },
-          "reviewBody": "Before joining the course i thought i knew the camera basics..But really a eye opener. Glad that i joined. Also helped me to think in a more creative way than just clicking photos. Enjoyed it a lot!",
+          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -328,28 +328,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
+            "name": "Dave Clarke"
           },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon McDonald"
-          },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -385,9 +366,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Clarke"
+            "name": "Sharon McDonald"
           },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex McDonald"
+          },
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

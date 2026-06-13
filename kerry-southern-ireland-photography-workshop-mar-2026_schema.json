@@ -116,6 +116,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewBody": "This worked well and was really useful. I will be signing up for more online teaching with Alan.  Ive just been on another one of these. They are really helpful and easy to fit in  'bit size' learning. Also great vale. Sign up and help Alan as well.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-04-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Janice Jordan"
           },
           "reviewBody": "A fabulous week with Alan in the south of France. A great variety of locations with personalised tuition.",
@@ -154,7 +173,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 2
+        "reviewCount": 3
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle#product"
     }

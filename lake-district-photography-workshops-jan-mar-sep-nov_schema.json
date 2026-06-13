@@ -273,6 +273,25 @@
             "@type": "Person",
             "name": "Shelly Soo"
           },
+          "reviewBody": "I had a 3rd hr of light room classic with Alan.  I consolidated my learning of LrC, and learning more on snapshots and how to publish on email and for competition submission, which are very useful.  Thank you.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-12-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelly Soo"
+          },
           "reviewBody": "I have thoroughly enjoyed the Lake District photography workshop with a lovely small group.  We were blessed with excellent weather those few days.  Alan drove us to areas of Lake District that I have never been. I have learnt simple basic stuff (setting up of tripods) to using of ND filters (borrowed from Alan) to Lightroom editing whenever opportunities arose. Alan is a good teacher with very clear mindset of how to take a good photograph.  He however, did leave us to try and compose our own photos ... I have enjoyed and learnt much from the feedback session. Thank you Alan.",
           "reviewRating": {
             "@type": "Rating",
@@ -433,6 +452,44 @@
             "worstRating": "1"
           },
           "datePublished": "2023-09-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Huw Jones"
+          },
+          "reviewBody": "Alan is a supportive trainer willing to share advice and guidance as you require.  He doesn't over complicate issues and ensure you get the best from the event even when the weather decides to be unhelpful",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dennis Jeffrey"
+          },
+          "reviewBody": "This is my third webinar with Alan. On each webinar he quickly assessed the knowledge of each participant so that the time was spent in what we wanted and need to learn rather than simply present a 'generic' class. He ensured that at least one image from each participant was processed during the session.  Excellent experience!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -623,8 +680,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 20
+        "ratingValue": "4.96",
+        "reviewCount": 23
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#product"
     }

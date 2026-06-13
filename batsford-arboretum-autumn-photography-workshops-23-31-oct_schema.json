@@ -873,25 +873,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewBody": "Learned a lot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "supriya s m"
           },
           "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
@@ -949,6 +930,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "James Collins"
+          },
+          "reviewBody": "Learned a lot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Neil W"
           },
           "reviewBody": "Recently I attended a photography workshop with Alan at Batsford Arboretum.  The focus of the session concentrated on composition, aiming to make you think about the photograph you have in mind.  Alan has a wealth of knowledge and has the knack of being able to explain topics in an easy to understand way pitching at the right level - he’s very happy to take questions and encourages engagement.  A very positive experience, I enjoyed my afternoon taking on board the hints and tips that Alan provided.  Thank you.",
@@ -987,9 +987,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Tim Chance"
+            "name": "Nicholas Barber"
           },
-          "reviewBody": "Great experience in a lovely location at Batsford Arboretum photographing the amazing autumn colours. Alan knows his stuff and the arboretum well so was able to guide us to some great locations and offer tips on composition, light and observation.",
+          "reviewBody": "I had a 1h 1:1 online mentoring session with Alan to sort out how to deal with my images on a long holiday. He was brilliant, clear instructions and a 2 page accurate summary of our conversation followed the same day.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1006,9 +1006,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nicholas Barber"
+            "name": "Tim Chance"
           },
-          "reviewBody": "I had a 1h 1:1 online mentoring session with Alan to sort out how to deal with my images on a long holiday. He was brilliant, clear instructions and a 2 page accurate summary of our conversation followed the same day.",
+          "reviewBody": "Great experience in a lovely location at Batsford Arboretum photographing the amazing autumn colours. Alan knows his stuff and the arboretum well so was able to guide us to some great locations and offer tips on composition, light and observation.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1044,28 +1044,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Philip Hart"
+            "name": "Atmos"
           },
-          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Neil Barford"
-          },
-          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
+          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1082,9 +1063,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Atmos"
+            "name": "Dr. Yumna I S"
           },
-          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
+          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1120,9 +1101,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dr. Yumna I S"
+            "name": "Philip Hart"
           },
-          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
+          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Neil Barford"
+          },
+          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1177,9 +1177,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nick F"
+            "name": "Ian Hardwick"
           },
-          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
+          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1215,9 +1215,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Hardwick"
+            "name": "Nick F"
           },
-          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
+          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

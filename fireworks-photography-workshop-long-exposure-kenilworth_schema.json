@@ -173,6 +173,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Laura Byrne"
+          },
+          "reviewBody": "Alan is an amazing photographer and teacher. Im currently learning with him and don't intend on stopping any time soon. Hes understanding and encouraging of anyones ability and I just love his work and his methods of teaching. My photography has come on ten fold since learning with Alan",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2017-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Eva B"
           },
           "reviewBody": "For this fireworks photo-shoot Alan sent out a clear briefing sheet beforehand and answered my questions by email, which helped me prepare before getting there. Starting early, he gave each of us time and help to get our cameras set up and ready to shoot. Once the fireworks started he checked with each of us that everything was going according to plan, giving guidance as needed.  I got some great photos - really pleased I went!",
@@ -210,8 +229,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": 5
+        "ratingValue": "4.83",
+        "reviewCount": 6
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#product"
     }

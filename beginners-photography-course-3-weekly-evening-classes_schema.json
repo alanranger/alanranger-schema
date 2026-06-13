@@ -489,6 +489,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Alex Rainer"
+          },
+          "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Paul Bailey"
           },
           "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
@@ -511,25 +530,6 @@
             "name": "Michael Harrott"
           },
           "reviewBody": "Beginners Camera Class Good informative sessions at a good pace to enable learning and understanding. Now starting to understand the basics of how my camera works and how to set it up. Enjoyed it",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex Rainer"
-          },
-          "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -641,9 +641,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Deb Moffat"
+            "name": "Joint Rollason"
           },
-          "reviewBody": "Was a complete beginner and found this very useful to get confidence with my camera. Alan has so much knowledge and expertise to impart. Good atmosphere and some laughs along the way.",
+          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -660,9 +660,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Joint Rollason"
+            "name": "Deb Moffat"
           },
-          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
+          "reviewBody": "Was a complete beginner and found this very useful to get confidence with my camera. Alan has so much knowledge and expertise to impart. Good atmosphere and some laughs along the way.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -774,9 +774,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Cat Harris"
+            "name": "KrishnaKumar Kuttan"
           },
-          "reviewBody": "Great course, lots of information and resources. Small group therefore not overlooked. Highly recommend.",
+          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -812,9 +812,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "KrishnaKumar Kuttan"
+            "name": "Cat Harris"
           },
-          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
+          "reviewBody": "Great course, lots of information and resources. Small group therefore not overlooked. Highly recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -860,6 +860,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-09-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Technically competent and shared this and his experience freely. Offered professional advice and guidance with a light touch to help me, a complete novice, feel sufficiently at ease to move off Auto. I can now to start making progress and will be back for more, because it was money well spent",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -917,25 +936,6 @@
             "worstRating": "1"
           },
           "datePublished": "2025-05-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael Auinger"
-          },
-          "reviewBody": "Alan is an amazing photographer! The photos are excellent and were sent on the same day (digital version). It all went really smooth. Definitely calling him again when in need for a photoshoot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-05-23",
           "publisher": {
             "@type": "Organization",
             "name": "Google"

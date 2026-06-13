@@ -1518,25 +1518,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
-          },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Mike McMahon"
           },
           "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
@@ -1556,9 +1537,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ruth Martin"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mihail Radkov"
+          },
+          "reviewBody": "I joined one of the early morning Bluebells Workshop and had a great experience. Alan is incredibly knowledgeable and passionate about landscape photography, and a pleasure to learn from. His clear tuition and constructive feedback genuinely help you progress as a photographer regardless of your current level.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1575,9 +1575,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mihail Radkov"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "I joined one of the early morning Bluebells Workshop and had a great experience. Alan is incredibly knowledgeable and passionate about landscape photography, and a pleasure to learn from. His clear tuition and constructive feedback genuinely help you progress as a photographer regardless of your current level.",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

@@ -116,6 +116,120 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Matthew Partridge"
+          },
+          "reviewBody": "Gave me a lot of clear, practical guidance and advice for my LRPS. Was candid and honest about my photography while still being constructive and supportive.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia Pearl"
+          },
+          "reviewBody": "Alan is very professional in his approach, and is able to communicate well – sharing a wealth of his expert photographic knowledge. Highly recommended  as a tutor/ mentor",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-12-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Hill"
+          },
+          "reviewBody": "Alan is such a friendly host, full of knowledge and a strong history of photography. His people skills and approach to tutoring is very positive. If you’re looking for a tutor, feedback on your current skills or anything in the photography world, I could not recommend Alan Ranger photography enough! Thank you Alan, see you again soon for a day out!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Ellis"
+          },
+          "reviewBody": "Alan’s advice and help is always invaluable. I’ve been taking part in the monthly mentoring sessions for the past year and I know I can always rely on him for clear and honest feedback and as a result feel I have really improved my photographic skills in a way that I could never have done by simply reading theory and articles.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter Orton"
+          },
+          "reviewBody": "The service and expertise is outstanding. No hesitation in recommending his services. We worked together on my photography panel for a distinction qualification with the RPS. In all areas (art craft and science) he is a true expert. In addition his character is friendly and helpful. His knowledge is extensive and constantly growing. He supports all levels of photographers.  In addition to his support, I worked with him in the field planning and photographing a number of sites, on the coast, over 3 days. Once again a superb service. Peter",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara V"
+          },
+          "reviewBody": "Working towards a distinction I found mentoring with Alan extremely helpful, he is very knowledgeable about all aspects of photography and processing.  He worked with me at a pace which was just right for me.  I thoroughly recommend mentoring with Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "David Orchard"
           },
           "reviewBody": "A good session and well organised.",
@@ -126,6 +240,139 @@
             "worstRating": "1"
           },
           "datePublished": "2024-04-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly McDonnell"
+          },
+          "reviewBody": "Amazing mentor, fantastic photographer. Will definitely book more courses in the future. Would give ten stars if I could.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-08-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chris brown"
+          },
+          "reviewBody": "Really educational and practical 1-2-1 session with Alan.  Extremely worthwhile.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2022-10-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew Payton"
+          },
+          "reviewBody": "I've booked a block of 4 two hour 1-1 sessions with Alan in order to gain the knowledge and experience that I need to start my journey into photography. I'm a complete novice at this, but having completed my first session, I already feel comfortable and confident that Alan will guide me through the world of photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2022-01-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter Hagger"
+          },
+          "reviewBody": "Had a very good mentoring session last night with Alan, plenty of work for me to do but soem very good feedback.  Feel more positive about my photography  Had another session this week in November 2021 and this was a really useful session and once again it left me feeling positive.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicholas Barber"
+          },
+          "reviewBody": "I had a 2h f2f mentoring session with Alan. I thought I was pretty knowledgeable about photography however I was amazed how much I learned in that time. I feel I have been given insight into a deeper level of craft and skill and am looking forward to putting this into practice and developing it in follow up sessions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ash Routen"
+          },
+          "reviewBody": "I booked a one-to-one tutorial session with Alan at a local National Trust property. Alan was very personable and explained key concepts in an understandable manner. I took away one good piece of learning related to the technical side, and a number related to composition. Below are some of the pics that came from the session with Alan. I would recommend Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-06-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Flack"
+          },
+          "reviewBody": "Brilliant!!!  Had several mentoring feedback sessions and all of them have been beneficial.  Every session full of useful and relevant information.  Assessments and feedback is honest, accurate and delivered in Alan's inimitable style.  Always something I look forward to.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-04-24",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -209,8 +456,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": 5
+        "ratingValue": "4.89",
+        "reviewCount": 18
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#product"
     }

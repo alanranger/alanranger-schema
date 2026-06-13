@@ -116,6 +116,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Michael Rowley"
+          },
+          "reviewBody": "I contacted Alan as I needed a quick turn around on a sensor clean before holiday. Alan sorted it out within a short time frame for a sensible price. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Sutton"
+          },
+          "reviewBody": "Excellent service and would recommend highly. Helped my son out at the last minute and now his camera is dust free. One happy lad. Thanks Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-08-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Jason"
           },
           "reviewBody": "I have just attended the 3hr beginner course and found it excellent. The delivery and passion for photography shown by Alan was evident throughout. I found the session informative and enjoyable and thoroughly recommend this course to anyone interested in starting a photography journey. I am looking forward to attending more courses and seeing where I can go.",
@@ -189,7 +227,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 4
+        "reviewCount": 6
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#product"
     }

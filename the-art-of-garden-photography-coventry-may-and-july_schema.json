@@ -158,6 +158,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Joanne galloway"
+          },
+          "reviewBody": "I have had the pleasure of attending several courses and workshops run by Alan and certainly plan to do more.  He is a true professional who shares his knowledge & experience with an overriding intention to improve your photography and increase the enjoyment on every occasion. Very straight talking to ensure you get the best from your photography and move from snaps to creativity. Alan goes the extra mile to help and support …. Even when his patience is tested !!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-08-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Kate Tait"
           },
           "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. You would think that 3 hours of listening and trying to understand the very basics of photography would drag,  but actually the time went fast. Alan was knowledgeable, keen to impart that knowledge,  and all 11 of us in the room made some small or large contribution to the evening. I have come away knowing a lot more than I knew when I started, and am looking forward to recharging those camera batteries to take photographs  (not snaps!) that have been created, not snapped with hopefulness!  As a stand alone evening this was a great start. There is the opportunity to continue on the 5 week course at a discounted rate if booked on the evening, however my personal feeling was that I would prefer to start practicing with my Bridge camera before committing a further  £175 (£200 if booked after the easy photography evening). Thanks Alan for teaching the basics.",
@@ -212,8 +231,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.33",
-        "reviewCount": 3
+        "ratingValue": "4.5",
+        "reviewCount": 4
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#product"
     }

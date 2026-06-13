@@ -120,6 +120,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Jimmy Concannon"
+          },
+          "reviewBody": "As a novice to photography I engaged with Alan to put me in the right direction. From the offset Alan was an inspiration, he has a depth of knowledge which he is willing to pass on. He got me going in the right direction from the first lesson, explained what I should be doing and gave me a better understanding of what to look for whilst taking pictures. During my course I got a good understanding of light, bracketing, settings, the subject, colours, noise, etc. Alan is a very good teacher who makes you feel relaxed. I would highly recommend any novice take a course with Alan it is money very well spent.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-03-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "peter martin"
+          },
+          "reviewBody": "Informative demonstration regarding bracketing and stacking. I also received very useful observations and advice upon many of my photos.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-30",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "John Amies"
           },
           "reviewBody": "I was encouraged that Alan Ranger believes good photographs should be produced in the main by a combination of the photographer and the camera and not by hours of post-shoot processing in Photoshop.",
@@ -212,7 +250,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 5
+        "reviewCount": 7
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course#product"
     }
