@@ -120,63 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Keating"
-          },
-          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Miles Huckle"
-          },
-          "reviewBody": "An excellent day! Learned loads. Many thanks.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Chris Stamp"
-          },
-          "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-13",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "James Cameron"
           },
           "reviewBody": "Alan is relatively not that well known and it is only time until he is. My advice to everyone reading this, is to book a session and approach it with an open mind and you will get tonnes of value from the time spent with him.",
@@ -271,7 +214,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 8
+        "reviewCount": 5
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#product"
     }
