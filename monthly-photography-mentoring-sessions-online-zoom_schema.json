@@ -116,6 +116,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "David Orchard"
+          },
+          "reviewBody": "A good session and well organised.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-04-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Customer"
           },
           "reviewBody": "I’ve been on a few of Alan’s courses as well as 1-2-1 mentoring and weekend away. His knowledge is first class and expertly given and I can see a massive difference. Not just in my images but also in my approach to taking an image, how to critique it and then to process it using a standard workflow. Would recommend Alan who want so improve regardless of what level you are at",
@@ -190,8 +209,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 4
+        "ratingValue": "4.8",
+        "reviewCount": 5
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#product"
     }

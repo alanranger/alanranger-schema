@@ -252,6 +252,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "John Kitteringham"
+          },
+          "reviewBody": "Very enjoyable weekend landscape photography workshop with Alan in the Lake District.  Despite some challenging weather conditions I learnt an enormous amount and had a lot of fun.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Shelly Soo"
           },
           "reviewBody": "I have thoroughly enjoyed the Lake District photography workshop with a lovely small group.  We were blessed with excellent weather those few days.  Alan drove us to areas of Lake District that I have never been. I have learnt simple basic stuff (setting up of tripods) to using of ND filters (borrowed from Alan) to Lightroom editing whenever opportunities arose. Alan is a good teacher with very clear mindset of how to take a good photograph.  He however, did leave us to try and compose our own photos ... I have enjoyed and learnt much from the feedback session. Thank you Alan.",
@@ -376,25 +395,6 @@
             "worstRating": "1"
           },
           "datePublished": "2023-09-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Andrew Senior"
-          },
-          "reviewBody": "S[ent the day on the Secrets of Woodland Photography.  Alan helped to demystify woodland photography, especially trying to find  a way through the complexity of the clutered environment, or embracing it.  The opportunity to put the discussion into practice and then have careful consideration of the images is invalueable.  The day went very quickly.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-09-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
