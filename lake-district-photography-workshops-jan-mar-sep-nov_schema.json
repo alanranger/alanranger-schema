@@ -366,9 +366,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patsy Louer"
+            "name": "Dave Pyta"
           },
-          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
+          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -385,9 +385,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Pyta"
+            "name": "Patsy Louer"
           },
-          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
+          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -452,25 +452,6 @@
             "worstRating": "1"
           },
           "datePublished": "2021-11-14",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dennis Jeffrey"
-          },
-          "reviewBody": "This is my third webinar with Alan. On each webinar he quickly assessed the knowledge of each participant so that the time was spent in what we wanted and need to learn rather than simply present a 'generic' class. He ensured that at least one image from each participant was processed during the session.  Excellent experience!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -662,7 +643,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.95",
-        "reviewCount": 22
+        "reviewCount": 21
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#product"
     }

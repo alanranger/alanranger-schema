@@ -116,25 +116,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patricia Pearl"
-          },
-          "reviewBody": "Alan is very professional in his approach, and is able to communicate well – sharing a wealth of his expert photographic knowledge. Highly recommended  as a tutor/ mentor",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-12-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Richard Hill"
           },
           "reviewBody": "Alan is such a friendly host, full of knowledge and a strong history of photography. His people skills and approach to tutoring is very positive. If you’re looking for a tutor, feedback on your current skills or anything in the photography world, I could not recommend Alan Ranger photography enough! Thank you Alan, see you again soon for a day out!",
@@ -268,12 +249,12 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Peter Hagger"
+            "name": "Nicholas Barber"
           },
-          "reviewBody": "Had a very good mentoring session last night with Alan, plenty of work for me to do but soem very good feedback.  Feel more positive about my photography  Had another session this week in November 2021 and this was a really useful session and once again it left me feeling positive.",
+          "reviewBody": "I had a 2h f2f mentoring session with Alan. I thought I was pretty knowledgeable about photography however I was amazed how much I learned in that time. I feel I have been given insight into a deeper level of craft and skill and am looking forward to putting this into practice and developing it in follow up sessions",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4",
+            "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
@@ -287,12 +268,12 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nicholas Barber"
+            "name": "Peter Hagger"
           },
-          "reviewBody": "I had a 2h f2f mentoring session with Alan. I thought I was pretty knowledgeable about photography however I was amazed how much I learned in that time. I feel I have been given insight into a deeper level of craft and skill and am looking forward to putting this into practice and developing it in follow up sessions",
+          "reviewBody": "Had a very good mentoring session last night with Alan, plenty of work for me to do but soem very good feedback.  Feel more positive about my photography  Had another session this week in November 2021 and this was a really useful session and once again it left me feeling positive.",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "5",
+            "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
@@ -418,8 +399,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.94",
-        "reviewCount": 16
+        "ratingValue": "4.93",
+        "reviewCount": 15
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#product"
     }

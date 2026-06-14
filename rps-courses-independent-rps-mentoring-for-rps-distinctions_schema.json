@@ -313,6 +313,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Patricia Pearl"
+          },
+          "reviewBody": "Alan is very professional in his approach, and is able to communicate well – sharing a wealth of his expert photographic knowledge. Highly recommended  as a tutor/ mentor",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-12-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Sandra Dawkes"
           },
           "reviewBody": "A few days prior to the evening workshop Alan sent through a 2 page worksheet packing with useful information, which I found helpful. Alan also set the bracketing on my camera so I could compensate for the high contrast lighting.  Second review 8 January 2026 for 1:1 meeting on zoom This was a session to review edits on my photos for the LRPS, Alan was encouraging but also honest and what I needed to do to in order to progress my panel photos.",
@@ -323,25 +342,6 @@
             "worstRating": "1"
           },
           "datePublished": "2025-09-29",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "john simpson"
-          },
-          "reviewBody": "Alan is very good at what he does. John Simpson",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-08-15",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -370,6 +370,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "john simpson"
+          },
+          "reviewBody": "Alan is very good at what he does. John Simpson",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Barbara V"
           },
           "reviewBody": "Working towards a distinction I found mentoring with Alan extremely helpful, he is very knowledgeable about all aspects of photography and processing.  He worked with me at a pace which was just right for me.  I thoroughly recommend mentoring with Alan.",
@@ -380,6 +399,44 @@
             "worstRating": "1"
           },
           "datePublished": "2024-03-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Hamilton"
+          },
+          "reviewBody": "I chose Alan Ranger for photography processing instruction because he produces images of exceptional quality.  I was pleasantly surprised to discover that Alan is an outstanding teacher.  Alan explains how I could improve my images, then demonstrates several methods of enhancement.  I can recommend Alan's course to any photographer who wishes to optimise their image processing workflow.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-08-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dennis Jeffrey"
+          },
+          "reviewBody": "This is my third webinar with Alan. On each webinar he quickly assessed the knowledge of each participant so that the time was spent in what we wanted and need to learn rather than simply present a 'generic' class. He ensured that at least one image from each participant was processed during the session.  Excellent experience!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -427,6 +484,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Anne Watkinson"
+          },
+          "reviewBody": "I have had a few 1-2-1 sessions with Alan and I have found him to be an excellent teacher. Nothing is too much trouble, he is extremely patient and made sure I understood the concepts before moving on. I can highly recommend tuition with Alan and in reality 5 stars is insufficient - I'd give him 10!!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-02-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Jacki"
           },
           "reviewBody": "I have done quite a few workshops and courses with Alan over the years, most recently the RPS course. Alan has been very supportive throughout and I have valued both his advice and very honest critique. I wouldn't hesitate to recommend Alan to anyone who wants to improve their photography.",
@@ -445,7 +521,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 9
+        "reviewCount": 13
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#product"
     }
