@@ -80,7 +80,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-06-13",
+        "priceValidUntil": "2027-06-14",
         "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
         "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#offer",
         "seller": {
@@ -112,25 +112,6 @@
         }
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Matthew Partridge"
-          },
-          "reviewBody": "Gave me a lot of clear, practical guidance and advice for my LRPS. Was candid and honest about my photography while still being constructive and supportive.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-11-06",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -192,25 +173,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Peter Orton"
-          },
-          "reviewBody": "The service and expertise is outstanding. No hesitation in recommending his services. We worked together on my photography panel for a distinction qualification with the RPS. In all areas (art craft and science) he is a true expert. In addition his character is friendly and helpful. His knowledge is extensive and constantly growing. He supports all levels of photographers.  In addition to his support, I worked with him in the field planning and photographing a number of sites, on the coast, over 3 days. Once again a superb service. Peter",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-08-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Chris Dunn"
           },
           "reviewBody": "Alan is an excellent and highly knowledgeable photography tutor. I’ve learned a great deal from our online sessions, and I’m looking forward to attending some of his workshops in the near future.",
@@ -240,25 +202,6 @@
             "worstRating": "1"
           },
           "datePublished": "2025-03-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Barbara V"
-          },
-          "reviewBody": "Working towards a distinction I found mentoring with Alan extremely helpful, he is very knowledgeable about all aspects of photography and processing.  He worked with me at a pace which was just right for me.  I thoroughly recommend mentoring with Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-11-03",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -475,8 +418,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 19
+        "ratingValue": "4.94",
+        "reviewCount": 16
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring#product"
     }
