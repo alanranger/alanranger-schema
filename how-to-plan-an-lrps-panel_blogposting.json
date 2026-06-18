@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel#blogposting",
-  "headline": "How To Plan An Lrps Panel",
-  "alternativeHeadline": "How To Plan An Lrps Panel | Alan Ranger Photography",
+  "headline": "How to Plan an LRPS Panel: A Practical Guide for 2026",
+  "alternativeHeadline": "How to Plan an LRPS Panel: A Practical Guide for 2026 | Alan Ranger Photography",
   "description": "If you are weighing up the Associate instead, or have already passed the Licentiate, the planning approach for that next level is covered in a companion.",
   "url": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel",
   "datePublished": "2026-05-25T00:00:00.000Z",
@@ -71,12 +71,12 @@
     {
       "@type": "VideoObject",
       "@id": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel#video-youtube-_AQIJrxGD8o",
-      "name": "How To Plan An Lrps Panel - Video",
+      "name": "How to Plan an LRPS Panel: A Practical Guide for 2026 - Video",
       "description": "If you are weighing up the Associate instead, or have already passed the Licentiate, the planning approach for that next level is covered in a companion.",
       "url": "https://www.youtube.com/watch?v=_AQIJrxGD8o",
       "embedUrl": "https://www.youtube.com/embed/_AQIJrxGD8o",
       "thumbnailUrl": "https://i.ytimg.com/vi/_AQIJrxGD8o/hqdefault.jpg",
-      "uploadDate": "2026-05-25",
+      "uploadDate": "2026-05-25T00:00:00+00:00",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       }
@@ -84,12 +84,12 @@
     {
       "@type": "VideoObject",
       "@id": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel#video-youtube-NlRdWCJOFfI",
-      "name": "How To Plan An Lrps Panel - Video",
+      "name": "How to Plan an LRPS Panel: A Practical Guide for 2026 - Video",
       "description": "If you are weighing up the Associate instead, or have already passed the Licentiate, the planning approach for that next level is covered in a companion.",
       "url": "https://www.youtube.com/watch?v=NlRdWCJOFfI",
       "embedUrl": "https://www.youtube.com/embed/NlRdWCJOFfI",
       "thumbnailUrl": "https://i.ytimg.com/vi/NlRdWCJOFfI/hqdefault.jpg",
-      "uploadDate": "2026-05-25",
+      "uploadDate": "2026-05-25T00:00:00+00:00",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       }
