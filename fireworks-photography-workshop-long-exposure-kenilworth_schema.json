@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Fireworks Photography Workshop - Long exposure and fireworks. Learn about camera settings, exposure use and composition.Summary Location: Kenilworth Dates: TBC Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Fireworks Description: Fireworks photography workshop Kenilworth. We will be photographing from outside the castle walls so you don't need to by a ticket for the display. Kenilworth castle acts an excellent backdrop for the amazing fireworks display organised by the Round...",
+      "description": "Fireworks Photography Workshop - Long exposure and fireworks. Learn about camera settings, exposure use and composition.Summary Location: Kenilworth Dates: TBC Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Fireworks Description: This Fireworks Photography Workshop is a one-off evening capturing one of the most exciting subjects in photography — a full fireworks display bursting over the floodlit ruins of Kenilworth Castle. Open to all levels and any camera, it's built...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713518270092-GJSBASA0ZLL4NBMCK355/Kenilworth+Fireworks+2017+-+2.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
       "offers": {
@@ -78,9 +78,9 @@
         "sku": "SQ1182401",
         "price": "75.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-06-14",
+        "availability": "https://schema.org/OutOfStock",
+        "validFrom": "2026-06-19",
+        "priceValidUntil": "2027-06-19",
         "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
         "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#offer",
         "seller": {

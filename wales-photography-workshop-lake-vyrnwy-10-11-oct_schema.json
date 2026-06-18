@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-Wales Location: Wales - Dee Valley Dates: Sat 10 th - Sun 11 th Oct 2026 - 2 Days/1 Night Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Wales Photography Workshop Event Details: Lake Vyrnwy Description: Pistyll Rhaeadr is an enchanting waterfall in the Berwyn Mountains, just inside Wales, west of Oswestry and Shrewsbury. At 240 ft (73 m) high, Britain's tallest single-drop waterfall (with a drop 20 m higher than...",
+      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-Wales Location: Wales - Dee Valley Dates: Sat 10 th - Sun 11 th Oct 2026 - 2 Days/1 Night Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Wales Photography Workshop Event Details Lake Vyrnwy Description: This is a 2-day, 1-night residential Wales photography workshop based in the valleys of Mid-Wales, open to all levels from beginner to advanced. It's built around two of the country's most rewarding landscape...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714636535694-5SWM865PVWA9MMT8LCQB/Dawn+at+Lake+Vyrnwy_.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "695.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-06-14",
+        "validFrom": "2026-06-19",
+        "priceValidUntil": "2027-06-19",
         "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
         "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#offer",
         "seller": {

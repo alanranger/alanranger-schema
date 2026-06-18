@@ -65,24 +65,24 @@
     {
       "@type": "Product",
       "name": "RPS Courses - Independent RPS Mentoring for RPS Distinctions",
-      "sku": "SQ3499847",
+      "sku": "SQ7839038",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "RPS Courses - Independant RPS Mentoring for RPS Distinctions - Start anytime, you select six online Zoom sessions within twelve months at intervals to suit you RPS Courses - Mentoring for Distinctions Participants: Via Zoom online in a group of max 3, or on 1-2-1 basis.Equipment Needed: Zoom App Dropbox App used for updated portfolios and images Terms: Sessions must be taken within 12 months of booking the course or forfeited, but there are options to extend the timeline and retain unused classes or add additional classes.Method:Technical and creative critique with suggestions for improvement...",
+      "description": "RPS Courses - Independant RPS Mentoring for RPS Distinctions - Start anytime, you select a package of Zoom sessions within twelve months at intervals to suit you Description: Independent one-to-one RPS mentoring for your Licentiate (LRPS) or Associate (ARPS) distinction — online via Zoom, with a mentor who holds both distinctions himself and has a 100% pass rate to date. Most photographers who fall short don't fail on technique — they submit a collection of strong individual images rather than a planned, cohesive panel, and a panel is judged as a whole. That judgement — image selection,...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707307452323-G3C2AIXAHRLLVB36VASA/RPS+Courses.jpg",
       "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ3499847",
-          "price": "295.00",
+          "sku": "SQ7839038",
+          "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "RPS Distinctions Course - 6 Sessions",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Fri 9am-5pm 1 x 1hr",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer1",
           "seller": {
@@ -115,13 +115,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5925235",
-          "price": "75.00",
+          "sku": "SQ3867813",
+          "price": "170.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "RPS Extend 6 Months (No Extra Sessions)",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Fri 9am-5pm 4 x 1hr",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer2",
           "seller": {
@@ -154,13 +154,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ1898169",
-          "price": "75.00",
+          "sku": "SQ8903198",
+          "price": "240.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "RPS Extend 2 classes within 3 months",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Fri 9am-5pm 6 x 1hr",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer3",
           "seller": {
@@ -193,13 +193,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ7296901",
-          "price": "125.00",
+          "sku": "SQ4831915",
+          "price": "300.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "RPS Extend 4 classes within 6 months",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Fri 9am-5pm  8x 1hr",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer4",
           "seller": {
@@ -232,15 +232,210 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ4136369",
-          "price": "150.00",
+          "sku": "SQ1077689",
+          "price": "450.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "RPS Extend 6 classes 12 months Extra",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Fri 9am-5pm 12 x 1hr",
           "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ8233730",
+          "price": "75.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Sun 9am-9pm 1 x 1hr",
+          "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer6",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ9139531",
+          "price": "255.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Sun 9am-9pm 4 x 1hr",
+          "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer7",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ0776423",
+          "price": "360.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Sun 9am-9pm 6 x 1hr",
+          "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer8",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ2385997",
+          "price": "450.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Sun 9am-9pm 8 x 1hr",
+          "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer9",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ9440259",
+          "price": "675.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Mon- Sun 9am-9pm 12 x 1hr",
+          "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+          "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#offer10",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -351,9 +546,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Peter Orton"
+            "name": "john simpson"
           },
-          "reviewBody": "The service and expertise is outstanding. No hesitation in recommending his services. We worked together on my photography panel for a distinction qualification with the RPS. In all areas (art craft and science) he is a true expert. In addition his character is friendly and helpful. His knowledge is extensive and constantly growing. He supports all levels of photographers.  In addition to his support, I worked with him in the field planning and photographing a number of sites, on the coast, over 3 days. Once again a superb service. Peter",
+          "reviewBody": "Alan is very good at what he does. John Simpson",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -370,9 +565,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "john simpson"
+            "name": "Peter Orton"
           },
-          "reviewBody": "Alan is very good at what he does. John Simpson",
+          "reviewBody": "The service and expertise is outstanding. No hesitation in recommending his services. We worked together on my photography panel for a distinction qualification with the RPS. In all areas (art craft and science) he is a true expert. In addition his character is friendly and helpful. His knowledge is extensive and constantly growing. He supports all levels of photographers.  In addition to his support, I worked with him in the field planning and photographing a number of sites, on the coast, over 3 days. Once again a superb service. Peter",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

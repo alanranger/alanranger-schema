@@ -70,8 +70,8 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4 hr Heather Peak District Photography Workshops | All levels welcome Summary Location: Peak District - Derbyshire/Staffordshire 2026 - Sat 15 th Aug 18:15 21:15 - Derbyshire Surprise View 2026 - Sun 17 th Aug 05:45 08:45 - Staffordshire - The Roaches Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Heathers Description: Peak District heather Workshops Surprise View, perched atop...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707246605883-FVZKLJN54Z455J1Q13CV/peak+district+heather.jpg",
+      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4 hr Heather Peak District Photography Workshops | All levels welcome Summary Location: Peak District - Derbyshire/Staffordshire 2026 - Sat 15 th Aug 18:15 21:15 - Derbyshire Surprise View 2026 - Sun 17 th Aug 05:45 08:45 - Staffordshire - The Roaches Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Heathers Description: Every August the moors of the Peak District turn a spectacular purple...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1685361335026-KNDKR6D00CTPUASRDWDV/Surprise%2BView%2B2.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
       "offers": [
         {
@@ -80,8 +80,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Sat 15 Aug 2026 - Hathersage 18:15 - 21:15",
           "priceSpecification": {
             "price": "125.00",
@@ -123,8 +123,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Sun 16 Aug 2026 - The Roaches & Ramshaw 05:45 - 08:45",
           "priceSpecification": {
             "price": "125.00",
@@ -166,8 +166,8 @@
           "price": "200.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Both sessions - 15 and 16 Aug - sunset and sunrise",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer3",
@@ -262,25 +262,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sharon McDonald"
-          },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Alex McDonald"
           },
           "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
@@ -300,16 +281,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Philip Hart"
+            "name": "Sharon McDonald"
           },
-          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4",
+            "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-10-20",
+          "datePublished": "2026-05-16",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -325,6 +306,25 @@
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Philip Hart"
+          },
+          "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },

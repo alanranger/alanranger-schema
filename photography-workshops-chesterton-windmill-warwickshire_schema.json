@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Chesterton windmill is one of Warwickshire's most famous landmarks. Join me in a sunset landscape photography workshop and learn about composition and light Summary Location: Warwickshire - Chesterton Dates:Wed 16 th Sep 2026 - 18:00 - 20:30 Mon 5 th Oct 2026 - 17:30 - 20:00 Tue 13 th May 2027 - 18:15 - 20:15 Mon 10 th May 2027 - 18:30 - 20:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Chesterton Description: Immerse yourself in the beauty of Warwickshire's iconic...",
+      "description": "Chesterton windmill is one of Warwickshire's most famous landmarks. Join me in a sunset landscape photography workshop and learn about composition and light Summary Location: Warwickshire - Chesterton Dates:Wed 16 th Sep 2026 - 18:00 - 20:30 Mon 5 th Oct 2026 - 17:30 - 20:00 Tue 13 th May 2027 - 18:15 - 20:15 Mon 10 th May 2027 - 18:30 - 20:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Chesterton Description: This sunset landscape photography workshop is an evening shoot...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714682519866-NVMB6B7Q4F93DGOGPQIK/Moonlit+Chesterton.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Wed 16th Sep 2026 - 18:00 - 20:30",
           "priceSpecification": {
             "price": "50.00",
@@ -123,8 +123,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Mon 5th Oct 2026 - 17:30 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -166,8 +166,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Tue 13th Apr 2027 - 18:15 - 20:15",
           "priceSpecification": {
             "price": "50.00",
@@ -209,8 +209,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Mon 10th May 2027 - 18:30 - 20:30",
           "priceSpecification": {
             "price": "50.00",

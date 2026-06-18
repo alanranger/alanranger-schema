@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Sunset landscape long exposure photography workshop shoots around Kenilworth Castle - Warwickshire - Various Dates | Long Exposures | Open to all levels| Book Today Summary Location: Warwickshire - Kenilworth Dates:Mon 11 May 2026 - 18:30 - 20:30 Tue 1 Sep 2026 - 18:00 - 20:00 Wed 23 Sep 2026 - 17:45 - 19:45 Mon 22 Mar 2027 - 18:00 - 20:00 Wed 14 Apr 2027 - 18:30 - 20:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Kenilworth Description: Join me for this evening Long...",
+      "description": "Sunset landscape long exposure photography workshop shoots around Kenilworth Castle - Warwickshire - Various Dates | Long Exposures | Open to all levels| Book Today Summary Location: Warwickshire - Kenilworth Dates:Mon 11 May 2026 - 18:30 - 20:30 Tue 1 Sep 2026 - 18:00 - 20:00 Wed 23 Sep 2026 - 17:45 - 19:45 Mon 22 Mar 2027 - 18:00 - 20:00 Wed 14 Apr 2027 - 18:30 - 20:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Kenilworth Description: This Long Exposure Photography...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1712472502735-OHOKCDKMCP1BAMQ0JQUA/kenilworth+defenses.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
       "offers": [
@@ -79,9 +79,9 @@
           "sku": "SQ5325711",
           "price": "50.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Mon 11 May 2026 - 18:30 - 20:30",
           "priceSpecification": {
             "price": "50.00",
@@ -123,8 +123,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Tue 1 Sep 2026 - 18:00 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -166,8 +166,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Wed 23 Sep 2026 - 17:45 - 19:45",
           "priceSpecification": {
             "price": "50.00",
@@ -209,8 +209,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Mon 22 Mar 2027 - 18:00 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -252,8 +252,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Wed 14 Apr 2027 - 18:30 - 20:30",
           "priceSpecification": {
             "price": "50.00",

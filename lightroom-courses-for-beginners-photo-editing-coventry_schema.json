@@ -65,104 +65,26 @@
     {
       "@type": "Product",
       "name": "Lightroom Courses for Beginners Photo Editing - Coventry",
-      "sku": "SQ6876661",
+      "sku": "SQ7526725",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Summary Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Duration: 3 Weekly 2 hr Evening Classes - All evening classes are from 19:00 to 21:00 Participants: Max 3 Lightroom Courses Event Details: Editing Course Coventry 3 wks - Wed 4 Mar - 18 Mar 2026 Coventry 3 wks - Wed 13 May - 27 May 2026 Coventry 3 wks - Mon 7 Sep - 21 Sep 2026 Coventry 3 wks - Thu 12...",
+      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Location: 45 Hathaway Road, Coventry, CV4 9HW Duration: 3 × 2 hr evening classes (19:00–21:00)Participants: Max 3 Start Dates: Lightroom Editing Course Coventry 3 wks - Mon 7 Sep - 21 Sep 2026 Coventry 3 wks - Thu 12 Nov - 26 Nov 2026 Level: Beginners Description: A practical three-week evening course that takes you from a messy photo library and untouched RAW files to a...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/fe40a5e1-7fa2-4057-982e-555479b97022/Lightroom+courses+-+photo+editing+course.png",
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "offers": [
-        {
-          "@type": "Offer",
-          "sku": "SQ6876661",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Coventry 3 wks - Wed 4 Mar - 18 Mar 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ0415856",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Coventry 3 wks - Wed 13 May - 27 May 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
         {
           "@type": "Offer",
           "sku": "SQ7526725",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -197,11 +119,11 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",

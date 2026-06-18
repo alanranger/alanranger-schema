@@ -65,143 +65,26 @@
     {
       "@type": "Product",
       "name": "WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs",
-      "sku": "SQ7078023",
+      "sku": "SQ1654264",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Informal woodland photography walks in and around Warwickshire Woodlands - All Levels and types of camera welcome - Length 2 hrs. 9:30 am-11:30 am Summary Location: Various Warwickshire Woodlands 2025 - 09:30 - 11:30 Crackley Wood, Kenilworth - Fri Nov 7 Hay Woods - Solihull Fri Dec 5 Tile Hill Nature Reserve Mon Dec 82026 - 09:30 - 11:30 Hay Woods - Solihull Fri Jan 2 Tile Hill Nature Reserve Mon Feb 2 Millisons Wood, Meriden -Sun May 3 Piles Coppice, Coventry - Fri Oct 16 Participants: Max 6 Fitness: 1. Easy Experience Level: Novice to Beginner Equipment Needed: Phone or Digital Camera...",
+      "description": "Informal woodland photography walks in and around Warwickshire Woodlands - All Levels and types of camera welcome - Length 2 hrs. 9:30 am-11:30 am Summary Location: Various Warwickshire Woodlands 2026 - 09:30 - 11:30 Hay Woods - Solihull Fri Jan 2 Tile Hill Nature Reserve Mon Feb 2 Millisons Wood, Meriden -Sun May 3 Piles Coppice, Coventry - Fri Oct 16 Crackley Wood, Kenilworth - Fri Nov 6 Hay Woods - Solihull Fri Dec 4 Participants: Max 6 Fitness: 1. Easy Experience Level: Novice to Beginner Equipment Needed: Phone or Digital Camera Photography Workshop Event Details: Woodland Walks...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707217364251-99ITJH38DI58S3G3YA47/Woodland+Photography+Walk.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ7078023",
-          "price": "15.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Fri Nov 7 - Crackley Wood, Kenilworth",
-          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer1",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ3819844",
-          "price": "15.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Fri Dec 5 - Hay Wood - Lapworth",
-          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ3142823",
-          "price": "15.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Mon Dec 8 - Tile Hill Nature Reserve - Coventry",
-          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer3",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
           "sku": "SQ1654264",
           "price": "15.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Fri Jan 2 Hay Woods - Solihull",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer4",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -236,11 +119,11 @@
           "price": "15.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Mon Feb 2 - Tile Hill Nature Reserve - Coventry",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer5",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer2",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -275,11 +158,11 @@
           "price": "15.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Sun May 3 - Millisons Wood, Meriden",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer6",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -314,11 +197,89 @@
           "price": "15.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
           "name": "Fri Oct 16 - Piles Coppice, Coventry",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer7",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7078023",
+          "price": "15.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Fri Nov 6 - Crackley Wood, Kenilworth",
+          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3819844",
+          "price": "15.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Fri Dec 4 - Hay Wood - Lapworth",
+          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#offer6",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",

@@ -65,24 +65,24 @@
     {
       "@type": "Product",
       "name": "Landscape Photography DEVON Workshops - Various Dates",
-      "sku": "SQ3856406",
+      "sku": "SQ2516659",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Hartland Quay - Landscape Photography Devon Workshop - Join me for this photo workshop to the best coastal and dramatic parts of Devon.Summary Location: North Devon - Hartland Quay Dates:Thu 19 th 12:30 - Sun 22 nd 12:30 Feb 2026 - 4 Days/3 Nights Fri 4 th Sep - Sun 6 th Sep 2026 - 3 Days/2 Nights Participants: Max 4 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera, Tripod and ND Filters Photography Workshop Event Details: Devon Description: Our landscape photography devon workshops are carefully crafted to provide you with an immersive...",
+      "description": "Hartland Quay - Landscape Photography Devon Workshop - Join me for this photo workshop to the best coastal and dramatic parts of Devon.Summary Location: North Devon - Hartland Quay Dates:Fri 4 th Sep - Sun 6 th Sep 2026 - 3 Days/2 Nights Thu 18 th 12:30 - Sun 21 st 12:30 Feb 2027 - 4 Days/3 Nights Participants: Max 4 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera, Tripod and ND Filters (tripod and filters can be provided)Photography Workshop Event Details Devon Description: This is a multi-day residential landscape photography workshop...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714299365471-K36RWNIKFNGJ4C70UEXB/Atlantic+Force.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ3856406",
-          "price": "895.00",
+          "sku": "SQ2516659",
+          "price": "775.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Thu 19th 12:30 - Sun 22nd 12:30 Feb 2026 - 4 Days/3 Nights",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Fri 4th Sep - Sun 6th Sep 2026 - 3 Days/2 Nights",
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
           "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer1",
           "seller": {
@@ -115,13 +115,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ2516659",
-          "price": "775.00",
+          "sku": "SQ3856406",
+          "price": "950.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Fri 4th Sep - Sun 6th Sep 2026 - 3 Days/2 Nights",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Thu 18th 12:30 - Sun 21st 12:30 Feb 2027 - 4 Days/3 Nights",
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
           "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay#offer2",
           "seller": {

@@ -70,17 +70,21 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Macro and abstract Garden photography workshop. Camera settings, controlling Do F and composition at this Mughal Indian palace in the Cotswolds.Summary Location: Moreton on Marsh (Sezincote) - Gloucestershire Dates: Thu 29 th May 2026 - 11:00 - 13:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Garden Photography Description: Sezincote is a Mughal Indian palace set in the Cotswold Hills, created by the nabob Charles Cockerell in 1805.The house is surmounted by a copper...",
+      "description": "Macro and abstract Garden photography workshop. Camera settings, controlling Do F and composition at this Mughal Indian palace in the Cotswolds.Summary Location: Moreton on Marsh (Sezincote) - Gloucestershire Dates: Thu 29 th May 2026 - 11:00 - 13:30 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Garden Photography Description: This Sezincote Garden Photography Workshop takes you into one of the most extraordinary gardens in the Cotswolds — the grounds of a Mughal Indian...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715077805264-XJYPE427XFHYBMW7L4TL/_.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
       "offers": {
         "@type": "Offer",
         "sku": "SQ9859986",
-        "price": "55.00",
+        "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-06-14",
+        "validFrom": "2026-06-19",
+        "priceValidUntil": "2027-06-19",
+        "priceSpecification": {
+          "price": "50.00",
+          "priceCurrency": "GBP"
+        },
         "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop#offer",
         "seller": {

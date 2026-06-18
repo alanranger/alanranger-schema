@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Christmas photography workshops. A Leisurely Christmas photography walk and photograph the countryside - Lapworth or the Christmas lights Stratford Upon Avon photography- Warwickshire - Expert Advice Given Summary Location: Warwickshire Dates: 2024 Dates Monday 16 December 2024 - 18:30 - 21:00 - Stratford Upon Avon Evening Shoot Sunday, 29 December 2024 - 1 day Christmas Photo Walk 08:45 15:15 Break for pub lunch around 12:45 - Not included Participants: Max 6 Fitness: 2. Easy-Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Christmas...",
+      "description": "Christmas photography workshops. A Leisurely Christmas photography walk and photograph the countryside - Lapworth or the Christmas lights Stratford Upon Avon photography- Warwickshire - Expert Advice Given Summary Location: Warwickshire Dates: 2026 Dates Thu 10 December 2026 - 18:45 - 20:30 - Stratford Upon Avon Evening Shoot Tue, 29 December 2026 - 1 day Christmas Photo Walk 09:00 15:00 Break for pub lunch around 12:45 - Not included Participants: Max 6 Fitness: 2. Easy-Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Christmas...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1573822266360-1I7REB8B91RNZXW2PNKP/christmas-sparkle-photography-workshop.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
       "offers": [
@@ -79,10 +79,10 @@
           "sku": "SQ8119747",
           "price": "50.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Mon 16 Dec 18:30 - 21:00 - Stratford Upon Avon",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Thu 10 Dec 18:45- 20:30 - Stratford Upon Avon",
           "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops#offer1",
           "seller": {
@@ -118,10 +118,10 @@
           "sku": "SQ6178610",
           "price": "125.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-05-18",
-          "priceValidUntil": "2027-06-14",
-          "name": "Sun 29 Dec 08:45 - 15:30 - Lapworth",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-19",
+          "priceValidUntil": "2027-06-19",
+          "name": "Tue 29 Dec 09:00 - 15:00 - Lapworth",
           "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops#offer2",
           "seller": {

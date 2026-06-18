@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Nant Mill Woodlands and Waterfalls Photo Workshop 30 May",
+          "name": "Nant Mill Woodlands and Waterfalls Photo Workshop 7 Jun",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "NANT MILL Woodlands and Waterfalls Photo Workshop 30 May",
+      "name": "NANT MILL Woodlands and Waterfalls Photo Workshop 7 Jun",
       "sku": "SQ4568959",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Long exposures photography on the river and waterfalls that run through this enchanting woodland, secluded Welsh valley at Nant Mill Summary Location: Wales - Wrexham - Nant Mill Dates: Sat 7 th June 202510:30 am to 2 pm Participants: Max 6 Fitness: 2. Easy-Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Nant Mill Description: Embark on a captivating journey of long-exposure photography amidst the secluded Welsh valley of Nant Mill. Join us for an immersive workshop where you'll discover the mesmerizing...",
+      "description": "Long exposures photography on the river and waterfalls that run through this enchanting woodland, secluded Welsh valley at Nant Mill Summary Location: Wales - Wrexham - Nant Mill Dates: Sat 7 th June 202510:30 am to 2 pm Participants: Max 6 Fitness: 2. Easy-Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Nant Mill Description: This Nant Mill long exposure photography workshop takes you into a secluded Welsh valley near Wrexham, where a river and its waterfalls tumble through enchanting ancient woodland...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/83fecb77-55e2-4a1b-b532-efa4213e832a/limbs.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "125.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-05-18",
-        "priceValidUntil": "2027-06-14",
+        "validFrom": "2026-06-19",
+        "priceValidUntil": "2027-06-19",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill#offer",
         "seller": {
