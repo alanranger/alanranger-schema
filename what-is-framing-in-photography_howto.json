@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#howto",
+  "name": "What Is FRAMING in Photography? A Craft, Not a Rulebook",
+  "description": "What Is in Photography.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Start with the subject",
+      "text": "Every photograph wants one clear thing to look at. Before anything else, decide what that is. If you can’t say it simply — “this is a photograph of the lone tree” — the viewer won’t know where to look either. This is the closest thing to a firm rule here, and it’s worth building as a habit early: know your subject before you press the shutter. Everything after this is in service of it. It doesn’t mean every photograph has a single obvious hero — as you grow you’ll make pictures that are deliberately ambiguous, or about a mood rather than a thing. But you learn that by first learning to make..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Make sure the subject wins",
+      "text": "Knowing your subject isn’t the same as the subject winning. The eye goes to the loudest thing in the frame — the brightest, the sharpest, the most saturated — and that isn’t always what you care about. A bright patch of sky in a corner, a vivid sign behind your subject’s shoulder, can quietly steal the picture. So the question to keep asking, gently, is: is my subject the strongest thing here, or is something else shouting over it? If something’s stealing the eye, you have choices — move, recompose, throw it out of focus, wait for it to pass, or change your exposure so the subject holds the..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Check the edges",
+      "text": "This is the single most useful habit I teach, and the one beginners skip most. Before you press the shutter, run your eye round the whole edge of the frame — all four sides — and see what’s there. You’re looking for the things that quietly weaken a picture: a background object that seems to grow out of your subject (the classic lamp post “sprouting” from a head); a bright distraction near a corner that tugs the eye off the edge; a person, car or tree clipped awkwardly by the frame, neither in nor out. Most weak photographs aren’t weak because of what’s in the middle. They’re weak because of..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Watch for breaks",
+      "text": "Related to balance, but worth its own glance: look for any harsh break in tone, contrast or colour that pulls attention away from your subject. A slash of bright sky cutting into a calm scene, a hard dark shape intruding at the edge, a clash of colour in the wrong place — any of these can fracture an otherwise quiet frame and drag the eye to the wrong spot. Again, not a rule — strong breaks are sometimes the whole point of a picture. But notice them, and ask whether each one is working for you or against you."
+    }
+  ]
+}
