@@ -5,34 +5,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How can beginners effectively frame their photographs?",
+      "name": "What is framing in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Beginners should utilise natural lines to guide viewers' eyes. Use straight lines, curves, and diagonal shapes found in elements like roads, rivers, or branches to add depth to your photographs. When framing your shot, align these lines with the grid on your camera's viewfinder to enhance the composition."
+        "text": "Framing is every choice you make about the rectangle your camera draws around the world — what you include, what you leave out, and how the things you keep relate to one another so the viewer looks where you want. It is much broader than the frame-within-a-frame trick of shooting through a doorway or branches, which is just one minor option within it."
       }
     },
     {
       "@type": "Question",
-      "name": "What is a basic guideline for framing in photography?",
+      "name": "Is the frame-within-a-frame technique worth using?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A fundamental guideline for framing in photography is the rule of thirds. This rule suggests positioning the main subject off-center, either one-third or two-thirds into the frame. This technique makes the composition more engaging and visually pleasing compared to centering the subject."
+        "text": "Sometimes. A doorway or a gap in foliage can add depth and lead the eye when it genuinely helps the picture. But it works only about one time in five, and chasing it tends to distract you from the things that matter more — a clear subject, clean edges and good balance. Treat it as one tool among many, not the headline."
       }
     },
     {
       "@type": "Question",
-      "name": "What does framing mean in photography?",
+      "name": "What is the single most useful framing habit for a beginner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Framing in photography is a technique used to draw attention to the subject by using elements within the image to create a visual frame around the focal point. This method helps to isolate the subject and enhance its prominence."
+        "text": "Checking the edges. Before you press the shutter, run your eye round all four sides of the frame and look for mergers, bright distractions and half-cut objects. Most weak photographs are weak because of clutter at the edges, not the middle — and a small step or change of angle fixes it on the spot, far more easily than in editing."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the rule of thirds in photography?",
+      "name": "Are there hard rules for framing, or is it a matter of feel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The rule of thirds is a crucial composition rule in photography, which involves dividing the frame into nine equal parts with three horizontal and three vertical lines. Placing the subject at the intersections of these lines creates a more aesthetically pleasing and balanced photo."
+        "text": "Both. A clear subject and clean edges are close to firm habits worth building early. Balance, tonal breaks, visual pathways and supporting elements are more matters of feel — guidelines you develop an eye for and then bend deliberately. The point of learning the rules is to know them well enough to break them on purpose."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is framing different from composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They overlap heavily. Composition is the whole arrangement of a picture; framing is the part concerned with what your four edges contain and how the subject is set within them. In practice, learning to frame well — subject, edges, balance, pathways — is learning most of composition."
       }
     }
   ]
