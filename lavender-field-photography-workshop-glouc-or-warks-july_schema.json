@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Lavender Field Photography Workshop - Gloucestershire July",
+          "name": "Lavender Field Photography Workshop - Glouc or Warks July",
           "item": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "LAVENDER FIELD Photography Workshop - Gloucestershire July",
+      "name": "LAVENDER FIELD Photography Workshop - Glouc or Warks July",
       "sku": "SQ6748367",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me in the Cotswolds for a spectacular lavender field landscape workshop. Photograph in the evening hours by arrangement of owners (date is subject to change or weather on the day) Price includes entry fee of £30 Summary Location: Snowshill - Gloucestershire Dates:Sat 4 th Jul 2026 - 17:00 20:00 Sat 11 th Jul 2025 - 17:00 20:00 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Lavender Description: This Lavender Photography Workshop is a magical evening among the lavender...",
+      "description": "Join me in the Cotswolds, or Warwickshire for a spectacular lavender field landscape workshop . Photograph in the evening hours by arrangement of owners (date is subject to change or weather on the day) Price includes entry fee of £30 for either of the lavender farms Summary Location: Snowshill - Gloucestershire or Bubbenhall · Warwickshire, Lavender Farms Dates:Sat 4 th Jul 2026 - 18:00 21:00 Sat 11 th Jul 2025 - 18:00 21:00 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod (tripod available to...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714572933715-EIVNF6O80HEJCSEU5D4U/lavender+sprint.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
       "offers": [
@@ -79,10 +79,10 @@
           "sku": "SQ6748367",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
-          "name": "Sat 4th Jul 2026 - 17:00 20:00",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
+          "name": "Sat 4th Jul 2026 - 18:00 21:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer1",
           "seller": {
@@ -118,10 +118,10 @@
           "sku": "SQ7542811",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
-          "name": "Sat 11th Jul 2026 - 17:00 20:00",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
+          "name": "Sat 11th Jul 2026 - 18:00 21:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
           "@id": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields#offer2",
           "seller": {

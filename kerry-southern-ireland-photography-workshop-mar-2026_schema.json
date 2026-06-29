@@ -79,8 +79,8 @@
         "price": "1595.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
         "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
         "@id": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle#offer",
         "seller": {

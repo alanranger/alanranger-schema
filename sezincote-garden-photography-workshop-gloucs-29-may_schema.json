@@ -79,8 +79,8 @@
         "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
         "priceSpecification": {
           "price": "50.00",
           "priceCurrency": "GBP"
@@ -120,6 +120,101 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Mahmood Esmail"
+          },
+          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Donnelly"
+          },
+          "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael White"
+          },
+          "reviewBody": "My wife and I want to offer our highest recommendations for Alan Ranger’s workshop in Anglesey, Wales. The sites to which Alan guided us were spectacular, the included accommodations were very pleasant, his photographic instruction was excellent, and the entire trip was meticulously planned and executed.  Alan approaches photography as an art, an art that is mediated by technology, but nonetheless an art. Thus, much of the workshop involved developing artistic appreciations of the landscape. Technical questions were certainly addressed, but the core of the workshop was concerned with how to best represent the beauty that we saw. And we saw a great deal of beauty. As much as I enjoyed the photography, the experience of watching the day break on a beautiful Welch beach would have been worth the price of admission. Back in London we spoke with someone who grew up on Anglesey. When we told him where Alan had taken us, he said that these were the places he would have gone. You will not be disappointed.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dean Le Page"
+          },
+          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-06-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Steve Horton"
           },
           "reviewBody": "Alan is a superb photographer who will easily help any photographer to reach their next level.  I would recommend any photographer who wants to kick start their photography journey so that they can independently go out and take great photographs.",
@@ -139,7 +234,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 1
+        "reviewCount": 6
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop#product"
     }

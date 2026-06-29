@@ -50,39 +50,39 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Photo Workshops UK",
-          "item": "https://www.alanranger.com/photo-workshops-uk"
+          "name": "Photography Services Near Me",
+          "item": "https://www.alanranger.com/photography-services-near-me"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Landscape Photography Snowdonia - Sat 26 - Sun 27 Sep 2026",
-          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
+          "name": "Beginners Portrait Photography Course - Coventry - 11 Oct 2025",
+          "item": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
         }
       ],
-      "@id": "https://www.alanranger.com/landscape-photography-snowdonia-workshops#breadcrumbs"
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Landscape Photography SNOWDONIA - Sat 26 - Sun 27 Sep 2026",
-      "sku": "SQ0548499",
+      "name": "Beginners Portrait Photography Course - Coventry - 11 Oct 2025",
+      "sku": "SQ2592535",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me on this landscape photography Snowdonia workshop in the iconic mountains, quarries and landscape of Snowdonia national park.Summary - Snowdonia Landscape photography workshop Location:Wales - Snowdonia National Park Dates: Sat 26 th - Sun 27 th Sep 2026 - 2 Days/1 Night Participants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Snowdonia Description: This is a 2-day, 1-night residential landscape photography...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711625824431-22D7V1RNKR8H2LBRW4Z9/Snowdonia+%2301+-+Oct+2023.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
+      "description": "Beginners Portrait Photography Course Location: 17A Spon Street, Coventry, CV1 3BA (Pay & Display, or Skydome Multi-Storey, 15 Croft Rd, CV1 3LD)Duration: 1-day course, 9 am–5 pm (approx 1 hr lunch)Participants: Max 4 Start Dates: Portrait Photography Course Saturday 11 Oct 2025 - Coventry Level: Beginner Description: A 1-day portrait photography course suitable for any amateur who wants to learn the fundamentals — lighting, exposure, camera settings and composition.Equipment: A DSLR or mirrorless camera with manual exposure modes, and a good understanding of the basics of exposure, aperture,...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/7d4f9092-b44c-4d74-b858-cc2bcf675b8b/portraits+class.png",
+      "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ0548499",
-        "price": "595.00",
+        "sku": "SQ2592535",
+        "price": "195.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/InStock",
+        "availability": "https://schema.org/OutOfStock",
         "validFrom": "2026-06-29",
         "priceValidUntil": "2027-06-29",
-        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#offer",
+        "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,35 +116,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nigel Capelle"
+            "name": "Nuria Alonso"
           },
-          "reviewBody": "The landscape photography workshop in Snowdonia proved to be an enlightening experience, offering a comprehensive understanding of capturing nature's beauty. Led by Alan, the workshop adeptly combined theoretical insights with practical fieldwork, enhancing participants' technical skills and creative vision. The breathtaking Snowdonia vistas provided an ideal backdrop for mastering composition, lighting and exposure techniques, fostering a deeper appreciation for the art of landscape photography. The hands-on guidance and personalised feedback was commendable, enabling me to elevate my photography skills. Overall, the workshop's rich content, picturesque location and skilled mentor rendered it an indispensable opportunity for aspiring and seasoned photographers alike. I also enjoyed the relaxed social aspects of the workshop with first class accommodation provided.",
+          "reviewBody": "I have throughly enjoyed all courses delivered by Alan. Great content and excellent delivery.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2023-10-29",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Peter Williams"
-          },
-          "reviewBody": "Alan has a gentle approach to those people who are on a learning curve whilst being technical and knowledgeable to the more experienced photographer. Good patient manner with a sense of humour. well organised and expects the same from his clients.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-03-05",
+          "datePublished": "2020-02-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -154,16 +135,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Francis Peckham"
+            "name": "Helen Maddison"
           },
-          "reviewBody": "Overall, a pretty good tour. Some decent locations and I felt Alan a struck a good balance between tuition and friendly travel companion ; undoubtedly a very competent tutor and I've picked up quite a bit personally. The midges and full-on sunlight were minor negatives, but that's the nature of these trips. Decent overnight accommodation and adequate meals etc. Very pleased with the experience and will look to participate again.",
+          "reviewBody": "I am new to photography and feel as though I got a lot from the course already.  It was explained in an easy to understand way and not too much 'technical' jargon for beginners.  Alan was very friendly and happy to answer questions from the whole group.  I am really excited to be starting the beginner course.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-06-12",
+          "datePublished": "2020-01-03",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,9 +154,159 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Cameron"
+            "name": "Pauli"
           },
-          "reviewBody": "I recently went on a workshop to Glencoe for 3 days. I had excellent tuition and advice on how to visualise and capture images. I've since had a 1-2-1 where we've been through half a dozen images from Glencoe. Where Alan has provided some best practices, tips and tricks on how to edit photos, to my style - not too over processed and natural looking.  I wholeheartedly recommend Alan Ranger Photography.",
+          "reviewBody": "Excellent tuition with a knowledgeable instructor. Lots of tips, interaction and practical knowledge to help begin the photography journey",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Welly"
+          },
+          "reviewBody": "Excellent course that was pitched at the right level.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nuria Alonso"
+          },
+          "reviewBody": "Alan is a great teacher and the class was well structured. A lot of information provided which gives you a good fundation.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-09-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Butler"
+          },
+          "reviewBody": "As a complete beginner, it was very helpful and informative. Now to get started putting it in to practice.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Emmanuel-Hunt"
+          },
+          "reviewBody": "I learn a lot from the get off auto course, I would recommend.  I would do the rest of course but it’s to far to drive",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S O"
+          },
+          "reviewBody": "Great introduction to ‘Getting off auto’  Thank you",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-01-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Molly"
+          },
+          "reviewBody": "Very good teacher, a lot of useful information packed into a short amount of time.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve Carroll"
+          },
+          "reviewBody": "Great intro into getting off auto",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah  Dixon"
+          },
+          "reviewBody": "Very knowledgeable teacher who was happy to answer questions no matter how simple or silly.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -191,45 +322,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Con McHugh"
+            "name": "Mmctaffy"
           },
-          "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedback on the locations as well as getting feedback on the photos we had taken during the day if wanted. It was a great group with lots of energy throughout the weekend.I have since booked a 121 to get feedback on my post processing the photos I took.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "As on a previous workshop we were taken to a number of excellent locations. As always, Alan's knowledge and advice was extensive and freely given. I would thoroughly recommend him. I had a fantastic time.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Simon  Wright"
-          },
-          "reviewBody": "I was only able to spend one day of the weekend, but Alan made me very welcome. It was my first proper workshop and I look forward to doing more in the future as I came away with lots of ideas and things to think about to take my photography forward - thank you.",
+          "reviewBody": "Throughly enjoyable evening and I learnt quite a few things about my camera...bring on the next 4 lessons.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -244,10 +339,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 7
+        "ratingValue": "4.67",
+        "reviewCount": 12
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#product"
+      "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#product"
     }
   ]
 }

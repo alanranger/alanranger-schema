@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T23:03:48.521Z",
-  "totalProducts": 50,
+  "generatedAt": "2026-06-29T14:11:09.991Z",
+  "totalProducts": 51,
   "entries": [
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
@@ -29,13 +29,7 @@
     {
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
       "pathKey": "/photography-services-near-me/beginners-portrait-photography-course",
-      "schemaFileName": "beginners-portrait-photography-course-coventry-1-day_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course",
-      "pathKey": "/photography-services-near-me/black-and-white-photography-course",
-      "schemaFileName": "professional-black-and-white-photography-course-coventry_schema.json",
+      "schemaFileName": "beginners-portrait-photography-course-coventry-11-oct-2025_schema.json",
       "faqFileName": ""
     },
     {
@@ -65,7 +59,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
       "pathKey": "/photo-workshops-uk/dartmoor-photography-landscape-workshop",
-      "schemaFileName": "dartmoor-photography-workshop-landscapes-9th-11th-oct_schema.json",
+      "schemaFileName": "dartmoor-photography-workshop-landscapes-2nd-4th-apr_schema.json",
       "faqFileName": ""
     },
     {
@@ -77,7 +71,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
       "pathKey": "/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
-      "schemaFileName": "exmoor-photography-workshop-sat-18-sun-19-jul-2026_schema.json",
+      "schemaFileName": "exmoor-photography-workshop-sat-8-sun-9-may-2027_schema.json",
       "faqFileName": ""
     },
     {
@@ -227,7 +221,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
       "pathKey": "/photo-workshops-uk/photography-workshops-lavender-fields",
-      "schemaFileName": "lavender-field-photography-workshop-gloucestershire-july_schema.json",
+      "schemaFileName": "lavender-field-photography-workshop-glouc-or-warks-july_schema.json",
       "faqFileName": ""
     },
     {
@@ -300,6 +294,18 @@
       "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
       "pathKey": "/photography-services-near-me/photography-gift-vouchers",
       "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course",
+      "pathKey": "/photography-services-near-me/black-and-white-photography-course",
+      "schemaFileName": "professional-black-and-white-photography-course-coventry_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry",
+      "pathKey": "/photography-services-near-me/photography-masterclasses-coventry",
+      "schemaFileName": "photography-masterclasses-learn-and-improve-your-photography_schema.json",
       "faqFileName": ""
     }
   ]

@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Dartmoor Photography Workshop - Landscapes - 9th - 11th Oct",
+          "name": "Dartmoor Photography Workshop - Landscapes - 2nd - 4th Apr",
           "item": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "DARTMOOR Photography Workshop - Landscapes - 9th - 11th Oct",
+      "name": "DARTMOOR Photography Workshop - Landscapes - 2nd - 4th Apr",
       "sku": "SQ5540434",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me on this Landscape Dartmoor Photography Workshop - in the iconic woodlands, and landscape of Dartmoor Tors Summary Location: Dartmoor - South Devon Dates: Fri 9 th - Sun 11 th Oct 2026 Participants: Max 4 Fitness: 3. Hard Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Dartmoor Description: This is a 3-day, 2-night residential landscape photography workshop based around Dartmoor National Park in South Devon, open to all levels from beginner to advanced. Dartmoor is one of England's most atmospheric wild...",
+      "description": "Join me on this Landscape Dartmoor Photography Workshop - in the iconic woodlands, and landscape of Dartmoor Tors Summary Location: Dartmoor - South Devon Dates: Fri 2 nd - Sun 4 th Apr 2027 Participants: Max 4 Fitness: 3. Hard Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Dartmoor Description: This is a 3-day, 2-night residential landscape photography workshop based around Dartmoor National Park in South Devon, open to all levels from beginner to advanced. Dartmoor is one of England's most atmospheric wild...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707237329064-99H533NMXCONH5J276LM/dartmoor+photography+workshop.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "875.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
         "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
         "@id": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop#offer",
         "seller": {

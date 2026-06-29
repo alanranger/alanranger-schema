@@ -80,8 +80,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Padley and Bolehill Sat 17th Oct  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -123,8 +123,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Padley and Bolehill Sat 22nd May 2027 - 09:30 - 16:00",
           "priceSpecification": {
             "price": "150.00",
@@ -248,25 +248,6 @@
         }
       ],
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael Donnelly"
-          },
-          "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -383,7 +364,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 7
+        "reviewCount": 6
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#product"
     }

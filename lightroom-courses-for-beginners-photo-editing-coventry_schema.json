@@ -70,7 +70,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Location: 45 Hathaway Road, Coventry, CV4 9HW Duration: 3 × 2 hr evening classes (19:00–21:00)Participants: Max 3 Start Dates: Lightroom Editing Course Coventry 3 wks - Mon 7 Sep - 21 Sep 2026 Coventry 3 wks - Thu 12 Nov - 26 Nov 2026 Level: Beginners Description: A practical three-week evening course that takes you from a messy photo library and untouched RAW files to a...",
+      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Location: 45 Hathaway Road, Coventry, CV4 9HW Duration: 3 × 2 hr evening classes (19:00–21:00)Participants: Max 3 Start Dates:Lightroom Editing Course Coventry 3 wks - Mon 7 Sep - 21 Sep 2026 Coventry 3 wks - Thu 12 Nov - 26 Nov 2026 Coventry 3 wks - Tue 12 Jan - 26 Jan 2027 Coventry 3 wks - Thu 6 May - 20 May 2027 Level: Beginners Description: A practical three-week evening...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/fe40a5e1-7fa2-4057-982e-555479b97022/Lightroom+courses+-+photo+editing+course.png",
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
@@ -119,8 +119,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
@@ -151,47 +151,87 @@
               "currency": "GBP"
             }
           }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ1021857",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
+          "name": "Coventry 3 wks - Tue 12 Jan - 26 Jan 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3349262",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
+          "name": "Coventry 3 wks - Thu 6 May - 20 May 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
         }
       ],
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mahmood Esmail"
-          },
-          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -628,11 +668,49 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Latisha"
+          },
+          "reviewBody": "Really informative and helpful guidance to understand the technicality of your camera as well as advice on how to take 200 self explanatory photos that capture the moment rather than 1000. Alans expertise and passion for photography really shone through. We covered mainly theory and introduction to using lightroom.       Only areas of improvement I would have like to have seen were:  - More free resources to take home i.e. presentation slides, website links for further information  - More practical exercises preferably outside  - More guidance preperation beforehand - for me it was knowing the slides would not be available so bringing the relevant material along to the tuition.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-03-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Shaw"
+          },
+          "reviewBody": "I have attended Alan's “Develop Your Images” course, using Adobe Lightroom, and also subscribe to his on-going Photography Mentoring.  Both have been extremely positive experiences in my photographic journey and are helping me begin to create the sort of images that a year ago were beyond my expectation and capability. He has been invaluable in helping me understand and critique images and I would happily recommend him to anyone.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-04-30",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.88",
+        "ratingValue": "4.84",
         "reviewCount": 25
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#product"

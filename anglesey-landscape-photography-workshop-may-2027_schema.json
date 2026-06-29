@@ -79,8 +79,8 @@
         "price": "975.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
         "seller": {
@@ -112,25 +112,6 @@
         }
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael White"
-          },
-          "reviewBody": "My wife and I want to offer our highest recommendations for Alan Ranger’s workshop in Anglesey, Wales. The sites to which Alan guided us were spectacular, the included accommodations were very pleasant, his photographic instruction was excellent, and the entire trip was meticulously planned and executed.  Alan approaches photography as an art, an art that is mediated by technology, but nonetheless an art. Thus, much of the workshop involved developing artistic appreciations of the landscape. Technical questions were certainly addressed, but the core of the workshop was concerned with how to best represent the beauty that we saw. And we saw a great deal of beauty. As much as I enjoyed the photography, the experience of watching the day break on a beautiful Welch beach would have been worth the price of admission. Back in London we spoke with someone who grew up on Anglesey. When we told him where Alan had taken us, he said that these were the places he would have gone. You will not be disappointed.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -244,8 +225,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.71",
-        "reviewCount": 7
+        "ratingValue": "4.67",
+        "reviewCount": 6
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#product"
     }

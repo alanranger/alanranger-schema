@@ -65,22 +65,23 @@
     {
       "@type": "Product",
       "name": "Professional Black and White Photography Course | Coventry",
-      "sku": "SQ9709344",
+      "sku": "SUP-PROFESSIONAL-BLACK-AND-WHITE-PHO",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Black and White Photography Course Location: 45 Hathaway Road, Tile Hill Village, Coventry, CV4 9HW Duration: 2 × 2.5 hr evening classes Participants: Max 4 Start Dates: Black & White Course Coventry 2 wks - Mon 3 Sep - 10 Sep 2025 Level: Beginner to Intermediate Description: A two-week course to help beginners and intermediates recognise the visual building blocks of strong black & white images, capture the best data in camera, and convert to mono on the computer.Equipment: A DSLR or mirrorless camera with manual exposure modes. (confirm any editing software requirement)",
+      "description": "Professional Black and White Photography Course | Coventry",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1721724334692-7KPD0E90A6E4YZMAR324/black+and+white+photography+course+.jpg",
       "url": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ9709344",
-        "price": "165.00",
+        "sku": "SUP-PROFESSIONAL-BLACK-AND-WHITE-PHO",
+        "price": "150.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
+        "name": "Professional Black and White Photography Course | Coventry",
         "url": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course#offer",
         "seller": {

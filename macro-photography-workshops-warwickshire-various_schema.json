@@ -80,8 +80,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Tue Jul 7th - 6:30pm - 8:30pm",
           "priceSpecification": {
             "price": "50.00",
@@ -123,8 +123,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-19",
-          "priceValidUntil": "2027-06-19",
+          "validFrom": "2026-06-29",
+          "priceValidUntil": "2027-06-29",
           "name": "Tue Sep 8th - 6:00pm - 8:00pm",
           "priceSpecification": {
             "price": "50.00",

@@ -56,33 +56,34 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Beginners Portrait Photography Course - Coventry - 1 Day",
-          "item": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
+          "name": "Photography Masterclasses-Learn and improve your photography",
+          "item": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry"
         }
       ],
-      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#breadcrumbs"
+      "@id": "https://www.alanranger.com/photography-masterclasses-coventry#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Beginners Portrait Photography Course - Coventry - 1 Day",
-      "sku": "SQ2592535",
+      "name": "Photography Masterclasses-Learn and improve your photography",
+      "sku": "SUP-PHOTOGRAPHY-MASTERCLASSES-LEARN-",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Beginners Portrait Photography Course Location: 17A Spon Street, Coventry, CV1 3BA (Pay & Display, or Skydome Multi-Storey, 15 Croft Rd, CV1 3LD)Duration: 1-day course, 9 am–5 pm (approx 1 hr lunch)Participants: Max 4 Start Dates: Portrait Photography Course Saturday 11 Oct 2025 - Coventry Level: Beginner Description: A 1-day portrait photography course suitable for any amateur who wants to learn the fundamentals — lighting, exposure, camera settings and composition.Equipment: A DSLR or mirrorless camera with manual exposure modes, and a good understanding of the basics of exposure, aperture,...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707238641610-VHWSAVN4IPEHPVRGJNQZ/portrait+photography+course.jpg",
-      "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+      "description": "Photography Masterclasses-Learn and improve your photography",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675588273356-8MVS4YXJTH3Y5PRQ36N7/photography-tuition-Package-2.jpg",
+      "url": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ2592535",
-        "price": "195.00",
+        "sku": "SUP-PHOTOGRAPHY-MASTERCLASSES-LEARN-",
+        "price": "150.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-06-19",
-        "priceValidUntil": "2027-06-19",
-        "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
-        "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-06-29",
+        "priceValidUntil": "2027-06-29",
+        "name": "Photography Masterclasses-Learn and improve your photography",
+        "url": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry",
+        "@id": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,16 +117,35 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nuria Alonso"
+            "name": "Siddharth M"
           },
-          "reviewBody": "I have throughly enjoyed all courses delivered by Alan. Great content and excellent delivery.",
+          "reviewBody": "Alan is a good teacher. Great to learn new tips from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-02-06",
+          "datePublished": "2025-06-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline Key"
+          },
+          "reviewBody": "It was a very informative and enjoyable course. I came away feeling confident and inspired. Excellent",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-07",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -135,16 +155,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Helen Maddison"
+            "name": "Ina"
           },
-          "reviewBody": "I am new to photography and feel as though I got a lot from the course already.  It was explained in an easy to understand way and not too much 'technical' jargon for beginners.  Alan was very friendly and happy to answer questions from the whole group.  I am really excited to be starting the beginner course.",
+          "reviewBody": "Nice, relaxed evening, learned a lot!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-01-03",
+          "datePublished": "2019-03-07",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -154,16 +174,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Pauli"
+            "name": "Janet Boulter"
           },
-          "reviewBody": "Excellent tuition with a knowledgeable instructor. Lots of tips, interaction and practical knowledge to help begin the photography journey",
+          "reviewBody": "Attended a masterclass on Creative Editing which was excellent. Alan provided both technical and artist guidance to help develop my photography. Would definitely recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-01-03",
+          "datePublished": "2018-01-10",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,16 +193,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Welly"
+            "name": "Ms"
           },
-          "reviewBody": "Excellent course that was pitched at the right level.",
+          "reviewBody": "An interesting evening, with good class notes and some exercises to do to start you going off auto.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-01-03",
+          "datePublished": "2018-01-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -192,16 +212,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nuria Alonso"
+            "name": "Con McHugh"
           },
-          "reviewBody": "Alan is a great teacher and the class was well structured. A lot of information provided which gives you a good fundation.",
+          "reviewBody": "Creative Editing Masterclass. To date this  was the most inspiring session I have attended so far as it brought so many things together for me. The small group size also helped. I can't wait to get out and get some more pictures to edit. Con McHugh",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-09-04",
+          "datePublished": "2018-01-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -211,16 +231,73 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Steve Butler"
+            "name": "Garry Such"
           },
-          "reviewBody": "As a complete beginner, it was very helpful and informative. Now to get started putting it in to practice.",
+          "reviewBody": "Great learning experience - as a total DSLR novice 2 years a go, I started Alan's unique 5 week beginners course. Then, taking everything learned in the classroom into the most excellent field trips - highly recommend Alan for all aspects of learning photography - a great teacher with the most friendly approach!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christopher Parker"
+          },
+          "reviewBody": "I have attended, and benefited hugely from, Alan's courses, workshops and masterclasses. Attendance at the beginners and intermediates courses have had a considerable impact on my skills and, as a result,  the quality of my work has improved year on year. I am also a member of the monthly mentoring programme through which Alan provides individual feedback. Always helpful, incisive and focused on  improvement, Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim Crabtree"
+          },
+          "reviewBody": "I have been working with Alan Ranger over the last two years to improve my photographic output by attending workshops and courses.  Over this time my photographs have improved by leaps and bounds thanks to Alan's expert guidance. Alan is a dedicated professional and provides constructive advice and encouragement to his pupils.  You have only got to look at his galleries to see what you can aspire to.  Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CJ"
+          },
+          "reviewBody": "Alan has given me a new perspective on how I take photos. I am looking forward to putting the theory in to practice. Totally recommend it.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-03-01",
+          "datePublished": "2017-01-11",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -230,83 +307,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Julie Emmanuel-Hunt"
+            "name": "John  Grant"
           },
-          "reviewBody": "I learn a lot from the get off auto course, I would recommend.  I would do the rest of course but it’s to far to drive",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-01-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "S O"
-          },
-          "reviewBody": "Great introduction to ‘Getting off auto’  Thank you",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-01-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Molly"
-          },
-          "reviewBody": "Very good teacher, a lot of useful information packed into a short amount of time.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Steve Carroll"
-          },
-          "reviewBody": "Great intro into getting off auto",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Hannah  Dixon"
-          },
-          "reviewBody": "Very knowledgeable teacher who was happy to answer questions no matter how simple or silly.",
+          "reviewBody": "Great chance to do a masterclass on filter/bracketing. I always find it fun to run through the basics and limits of techniques. Good notes given and fine chance to have any concepts or views challenged enabling you to improve in the future.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -322,12 +325,66 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mmctaffy"
+            "name": "Garry Such"
           },
-          "reviewBody": "Throughly enjoyable evening and I learnt quite a few things about my camera...bring on the next 4 lessons.",
+          "reviewBody": "The Creative Editing course was very informative and relaxed - especially rewarding with the small number of attendees - look forward to trying out all the new techniques that we covered",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harriet"
+          },
+          "reviewBody": "Great class from a very knowledgeable professional photographer. Short theory section with some practice after. looking forward to practice what I have learnt",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewBody": "Another inspiring workshop by Alan. The topic was macro photography. I’ve already bought the slider and can’t wait to get out and use it. This along with the backend processing using photoshop should make a big difference to my results. Thankyou.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet Boulter"
+          },
+          "reviewBody": "Macro masterclass -  Informative and good technical content followed by practical application session. All delivered with clarity and humour as always. Alan's classes are never rigid and flex and flow with the clients needs, which always expands the scope of the event. Came away with new ideas for macro photography. Would recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
@@ -339,10 +396,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.67",
-        "reviewCount": 12
+        "ratingValue": "4.8",
+        "reviewCount": 15
       },
-      "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#product"
+      "@id": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry#product"
     }
   ]
 }
