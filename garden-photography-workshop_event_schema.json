@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop",
         "validFrom": "2025-10-09 10:45:56",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,7 +122,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "1",
+        "reviewCount": "6",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -131,7 +131,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Steve Horton"
+            "name": "Dean Le Page"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -139,44 +139,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan is a superb photographer who will easily help any photographer to reach their next level.  I would recommend any photographer who wants to kick start their photography journey so that they can independently go out and take great photographs.",
-          "datePublished": "2018-06-04 13:20:00"
+          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
+          "datePublished": "2026-06-03 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kate Tait"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. Yo...",
-          "datePublished": "2016-08-01 09:39:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Deborah Griffiths"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A good theory base but a few practical exercises would have broken up the evening  - even if it was just handling our own camera and trying different settings under guidance. Will now work on the practical exercises in the class notes.  Would have liked to have been shown examples of the Pocket G...",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tricia Entwistle"
+            "name": "Mahmood Esmail"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -184,8 +154,53 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "As a complete beginner I booked my workshop at Batford Arboretum with considerable aprehension. I needn't have worried.  Alan was very patient and explained the rudiments of manual photography in a very non technical way. I went on to have a very enjoyable and relaxing afternoon taking some lovel...",
-          "datePublished": ""
+          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
+          "datePublished": "2026-05-27 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "datePublished": "2026-05-27 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Donnelly"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
+          "datePublished": "2026-05-21 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael White"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My wife and I want to offer our highest recommendations for Alan Ranger’s workshop in Anglesey, Wales. The sites to which Alan guided us were spectacular, the included accommodations were very pleasant, his photographic instruction was excellent, and the entire trip was meticulously planned and e...",
+          "datePublished": "2026-05-20 00:00:00"
         }
       ],
       "potentialAction": {

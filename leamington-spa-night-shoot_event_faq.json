@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Christmas Sparkle Photography Workshop - Warwickshire\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Christmas Sparkle Photography Workshop - Warwickshire takes place at Warwickshire. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Christmas Sparkle Photography Workshop - Warwickshire\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Christmas Sparkle Photography Workshop - Warwickshire is scheduled for 2026-12-10 to 2026-12-10. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Christmas Sparkle Photography Workshop - Warwickshire\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Christmas Sparkle Photography Workshop - Warwickshire is 50.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Christmas Sparkle Photography Workshop - Warwickshire\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Christmas Sparkle Photography Workshop - Warwickshire. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

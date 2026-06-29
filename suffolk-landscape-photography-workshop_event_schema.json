@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop",
         "validFrom": "2026-01-24 19:57:02",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,11 +122,41 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "5",
+        "reviewCount": "7",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Blake"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was a great weekend with Alan - a small group so we had plenty of space but still social. Alan was able to inspire me to extend my photography both in the type of shorts (minimalism), the angles that I choose and the technical details. Thanks!",
+          "datePublished": "2024-03-26 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PAMELA DIGBY"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently attended a 3 day course with Alan in Southwold  I was keen to learn more about long exposure and the course fulfilled this  There was plenty of time for other genre .  I thoroughly recommend these short courses.  The accommodation was excellent. Pam",
+          "datePublished": "2024-03-09 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -170,36 +200,6 @@
             "worstRating": "1"
           },
           "reviewBody": "An excellent and enjoyable workshop in Suffolk.   Had a great weekend, stormy conditions didn’t get in the way, with plenty of opportunities to shoot, and support, help and advice where needed. The added photo review was really helpful. Thanks Alan, looking forward to the next one.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Joyce James"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Thoroughly enjoyed the latest workshop in Suffolk battling with storm Dennis! Alan worked hard - and long hours -In order to maximise the opportunities to practice our photographic skills and develop our expertise.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tracey Jones"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I had a really lovely day and learned some new techniques.   I would definitely book another one of Alan's workshops and recommend to others.",
           "datePublished": ""
         }
       ],

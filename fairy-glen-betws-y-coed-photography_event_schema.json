@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography",
         "validFrom": "2026-05-17 14:22:01",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",

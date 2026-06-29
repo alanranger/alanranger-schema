@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-piles-coppice",
         "validFrom": "2025-11-04 18:23:22",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,7 +96,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7078023",
+        "sku": "SQ1654264",
         "availabilityStarts": "2026-10-16T08:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ7078023",
+      "sku": "SQ1654264",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

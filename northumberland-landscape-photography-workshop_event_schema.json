@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
         "validFrom": "2026-02-18 13:06:38",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,11 +122,41 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.8",
-        "reviewCount": "9",
+        "reviewCount": "11",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Garry Such"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great weekend on the 3 day Northumberland Workshop - highly recommend!  I love Alan's residential workshops - a totally rewarding experience.  The limited number of participants within the group ensures everyone benefits from Alan's excellent tuition.  See you again soon",
+          "datePublished": "2018-10-18 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce James"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Just back from an excellent 3 day workshop in Northumbria. Alan really made the most of the wild and windy conditions and chose great locations to provide opportunities to learn more about fairly advanced techniques such as long exposures, bracketing and taking more than one shot to subsequently ...",
+          "datePublished": "2018-10-16 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -170,36 +200,6 @@
             "worstRating": "1"
           },
           "reviewBody": "Good points - weather was fantastic, tuition good but you do need to ask Alan for help which I don't have a problem with.  Some fantastic areas to photograph.  We went to various locations so that everyone could get something including a lovely sun rise in Craster so time management was essential...",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Isabel Niner"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great 3 day workshop with lots of tips and guidance. Left me with lots to think about and put into practice.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Garry Such"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great weekend in Northumberland, despite the weather on Saturday am.  Thanks once again Alan for all your help - your limited group numbers allow participants to benefit fully from your tuition and knowledge.  It was a very rewarding experience which I always enjoy, I'll most definitely be with y...",
           "datePublished": ""
         }
       ],

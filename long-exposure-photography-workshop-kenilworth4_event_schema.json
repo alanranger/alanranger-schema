@@ -55,7 +55,7 @@
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Kenilworth",
       "sameAs": [
         "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
-        "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
+        "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -72,12 +72,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "75.00",
+        "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
         "validFrom": "2026-05-11 20:55:03",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -91,7 +91,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ1182401",
+        "sku": "SQ5325711",
         "availabilityStarts": "2026-09-01T17:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -109,15 +109,15 @@
           }
         }
       },
-      "sku": "SQ1182401",
+      "sku": "SQ5325711",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": "5",
+        "ratingValue": "4.9",
+        "reviewCount": "13",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -126,7 +126,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paula Major"
+            "name": "colin yuill"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -134,14 +134,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Fireworks photography. Guidance and instructions at the start of  the workshop, then Alan helped everyone as the fireworks started.  Thoroughly enjoyed the evening, great value.",
-          "datePublished": "2018-09-11 18:17:00"
+          "reviewBody": "He definitely knows his stuff ! And very helpful.",
+          "datePublished": "2018-12-04 10:28:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Frederick  Stubbs"
+            "name": "Jennifer "
           },
           "reviewRating": {
             "@type": "Rating",
@@ -149,29 +149,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Lovely location and lots of good advice from Alan",
-          "datePublished": "2018-05-11 20:47:00"
+          "reviewBody": "Like I have indicated Alan is the person who gives you confidence in your ability also guidance, food for thought, and picks you up when struggling",
+          "datePublished": "2018-12-04 10:22:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Cheryl Millyard"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Learnt enough that I would feel confident photographing fireworks by myself. Got some great shots. Good value",
-          "datePublished": "2018-04-11 20:27:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Eva B"
+            "name": "Arthur Travis"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -179,14 +164,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "For this fireworks photo-shoot Alan sent out a clear briefing sheet beforehand and answered my questions by email, which helped me prepare before getting there. Starting early, he gave each of us time and help to get our cameras set up and ready to shoot. Once the fireworks started he checked wit...",
-          "datePublished": "2014-09-11 19:30:00"
+          "reviewBody": "The classes I attended by Alan were excellent and he explained all aspects of the lessons content through early.",
+          "datePublished": "2018-05-04 08:48:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John"
+            "name": "JanB"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -194,8 +179,23 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "The Firework workshop was very enjoyable and informative.",
-          "datePublished": "2014-09-11 19:01:00"
+          "reviewBody": "Alan is always ready to share his extensive photographic knowledge.",
+          "datePublished": "2018-04-04 23:24:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharron"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fireworks Workshop at Kenilworth Castle. Alan is at hand to guide you through this workshop which ran very smoothly and the pictures I took I am absolutely thrilled with. It was a very informative and enjoyable workshop, I am new to photography and Alan made it all seem really easy. I would defin...",
+          "datePublished": "2017-06-11 11:36:00"
         }
       ],
       "potentialAction": {

@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
-        "validFrom": "2026-05-11 19:56:27",
-        "priceValidUntil": "2027-05-18",
+        "validFrom": "2026-05-20 15:11:07",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -121,12 +121,27 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "reviewCount": "5",
+        "ratingValue": "4.7",
+        "reviewCount": "6",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mattia Tosi"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would recommend Alan to everyone! I've done the Beginner's Photography course, the Lightroom course and two workshops and thanks to these and Alan's coaching and honest feedback, my photography improved significantly. Thanks Alan!",
+          "datePublished": "2021-09-13 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -185,21 +200,6 @@
             "worstRating": "1"
           },
           "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ian Blake"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Had a great weekend, saw some fantastic locations. The midday light was quite harsh but Alan planned it well to make the most of locations according to light and tide. I like having the weekend off driving, it was nice to be able to relax and be ferried between locations! Top picture from Llanddw...",
           "datePublished": ""
         }
       ],

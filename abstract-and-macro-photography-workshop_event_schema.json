@@ -81,7 +81,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
         "validFrom": "2026-05-17 13:13:37",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -120,8 +120,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": "8",
+        "ratingValue": "4.9",
+        "reviewCount": "16",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -130,22 +130,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Doug Goddard"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "An enjoyable day with some good technical advice. I would have liked more time on the practical in the field and this would have allowed more one-to-one guidance.",
-          "datePublished": "2019-06-08 20:08:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Judith Barnard"
+            "name": "Louise Manning"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -153,14 +138,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan provided an excellent introduction to SLR/bridge camera photography with good examples.",
-          "datePublished": "2019-04-08 20:09:00"
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
+          "datePublished": "2024-06-11 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Richard Ambrose"
+            "name": "pyers tucker"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -168,29 +153,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "I found Alan to be highly a  competent tutor, easily approachable, knowledgeable and patient. An enjoyable and engaging experience.",
-          "datePublished": "2019-02-08 15:42:00"
+          "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quic...",
+          "datePublished": "2024-06-11 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nick Board"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Excellent balance between theory and practical with level of detail of instruction to suit varying levels of expertise in the group Timings of session just right and good sense of humour!!",
-          "datePublished": "2019-02-08 09:53:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Andy Grout"
+            "name": "Hardeep Nagra"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -198,8 +168,38 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan has a really good style of delivery, able to teach to a mixed ability group all at the same time. His teaching style is relaxed but assertive. He certainly has a very extensive knowledge of his subject.",
-          "datePublished": "2019-02-08 06:52:00"
+          "reviewBody": "Alan undertook some house shoots for me. He was excellent in his communication before, during and after the shoot. End product was as described. Would love to use again",
+          "datePublished": "2023-02-24 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paula Greenlees"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I learnt so much from the 'Get Off Auto' course. The sessions were well explained with visual examples, along with a printed guide to everything that was covered. Each week's homework challenged my skills and I will use these to continue to improve my photography. I think I am now looking at comp...",
+          "datePublished": "2023-02-21 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick Oleary"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan is a superb photographer. Very professional and delivers exactly what I require.  Efficient and great value with a quality result.",
+          "datePublished": "2023-02-21 00:00:00"
         }
       ],
       "potentialAction": {

@@ -9,12 +9,12 @@
       ],
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3#event",
       "identifier": "lightroom-photo-editing-classes-wk3-9b3t3",
-      "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 - 27-5",
-      "description": "27/05/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 - 20-5",
+      "description": "20/05/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
-      "startDate": "2026-05-27T19:00:00",
-      "endDate": "2026-05-27T21:00:00",
+      "startDate": "2027-05-20T19:00:00",
+      "endDate": "2027-05-20T21:00:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3",
-        "validFrom": "2026-01-12 14:52:48",
-        "priceValidUntil": "2027-05-18",
+        "validFrom": "2026-06-29 12:08:45",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,8 +96,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ6876661",
-        "availabilityStarts": "2026-05-27T18:00:00.000Z",
+        "sku": "SQ7526725",
+        "availabilityStarts": "2027-05-20T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ6876661",
+      "sku": "SQ7526725",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -122,7 +122,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.8",
-        "reviewCount": "30",
+        "reviewCount": "33",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -161,6 +161,21 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Jeanette Waters"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I was thrilled to find this site and organise a Zoom meeting with Alan. He understood the lightroom problem, helped me sort it out,. Didn't rush and it was so easy to follow what I had to do. Problem sorted and I can now get on and enjoy the programme. I would definitely use Alan again.",
+          "datePublished": "2021-09-10 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Nick B"
           },
           "reviewRating": {
@@ -176,7 +191,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Walter Jarvis"
+            "name": "Kasia jan"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -184,23 +199,8 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Took the opportunity to outline how he could help me improve my photography and make better use of Lightroom. Alan was very helpful and I'm looking forward to my 2 hour slot in February",
-          "datePublished": "2021-01-20 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Lettoch Films"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan is great to work with. Just had a really enjoyable and helpful 2 hours 1-1 coaching on Lightroom. I have lots more to learn and won't hesitate to pick this up again with Alan to help me progress to the next level. He taught me so much more than just how to use Lightroom. Thanks Alan. I'll be...",
-          "datePublished": "2020-11-11 00:00:00"
+          "reviewBody": "Excellent zoom class. Very professional and packed with knowledge. I have learned a lot during this session, got inspired and would recommend to  anyone who wants to improve at fast pace. Thank you Alan.",
+          "datePublished": "2021-02-25 00:00:00"
         }
       ],
       "potentialAction": {
@@ -235,7 +235,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 - 27-5",
+          "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 - 20-5",
           "item": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3"
         }
       ]

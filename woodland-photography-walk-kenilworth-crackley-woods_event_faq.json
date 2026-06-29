@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where does \"Woodland Photography Walk | Kenilworth | Crackley Woods\" take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Woodland Photography Walk | Kenilworth | Crackley Woods takes place at Kenilworth. Check the event page for final joining and location details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is \"Woodland Photography Walk | Kenilworth | Crackley Woods\" running?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Woodland Photography Walk | Kenilworth | Crackley Woods is scheduled for 2026-11-06 to 2026-11-06. Always confirm times on the event page before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does \"Woodland Photography Walk | Kenilworth | Crackley Woods\" cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed price for Woodland Photography Walk | Kenilworth | Crackley Woods is 15.00 GBP. Availability and pricing can change, so check the booking page for the latest details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book \"Woodland Photography Walk | Kenilworth | Crackley Woods\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the booking link on the event page for Woodland Photography Walk | Kenilworth | Crackley Woods. You can review event details, availability, and next steps there before completing your booking."
+      }
+    }
+  ]
+}

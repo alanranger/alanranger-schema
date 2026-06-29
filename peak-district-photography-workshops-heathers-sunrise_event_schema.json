@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise",
         "validFrom": "2025-10-31 15:13:44",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -121,8 +121,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "4",
+        "ratingValue": "4.9",
+        "reviewCount": "19",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -131,7 +131,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Inderjeet Boora "
+            "name": "Paul Farrington"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -139,14 +139,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "The course was detailed with Alan having very good technique of teaching. He made me want to learn more. Thanks Alan",
-          "datePublished": "2015-08-04 20:26:00"
+          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
+          "datePublished": "2026-05-19 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Robin Killick"
+            "name": "Lisa Vincent"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -154,14 +154,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Inspiring, exciting and has made me want to go and take more pictures and experiment with my camera.  I learnt that you just have to give it a go and that it's not just about having a really expensive camera but managing to operate it that counts!",
-          "datePublished": "2015-05-09 20:40:00"
+          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
+          "datePublished": "2026-05-18 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Fay Arrundale"
+            "name": "Dave Clarke"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -169,14 +169,14 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "The introductory course was well structured and gave a great overview of photography.  It had a broad focus, so not just about the technical camera settings, but more about the planning and design of what you're trying to achieve.  Alan was clearly very passionate about photography, seeing it as ...",
-          "datePublished": ""
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "datePublished": "2026-05-16 00:00:00"
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sally Stevens"
+            "name": "Alex McDonald"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -184,8 +184,23 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "This was a really good evening ,light hearted ,explained very well ,and made want to get started",
-          "datePublished": ""
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "datePublished": "2026-05-16 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon McDonald"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "datePublished": "2026-05-16 00:00:00"
         }
       ],
       "potentialAction": {

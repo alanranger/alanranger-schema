@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
         "validFrom": "2026-03-10 18:02:17",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,11 +122,41 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "20",
+        "reviewCount": "21",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Kitteringham"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very enjoyable weekend landscape photography workshop with Alan in the Lake District.  Despite some challenging weather conditions I learnt an enormous amount and had a lot of fun.",
+          "datePublished": "2025-10-01 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelly Soo"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a 3rd hr of light room classic with Alan.  I consolidated my learning of LrC, and learning more on snapshots and how to publish on email and for competition submission, which are very useful.  Thank you.",
+          "datePublished": "2024-12-15 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -171,36 +201,6 @@
           },
           "reviewBody": "The workshop I attended was very enjoyable, in a beautiful location, extremely well organised and with good company - thank you very much Alan for putting up with me!",
           "datePublished": "2024-03-30 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Widdowson"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I recently attended a 3 day workshop with Alan in the Lake District, and in that time it felt like I learned more about photography than at any other point in my life! It was an extremely well-organised trip and I found the time spent in a 1-2-1 environment with Alan was invaluable. He gave me cl...",
-          "datePublished": "2024-03-29 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ian Blake"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "It was a great weekend with Alan - a small group so we had plenty of space but still social. Alan was able to inspire me to extend my photography both in the type of shorts (minimalism), the angles that I choose and the technical details. Thanks!",
-          "datePublished": "2024-03-26 00:00:00"
         }
       ],
       "potentialAction": {

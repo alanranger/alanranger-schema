@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
         "validFrom": "2026-02-18 13:37:51",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,11 +122,26 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "6",
+        "reviewCount": "7",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nigel Capelle"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The landscape photography workshop in Snowdonia proved to be an enlightening experience, offering a comprehensive understanding of capturing nature's beauty. Led by Alan, the workshop adeptly combined theoretical insights with practical fieldwork, enhancing participants' technical skills and crea...",
+          "datePublished": "2023-10-29 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -185,21 +200,6 @@
             "worstRating": "1"
           },
           "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedbac...",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "As on a previous workshop we were taken to a number of excellent locations. As always, Alan's knowledge and advice was extensive and freely given. I would thoroughly recommend him. I had a fantastic time.",
           "datePublished": ""
         }
       ],

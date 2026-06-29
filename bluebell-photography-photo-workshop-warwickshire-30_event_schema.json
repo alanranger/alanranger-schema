@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
         "validFrom": "2026-05-11 20:21:06",
-        "priceValidUntil": "2027-05-18",
+        "priceValidUntil": "2027-06-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,26 +122,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "64",
+        "reviewCount": "67",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sofiagzagdo"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "This is a great photography course! I had very little knowledge about photography and a lot of questions… Alan is super knowledgeable, patient and takes the time to answer and explain all your doubts. The main focus of the session concentrated on composition which I throughly enjoyed and wished t...",
-          "datePublished": "2026-05-02 00:00:00"
-        },
         {
           "@type": "Review",
           "author": {
@@ -201,6 +186,21 @@
           },
           "reviewBody": "I joined one of the early morning Bluebells Workshop and had a great experience. Alan is incredibly knowledgeable and passionate about landscape photography, and a pleasure to learn from. His clear tuition and constructive feedback genuinely help you progress as a photographer regardless of your ...",
           "datePublished": "2026-04-27 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sunil Prasad"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan' learning session is much clear and detailed",
+          "datePublished": "2025-07-16 00:00:00"
         }
       ],
       "potentialAction": {
