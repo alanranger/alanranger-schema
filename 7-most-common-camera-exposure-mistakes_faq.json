@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/7-most-common-camera-exposure-mistakes#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the exposure triangle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exposure triangle is the three settings that control how bright your photograph comes out: aperture (f-stop), shutter speed, and ISO. Aperture controls depth of field and how much light reaches the sensor. Shutter speed controls motion blur and how long light is collected. ISO controls sensor sensitivity. Balancing these three creates a correct exposure — move one and you have to adjust another to compensate. Understanding this triangle is the foundation of every exposure decision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a histogram and how do I read it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A histogram is a graph showing the distribution of light and dark tones in your image. The left side represents shadows, the middle represents midtones, and the right side represents highlights. A well-exposed image generally has its histogram spread across the graph without large spikes pressed against either edge. Spikes against the right edge mean blown highlights (lost detail in bright areas). Spikes against the left edge mean blocked shadows (lost detail in dark areas). The histogram is more reliable than judging exposure from the rear screen, which lies in bright outdoor light."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the most common exposure mistake beginners make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trusting the rear screen instead of the histogram. The screen looks bright in dark conditions and dark in bright conditions, so you end up overexposing indoor shots and underexposing outdoor shots without realising. Learn to check the histogram after every important shot. A photograph that looks fine on the screen may have completely blown highlights or crushed shadows that you won't notice until you're editing on a calibrated monitor at home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid blown-out skies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four options. First, expose for the highlights and lift shadows in editing — modern RAW files have huge shadow latitude. Second, use a graduated ND filter to darken the sky at capture. Third, bracket multiple exposures and blend in editing. Fourth, change the time of day to one where the sky/ground contrast is naturally lower (golden hour, overcast). The mistake to avoid is exposing for the foreground and accepting blown sky — once the highlights are gone, no editing recovers them."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos underexposed in snow or bright sand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cameras meter for an 18% grey average. Snow, sand, and bright white scenes are far brighter than average, so the camera tries to darken them to mid-grey — leaving you with dull grey-looking snow or sand. The fix: add 1 to 2 stops of positive exposure compensation (+1.0 to +2.0). For very dark scenes (night, deep woodland, dark wildlife) you may need to do the opposite — negative exposure compensation to stop the camera over-brightening. Exposure compensation is the single most useful button on the camera once you understand metering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I expose to the right (ETTR)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expose-to-the-right is a technique that places the histogram as far right as possible without clipping highlights, then darkens in editing. It maximises shadow detail and minimises noise. It works well for landscape and architecture where you have time to check the histogram and adjust. It works badly for fast-moving subjects where you don't have time. It's not a magic bullet — overdoing ETTR and clipping highlights is worse than slight underexposure. Use it when conditions allow, ignore it when they don't."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between underexposed and 'low-key' photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intent. Underexposed is accidental — the photograph is darker than it should be, has crushed shadows you can't recover, and looks weak. Low-key is deliberate — the photograph is dark by choice, the shadows hold meaningful black with detail where wanted, and the composition works because of the darkness rather than in spite of it. The difference is whether the dark areas are doing creative work or just hiding detail you wanted. A clipped histogram against the left side is usually a failure; a controlled approach to the left is a style."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I meter difficult scenes correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switch to spot metering for high-contrast scenes (backlit subjects, performers under stage lights, bright sky vs dark ground). Spot metering measures from a small area you specify, ignoring the rest of the frame. Place the spot on the subject's face, or whatever you want correctly exposed, and the camera will set exposure based on that point alone. For most general scenes, evaluative/matrix metering works well. Centre-weighted is the middle ground. Knowing which metering mode is active is one of the most overlooked exposure habits."
+      }
+    }
+  ]
+}
