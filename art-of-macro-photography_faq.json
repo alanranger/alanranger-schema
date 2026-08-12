@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is MACRO Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MACRO Photography captures very small subjects at high magnification. True macro is 1:1 reproduction—life-size on the camera sensor—revealing detail the eye often misses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What magnification counts as true macro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1:1 magnification (life-size on the sensor) is true macro. Close-up lenses may offer less (e.g., 1:2), which is still useful but not true macro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get sharp focus in MACRO Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a tripod, manual focus with Live View, and a remote or timer. For moving subjects, try AF-C or back-button focus and raise shutter speed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lighting works best for macro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diffuse light to avoid harsh speculars. Use LED or flash with a diffuser. Position light from the side to reveal texture; keep backgrounds distant for separation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What aperture and shutter speed should I start with?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin around ISO 100, f/8–f/16 for depth, and adjust shutter speed to maintain sharpness. Handheld often needs 1/250s+; tripod allows slower speeds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is focus stacking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shooting a series at different focus points and blending them to extend depth of field—ideal for static subjects when single-frame DOF is too shallow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is working distance and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Working distance is the space from lens front to subject. More distance reduces shadows, eases lighting, and avoids disturbing insects or delicate subjects."
+      }
+    }
+  ]
+}
