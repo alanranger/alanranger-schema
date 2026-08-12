@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-tips-10-things-to-know#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the exposure triangle in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exposure triangle is the three settings that control how bright your photograph comes out: aperture (f-stop), which controls depth of field and how much light reaches the sensor; shutter speed, which controls motion blur and how long light is collected; and ISO, which controls the sensor's sensitivity to light. Balancing these three creates a correct exposure. Move one and you have to adjust another to compensate. Once this clicks, every other photography decision starts to make sense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I improve my photography skills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improvement comes from a mix of practice, fundamentals and feedback. Take photos regularly. Master exposure, composition and focus rather than chasing gear. Study photographs you admire and work out what makes them effective. Get honest feedback from photographers you respect. Take courses or workshops if structured learning suits you. Practise in manual mode for creative control. Edit thoughtfully without over-processing. Try different genres until you find what you genuinely care about — that's where real improvement begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why aren't my pictures sharp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soft photos usually come from three things: focus missing the subject, shutter speed being too slow, or small camera shake. Use single-point autofocus and place it deliberately on the subject's eye or main feature. Raise shutter speed to at least 1/(focal length) — so 1/200s on a 200mm lens, faster for moving subjects. Stabilise the camera with proper bracing, image stabilisation, or a tripod. If you're still not sharp, check whether your focus point was actually where you thought it was — most missed-focus issues are user error, not equipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot in RAW or JPEG?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RAW, almost always. RAW files preserve the full information the sensor captured, giving you far more flexibility to adjust exposure, white balance and shadow recovery in editing. JPEG is the camera's interpretation baked into a smaller file — fine for snapshots and social media direct from camera, but you lose data that you might want later. The downside of RAW is bigger files and the need for editing software (Lightroom, Capture One, or the free DxO PhotoLab equivalents). The upside is that an image you thought was ruined can often be saved, which JPEG simply doesn't allow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the most useful single tip for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slow down. Most beginners take photos too quickly — they see something interesting, raise the camera, click, move on. The photographs that actually work usually come from someone who stopped, looked, walked around the subject, considered three or four different angles, and then chose the strongest one. Camera settings matter, but composition decisions made in those slow minutes before pressing the shutter make a bigger difference than any settings change. If you only change one habit, change the speed at which you work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to learn manual mode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eventually, but not immediately. Aperture-priority mode is where most photographers should live most of the time — you control aperture and ISO, the camera handles shutter speed. Use manual when you have a specific creative shutter speed in mind (long exposure, panning) or when the meter is being fooled (snow, dark scenes). Full automatic mode strips away the creative control that's the whole point of a serious camera. The progression is usually: auto for the first month, aperture-priority for a year, then manual when you have a reason to choose it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What gear do I actually need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Less than the photography industry wants you to think. Any camera made in the last ten years can produce professional-quality results. The order to spend money is usually: a decent lens (not another body), then a tripod, then perhaps a filter set (polariser, ND), and only then think about upgrading the camera. A 50mm prime lens for a few hundred pounds will teach you more about composition than the most expensive zoom. A skilled photographer with modest gear out-shoots a beginner with the latest equipment every time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find my own style?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Don't chase it directly — style is a by-product of doing other things well. Shoot a lot. Edit critically. Pay attention to which photographs you're proudest of and ask why. Notice which other photographers' work keeps drawing you in. Style emerges from the accumulation of small choices: subject preferences, light preferences, colour or tonal decisions, composition habits. Trying to invent a style consciously usually produces something that feels forced. The photographers with the most distinctive voices got there by doing the work for long enough that their personality came through."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I start editing my photos seriously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From the start, but with restraint. Basic adjustments — exposure, contrast, white balance, cropping — should be part of your workflow from your first month with a camera. They're not 'cheating', they're the digital equivalent of what photographers did in the darkroom for a century. The trap is over-processing: heavy clarity, crunchy contrast, oversaturated colour. If you can tell something has been edited at a glance, it's been edited too much. Aim for editing that enhances what the photograph was already trying to say, not editing that tries to rescue a weak photograph."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I tell if I'm actually improving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three signs. First, you start cringing slightly at photographs you were proud of six months ago — that's your eye improving faster than your output. Second, the ratio of keepers to deletions shifts: where you used to keep 10% you now keep 5%, because you can recognise weaker work. Third, other photographers whose work you respect start engaging with your photographs seriously — asking questions, offering critique, suggesting submissions. None of these are about Instagram likes. Improvement is measured against your own previous standard, not popularity."
+      }
+    }
+  ]
+}
