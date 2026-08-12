@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/social-media-for-photographers-tips#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which social media platform is best for photographers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends entirely on your goals. Instagram still has the largest photography audience but its algorithmic prioritisation of short video has reduced reach for stills. Flickr remains strong for serious photographic community and feedback. Behance and 500px suit portfolio-style presentation. YouTube works for photographers who want to teach or tell longer-form stories. The trap is spreading effort thinly across all platforms — better to focus on one or two that match where your audience genuinely lives and treat the others as cross-posting at most."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I post photos to social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consistency matters more than frequency. Three thoughtful posts per week beats seven rushed ones. Most platform algorithms reward regular activity, but punish content that doesn't engage viewers. Better to post less and post better than to flood feeds with weak work. Build a sustainable rhythm — daily is rarely sustainable for photographers also doing real work, but 2–3 considered posts per week is. Quality always outperforms quantity for long-term audience growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I add watermarks to my photos before posting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no, with exceptions. Subtle watermarks (corner, small, low-opacity) don't significantly reduce theft and don't significantly add deterrent value. They distract from the photograph itself and look amateur in many viewer's eyes. Larger, more visible watermarks ruin the image. The practical reality is that any photograph posted online can be screenshotted; watermarks don't prevent that. Most professional photographers don't watermark social posts, accepting that posting at moderate resolution and registering work with copyright bodies are stronger protections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size should I export photos for social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2048 pixels on the long edge is plenty for most platforms — Instagram, Facebook, Twitter all re-compress further regardless of what you upload. Aim for around 1080–1440px high for Instagram feed. Use sRGB colour space; AdobeRGB will be misrepresented on most viewers' screens. JPEG quality 75–85 is the sweet spot — higher just creates larger files without visible improvement after platform compression. Apply mild output sharpening for screen viewing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do hashtags actually help photographers grow on Instagram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Less than they used to. Algorithm changes have reduced the importance of hashtags compared to engagement signals (comments, shares, time spent). Five to ten relevant hashtags is plenty; thirty looks spammy and doesn't help. Specific niche hashtags (e.g. #ukwoodland) generally outperform broad ones (#photography). The strongest growth signal is genuinely engaging photographs that people comment on and share, not hashtag optimisation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I post Reels and short video as a photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Algorithmically yes, ethically up to you. Instagram and Facebook both heavily prioritise short video over still images, and a Reel will typically reach many times more accounts than a photo. The cost is the time involved (Reels require shooting, editing, sound, captioning) and the question of whether moving away from still photography is something you want to do. Some photographers embrace it; others accept reduced reach in exchange for staying focused on stills. Neither is wrong."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I deal with low engagement and feed algorithms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detach your sense of progress from platform metrics. Algorithms change constantly and reward content that often has nothing to do with photographic quality. Make work you're proud of, post when you have something to share, engage genuinely with other photographers' work, and accept that follower counts and likes are a poor measure of actual photographic development. The photographers who burn out fastest on social media are the ones who treat engagement metrics as a measure of their worth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I make a living as a photographer through social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible but uncommon, and getting harder. Direct income from social media (sponsorships, affiliate marketing, brand deals) typically requires hundreds of thousands of engaged followers — a level reached by a tiny minority. More commonly, social media supports a photographer's primary income (workshops, prints, commercial work, weddings) by acting as a portfolio and discovery channel. Treat social media as marketing infrastructure rather than a revenue source in itself, and the maths becomes more realistic."
+      }
+    }
+  ]
+}
