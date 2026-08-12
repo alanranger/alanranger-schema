@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel",
+  "name": "Case Study - Richard Johnson - LRPS - RPS Distinctions Panel",
+  "description": "View fullsize Richard Johnson Layout RPS Distinctions Richard’s journey is a proper reminder that the shortest route to a distinction isn’t always a.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel#blogposting"
+  }
+}
