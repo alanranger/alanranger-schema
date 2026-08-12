@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/portrait-photography-tips#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best time of day for natural‑light portraits in the UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early morning and late afternoon give you soft, directional light that flatters skin. Aim for about an hour after sunrise or two hours before sunset. Overcast days also work well because the clouds act like a giant diffuser. Adjust ISO to keep your shutter above 1/160s and you’ll avoid blur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a pricey flash for indoor portraits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at all. A single flash with a softbox can give you a professional look for under £150. Use a reflector opposite the flash to fill shadows. The research shows a single‑light Silver reflector setup costs the same as a three‑light 2‑stop ratio, so you can stay budget‑friendly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I make my subjects feel comfortable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a short chat about something they enjoy. Offer a simple pose like “lean against the wall” and let them adjust. Small actions , a gentle shake of the shoulders or a quick walk , release tension. Praise genuine moments, and the subject will relax faster."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What focal length should I use for flattering headshots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lens between 85mm and 135mm on full‑frame gives a natural perspective and nice background blur. If you’re on a crop sensor, add the crop factor (1.5× or 1.6×) and aim for about 50‑70mm. This range compresses facial features just enough to look pleasing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I edit out blemishes without looking fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Lightroom use the spot removal tool at a low opacity and brush over the blemish. Keep the feather high so the edit blends with skin texture. If you need more control, a local mask in Photoshop lets you smooth only the area you want."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose the right aperture for a group portrait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start at f/4 to f/5.6. This keeps everyone’s face sharp while still giving a soft background. If the group is large and you need more depth, move to f/8. Always check focus on the nearest eye and re‑compose if needed."
+      }
+    }
+  ]
+}
