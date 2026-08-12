@@ -1059,7 +1059,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1#event",
       "identifier": "lightroom-photo-editing-classes-wk1",
       "name": "Lightroom Classic Photo Editing Classes -Week 1 of 3 - 7-9",
-      "description": "07/09/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "07/09/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-09-07T19:00:00",
@@ -1139,7 +1139,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -1273,7 +1273,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2#event",
       "identifier": "lightroom-photo-editing-classes-wk2",
       "name": "Lightroom Classic Photo Editing Classes -Week 2 of 3 -14-9",
-      "description": "14/09/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "14/09/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-09-14T19:00:00",
@@ -1353,7 +1353,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -1487,7 +1487,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt#event",
       "identifier": "camera-courses-for-beginners-coventry-w5nkt",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 17-9",
-      "description": "17/09/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "17/09/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-09-17T19:00:00",
@@ -1567,7 +1567,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -1701,7 +1701,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3#event",
       "identifier": "lightroom-photo-editing-classes-wk3",
       "name": "Lightroom Classic Photo Editing Classes -Week 3 of 3 -21-9",
-      "description": "21/09/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "21/09/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-09-21T19:00:00",
@@ -1781,7 +1781,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -1915,7 +1915,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x#event",
       "identifier": "camera-courses-for-beginners-coventry-8ar5x",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 22-9",
-      "description": "22/09/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "22/09/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-09-22T19:00:00",
@@ -1995,7 +1995,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2129,7 +2129,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf#event",
       "identifier": "camera-courses-for-beginners-coventry-dhecf",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 24-9",
-      "description": "24/09/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "24/09/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dhecf",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-09-24T19:00:00",
@@ -2209,7 +2209,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2343,7 +2343,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe#event",
       "identifier": "camera-courses-for-beginners-coventry-dfe",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 29-9",
-      "description": "29/09/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "29/09/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-09-29T19:00:00",
@@ -2423,7 +2423,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2557,7 +2557,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx#event",
       "identifier": "camera-courses-for-beginners-coventry-nzwzx",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 1-10",
-      "description": "01/10/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "01/10/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-nzwzx",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-01T19:00:00",
@@ -2637,7 +2637,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2771,7 +2771,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h#event",
       "identifier": "camera-courses-for-beginners-coventry-3yj3h",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 6-10",
-      "description": "06/10/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "06/10/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-3yj3h",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-06T19:00:00",
@@ -2851,7 +2851,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2985,7 +2985,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe#event",
       "identifier": "camera-courses-for-beginners-coventry-zbcfe",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 12-10",
-      "description": "12/10/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "12/10/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-12T19:00:00",
@@ -3065,7 +3065,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3199,7 +3199,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh#event",
       "identifier": "camera-courses-for-beginners-coventry-7breh",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 14-10",
-      "description": "09/03/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "09/03/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-14T19:00:00",
@@ -3279,7 +3279,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3413,7 +3413,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-4pp2p#event",
       "identifier": "camera-courses-for-beginners-coventry-4pp2p",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 19-10",
-      "description": "19/10/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "19/10/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-4pp2p",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-19T19:00:00",
@@ -3493,7 +3493,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3627,7 +3627,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-hl4tm#event",
       "identifier": "camera-courses-for-beginners-coventry-hl4tm",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 21-10",
-      "description": "16/03/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "16/03/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-hl4tm",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-21T19:00:00",
@@ -3707,7 +3707,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3841,7 +3841,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka#event",
       "identifier": "camera-courses-for-beginners-coventry-8s2ka",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 26-10",
-      "description": "26/10/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "26/10/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8s2ka",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-26T19:00:00",
@@ -3921,7 +3921,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4055,7 +4055,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg#event",
       "identifier": "camera-courses-for-beginners-coventry-s2klg",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 28-10",
-      "description": "23/03/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "23/03/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-s2klg",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-10-28T19:00:00",
@@ -4135,7 +4135,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4269,7 +4269,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1#event",
       "identifier": "camera-courses-for-beginners-coventry-oct1",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 9-11",
-      "description": "09/11/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "09/11/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-11-09T19:00:00",
@@ -4349,7 +4349,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4483,7 +4483,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k#event",
       "identifier": "lightroom-photo-editing-classes-wk1-kdh5k",
       "name": "Lightroom Classic Photo Editing Classes - Week 1 of 3 -12-11",
-      "description": "12/11/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "12/11/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-11-12T19:00:00",
@@ -4563,7 +4563,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4697,7 +4697,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2#event",
       "identifier": "camera-courses-for-beginners-coventry-oct2",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 16-11",
-      "description": "16/11/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "16/11/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-11-16T19:00:00",
@@ -4777,7 +4777,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4911,7 +4911,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l#event",
       "identifier": "lightroom-photo-editing-classes-wk2-n8l4l",
       "name": "Lightroom Classic Photo Editing Classes - Week 2 of 3 -19-11",
-      "description": "19/11/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "19/11/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-11-19T19:00:00",
@@ -4991,7 +4991,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5125,7 +5125,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct3#event",
       "identifier": "camera-courses-for-beginners-coventry-oct3",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 23-11",
-      "description": "23/11/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "23/11/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct3",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-11-23T19:00:00",
@@ -5205,7 +5205,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5339,7 +5339,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64#event",
       "identifier": "lightroom-photo-editing-classes-wk3-7cd64",
       "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 -26-11",
-      "description": "26/11/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "26/11/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2026-11-26T19:00:00",
@@ -5419,7 +5419,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5553,7 +5553,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wc34j#event",
       "identifier": "camera-courses-for-beginners-coventry-wc34j",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 1-12",
-      "description": "01/12/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "01/12/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wc34j",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-12-01T19:00:00",
@@ -5633,7 +5633,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5767,7 +5767,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-hnp3g#event",
       "identifier": "camera-courses-for-beginners-coventry-hnp3g",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 8-12",
-      "description": "08/12/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "08/12/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-hnp3g",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-12-08T19:00:00",
@@ -5847,7 +5847,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5981,7 +5981,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-mw83l#event",
       "identifier": "camera-courses-for-beginners-coventry-mw83l",
       "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 15-12",
-      "description": "15/12/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "15/12/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-mw83l",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2026-12-15T19:00:00",
@@ -6061,7 +6061,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6195,7 +6195,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-xx94r#event",
       "identifier": "lightroom-photo-editing-classes-wk1-xx94r",
       "name": "Lightroom Classic Photo Editing Classes -Week 1 of 3 -12-1",
-      "description": "12/01/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "12/01/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-xx94r",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-01-12T19:00:00",
@@ -6275,7 +6275,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6409,7 +6409,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t#event",
       "identifier": "camera-courses-for-beginners-coventry-bds4t",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry- 13-1",
-      "description": "02/06/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "02/06/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2027-01-13T19:00:00",
@@ -6489,7 +6489,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6623,7 +6623,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d#event",
       "identifier": "lightroom-photo-editing-classes-wk2-55f3d",
       "name": "Lightroom Classic Photo Editing Classes -Week 2 of 3 - 19-1",
-      "description": "19/01/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "19/01/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-01-19T19:00:00",
@@ -6703,7 +6703,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6837,7 +6837,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27#event",
       "identifier": "camera-courses-for-beginners-coventry-2sj27",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 20-1",
-      "description": "09/06/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "09/06/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2027-01-20T19:00:00",
@@ -6917,7 +6917,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7051,7 +7051,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-42ynf#event",
       "identifier": "lightroom-photo-editing-classes-wk3-42ynf",
       "name": "Lightroom Classic Photo Editing Classes -Week 3 of 3 - 26-1",
-      "description": "26/01/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "26/01/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-42ynf",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-01-26T19:00:00",
@@ -7131,7 +7131,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7265,7 +7265,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1#event",
       "identifier": "camera-courses-for-beginners-week-1",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 27-1",
-      "description": "11/06/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "11/06/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1739790053633-OK80ELPCAKC96CKJLXA3/beginners-photography-courses.jpg",
       "startDate": "2027-01-27T19:00:00",
@@ -7345,7 +7345,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7479,7 +7479,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2k99k#event",
       "identifier": "camera-courses-for-beginners-coventry-2k99k",
       "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 28-1",
-      "description": "28/01/2027Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "28/01/2027 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2k99k",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2027-01-28T19:00:00",
@@ -7559,7 +7559,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7693,7 +7693,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-wk2#event",
       "identifier": "camera-courses-for-beginners-wk2",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 4-2",
-      "description": "04/02/2027Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "04/02/2027 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-wk2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1739790053633-OK80ELPCAKC96CKJLXA3/beginners-photography-courses.jpg",
       "startDate": "2027-02-04T19:00:00",
@@ -7773,7 +7773,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7907,7 +7907,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-3#event",
       "identifier": "camera-courses-for-beginners-week-3",
       "name": "Camera Courses For Beginners - Week 3 of 3 Coventry - 11-2",
-      "description": "11/02/2027Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "11/02/2027 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-3",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1739790053633-OK80ELPCAKC96CKJLXA3/beginners-photography-courses.jpg",
       "startDate": "2027-02-11T19:00:00",
@@ -7987,7 +7987,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8121,7 +8121,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-rrkhn#event",
       "identifier": "lightroom-photo-editing-classes-wk1-rrkhn",
       "name": "Lightroom Classic Photo Editing Classes - Week 1 of 3 - 6-5",
-      "description": "06/05/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "06/05/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-rrkhn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-05-06T19:00:00",
@@ -8201,7 +8201,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8335,7 +8335,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-y3262#event",
       "identifier": "lightroom-photo-editing-classes-wk2-y3262",
       "name": "Lightroom Classic Photo Editing Classes - Week 2 of 3 - 13-5",
-      "description": "13/05/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "13/05/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-y3262",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-05-13T19:00:00",
@@ -8415,7 +8415,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8549,7 +8549,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3#event",
       "identifier": "lightroom-photo-editing-classes-wk3-9b3t3",
       "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 - 20-5",
-      "description": "20/05/2027Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "20/05/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-9b3t3",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
       "startDate": "2027-05-20T19:00:00",
@@ -8629,7 +8629,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8759,7 +8759,7 @@
       "@type": "EventSeries",
       "@id": "https://www.alanranger.com#series-lightroom-photo-editing",
       "name": "Lightroom photo editing (Annual Series)",
-      "description": "07/09/2026Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "description": "07/09/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
@@ -8941,7 +8941,7 @@
       "@type": "EventSeries",
       "@id": "https://www.alanranger.com#series-camera-course-for-beginners",
       "name": "Camera course for beginners (Annual Series)",
-      "description": "17/09/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "17/09/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
