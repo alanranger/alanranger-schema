@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is storytelling in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Storytelling in photography is the intentional use of subject, light, composition, and timing to convey a mood, message, or narrative that makes viewers feel as well as see."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I tell a story with a single photo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lead with intent: decide the emotion first. Use a clear subject, clean background, controlled light, and strong framing or gesture. Remove elements that don’t serve the message."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What elements make a strong narrative image?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clarity of subject, meaningful context, directional light, purposeful composition (thirds, lines, space), and a decisive moment or gesture that reveals relationship or change."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lighting improve storytelling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose light for mood: soft light for intimacy, hard light for drama, backlight for mystery, side light for depth. Align direction, quality, and colour of light with the story."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a series or can one image tell a story?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both work. A single frame can suggest a powerful moment; a short series (beginning–middle–end) can develop context, change, and resolution for deeper narratives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I practice storytelling skills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set a theme, slow down to observe, shoot sequences with different framings, and edit tightly. Review what feeling each frame delivers and refine until the intent reads clearly."
+      }
+    }
+  ]
+}
