@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide",
+  "name": "Autumn Arboretum &amp; Garden Photography: A UK Guide 2026",
+  "description": "This guide is the cultivated-environment companion to my UK autumn landscape photography guide (which covers wild locations, golden hour, filters, and the.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide#blogposting"
+  }
+}
