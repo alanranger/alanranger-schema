@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main types of ARCHITECTURE Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior photography shows a building’s form, facade and context. Interior photography focuses on space, light and materials inside. Most projects need both for a complete story."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the basics of ARCHITECTURE Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research the site, plan for best light, use a tripod and low ISO, keep verticals straight, and compose for scale and context. Shoot at different times to vary mood."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you keep vertical lines straight in building photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep the camera level and parallel to the facade, step back and use a longer focal length, or use a tilt-shift lens or correction tools in post-production."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lens is best for ARCHITECTURE Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wide-angle (16–35mm) is useful for tight interiors. A standard 35–85mm gives cleaner lines. A tilt-shift lens allows precise perspective control for professional results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time for ARCHITECTURE Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Golden hour adds warmth and depth. Blue hour balances sky and building lights. Midday creates graphic shadows, while night shots highlight illuminated facades."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need permission to photograph buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exteriors are usually fine from public land. Interiors, private property, or commercial use may need permission or a property release. Always check site rules first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why shoot wider for ARCHITECTURE Photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoot slightly wider and taller to allow for distortion or perspective correction in post. This prevents important tops or edges of buildings being cropped off."
+      }
+    }
+  ]
+}
