@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-janet-boulter-rps-distinctions#howto",
+  "name": "Case Study - Janet Boulter LRPS | RPS Distinctions",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/case-study-janet-boulter-rps-distinctions#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "text": "I was keen to improve my photography skills and felt to gain this recognition from RPS a worldwide recognised photography accreditation would be a benchmark of achievement towards that goal. I still have more to learn and this has pushed my ability in the right direction for improvement."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Describe how you found the RPS Distinctions Mentoring Classes.",
+      "text": "The group format was enlightening as you learn from everyone’s journey as well as your own which was helpful. I picked up ideas of composition and tips on processing from other reviews which I incorporated into my work. I would have liked to have had a more open forum rather than what felt like a 1:1 with an audience. I feel that a combination of personal 1:1 plus the group meetings was beneficial as the 1:1 made the time to focus on specific issues. The mentoring was interrupted by Covid 19 and had to switch to Zoom meetings which were particularly challenging at the print stage, however,..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "What distinction did you apply for and were you successful?",
+      "text": "LRPS Fine Art and was successful on 3/3/21"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "What was your experience like of the RPS Assessment Day?",
+      "text": "The assessment of 2021 done via Zoom was well organised and very informative. Full credit to RPS for achieving this. Due to Covid 19, this was my first assessment and wished I had attended one before. The panel comments were always encouraging and detailed regarding the photography and the print quality; even the quality of the image mount was reviewed, so detail is very important. As it was a Zoom assessment there were regular requests from the home-based panel for the print expert to check the tonal quality, highlights and shadows close up. I would have benefited from seeing and understan..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "text": "Alan was my key mentor, plus I did book a 1:1 with RPS which again was a Zoom call and extremely insightful and encouraging. The assessor provided a friendly environment offering both positive and constructive criticism of my images. He recommended two amendments as well as providing helpful information on the assessment day and the pros and cons of print v DPI. Adam at OneVision for printing was extremely helpful at the final stage."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "text": "How quickly you get there will depend on your current ability, but don’t be put off by the prospect and treat it as a journey for improvement, not just gaining a recognised photography accreditation, but personal improvement in creativity and skills. For me, I learnt to respect and change my view that the final stage is print which is an affirmation of what I want the viewer to see. Monitor settings will vary and therefore the image can be different, in print it cannot and it will be your image that is seen. Be prepared to try another genre(s) outside your normal choice to expand your knowl..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
+      "text": "In a practical sense, personal time was a struggle juggling work and family commitments. From a technical view developing my post-production skills. I have had to increase my Lightroom, Photoshop and Nik abilities to enhance the images. Soft proofing for the final print, unless you have a lot of experience I would leave it to the experts."
+    }
+  ]
+}
