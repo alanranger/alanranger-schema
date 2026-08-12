@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/long-exposure-seascapes-guide#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What ND filter strength should I buy first for seascapes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 6-stop ND. It's the workhorse filter for the milky-smooth shot type, covering 80% of seascape long-exposure situations at UK light levels. Buy 6-stop first, add 10-stop and 3-stop later. Avoid cheap filters with colour cast; Kase, Haida and NiSi produce neutral 6-stops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should my shutter speed actually be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "0.5-4 seconds gives streaking wave motion. 10-30 seconds gives milky smooth. 60-240 seconds gives glassy mirror. Take three bracketed exposures of each composition and choose in edit which reads best."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a polariser as well as an ND?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The polariser cuts glare off wet rock, wet sand and water surface. Without it long-exposure seascapes have a washed-out milky quality that post-processing can't recover. Stack polariser behind the ND in most holder systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best UK location for long-exposure seascapes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on the look. Hartland Quay (Devon) and Jurassic Coast for dramatic rock stacks. Burnham-on-Sea and Saltburn for piers. Northumberland and Saunton Sands for wide sandy beaches. Pembrokeshire, West Cornwall, Lizard for rugged Atlantic cliffs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the exposure time with an ND filter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multiply base exposure by 2 raised to filter stop value. 6-stop = 64x (1/15s becomes 4s). 10-stop = 1024x (1/15s becomes 68s). Or use a calculator app like PhotoPills, NiSi ND Calc, or LE Calc. Exposures over 30 seconds need Bulb mode."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot at sunrise, sunset, or blue hour?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blue hour — 30 minutes before sunrise or after sunset — beats golden hour for long-exposure seascapes. Softer light, cleaner tonal separation, better sea rendering in long exposure. Don't pack up at sunset; stay another 40 minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I stop the sky being blown out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three options: fit a graduated ND filter (3-stop soft grad) above horizon; shoot bracketed set and blend in post; re-compose with less sky in the frame. Graduated ND is fastest, bracketing most flexible, composition fix is free."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How dangerous is UK seascape photography really?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Real but manageable. Main risks: sneaker waves, rising-tide cut-off, wet-rock falls. All preventable: never turn your back on the sea, use a proper tide table with 60-minute safety margin, wear boots with moulded rubber compound, don't shoot alone at new locations."
+      }
+    }
+  ]
+}
