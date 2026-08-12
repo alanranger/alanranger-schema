@@ -79,8 +79,8 @@
         "price": "30.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-29",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-08-12",
+        "priceValidUntil": "2027-08-12",
         "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
         "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#offer",
         "seller": {
@@ -112,6 +112,63 @@
         }
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Szymon Dereg"
+          },
+          "reviewBody": "Great camera sensor clean service. Will be back!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Clay"
+          },
+          "reviewBody": "I attended the intro 3 week course and it was excellent. I have for a long time wanted to 'get off auto' and Alan made that possible and enjoyable. I have loved practising at during the week and have already booked back to come onto another course. Thank you 🙏",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harmit Kuner"
+          },
+          "reviewBody": "Good, friendly tuition. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -227,7 +284,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 6
+        "reviewCount": 9
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#product"
     }

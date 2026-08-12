@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Landscape Photography Workshop Norfolk - Coastal 20 – 22 Nov",
+          "name": "Norfolk Landscape Photography Workshop - Coastal 20 – 22 Nov",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
         }
       ],
@@ -64,7 +64,7 @@
     },
     {
       "@type": "Product",
-      "name": "Landscape Photography Workshop NORFOLK - Coastal 20 - 22 Nov",
+      "name": "NORFOLK Landscape Photography Workshop  - Coastal 20 - 22 Nov",
       "sku": "SQ8747213",
       "brand": {
         "@type": "Brand",
@@ -79,8 +79,8 @@
         "price": "1025.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-29",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-08-12",
+        "priceValidUntil": "2027-08-12",
         "priceSpecification": {
           "price": "1025.00",
           "priceCurrency": "GBP"

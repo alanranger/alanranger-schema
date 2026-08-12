@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:11:09.991Z",
+  "generatedAt": "2026-08-12T09:02:14.327Z",
   "totalProducts": 51,
   "entries": [
     {
@@ -29,7 +29,7 @@
     {
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
       "pathKey": "/photography-services-near-me/beginners-portrait-photography-course",
-      "schemaFileName": "beginners-portrait-photography-course-coventry-11-oct-2025_schema.json",
+      "schemaFileName": "beginners-portrait-photography-course-coventry-11-oct-25_schema.json",
       "faqFileName": ""
     },
     {
@@ -47,7 +47,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
       "pathKey": "/photo-workshops-uk/christmas-photography-workshops",
-      "schemaFileName": "christmas-photography-seasonal-workshops-warwickshire_schema.json",
+      "schemaFileName": "christmas-photography-seasonal-workshops-warwickshire-uk_schema.json",
       "faqFileName": ""
     },
     {
@@ -137,25 +137,25 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
       "pathKey": "/photo-workshops-uk/landscape-photography-devon-hartland-quay",
-      "schemaFileName": "landscape-photography-devon-workshops-various-dates_schema.json",
+      "schemaFileName": "devon-landscape-photography-workshops-various-dates_schema.json",
       "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
       "pathKey": "/photo-workshops-uk/landscape-photography-snowdonia-workshops",
-      "schemaFileName": "landscape-photography-snowdonia-sat-26-sun-27-sep-2026_schema.json",
+      "schemaFileName": "snowdonia-landscape-photography-sat-26-sun-27-sep-2026_schema.json",
       "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
       "pathKey": "/photo-workshops-uk/landscape-photography-wales-photo-workshop",
-      "schemaFileName": "gower-landscape-photography-wales-28-aug-30-aug-2026_schema.json",
+      "schemaFileName": "gower-landscape-photography-wales-28-may-30-may-2027_schema.json",
       "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
       "pathKey": "/photo-workshops-uk/landscape-photography-workshop-norfolk",
-      "schemaFileName": "landscape-photography-workshop-norfolk-coastal-20-22-nov_schema.json",
+      "schemaFileName": "norfolk-landscape-photography-workshop-coastal-20-22-nov_schema.json",
       "faqFileName": ""
     },
     {
@@ -179,7 +179,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
       "pathKey": "/photo-workshops-uk/long-exposure-photography-kenilworth",
-      "schemaFileName": "long-exposure-photography-workshop-kenilworth-sunset_schema.json",
+      "schemaFileName": "kenilworth-sunset-long-exposure-photography-workshop_schema.json",
       "faqFileName": ""
     },
     {
@@ -209,13 +209,13 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
       "pathKey": "/photo-workshops-uk/peak-district-heather-photography-workshop",
-      "schemaFileName": "peak-district-heather-photography-workshops-15-16-aug_schema.json",
+      "schemaFileName": "peak-district-heather-photography-workshops-14-15-aug_schema.json",
       "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
       "pathKey": "/photo-workshops-uk/photography-workshops-chesterton-windmill",
-      "schemaFileName": "photography-workshops-chesterton-windmill-warwickshire_schema.json",
+      "schemaFileName": "chesterton-windmill-photography-workshops-warwickshire_schema.json",
       "faqFileName": ""
     },
     {
@@ -287,7 +287,7 @@
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "pathKey": "/photo-workshops-uk/yorkshire-dales-photography-workshops",
-      "schemaFileName": "landscape-yorkshire-dales-photography-workshop-16-18-apr_schema.json",
+      "schemaFileName": "yorkshire-dales-landscape-photography-workshop-16-18-apr_schema.json",
       "faqFileName": ""
     },
     {

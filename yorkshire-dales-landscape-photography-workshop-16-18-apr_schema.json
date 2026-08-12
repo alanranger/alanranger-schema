@@ -56,33 +56,33 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Landscape Photography Snowdonia - Sat 26 - Sun 27 Sep 2026",
-          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops"
+          "name": "Yorkshire Dales Landscape Photography Workshop - 16 – 18 Apr",
+          "item": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
         }
       ],
-      "@id": "https://www.alanranger.com/landscape-photography-snowdonia-workshops#breadcrumbs"
+      "@id": "https://www.alanranger.com/yorkshire-dales-photography-workshops#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Landscape Photography SNOWDONIA - Sat 26 - Sun 27 Sep 2026",
-      "sku": "SQ0548499",
+      "name": "YORKSHIRE DALES Landscape  Photography Workshop - 16 - 18 Apr",
+      "sku": "SQ9211910",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me on this landscape photography Snowdonia workshop in the iconic mountains, quarries and landscape of Snowdonia national park.Summary - Snowdonia Landscape photography workshop Location:Wales - Snowdonia National Park Dates: Sat 26 th - Sun 27 th Sep 2026 - 2 Days/1 Night Participants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Snowdonia Description: This is a 2-day, 1-night residential landscape photography...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1711625824431-22D7V1RNKR8H2LBRW4Z9/Snowdonia+%2301+-+Oct+2023.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
+      "description": "Yorkshire Dales Photography Workshop - Join me for this fantastic landscape workshop on limestone pavements and waterfalls.Summary Location: Yorkshire Dales Dates: Fri 16 th - Sun 18 th Apr 2027 - 3 Days/2 Nights Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Yorkshire Dales Description: This is a 3-day, 2-night residential landscape photography workshop in the Yorkshire Dales — one of England's most iconic and varied landscapes, open to all levels from beginner to...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714659095505-TB874TXCA6ADNDFC82FX/Muker+%2302+-+July+2021.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ0548499",
-        "price": "595.00",
+        "sku": "SQ9211910",
+        "price": "895.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-06-29",
-        "priceValidUntil": "2027-06-29",
-        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#offer",
+        "validFrom": "2026-08-12",
+        "priceValidUntil": "2027-08-12",
+        "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,16 +116,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nigel Capelle"
+            "name": "Chris Stamp"
           },
-          "reviewBody": "The landscape photography workshop in Snowdonia proved to be an enlightening experience, offering a comprehensive understanding of capturing nature's beauty. Led by Alan, the workshop adeptly combined theoretical insights with practical fieldwork, enhancing participants' technical skills and creative vision. The breathtaking Snowdonia vistas provided an ideal backdrop for mastering composition, lighting and exposure techniques, fostering a deeper appreciation for the art of landscape photography. The hands-on guidance and personalised feedback was commendable, enabling me to elevate my photography skills. Overall, the workshop's rich content, picturesque location and skilled mentor rendered it an indispensable opportunity for aspiring and seasoned photographers alike. I also enjoyed the relaxed social aspects of the workshop with first class accommodation provided.",
+          "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2023-10-29",
+          "datePublished": "2026-04-13",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -135,16 +135,35 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Peter Williams"
+            "name": "Sofiagzagdo"
           },
-          "reviewBody": "Alan has a gentle approach to those people who are on a learning curve whilst being technical and knowledgeable to the more experienced photographer. Good patient manner with a sense of humour. well organised and expects the same from his clients.",
+          "reviewBody": "This is a great photography course! I had very little knowledge about photography and a lot of questions… Alan is super knowledgeable, patient and takes the time to answer and explain all your doubts. The main focus of the session concentrated on composition which I throughly enjoyed and wished to learn. I can’t wait to take another of Alan’s courses and continue learning more especially his Lightroom knowledge. Extremely well thought out course and great teacher.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-03-05",
+          "datePublished": "2026-05-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicola"
+          },
+          "reviewBody": "Went through the basics to introduce you to photography and you can either sign on to continue the course over the next few weeks with Alan or get out there and start snapping. He is very enthusiastic and passionate about photography and it is impossible not to let it rub off on you. Really enjoyed it!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-09-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -154,16 +173,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Francis Peckham"
+            "name": "Martin Chidgey"
           },
-          "reviewBody": "Overall, a pretty good tour. Some decent locations and I felt Alan a struck a good balance between tuition and friendly travel companion ; undoubtedly a very competent tutor and I've picked up quite a bit personally. The midges and full-on sunlight were minor negatives, but that's the nature of these trips. Decent overnight accommodation and adequate meals etc. Very pleased with the experience and will look to participate again.",
+          "reviewBody": "Alan's obvious enthusiasm and creativity made for a really interesting and informative evening.  The session was well timed with well spaced breaks. The information covered was presented in an interesting way with lots of examples to illustrate the points made.  I felt enthused to go out and take more photos but in a more considered and thoughtful way. I certainly want to learn more about how I can make better use of my camera.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-06-12",
+          "datePublished": "2016-01-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,45 +192,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Cameron"
+            "name": "Michael Bulman"
           },
-          "reviewBody": "I recently went on a workshop to Glencoe for 3 days. I had excellent tuition and advice on how to visualise and capture images. I've since had a 1-2-1 where we've been through half a dozen images from Glencoe. Where Alan has provided some best practices, tips and tricks on how to edit photos, to my style - not too over processed and natural looking.  I wholeheartedly recommend Alan Ranger Photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Con McHugh"
-          },
-          "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedback on the locations as well as getting feedback on the photos we had taken during the day if wanted. It was a great group with lots of energy throughout the weekend.I have since booked a 121 to get feedback on my post processing the photos I took.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "As on a previous workshop we were taken to a number of excellent locations. As always, Alan's knowledge and advice was extensive and freely given. I would thoroughly recommend him. I had a fantastic time.",
+          "reviewBody": "Having just changed over from film to digital I realised that I missed a lot by using film but now hope to apply all knowledge, help and information that you gave.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -227,9 +210,27 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Simon  Wright"
+            "name": "James Whiting"
           },
-          "reviewBody": "I was only able to spend one day of the weekend, but Alan made me very welcome. It was my first proper workshop and I look forward to doing more in the future as I came away with lots of ideas and things to think about to take my photography forward - thank you.",
+          "reviewBody": "A well paced 3 hour workshop which took us through an introduction to some of the key pillars behind digital photography - both technical and creative.    Alan delivered the session in an engaging and informative manner and I took away a number of thoughts and principles to practice and use in order to improve my photography.  Found his analogies and examples really useful to help my understanding.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex Rodgers"
+          },
+          "reviewBody": "A great evening class to introduce the basics of digital photography.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -247,7 +248,7 @@
         "ratingValue": "5.0",
         "reviewCount": 7
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#product"
     }
   ]
 }

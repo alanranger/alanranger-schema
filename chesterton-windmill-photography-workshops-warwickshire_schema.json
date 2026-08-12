@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Photography Workshops Chesterton Windmill - Warwickshire",
+          "name": "Chesterton Windmill Photography Workshops - Warwickshire",
           "item": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
         }
       ],
@@ -64,7 +64,7 @@
     },
     {
       "@type": "Product",
-      "name": "Photography Workshops CHESTERTON WINDMILL - Warwickshire",
+      "name": "CHESTERTON WINDMILL Photography Workshops - Warwickshire",
       "sku": "SQ3572999",
       "brand": {
         "@type": "Brand",
@@ -80,8 +80,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 16th Sep 2026 - 18:00 - 20:30",
           "priceSpecification": {
             "price": "50.00",
@@ -123,8 +123,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Mon 5th Oct 2026 - 17:30 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -166,8 +166,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 13th Apr 2027 - 18:15 - 20:15",
           "priceSpecification": {
             "price": "50.00",
@@ -209,8 +209,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Mon 10th May 2027 - 18:30 - 20:30",
           "priceSpecification": {
             "price": "50.00",

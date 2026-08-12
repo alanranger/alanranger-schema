@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Peak District Heather Photography Workshops - 15 – 16 Aug",
+          "name": "Peak District Heather Photography Workshops - 14 – 15 Aug",
           "item": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "PEAK DISTRICT HEATHER Photography Workshops - 15-16 Aug",
+      "name": "PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug",
       "sku": "SQ1994489",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4 hr Heather Peak District Photography Workshops | All levels welcome Summary Location: Peak District - Derbyshire/Staffordshire 2026 - Sat 15 th Aug 18:15 21:15 - Derbyshire Surprise View 2026 - Sun 17 th Aug 05:45 08:45 - Staffordshire - The Roaches Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Heathers Description: Every August the moors of the Peak District turn a spectacular purple...",
+      "description": "Join me for the Peak District heather displays over this iconic landscape in August - 4 hr Heather Peak District Photography Workshops | All levels welcome Summary Location: Peak District - Derbyshire/Staffordshire 2026 - Sat 15 th Aug 18:15 21:15 - Derbyshire Surprise View 2026 - Sun 16 th Aug 05:45 08:45 - Staffordshire - The Roaches 2027 - Sat 14 th Aug 18:15 21:15 - Derbyshire Surprise View 2027 - Sun 15 th Aug 05:45 08:45 - Staffordshire - The Roaches Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1685361335026-KNDKR6D00CTPUASRDWDV/Surprise%2BView%2B2.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
       "offers": [
@@ -79,9 +79,9 @@
           "sku": "SQ1994489",
           "price": "125.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sat 15 Aug 2026 - Hathersage 18:15 - 21:15",
           "priceSpecification": {
             "price": "125.00",
@@ -122,9 +122,9 @@
           "sku": "SQ1389945",
           "price": "125.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sun 16 Aug 2026 - The Roaches & Ramshaw 05:45 - 08:45",
           "priceSpecification": {
             "price": "125.00",
@@ -165,12 +165,129 @@
           "sku": "SQ5395624",
           "price": "200.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Both sessions - 15 and 16 Aug - sunset and sunrise",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7900435",
+          "price": "125.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
+          "name": "2027 - Sat 14th Aug 18:15 21:15 - Derbyshire Surprise View",
+          "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ4225053",
+          "price": "125.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
+          "name": "2027 - Sun 15 Aug - The Roaches & Ramshaw 05:45 - 08:45",
+          "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer5",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ8702063",
+          "price": "200.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
+          "name": "Both sessions - 14 and 15 Aug - sunset and sunrise",
+          "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer6",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -262,9 +379,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
+            "name": "Sharon McDonald"
           },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -281,9 +398,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sharon McDonald"
+            "name": "Alex McDonald"
           },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

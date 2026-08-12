@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 20 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 20 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 20 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 21 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 21 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 21 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 22 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 22 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 22 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 23 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 23 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 23 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -596,8 +596,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sat 24 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -639,8 +639,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sat 24 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -682,8 +682,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sat 24 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -725,8 +725,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sun 25 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -768,8 +768,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sun 25 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -811,8 +811,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Sun 25 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -854,8 +854,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Mon 26 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -897,8 +897,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Mon 26 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -940,8 +940,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Mon 26 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -983,8 +983,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 27 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1026,8 +1026,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 27 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1069,8 +1069,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Tue 27 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1112,8 +1112,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 28 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1155,8 +1155,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 28 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1198,8 +1198,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Wed 28 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1241,8 +1241,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 29 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1284,8 +1284,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 29 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1327,8 +1327,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Thu 29 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1370,8 +1370,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 30 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -1413,8 +1413,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 30 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -1456,8 +1456,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-06-29",
-          "priceValidUntil": "2027-06-29",
+          "validFrom": "2026-08-12",
+          "priceValidUntil": "2027-08-12",
           "name": "Fri 30 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1613,9 +1613,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sunil Prasad"
+            "name": "Anna Kopytek"
           },
-          "reviewBody": "Alan' learning session is much clear and detailed",
+          "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1632,9 +1632,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Anna Kopytek"
+            "name": "Sunil Prasad"
           },
-          "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
+          "reviewBody": "Alan' learning session is much clear and detailed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1900,7 +1900,7 @@
             "@type": "Person",
             "name": "Joanne galloway"
           },
-          "reviewBody": "I have had the pleasure of attending several courses and workshops run by Alan and certainly plan to do more.  He is a true professional who shares his knowledge & experience with an overriding intention to improve your photography and increase the enjoyment on every occasion. Very straight talking to ensure you get the best from your photography and move from snaps to creativity. Alan goes the extra mile to help and support …. Even when his patience is tested !!",
+          "reviewBody": "Another excellent workshop at the Lavender Fields at Snowshill  with superb guidance from Alan on how to get the best from the beautiful lavender . Sharing his knowledge & expertise ensures that the end product is a great photo instead of a “ snap”  I have now attended several of Alan’s workshops and I always learn a great deal and reinforce what I’ve previously learnt .",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1908,25 +1908,6 @@
             "worstRating": "1"
           },
           "datePublished": "2023-08-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Clare"
-          },
-          "reviewBody": "I am very happy with the one to one zoom classes I have been having with Alan, I wish I could attend a workshop in person. I now understand far more to enable me to use my camera and not be scared of all the settings! I am looking forward to learning the creative side now that I feel more confident with my camera. Alan has been very patient with my limited knowledge!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-08-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1968,6 +1949,25 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommend this workshop, you will not be disappointed.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-05-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
           }
         }
       ],
