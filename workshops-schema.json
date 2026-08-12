@@ -1958,7 +1958,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry#event",
       "identifier": "abstract-and-macro-photography-workshop-coventry",
       "name": "Abstract and Macro Photography Workshop Warwickshire - July",
-      "description": "23/08/2026Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "description": "23/08/2026 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734084297980-W42TDI502DA8I78VBBO5/Abstract%2Band%2BMacro%2BPhotography%2BWorkshops.jpg",
       "startDate": "2026-08-23T10:30:00",
@@ -2038,7 +2038,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2168,7 +2168,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4#event",
       "identifier": "long-exposure-photography-workshop-kenilworth4",
       "name": "Long Exposure Photography Workshop - Kenilworth 01-09",
-      "description": "01/09/2026Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "01/09/2026 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth4",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675345926122-FG9G39T5F3OOT1CNEZMP/kenilworth+defenses.jpg",
       "startDate": "2026-09-01T18:00:00",
@@ -2243,7 +2243,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2289,7 +2289,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes#event",
       "identifier": "hartland-quay-photography-devon-seascapes",
       "name": "Hartland Quay, Devon Seascape Photography Workshops",
-      "description": "04/09/2026Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
+      "description": "04/09/2026 Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674565120064-MZONL9LFH2Z0RH81Z9CT/Atlantic+Force.jpg",
       "startDate": "2026-09-04T12:30:00",
@@ -2369,7 +2369,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2499,7 +2499,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop#event",
       "identifier": "abstract-and-macro-photography-workshop",
       "name": "Abstract and Macro Photography Workshop - Warwickshire",
-      "description": "08/09/2026Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "description": "08/09/2026 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734085795822-KGL13H1JB15QFAVBP4IU/Abstract+and+Macro+Photography+Workshops.jpg",
       "startDate": "2026-09-08T18:00:00",
@@ -2578,7 +2578,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2708,7 +2708,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry#event",
       "identifier": "urban-architecture-photography-workshop-coventry",
       "name": "Coventry Evening Urban Architecture Photography Workshop ",
-      "description": "09/09/2026Coventry - Once City of Culture - Explore the new and old surrounding area to create Urban Architecture Photography with Alan on this night shoot.",
+      "description": "09/09/2026 Coventry - Once City of Culture - Explore the new and old surrounding area to create Urban Architecture Photography with Alan on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546344708108-3P21C5HFHMEO7XP2F2LT/ST+MICHAEL+SUBDUING+THE+DEVIL+-Photography-Workshops.jpg",
       "startDate": "2026-09-09T18:15:00",
@@ -2788,7 +2788,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -2918,7 +2918,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire#event",
       "identifier": "landscape-photography-workshops-yorkshire",
       "name": "Landscape Photography Workshops Yorkshire | Coast and Moors",
-      "description": "10/09/2026Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
+      "description": "10/09/2026 Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212564861-65XIJN9NGEKXOO8C2J73/North+Yorkshire+Photography+Workshop.jpg",
       "startDate": "2026-09-10T14:00:00",
@@ -2998,7 +2998,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3128,7 +3128,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5#event",
       "identifier": "sunset-chesterton-windmill-spring-7gw7j-9akd5",
       "name": "Sunset Photographic Workshop - Chesterton Windmill 16-09",
-      "description": "16/09/2026Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
+      "description": "16/09/2026 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
       "startDate": "2026-09-16T18:00:00",
@@ -3208,7 +3208,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3338,7 +3338,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer#event",
       "identifier": "lake-district-photography-workshop-late-summer",
       "name": "Lake District Photography Workshop Late Summer in Cumbria",
-      "description": "18/09/2026Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
+      "description": "18/09/2026 Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928327366-YR9B778G2HGSWZ6N3B21/morning+calm-Photography-Workshops.jpg",
       "startDate": "2026-09-18T09:30:00",
@@ -3418,7 +3418,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3548,7 +3548,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1#event",
       "identifier": "long-exposure-photography-workshop-kenilworth1",
       "name": "Long Exposure Photography Workshop - Sunset | Kenilworth",
-      "description": "23/09/2026Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "23/09/2026 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1677346062246-6DAXRO5SKD1LJ1TBFEL2/kenilworth+defenses.jpg",
       "startDate": "2026-09-23T17:45:00",
@@ -3623,7 +3623,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3669,7 +3669,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop#event",
       "identifier": "landscape-photography-snowdonia-workshop",
       "name": "Landscape Photography Snowdonia Photography Workshop",
-      "description": "26/09/2026Wales - Landscape Photography Snowdonia Workshops - Waterfalls, mountains, big vistas, slate quarries, lakes | photography workshops near me",
+      "description": "26/09/2026 Wales - Landscape Photography Snowdonia Workshops - Waterfalls, mountains, big vistas, slate quarries, lakes | photography workshops near me",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696850796928-3GQA4UMZ6SHN0O83WJWJ/Snowdonia+Landscape+Photography+Workshop.jpg",
       "startDate": "2026-09-26T10:00:00",
@@ -3749,7 +3749,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -3879,7 +3879,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales#event",
       "identifier": "fairy-glen-photography-wales",
       "name": "Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn",
-      "description": "26/09/2026Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
+      "description": "26/09/2026 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1740502341422-AGUUE085W47A3L7137NG/Fairy+Glen+4.jpg",
       "startDate": "2026-09-26T10:00:00",
@@ -3959,7 +3959,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4044,7 +4044,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop#event",
       "identifier": "dorset-photography-workshop",
       "name": " Dorset Photography Workshop | Jurassic Coast Photography",
-      "description": "02/10/2026Dorset Photography Workshop - Learn how to photograph the coastline with award-winning, professional photographer Alan Ranger on this Jurassic Coast",
+      "description": "02/10/2026 Dorset Photography Workshop - Learn how to photograph the coastline with award-winning, professional photographer Alan Ranger on this Jurassic Coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546347241014-RTAHXH3JAKUBFBF94325/durdle+door-Photography-Workshops.jpg",
       "startDate": "2026-10-02T14:00:00",
@@ -4124,7 +4124,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4239,7 +4239,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j#event",
       "identifier": "sunset-chesterton-windmill-spring-7gw7j",
       "name": "Sunset Photographic Workshop - Chesterton Windmill 05-10",
-      "description": "05/10/2026Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
+      "description": "05/10/2026 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
       "startDate": "2026-10-05T17:30:00",
@@ -4319,7 +4319,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4449,7 +4449,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr#event",
       "identifier": "wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
       "name": "Wales Photography Workshop Pistyll Rhaeadr and Lake Vyrnwy ",
-      "description": "10/10/2026Wales Photography workshop - Valleys, rivers, lakes, mountains, woodlands and waterfalls | Join me on this exciting, varied 2-day photography event",
+      "description": "10/10/2026 Wales Photography workshop - Valleys, rivers, lakes, mountains, woodlands and waterfalls | Join me on this exciting, varied 2-day photography event",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538936266800-X7E25G1Y68K21JET6YMU/Lake+Vyrnwy+-Photography-Workshops.jpg",
       "startDate": "2026-10-10T09:30:00",
@@ -4529,7 +4529,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4644,7 +4644,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-piles-coppice#event",
       "identifier": "woodland-photography-walk-coventry-piles-coppice",
       "name": "Woodland Photography Walk | Coventry | Piles Coppice",
-      "description": "16/10/2026Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
+      "description": "16/10/2026 Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-piles-coppice",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
       "startDate": "2026-10-16T09:30:00",
@@ -4724,7 +4724,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -4854,7 +4854,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter#event",
       "identifier": "peak-district-photography-workshops-winter",
       "name": "Peak District Photography Workshops Padley Gorge | 10-17",
-      "description": "17/10/2026Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
+      "description": "17/10/2026 Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714559760976-6CZKC2X0XATXWIR0Q0X6/Peak+District+Photography+workshops.jpg",
       "startDate": "2026-10-17T09:30:00",
@@ -4934,7 +4934,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5064,7 +5064,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-autumn#event",
       "identifier": "secrets-of-woodland-photography-masterclass-autumn",
       "name": "The Secrets of Woodland Photography - Masterclass Autumn",
-      "description": "18/10/2026Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera. 1-Day Masterclass combining theory and practicals.",
+      "description": "18/10/2026 Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera. 1-Day Masterclass combining theory and practicals.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-autumn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1687442036373-6Q6GKKLKEX4UZ00OFCMU/Plant%2BHill%2BWoods%2B%252311%2B-%2BJan%2B2022.jpg",
       "startDate": "2026-10-18T10:00:00",
@@ -5144,7 +5144,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5274,7 +5274,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct#event",
       "identifier": "batsford-arboretum-autumn-photography-31oct",
       "name": "Batsford Arboretum Autumn Photography Workshop - 23/10",
-      "description": "23/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "23/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-23T08:00:00",
@@ -5354,7 +5354,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5473,7 +5473,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-29oct#event",
       "identifier": "batsford-arboretum-autumn-photography-29oct",
       "name": "Batsford Arboretum Autumn Photography Workshop - 24/10",
-      "description": "24/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "24/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-29oct",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-24T08:00:00",
@@ -5553,7 +5553,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5672,7 +5672,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct#event",
       "identifier": "batsford-arboretum-autumn-photography-30oct",
       "name": "Batsford Arboretum Autumn Photography Workshop - 25/10",
-      "description": "25/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "25/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-25T08:00:00",
@@ -5752,7 +5752,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -5871,7 +5871,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-1nov#event",
       "identifier": "batsford-arboretum-autumn-photography-1nov",
       "name": "Batsford Arboretum Autumn Photography Workshop -29/10",
-      "description": "29/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "29/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-1nov",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-29T08:00:00",
@@ -5951,7 +5951,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6070,7 +6070,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov#event",
       "identifier": "batsford-arboretum-autumn-photography-2nov",
       "name": "Batsford Arboretum Autumn Photography Workshop - 30/10",
-      "description": "30/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "30/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-30T08:00:00",
@@ -6150,7 +6150,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6269,7 +6269,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-3nov#event",
       "identifier": "batsford-arboretum-autumn-photography-3nov",
       "name": "Batsford Arboretum Autumn Photography Workshop - 31/10",
-      "description": "31/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "31/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-3nov",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2026-10-31T08:00:00",
@@ -6349,7 +6349,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6468,7 +6468,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn#event",
       "identifier": "peak-district-photography-workshops-autumn",
       "name": "Peak District Photography Workshop Padley Gorge - Autumn",
-      "description": "01/11/2026Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
+      "description": "01/11/2026 Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1699522410481-3RW7I6IHD1I8ZVWQDSZ0/photographing-autumn.jpg",
       "startDate": "2026-11-01T09:30:00",
@@ -6548,7 +6548,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6678,7 +6678,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods#event",
       "identifier": "woodland-photography-walk-kenilworth-crackley-woods",
       "name": "Woodland Photography Walk | Kenilworth | Crackley Woods",
-      "description": "06/11/2026Woodland Photography Walk - Enjoy and learn in a 2-hour informal walk through autumn woodlands with any camera under the support of a professional",
+      "description": "06/11/2026 Woodland Photography Walk - Enjoy and learn in a 2-hour informal walk through autumn woodlands with any camera under the support of a professional",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
       "startDate": "2026-11-06T09:30:00",
@@ -6752,7 +6752,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -6882,7 +6882,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#event",
       "identifier": "peak-district-photography-workshops-autumn-2",
       "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
-      "description": "07/11/2026Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
+      "description": "07/11/2026 Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1699522410481-3RW7I6IHD1I8ZVWQDSZ0/photographing-autumn.jpg",
       "startDate": "2026-11-07T09:30:00",
@@ -6962,7 +6962,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7092,7 +7092,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn#event",
       "identifier": "lake-district-photography-workshop-autumn",
       "name": "Lake District Photography Workshops | Autumn in Cumbria",
-      "description": "13/11/2026Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
+      "description": "13/11/2026 Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1695040431348-9BC1ENVF8Z9C0N6CR5UZ/blea+tarn-2.jpg",
       "startDate": "2026-11-13T09:30:00",
@@ -7172,7 +7172,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7302,7 +7302,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop#event",
       "identifier": "norfolk-photography-workshop",
       "name": "Norfolk Photography Workshop | Cromer to Hunstanton",
-      "description": "20/11/2026Norfolk Photography Workshop abandoned boats, windmills, nature reserves, dunes, coastal erosion, estuaries, harbours and seascapes. | North Norfolk",
+      "description": "20/11/2026 Norfolk Photography Workshop abandoned boats, windmills, nature reserves, dunes, coastal erosion, estuaries, harbours and seascapes. | North Norfolk",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1670327540020-BBW67S1689K55ALBBY4X/Thornham+-+1+Sep+2020.jpg",
       "startDate": "2026-11-20T09:30:00",
@@ -7382,7 +7382,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7497,7 +7497,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods#event",
       "identifier": "woodland-photography-walk-solihull-hay-woods",
       "name": "Woodland Photography Walk | Solihull | Hay Woods - Winter",
-      "description": "04/12/2026Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
+      "description": "04/12/2026 Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
       "startDate": "2026-12-04T09:30:00",
@@ -7572,7 +7572,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7702,7 +7702,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot#event",
       "identifier": "leamington-spa-night-shoot",
       "name": "Christmas Photography Workshop Evening - Warwickshire",
-      "description": "10/12/2026Leamington Spa - A christmas photography photo walk - you will be trained on how to expose in evening situations with low lighting situations.",
+      "description": "10/12/2026 Leamington Spa - A christmas photography photo walk - you will be trained on how to expose in evening situations with low lighting situations.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348699913-RVLXLD6P2L1H69GVOZ7E/night-photography-workshop.jpg",
       "startDate": "2026-12-10T18:45:00",
@@ -7782,7 +7782,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -7867,7 +7867,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/christmas-photography-walk-warwickshire#event",
       "identifier": "christmas-photography-walk-warwickshire",
       "name": "Christmas Photography Workshop Walk - Warwickshire ",
-      "description": "29/12/2026Warwickshire - A Christmas photography walk near Lapworth; burn off those Christmas calories and escape the madness with this outdoor 1-day photowalk",
+      "description": "29/12/2026 Warwickshire - A Christmas photography walk near Lapworth; burn off those Christmas calories and escape the madness with this outdoor 1-day photowalk",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/christmas-photography-walk-warwickshire",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538941098024-ZZ96CO69Q3GICXI05HRB/Tree+Shadows-Photography-Workshops.jpg",
       "startDate": "2026-12-29T09:00:00",
@@ -7947,7 +7947,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8032,7 +8032,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter#event",
       "identifier": "secrets-of-woodland-photography-masterclass-winter",
       "name": "The Secrets of Woodland Photography - 1-Day Masterclass 10-1",
-      "description": "10/01/2027Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera.  1-Day Masterclass combining theory and practicals.",
+      "description": "10/01/2027 Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera.  1-Day Masterclass combining theory and practicals.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1687442036373-6Q6GKKLKEX4UZ00OFCMU/Plant%2BHill%2BWoods%2B%252311%2B-%2BJan%2B2022.jpg",
       "startDate": "2027-01-10T10:00:00",
@@ -8112,7 +8112,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8242,7 +8242,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter#event",
       "identifier": "lake-district-photography-workshop-winter",
       "name": "Lake District Photography Workshop | Winter in Cumbria",
-      "description": "22/01/2027Lake District Photography Workshop - Enjoy the iconic Cumbrian scenes in winter with snow-topped mountains and frosty/frozen vistas.| Join Now",
+      "description": "22/01/2027 Lake District Photography Workshop - Enjoy the iconic Cumbrian scenes in winter with snow-topped mountains and frosty/frozen vistas.| Join Now",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1691231609767-VEBH04YA7HAYTMU55D5D/Friars%2BCrag.jpg",
       "startDate": "2027-01-22T09:30:00",
@@ -8322,7 +8322,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8452,7 +8452,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop#event",
       "identifier": "suffolk-landscape-photography-workshop",
       "name": "Suffolk Landscape Photography Workshop - Long Exposure",
-      "description": "05/02/2027Suffolk Landscape Photography Workshop. Coastline and long exposures - learn how to compose, practise long exposure and when B&amp;W works better.",
+      "description": "05/02/2027 Suffolk Landscape Photography Workshop. Coastline and long exposures - learn how to compose, practise long exposure and when B&amp;W works better.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715078273140-XM8AQE8L1BX1V7RQSKKE/Southwold+Pier+%2301+-+Feb+2024.jpg",
       "startDate": "2027-02-05T09:30:00",
@@ -8532,7 +8532,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8662,7 +8662,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl#event",
       "identifier": "hartland-quay-devon-seascapes-ynfcl",
       "name": "Hartland Quay, Devon Seascape Photography Workshop",
-      "description": "18/02/2027Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
+      "description": "18/02/2027 Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674565120064-MZONL9LFH2Z0RH81Z9CT/Atlantic+Force.jpg",
       "startDate": "2027-02-18T12:30:00",
@@ -8742,7 +8742,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -8872,7 +8872,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography#event",
       "identifier": "fairy-glen-betws-y-coed-photography",
       "name": "Fairy Glen Betws-y-Coed Photography Workshop -  Wales",
-      "description": "06/03/2026Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
+      "description": "06/03/2026 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707215037398-4NEW80LYQQ2XQX73MZYH/Fairy+Glen+Betws-y-Coed+Photography+Workshop.jpg",
       "startDate": "2027-03-06T10:00:00",
@@ -8952,7 +8952,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9037,7 +9037,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring#event",
       "identifier": "lake-district-photography-workshop-spring",
       "name": "Lake District Photography Workshop | Spring in Cumbria",
-      "description": "12/03/2027Lake District Photography Workshops - Enjoy the iconic scenes in spring with spring growth and iconic vistas. Learn how to make the best images",
+      "description": "12/03/2027 Lake District Photography Workshops - Enjoy the iconic scenes in spring with spring growth and iconic vistas. Learn how to make the best images",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928085823-H07VOW50MWIZ6EKCTFH1/blea+mirror-Alan-Ranger-Photography-Workshops.jpg",
       "startDate": "2027-03-12T09:30:00",
@@ -9117,7 +9117,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9247,7 +9247,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop#event",
       "identifier": "northumberland-landscape-photography-workshop",
       "name": "Northumberland Landscape Photography Workshop | 4 Days | Mar",
-      "description": "18/03/2027Northumberland Landscape Photography Workshop for practising long exposures at sunrise to sunset to get those iconic views of the Northumbrian coast.",
+      "description": "18/03/2027 Northumberland Landscape Photography Workshop for practising long exposures at sunrise to sunset to get those iconic views of the Northumbrian coast.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707213523267-M43SC9SL8KNU8S7Z6MJ7/Northumberland+Landscape+Photography+Workshop+%282%29.jpg",
       "startDate": "2027-03-18T14:00:00",
@@ -9327,7 +9327,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9457,7 +9457,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2#event",
       "identifier": "long-exposure-photography-workshop-kenilworth2",
       "name": "Long Exposure Photography Workshop - Kenilworth 22-3",
-      "description": "22/03/2027Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "22/03/2027 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675345926122-FG9G39T5F3OOT1CNEZMP/kenilworth+defenses.jpg",
       "startDate": "2027-03-22T18:00:00",
@@ -9532,7 +9532,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9578,7 +9578,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands#event",
       "identifier": "dartmoor-photography-workshop-woodlands",
       "name": "Dartmoor Photography Workshop | Woodlands, Moors and Tors",
-      "description": "02/04/2027Dartmoor Photography Workshop | Woodland, Moors and Tors weekend residential landscape workshop - Based around Dartmoor National Park, South Devon.",
+      "description": "02/04/2027 Dartmoor Photography Workshop | Woodland, Moors and Tors weekend residential landscape workshop - Based around Dartmoor National Park, South Devon.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696250238091-17YK0FSUYXO7SIFLMVPW/wistmans-wood+2.jpg",
       "startDate": "2027-04-02T14:00:00",
@@ -9658,7 +9658,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9743,7 +9743,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring#event",
       "identifier": "secrets-of-woodland-photography-masterclass-spring",
       "name": "The Secrets of Woodland Photography - 1-Day Masterclass Apr",
-      "description": "11/04/2027Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera. 1-Day Masterclass combining theory and practicals.",
+      "description": "11/04/2027 Coventry - The Secrets of Woodland Photography - open to all levels, experience, and camera. 1-Day Masterclass combining theory and practicals.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1687442036373-6Q6GKKLKEX4UZ00OFCMU/Plant%2BHill%2BWoods%2B%252311%2B-%2BJan%2B2022.jpg",
       "startDate": "2027-04-11T10:00:00",
@@ -9823,7 +9823,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -9953,7 +9953,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring#event",
       "identifier": "sunset-chesterton-windmill-spring",
       "name": "Sunset Photographic Workshop - Chesterton Windmill 13/4",
-      "description": "13/04/2027Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
+      "description": "13/04/2027 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
       "startDate": "2027-04-13T18:15:00",
@@ -10033,7 +10033,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -10163,7 +10163,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth#event",
       "identifier": "long-exposure-photo-workshop-sunset-kenilworth",
       "name": "Long Exposure Photo Workshop - Sunset - Kenilworth - Apr",
-      "description": "14/04/2027Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "14/04/2027 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1741367268682-VQY1Z5HZAGVFN4V74YPD/Moon.jpg",
       "startDate": "2027-04-14T18:30:00",
@@ -10238,7 +10238,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -10284,7 +10284,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop#event",
       "identifier": "yorkshire-dales-photography-workshop",
       "name": "Yorkshire Dales Photography Workshop - Landscape Photography",
-      "description": "16/04/2027Yorkshire Dales Photography Workshops - Limestone pavements, waterfalls, classic vistas-learn how to create &amp; apply techniques at this iconic place",
+      "description": "16/04/2027 Yorkshire Dales Photography Workshops - Limestone pavements, waterfalls, classic vistas-learn how to create &amp; apply techniques at this iconic place",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700307464816-8M6DYZWM365TXZAVTZ25/Windskill+%2305+-+Nov+2023.jpg",
       "startDate": "2027-04-16T10:00:00",
@@ -10364,7 +10364,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -10494,7 +10494,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-20",
       "name": "Bluebell Photography Workshop | Warwickshire | 20 Apr",
-      "description": "20/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "20/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-20T05:45:00",
@@ -10574,7 +10574,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -10708,7 +10708,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-21",
       "name": "Bluebell Photography Workshop | Warwickshire | 21 Apr",
-      "description": "21/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "21/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-21T05:45:00",
@@ -10788,7 +10788,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -10922,7 +10922,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-22",
       "name": "Bluebell Photography Workshop | Warwickshire | 22 Apr ",
-      "description": "22/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "22/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-22T05:45:00",
@@ -11002,7 +11002,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -11136,7 +11136,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-23",
       "name": "Bluebell Photography Workshop | Warwickshire | 23 Apr",
-      "description": "23/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "23/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-23T05:45:00",
@@ -11216,7 +11216,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -11350,7 +11350,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-24",
       "name": "Bluebell Photography Workshop | Warwickshire | 24 Apr",
-      "description": "24/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "24/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-24T05:45:00",
@@ -11430,7 +11430,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -11564,7 +11564,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-25",
       "name": "Bluebell Photography Workshop | Warwickshire | 25 Apr",
-      "description": "25/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "25/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-25T05:45:00",
@@ -11644,7 +11644,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -11778,7 +11778,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-17",
       "name": "Bluebell Photography Workshop | Warwickshire | 26 Apr",
-      "description": "26/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "26/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-26T05:45:00",
@@ -11858,7 +11858,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -11992,7 +11992,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-18",
       "name": "Bluebell Photography Workshop | Warwickshire | 27 Apr",
-      "description": "27/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "27/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-27T05:45:00",
@@ -12072,7 +12072,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -12206,7 +12206,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-19",
       "name": "Bluebell Photography Workshop | Warwickshire | 28 Apr",
-      "description": "28/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "28/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-28T05:45:00",
@@ -12286,7 +12286,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -12420,7 +12420,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-29",
       "name": "Bluebell Photography Workshop | Warwickshire | 29 Apr",
-      "description": "29/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "29/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-29T05:45:00",
@@ -12500,7 +12500,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -12634,7 +12634,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-30",
       "name": "Bluebell Photography Workshop | Warwickshire | 30 Apr",
-      "description": "30/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "30/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-30T05:45:00",
@@ -12714,7 +12714,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -12848,7 +12848,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth#event",
       "identifier": "exmoor-photography-workshops-seascapes-lynmouth",
       "name": "Exmoor Photography Workshops - Seascapes | Lynmouth",
-      "description": "08/05/2027Exmoor Photography Workshops - Lynmouth provides secluded bays to shoot rock formations, and seascapes, long exposure and plenty more for you",
+      "description": "08/05/2027 Exmoor Photography Workshops - Lynmouth provides secluded bays to shoot rock formations, and seascapes, long exposure and plenty more for you",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1547714389865-FFD4IC72F5OYSMAFOVGT/timeless+memories-Alan-Ranger-Photography.jpg",
       "startDate": "2027-05-08T10:30:00",
@@ -12928,7 +12928,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -12998,7 +12998,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop#event",
       "identifier": "sunset-chesterton-windmill-photography-workshop",
       "name": "Sunset Photography Workshop - Chesterton Windmill 10-5",
-      "description": "10/05/2027Warwickshire - Chesterton Windmill - Practise and learn long exposure and composition at this famous windmill on this photography night shoot.",
+      "description": "10/05/2027 Warwickshire - Chesterton Windmill - Practise and learn long exposure and composition at this famous windmill on this photography night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348269382-80B9O6W1H3BZNIMXZI7Q/chesterton-windmill-photography-workshops.jpg",
       "startDate": "2027-05-10T18:30:00",
@@ -13078,7 +13078,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -13208,7 +13208,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed#event",
       "identifier": "fairy-glen-photography-betws-y-coed",
       "name": "Fairy Glen Betws-y-Coed Photography Workshop - Wales - May",
-      "description": "14/05/2027Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
+      "description": "14/05/2027 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1739453577809-DTGISJZ35FIE7U21YIOJ/Fairy+Glen+2.jpg",
       "startDate": "2027-05-14T10:00:00",
@@ -13288,7 +13288,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -13373,7 +13373,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales#event",
       "identifier": "anglesey-photography-workshop-wales",
       "name": "Menai and Anglesey Photography Workshop | Wales | May",
-      "description": "14/05/2027Anglesey photography workshop - Welsh sea and landscape photography on the iconic island and coastline of Anglesey and Menai | All levels welcome",
+      "description": "14/05/2027 Anglesey photography workshop - Welsh sea and landscape photography on the iconic island and coastline of Anglesey and Menai | All levels welcome",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546342807877-4AF2AFH94TL5RIE914UZ/Llanddwyn+Island+II-Photography-Workshops.jpg",
       "startDate": "2027-05-14T15:00:00",
@@ -13453,7 +13453,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -13583,7 +13583,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring#event",
       "identifier": "peak-district-photography-workshops-spring",
       "name": "Peak District Photography Workshops Padley Gorge - 22-5",
-      "description": "22/05/2027Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
+      "description": "22/05/2027 Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714493375483-G5PG1FYXR8VXFG6VNF6J/peak+district+photography.jpg",
       "startDate": "2027-05-22T09:30:00",
@@ -13663,7 +13663,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -13793,7 +13793,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms#event",
       "identifier": "garden-photography-workshop-mxyms",
       "name": "Garden Photography Workshops | Private Garden | Coventry",
-      "description": "23/05/2027Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
+      "description": "23/05/2027 Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1630230262554-WWSOU1WKBUV46Y6A095X/_.jpg",
       "startDate": "2027-05-23T15:00:00",
@@ -13873,7 +13873,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14003,7 +14003,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular#event",
       "identifier": "landscape-photography-wales-gower-peninsular",
       "name": "Gower Peninsula Photo Workshop - Landscape Photography Wales",
-      "description": "28/05/2027Gower Peninsular Landscape Photography Wales Workshop -photo workshop for long exposures from dawn to dusk to get iconic images of the Welsh coast",
+      "description": "28/05/2027 Gower Peninsular Landscape Photography Wales Workshop -photo workshop for long exposures from dawn to dusk to get iconic images of the Welsh coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715702651783-0ANOHJQAGONUXKLRV1TM/Gower+%2311+-+May+2024.jpg",
       "startDate": "2027-05-28T10:00:00",
@@ -14083,7 +14083,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14153,7 +14153,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19#event",
       "identifier": "lavender-photography-workshop-sunset-19",
       "name": "Lavender Photography Workshop Gloucestershire at Sunset 4",
-      "description": "03/07/2027Cotswolds - Lavender Photography Workshop at spectacular Lavender fields. Shoot into the sunset hours for amazing colour and scenes - Gloucestershire",
+      "description": "03/07/2027 Cotswolds - Lavender Photography Workshop at spectacular Lavender fields. Shoot into the sunset hours for amazing colour and scenes - Gloucestershire",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700307138506-ZKLVZEG55N58GETAAWJT/Provence+en+Angleterre.jpg",
       "startDate": "2027-07-03T18:00:00",
@@ -14233,7 +14233,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14348,7 +14348,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset#event",
       "identifier": "lavender-photography-workshop-sunset",
       "name": "Lavender Photography Workshop Gloucestershire at Sunset",
-      "description": "10/07/2027Cotswolds - Lavender Photography Workshop at spectacular Lavender fields. Shoot into the sunset hours for amazing colour and scenes - Gloucestershire",
+      "description": "10/07/2027 Cotswolds - Lavender Photography Workshop at spectacular Lavender fields. Shoot into the sunset hours for amazing colour and scenes - Gloucestershire",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700307138506-ZKLVZEG55N58GETAAWJT/Provence+en+Angleterre.jpg",
       "startDate": "2027-07-10T18:00:00",
@@ -14428,7 +14428,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14543,7 +14543,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop#event",
       "identifier": "garden-photography-workshop",
       "name": "Garden Photography Workshop | Private Garden | Coventry",
-      "description": "11/07/2027Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
+      "description": "11/07/2027 Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1630230262554-WWSOU1WKBUV46Y6A095X/_.jpg",
       "startDate": "2027-07-11T15:00:00",
@@ -14623,7 +14623,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14753,7 +14753,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset#event",
       "identifier": "peak-district-photography-workshops-heathers-sunset",
       "name": "Peak District Photography Workshops - Heathers Sunset",
-      "description": "14/08/2027Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
+      "description": "14/08/2027 Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1682259056748-3WSS8Y2YXIWFFQDIYR4F/Surprise+View+7.jpg",
       "startDate": "2027-08-14T18:15:00",
@@ -14833,7 +14833,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -14963,7 +14963,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise#event",
       "identifier": "peak-district-photography-workshops-heathers-sunrise",
       "name": "Peak District Photography Workshops - Heathers Sunrise",
-      "description": "15/08/2027Peak District Photography Workshop - around Hathersage and the Roaches for spectacular viewing points with plenty of heathers | Sunrise Staffordshire",
+      "description": "15/08/2027 Peak District Photography Workshop - around Hathersage and the Roaches for spectacular viewing points with plenty of heathers | Sunrise Staffordshire",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700303596327-DSMX2LGQ05VGSLNLKQIC/The+Roaches.jpg",
       "startDate": "2027-08-15T05:45:00",
@@ -15043,7 +15043,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
@@ -15169,7 +15169,7 @@
       "@type": "EventSeries",
       "@id": "https://www.alanranger.com#series-batsford-arboretum-autumn-photography-workshop",
       "name": "Batsford arboretum autumn photography workshop (Annual Series)",
-      "description": "23/10/2026Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "23/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
@@ -15297,7 +15297,7 @@
       "@type": "EventSeries",
       "@id": "https://www.alanranger.com#series-bluebell-photography-workshop",
       "name": "Bluebell photography workshop (Annual Series)",
-      "description": "20/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "20/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
