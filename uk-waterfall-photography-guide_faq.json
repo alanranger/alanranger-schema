@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/uk-waterfall-photography-guide#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best shutter speed for waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1/4 to 1 second preserves water structure with light blur. 1 to 2 seconds gives the popular silky look. 4+ seconds flattens water into featureless white. Most keepers come from 1/2 to 2-second range. Bracket three exposures and choose in edit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need an ND filter for waterfall photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Less than the internet says. Polariser alone often gives 1/2 to 2-second shutter — it provides 1.5-2 stops light reduction. Add 3-stop or 6-stop ND for brighter conditions or longer exposure. 10-stop rarely needed for UK waterfalls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the polariser so important for waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three reasons: cuts glare off wet rock so it reads its natural colour; deepens surrounding greens (moss, ferns, leaves) which fill UK waterfall frames; provides 1.5-2 stops light reduction often enough for silky water without ND. Most important filter for waterfall work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best UK waterfall to photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depends on what you want. Dramatic scale: Pistyll Rhaeadr (Wales 240ft), Hardraw Force, Aira Force. Intimate gorge: Fairy Glen, Padley Gorge, Lumsdale. Multi-tier: Aysgarth, Stock Ghyll Force. Autumn drama: Snowdonia or Lake District in October. Your nearest workable waterfall is usually better than a 4-hour drive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best time of year for UK waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mid October to late November is strongest — autumn colour against white water plus reliable rainfall. Spring (April-early May) second strongest — snowmelt flow, fresh moss. Summer often thin flow and harsh light. Winter ice formations possible but treacherous. Target 2-3 days after sustained rain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What aperture should I use for waterfalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "f/8 to f/11 for most shot types — good depth of field, sharpest range. f/13-f/16 only when needing maximum depth without focus stacking. Avoid f/22 — diffraction softens. Always shoot at base ISO (64 or 100) for maximum dynamic range."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep spray off the lens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microfibre cloth and rocket blower in outer jacket pocket. Between every frame check front element from side, blow before wiping, wipe in one direction. Position back to prevailing wind. Weather cover for heavy spray situations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How dangerous is UK waterfall photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lower-risk than seascapes but not zero. Main hazards: wet rock (slippery as wet ice — proper boots and poles essential), flash flood after upstream rain (gorges can rise rapidly), falls from undercut banks. Stay on marked paths. Avoid slot gorges in unstable weather. Working with a guide compresses years of learning into one weekend."
+      }
+    }
+  ]
+}
