@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-iso-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does ISO mean in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>ISO in photography refers to the camera sensor's or film's sensitivity to light. Lower ISO values (like 100) mean less sensitivity and reduced noise, ideal for bright conditions. Higher ISO values (like 1600) increase sensitivity, useful in low light but may introduce more noise.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good ISO for photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>A good ISO for photography varies based on lighting conditions. Use ISO 100 for sunny, outdoor settings to minimize noise, and ISO 1600 or higher for low-light conditions like night or indoor photography. Pair a high ISO with a fast shutter speed if capturing movement to avoid blur.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between 200 ISO and 400 ISO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>The main difference between 200 ISO and 400 ISO is light sensitivity. 200 ISO film requires more light, producing sharper images with less grain. 400 ISO film is more sensitive to light, allowing for brighter images in low-light conditions, but can introduce more grain into the photos.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lower ISO always better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Lower ISO settings typically provide better image quality with less noise, but they require more light. In low-light conditions, higher ISO may be necessary to achieve a properly exposed image. Therefore, lower ISO is not always better; it depends on the lighting and exposure needs.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ISO should I use indoors without flash?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Start at ISO 800–1600 to keep shutter speeds hand-holdable. If subjects move, raise ISO toward 3200 and aim for 1/125–1/250s. Use a wide aperture (f/1.8–f/2.8) and stabilise the camera if possible.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ISO is best for landscape in daylight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use ISO 100–200 for maximum detail and dynamic range. If light is low, keep ISO down and use a tripod with a longer shutter rather than increasing ISO.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set Auto-ISO for sharp results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Enable Auto-ISO, choose a minimum shutter speed (about 1/focal length or faster for action), set an ISO range such as 100–6400, and shoot in Aperture Priority. The camera raises ISO as needed to maintain your chosen shutter speed.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does higher ISO increase noise and reduce dynamic range?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Yes. Raising ISO amplifies the signal, which increases visible noise and typically reduces dynamic range. Modern sensors handle ISO 1600–6400 well, but correct exposure is still crucial for clean results.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is base or native ISO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Base (native) ISO is the sensor’s optimal sensitivity, often ISO 100 on many cameras. It provides the lowest noise and the widest dynamic range, making it ideal for bright light or tripod work.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use Auto-ISO all the time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Auto-ISO is great for changing light or moving subjects when you need a safe shutter speed. For tripod work, controlled lighting or when you want identical noise levels across a set, fix ISO manually at the base value.</p>"
+      }
+    }
+  ]
+}
