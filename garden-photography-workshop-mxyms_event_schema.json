@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms",
-        "validFrom": "2026-05-17 13:29:55",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-07-14 16:14:25",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,7 +96,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ3644687",
+        "sku": "SQ0939451",
         "availabilityStarts": "2027-05-23T14:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -114,19 +114,34 @@
           }
         }
       },
-      "sku": "SQ3644687",
+      "sku": "SQ0939451",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "6",
+        "ratingValue": "4.6",
+        "reviewCount": "5",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caro Durk"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Garden Photography Workshop - very good -very patient - lovely garden with lots of things to photo.",
+          "datePublished": "2026-07-12 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -186,21 +201,6 @@
           },
           "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
           "datePublished": "2026-05-21 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael White"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "My wife and I want to offer our highest recommendations for Alan Ranger’s workshop in Anglesey, Wales. The sites to which Alan guided us were spectacular, the included accommodations were very pleasant, his photographic instruction was excellent, and the entire trip was meticulously planned and e...",
-          "datePublished": "2026-05-20 00:00:00"
         }
       ],
       "potentialAction": {

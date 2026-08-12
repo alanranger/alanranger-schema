@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset#event",
       "identifier": "peak-district-photography-workshops-heathers-sunset",
       "name": "Peak District Photography Workshops - Heathers Sunset",
-      "description": "15/08/2026Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
+      "description": "14/08/2027Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1682259056748-3WSS8Y2YXIWFFQDIYR4F/Surprise+View+7.jpg",
-      "startDate": "2026-08-15T18:15:00",
-      "endDate": "2026-08-15T21:15:00",
+      "startDate": "2027-08-14T18:15:00",
+      "endDate": "2027-08-14T21:15:00",
       "duration": "PT180M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
-        "validFrom": "2025-10-31 15:13:36",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-08-01 12:21:28",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -97,7 +97,7 @@
           }
         },
         "sku": "SQ1994489",
-        "availabilityStarts": "2026-08-15T17:15:00.000Z",
+        "availabilityStarts": "2027-08-14T17:15:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -176,21 +176,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "datePublished": "2026-05-16 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Sharon McDonald"
           },
           "reviewRating": {
@@ -200,6 +185,21 @@
             "worstRating": "1"
           },
           "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "datePublished": "2026-05-16 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex McDonald"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
           "datePublished": "2026-05-16 00:00:00"
         }
       ],

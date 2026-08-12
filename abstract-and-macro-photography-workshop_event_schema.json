@@ -81,7 +81,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
         "validFrom": "2026-05-17 13:13:37",
-        "priceValidUntil": "2027-06-29",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -130,21 +130,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Louise Manning"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
-          "datePublished": "2024-06-11 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "pyers tucker"
           },
           "reviewRating": {
@@ -154,6 +139,21 @@
             "worstRating": "1"
           },
           "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quic...",
+          "datePublished": "2024-06-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Manning"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
           "datePublished": "2024-06-11 00:00:00"
         },
         {
@@ -190,7 +190,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patrick Oleary"
+            "name": "David Pitt"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -198,7 +198,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan is a superb photographer. Very professional and delivers exactly what I require.  Efficient and great value with a quality result.",
+          "reviewBody": "Great session on macro photography. Alan was very helpful in his explanations and advice. To be recommended.",
           "datePublished": "2023-02-21 00:00:00"
         }
       ],

@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring",
-        "validFrom": "2026-05-17 13:22:49",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-06-29 16:33:09",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",

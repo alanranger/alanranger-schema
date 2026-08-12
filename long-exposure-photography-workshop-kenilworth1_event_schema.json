@@ -77,7 +77,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1",
         "validFrom": "2026-05-11 20:56:44",
-        "priceValidUntil": "2027-06-29",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -91,7 +91,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ5325711",
+        "sku": "SQ9140400",
         "availabilityStarts": "2026-09-23T16:45:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -109,95 +109,11 @@
           }
         }
       },
-      "sku": "SQ5325711",
+      "sku": "SQ9140400",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "13",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "colin yuill"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "He definitely knows his stuff ! And very helpful.",
-          "datePublished": "2018-12-04 10:28:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jennifer "
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Like I have indicated Alan is the person who gives you confidence in your ability also guidance, food for thought, and picks you up when struggling",
-          "datePublished": "2018-12-04 10:22:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Arthur Travis"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "The classes I attended by Alan were excellent and he explained all aspects of the lessons content through early.",
-          "datePublished": "2018-05-04 08:48:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "JanB"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan is always ready to share his extensive photographic knowledge.",
-          "datePublished": "2018-04-04 23:24:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharron"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Fireworks Workshop at Kenilworth Castle. Alan is at hand to guide you through this workshop which ran very smoothly and the pictures I took I am absolutely thrilled with. It was a very informative and enjoyable workshop, I am new to photography and Alan made it all seem really easy. I would defin...",
-          "datePublished": "2017-06-11 11:36:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth1"

@@ -76,8 +76,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods",
-        "validFrom": "2026-06-14 13:06:38",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-08-09 18:32:24",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",

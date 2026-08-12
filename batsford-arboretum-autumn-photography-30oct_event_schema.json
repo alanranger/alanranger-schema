@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct",
         "validFrom": "2025-10-31 13:35:45",
-        "priceValidUntil": "2027-06-29",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -146,7 +146,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "Chris Franklin"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -154,7 +154,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Excellent day, really enjoyed the support and input for Alan. Helped to blow off the dust",
           "datePublished": "2025-10-26 00:00:00"
         },
         {
@@ -176,7 +176,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Chris Franklin"
+            "name": "James Collins"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -184,7 +184,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Excellent day, really enjoyed the support and input for Alan. Helped to blow off the dust",
+          "reviewBody": "Learned a lot",
           "datePublished": "2025-10-26 00:00:00"
         }
       ],

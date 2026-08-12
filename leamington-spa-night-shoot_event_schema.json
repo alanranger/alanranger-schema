@@ -9,8 +9,8 @@
       ],
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot#event",
       "identifier": "leamington-spa-night-shoot",
-      "name": "Christmas Sparkle Photography Workshop - Warwickshire",
-      "description": "10/12/2026Leamington Spa - A photo walk - you will be trained on how to expose in low light situations with high contrast lighting situations.",
+      "name": "Christmas Photography Workshop Evening - Warwickshire",
+      "description": "10/12/2026Leamington Spa - A christmas photography photo walk - you will be trained on how to expose in evening situations with low lighting situations.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348699913-RVLXLD6P2L1H69GVOZ7E/night-photography-workshop.jpg",
       "startDate": "2026-12-10T18:45:00",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot",
-        "validFrom": "2026-06-14 00:24:39",
-        "priceValidUntil": "2027-06-29",
+        "validFrom": "2026-06-29 18:08:28",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -186,7 +186,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Christmas Sparkle Photography Workshop - Warwickshire",
+          "name": "Christmas Photography Workshop Evening - Warwickshire",
           "item": "https://www.alanranger.com/photographic-workshops-near-me/leamington-spa-night-shoot"
         }
       ]

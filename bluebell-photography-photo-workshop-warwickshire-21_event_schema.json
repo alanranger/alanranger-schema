@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21",
         "validFrom": "2026-05-17 13:40:53",
-        "priceValidUntil": "2027-06-29",
+        "priceValidUntil": "2027-08-12",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -121,8 +121,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "67",
+        "ratingValue": "4.8",
+        "reviewCount": "66",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -191,7 +191,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sunil Prasad"
+            "name": "Anna Kopytek"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -199,7 +199,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan' learning session is much clear and detailed",
+          "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
           "datePublished": "2025-07-16 00:00:00"
         }
       ],
