@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photographers-composition-viewing-frame#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A viewing frame, composition guide, is a piece of mount card with a window cut out (aperture) of the centre at a specific aspect ratio. (An aspect ratio is a proportional relationship between an image's width and height. Essentially, it describes an image's shape. Aspect ratios are written as a formula of width to height, like this: 3:2. For example, a square image has an aspect ratio of 1:1, since the height and width are the same)"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The viewing window is used by photographers to help them eliminate surroundings and objects in a scene to help them frame a composition. Because it is small and lightweight and portable it can be easily used to help frame a subject without using the camera and lens. The viewing cards come in a range of aspect ratio sizes to help identify which aspect ratio to use in-camera or to crop the image to once the image is in computer software."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is it used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1. Hold the viewing frame at approximately 25cm away from one eye (which is approximately your elbow at a right angle)\n\n2. and close the other eye, as you do when looking through a camera viewfinder. This will help you to isolate your subject within the inner frame and work out your height, perspective, and framing options.\n\nHolding the viewing card at 25cm away from your eye is equivalent to the field of view of a 35mm focal length on your lens. (it is 25cm because this is approximately the equivalent of the minimum focus distancing of the human eye, referred to as the near point). Therefore, the more you extend your arm away from your eye the longer the focal length beyond 35mm (full-frame sensor) you will use to create the same frame in the camera that you see with the viewing card."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is it used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1. Whenever you are out with your camera and eyeing up a potential shot. Yes, you could do this using your camera viewfinder but that involves your camera and changing aspect ratio settings on your camera to achieve the cropped perspective. The beauty of this accessory is that it allows you to work pre-camera in a way that concentrates the mind on that window of vision without using the camera.\n\n2. Surely, I can just crop the frame when back home to any of these aspect ratios… Yes, that’s true and all of us do that to some extent, but working the dimensions by the eye than in-camera not only preserves maximum resolution/pixels it enables us to see a better composition pre “post-production” and helps us chose the right lens focal length, DoF and perspective/angle before setting up the camera and tripod"
+      }
+    }
+  ]
+}
