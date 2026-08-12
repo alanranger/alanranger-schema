@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is focus mode in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Focus mode tells the camera whether to focus <strong>automatically</strong> (AF) or <strong>manually</strong> (MF). It is usually set with an AF/MF switch on the lens/body or in the menu. Use AF for most work; switch to MF when AF struggles (very low light, macro, through glass) and use magnification/peaking for accuracy.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does “focused” mean in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>An image is <strong>in focus</strong> when the subject lies on the lens’s <em>plane of focus</em> and appears sharply resolved at pixel level. Anything in front/behind that plane gets progressively softer depending on depth of field.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the difference between AF-S and AF-C?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p><strong>AF-S</strong> (One-Shot/Single-Shot) locks focus once—best for static subjects. <strong>AF-C</strong> (AI-Servo/Continuous AF) updates focus continuously while you half-press/AF-ON—best for moving subjects and action.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which autofocus area mode should I use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p><strong>Single-point</strong> for precision (eyes, product). <strong>Expanded/Small zone</strong> when the subject drifts slightly. <strong>Zone/Large zone</strong> for subjects moving within a region. <strong>Wide/Auto area</strong> for grab-shots (improves with subject detection). <strong>3D/Tracking</strong> to follow a chosen subject across the frame.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Eye/Face/Animal detect and when should I use it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Subject-detection uses recognition to prioritise eyes/faces (people, animals, birds). Use it in <strong>AF-C</strong> with an appropriate area (zone/wide) for portraits, events and wildlife. Limit detection to the subject type you’re shooting to reduce false locks.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I focus and recompose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>At shallow depth of field (e.g., f/1.4–f/2.8) <strong>avoid focus-recompose</strong>—changing angle alters focus distance and can miss the eye. Move the AF point to the subject or use Eye AF. At deeper apertures it’s safer but still keep the point on the target if possible.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep images sharp hand-held?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Use a <strong>safe shutter speed</strong> of roughly <strong>1/(2× focal length)</strong> on high-resolution bodies (e.g., 100&nbsp;mm → ~1/200&nbsp;s). Raise ISO or open the aperture if speeds drop. IBIS/VR helps against <em>your</em> shake but does not freeze moving subjects—use faster shutter for motion.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does autofocus hunt or miss in low light?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>AF needs <strong>contrast</strong> and light. Help it by using a wider aperture, raising ISO to stabilise the view, enabling AF-assist/torch briefly, choosing a larger AF area, or switching to manual focus with magnification/peaking.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Back-Button Focus (BBF) and why use it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>BBF assigns focusing to the <strong>AF-ON</strong> button. Hold to track in AF-C; release to lock focus independently of the shutter. It prevents refocusing when you shoot a burst and makes recomposing/anticipating action easier.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can software fix an out-of-focus image?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>No. Editing can only improve <em>perceived</em> sharpness slightly. If focus is missed or motion blur is heavy, it cannot be made truly tack-sharp. Aim for correct focus and adequate shutter speed at capture.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is minimum focus distance and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Every lens has a <strong>minimum focus distance</strong>. If you’re closer than that, the lens cannot achieve focus—step back or use a macro-capable lens. Check your lens specs when shooting close-ups.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need AF micro-adjustment (calibration)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Some DSLRs with separate AF modules can show front/back focus with certain lenses. <strong>AF micro-adjustment</strong> can correct this. Mirrorless on-sensor AF generally does not require micro-adjustment.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I download the Focus checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Get the free 1-page PDF here: <a href=\"https://www.alanranger.com/s/Focus_Field_Checklist.pdf\">Focus Field Checklist</a>.</p>"
+      }
+    }
+  ]
+}
