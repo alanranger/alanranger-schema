@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/product-photography-lighting#howto",
+  "name": "How to Master a Product Photography Lighting Setup in 2026",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/product-photography-lighting#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Compare Essential Light Sources",
+      "text": "When you start a product photography lighting setup you first need to decide how you will light your subject. There are three main families: continuous LEDs, flash (strobe) units and natural light. Each family has pros and cons. Essential Light Sources for Product Photography A quick comparison of the three main lighting routes and where each one fits best in a product photography workflow. Source Power Colour Control Portability Typical Use Continuous LED panel (e.g., Godox SL60W) 60W (research shows 60W is common) Adjustable Kelvin Lightweight, plug-in Real-time tweaks, video, small-produ..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Choose the Right Gear for Your Studio",
+      "text": "Gear is the backbone of any product photography lighting setup. You don’t need a million dollars worth of equipment, but you do need the right basics. First, a sturdy light stand. A solid stand keeps your lights steady and lets you raise or lower them to change the light size on the product. Second, a modifier. Softboxes are the most versatile , they turn a harsh point source into a large, even light. If you prefer a cheaper route, a white sheet or a DIY diffuser works just as well for small items. Third, a reflector. A 5‑in‑1 reflector gives you white bounce, silver bounce, gold, black and..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Position Lights and Use Modifiers Effectively",
+      "text": "Position is where theory meets practice. The size of your light source decides whether you get hard or soft light. A big softbox creates soft, gradual shadows. A bare flash creates hard, crisp shadows. Here’s a simple rule: the closer the light, the softer it looks. If you move the softbox twice as far away, the shadows become twice as hard. Let’s look at three common setups. Single‑light, front‑facing This is the easiest start. Place the light 45° to the left of the camera, a foot above the product. Use a softbox and a reflector opposite the light to fill the shadow side. Result: even illu..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Fine‑Tune, Test, and Capture Consistent Results",
+      "text": "Consistency is the secret behind professional e‑commerce catalogues. You want every shoe, every bottle, every watch to look like it belongs to the same shoot. Start by writing down your settings: light height, distance, power level, camera ISO, aperture, white balance. Keep a small notebook or a digital note on your phone. Next, run a test shot. Check three things: Exposure , use the histogram to make sure no clipping. Colour , compare the product’s colour to a reference swatch or a grey card. Reflection , look for hot spots on shiny surfaces. If the test fails, adjust one variable at a tim..."
+    }
+  ]
+}
