@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27#event",
       "identifier": "camera-courses-for-beginners-coventry-2sj27",
       "name": "Camera Courses For Beginners - Week 2 of 3 - Coventry 20-1",
-      "description": "09/06/2026Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
+      "description": "09/06/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2sj27",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
       "startDate": "2027-01-20T19:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

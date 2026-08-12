@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth#event",
       "identifier": "exmoor-photography-workshops-seascapes-lynmouth",
       "name": "Exmoor Photography Workshops - Seascapes | Lynmouth",
-      "description": "08/05/2027Exmoor Photography Workshops - Lynmouth provides secluded bays to shoot rock formations, and seascapes, long exposure and plenty more for you",
+      "description": "08/05/2027 Exmoor Photography Workshops - Lynmouth provides secluded bays to shoot rock formations, and seascapes, long exposure and plenty more for you",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1547714389865-FFD4IC72F5OYSMAFOVGT/timeless+memories-Alan-Ranger-Photography.jpg",
       "startDate": "2027-05-08T10:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

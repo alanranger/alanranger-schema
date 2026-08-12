@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5#event",
       "identifier": "sunset-chesterton-windmill-spring-7gw7j-9akd5",
       "name": "Sunset Photographic Workshop - Chesterton Windmill 16-09",
-      "description": "16/09/2026Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
+      "description": "16/09/2026 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
       "startDate": "2026-09-16T18:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

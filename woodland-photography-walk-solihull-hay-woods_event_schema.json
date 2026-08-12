@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods#event",
       "identifier": "woodland-photography-walk-solihull-hay-woods",
       "name": "Woodland Photography Walk | Solihull | Hay Woods - Winter",
-      "description": "04/12/2026Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
+      "description": "04/12/2026 Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through woodlands with any camera under the support of a professional Photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
       "startDate": "2026-12-04T09:30:00",
@@ -85,7 +85,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset#event",
       "identifier": "peak-district-photography-workshops-heathers-sunset",
       "name": "Peak District Photography Workshops - Heathers Sunset",
-      "description": "14/08/2027Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
+      "description": "14/08/2027 Peak District photography workshops -based around Hathersage in Derbyshire for spectacular viewing points with plenty of heathers as the sun sets",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1682259056748-3WSS8Y2YXIWFFQDIYR4F/Surprise+View+7.jpg",
       "startDate": "2027-08-14T18:15:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

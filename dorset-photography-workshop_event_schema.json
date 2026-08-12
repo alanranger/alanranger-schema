@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop#event",
       "identifier": "dorset-photography-workshop",
       "name": " Dorset Photography Workshop | Jurassic Coast Photography",
-      "description": "02/10/2026Dorset Photography Workshop - Learn how to photograph the coastline with award-winning, professional photographer Alan Ranger on this Jurassic Coast",
+      "description": "02/10/2026 Dorset Photography Workshop - Learn how to photograph the coastline with award-winning, professional photographer Alan Ranger on this Jurassic Coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546347241014-RTAHXH3JAKUBFBF94325/durdle+door-Photography-Workshops.jpg",
       "startDate": "2026-10-02T14:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

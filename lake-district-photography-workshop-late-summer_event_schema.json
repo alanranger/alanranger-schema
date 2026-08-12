@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer#event",
       "identifier": "lake-district-photography-workshop-late-summer",
       "name": "Lake District Photography Workshop Late Summer in Cumbria",
-      "description": "18/09/2026Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
+      "description": "18/09/2026 Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928327366-YR9B778G2HGSWZ6N3B21/morning+calm-Photography-Workshops.jpg",
       "startDate": "2026-09-18T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

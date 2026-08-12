@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop#event",
       "identifier": "suffolk-landscape-photography-workshop",
       "name": "Suffolk Landscape Photography Workshop - Long Exposure",
-      "description": "05/02/2027Suffolk Landscape Photography Workshop. Coastline and long exposures - learn how to compose, practise long exposure and when B&amp;W works better.",
+      "description": "05/02/2027 Suffolk Landscape Photography Workshop. Coastline and long exposures - learn how to compose, practise long exposure and when B&amp;W works better.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715078273140-XM8AQE8L1BX1V7RQSKKE/Southwold+Pier+%2301+-+Feb+2024.jpg",
       "startDate": "2027-02-05T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

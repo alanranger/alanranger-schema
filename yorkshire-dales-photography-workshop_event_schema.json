@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop#event",
       "identifier": "yorkshire-dales-photography-workshop",
       "name": "Yorkshire Dales Photography Workshop - Landscape Photography",
-      "description": "16/04/2027Yorkshire Dales Photography Workshops - Limestone pavements, waterfalls, classic vistas-learn how to create &amp; apply techniques at this iconic place",
+      "description": "16/04/2027 Yorkshire Dales Photography Workshops - Limestone pavements, waterfalls, classic vistas-learn how to create &amp; apply techniques at this iconic place",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1700307464816-8M6DYZWM365TXZAVTZ25/Windskill+%2305+-+Nov+2023.jpg",
       "startDate": "2027-04-16T10:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

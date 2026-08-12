@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands#event",
       "identifier": "dartmoor-photography-workshop-woodlands",
       "name": "Dartmoor Photography Workshop | Woodlands, Moors and Tors",
-      "description": "02/04/2027Dartmoor Photography Workshop | Woodland, Moors and Tors weekend residential landscape workshop - Based around Dartmoor National Park, South Devon.",
+      "description": "02/04/2027 Dartmoor Photography Workshop | Woodland, Moors and Tors weekend residential landscape workshop - Based around Dartmoor National Park, South Devon.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696250238091-17YK0FSUYXO7SIFLMVPW/wistmans-wood+2.jpg",
       "startDate": "2027-04-02T14:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry#event",
       "identifier": "abstract-and-macro-photography-workshop-coventry",
       "name": "Abstract and Macro Photography Workshop Warwickshire - July",
-      "description": "23/08/2026Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "description": "23/08/2026 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734084297980-W42TDI502DA8I78VBBO5/Abstract%2Band%2BMacro%2BPhotography%2BWorkshops.jpg",
       "startDate": "2026-08-23T10:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

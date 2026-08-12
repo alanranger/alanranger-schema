@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24#event",
       "identifier": "bluebell-photography-photo-workshop-warwickshire-24",
       "name": "Bluebell Photography Workshop | Warwickshire | 24 Apr",
-      "description": "24/04/2027Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
+      "description": "24/04/2027 Warwickshire - Sunrise or afternoon bluebell photography workshop in a private Bluebell Woodlands with a professional, award-winning photographer",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978458896-3LYJ0YBU7A1VGPI2OD4B/Bluebell+Woodlands+-+Sunrise.jpg",
       "startDate": "2027-04-24T05:45:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#event",
       "identifier": "peak-district-photography-workshops-autumn-2",
       "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
-      "description": "07/11/2026Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
+      "description": "07/11/2026 Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1699522410481-3RW7I6IHD1I8ZVWQDSZ0/photographing-autumn.jpg",
       "startDate": "2026-11-07T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

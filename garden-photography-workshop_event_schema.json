@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop#event",
       "identifier": "garden-photography-workshop",
       "name": "Garden Photography Workshop | Private Garden | Coventry",
-      "description": "11/07/2027Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
+      "description": "11/07/2027 Coventry - Garden Photography Workshop- macro, close-up or abstract - gardens offer endless opportunities to practise and perfect image-making.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1630230262554-WWSOU1WKBUV46Y6A095X/_.jpg",
       "startDate": "2027-07-11T15:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

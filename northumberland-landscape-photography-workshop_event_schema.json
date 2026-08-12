@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop#event",
       "identifier": "northumberland-landscape-photography-workshop",
       "name": "Northumberland Landscape Photography Workshop | 4 Days | Mar",
-      "description": "18/03/2027Northumberland Landscape Photography Workshop for practising long exposures at sunrise to sunset to get those iconic views of the Northumbrian coast.",
+      "description": "18/03/2027 Northumberland Landscape Photography Workshop for practising long exposures at sunrise to sunset to get those iconic views of the Northumbrian coast.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707213523267-M43SC9SL8KNU8S7Z6MJ7/Northumberland+Landscape+Photography+Workshop+%282%29.jpg",
       "startDate": "2027-03-18T14:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

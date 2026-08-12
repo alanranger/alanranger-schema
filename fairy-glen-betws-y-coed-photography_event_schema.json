@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography#event",
       "identifier": "fairy-glen-betws-y-coed-photography",
       "name": "Fairy Glen Betws-y-Coed Photography Workshop -  Wales",
-      "description": "06/03/2026Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
+      "description": "06/03/2026 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707215037398-4NEW80LYQQ2XQX73MZYH/Fairy+Glen+Betws-y-Coed+Photography+Workshop.jpg",
       "startDate": "2027-03-06T10:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop#event",
       "identifier": "abstract-and-macro-photography-workshop",
       "name": "Abstract and Macro Photography Workshop - Warwickshire",
-      "description": "08/09/2026Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "description": "08/09/2026 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734085795822-KGL13H1JB15QFAVBP4IU/Abstract+and+Macro+Photography+Workshops.jpg",
       "startDate": "2026-09-08T18:00:00",
@@ -89,7 +89,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

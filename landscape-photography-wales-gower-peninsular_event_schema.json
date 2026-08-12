@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular#event",
       "identifier": "landscape-photography-wales-gower-peninsular",
       "name": "Gower Peninsula Photo Workshop - Landscape Photography Wales",
-      "description": "28/05/2027Gower Peninsular Landscape Photography Wales Workshop -photo workshop for long exposures from dawn to dusk to get iconic images of the Welsh coast",
+      "description": "28/05/2027 Gower Peninsular Landscape Photography Wales Workshop -photo workshop for long exposures from dawn to dusk to get iconic images of the Welsh coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715702651783-0ANOHJQAGONUXKLRV1TM/Gower+%2311+-+May+2024.jpg",
       "startDate": "2027-05-28T10:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

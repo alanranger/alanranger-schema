@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes#event",
       "identifier": "hartland-quay-photography-devon-seascapes",
       "name": "Hartland Quay, Devon Seascape Photography Workshops",
-      "description": "04/09/2026Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
+      "description": "04/09/2026 Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674565120064-MZONL9LFH2Z0RH81Z9CT/Atlantic+Force.jpg",
       "startDate": "2026-09-04T12:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

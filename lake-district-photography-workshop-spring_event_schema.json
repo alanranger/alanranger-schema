@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring#event",
       "identifier": "lake-district-photography-workshop-spring",
       "name": "Lake District Photography Workshop | Spring in Cumbria",
-      "description": "12/03/2027Lake District Photography Workshops - Enjoy the iconic scenes in spring with spring growth and iconic vistas. Learn how to make the best images",
+      "description": "12/03/2027 Lake District Photography Workshops - Enjoy the iconic scenes in spring with spring growth and iconic vistas. Learn how to make the best images",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928085823-H07VOW50MWIZ6EKCTFH1/blea+mirror-Alan-Ranger-Photography-Workshops.jpg",
       "startDate": "2027-03-12T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

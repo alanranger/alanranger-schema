@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire#event",
       "identifier": "landscape-photography-workshops-yorkshire",
       "name": "Landscape Photography Workshops Yorkshire | Coast and Moors",
-      "description": "10/09/2026Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
+      "description": "10/09/2026 Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212564861-65XIJN9NGEKXOO8C2J73/North+Yorkshire+Photography+Workshop.jpg",
       "startDate": "2026-09-10T14:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

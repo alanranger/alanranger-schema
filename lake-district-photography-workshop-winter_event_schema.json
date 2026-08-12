@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter#event",
       "identifier": "lake-district-photography-workshop-winter",
       "name": "Lake District Photography Workshop | Winter in Cumbria",
-      "description": "22/01/2027Lake District Photography Workshop - Enjoy the iconic Cumbrian scenes in winter with snow-topped mountains and frosty/frozen vistas.| Join Now",
+      "description": "22/01/2027 Lake District Photography Workshop - Enjoy the iconic Cumbrian scenes in winter with snow-topped mountains and frosty/frozen vistas.| Join Now",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1691231609767-VEBH04YA7HAYTMU55D5D/Friars%2BCrag.jpg",
       "startDate": "2027-01-22T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

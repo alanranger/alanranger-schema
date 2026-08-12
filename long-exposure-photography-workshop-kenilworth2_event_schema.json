@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2#event",
       "identifier": "long-exposure-photography-workshop-kenilworth2",
       "name": "Long Exposure Photography Workshop - Kenilworth 22-3",
-      "description": "22/03/2027Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "22/03/2027 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675345926122-FG9G39T5F3OOT1CNEZMP/kenilworth+defenses.jpg",
       "startDate": "2027-03-22T18:00:00",
@@ -85,7 +85,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

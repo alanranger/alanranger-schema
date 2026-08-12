@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth#event",
       "identifier": "long-exposure-photo-workshop-sunset-kenilworth",
       "name": "Long Exposure Photo Workshop - Sunset - Kenilworth - Apr",
-      "description": "14/04/2027Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
+      "description": "14/04/2027 Kenilworth - Learn long exposure photography and make interesting movement shots on this photography workshop night shoot around Kenilworth Castle.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1741367268682-VQY1Z5HZAGVFN4V74YPD/Moon.jpg",
       "startDate": "2027-04-14T18:30:00",
@@ -85,7 +85,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

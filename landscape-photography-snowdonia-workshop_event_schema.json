@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop#event",
       "identifier": "landscape-photography-snowdonia-workshop",
       "name": "Landscape Photography Snowdonia Photography Workshop",
-      "description": "26/09/2026Wales - Landscape Photography Snowdonia Workshops - Waterfalls, mountains, big vistas, slate quarries, lakes | photography workshops near me",
+      "description": "26/09/2026 Wales - Landscape Photography Snowdonia Workshops - Waterfalls, mountains, big vistas, slate quarries, lakes | photography workshops near me",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1696850796928-3GQA4UMZ6SHN0O83WJWJ/Snowdonia+Landscape+Photography+Workshop.jpg",
       "startDate": "2026-09-26T10:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

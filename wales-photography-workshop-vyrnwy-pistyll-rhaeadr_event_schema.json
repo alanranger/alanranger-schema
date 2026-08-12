@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr#event",
       "identifier": "wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
       "name": "Wales Photography Workshop Pistyll Rhaeadr and Lake Vyrnwy ",
-      "description": "10/10/2026Wales Photography workshop - Valleys, rivers, lakes, mountains, woodlands and waterfalls | Join me on this exciting, varied 2-day photography event",
+      "description": "10/10/2026 Wales Photography workshop - Valleys, rivers, lakes, mountains, woodlands and waterfalls | Join me on this exciting, varied 2-day photography event",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538936266800-X7E25G1Y68K21JET6YMU/Lake+Vyrnwy+-Photography-Workshops.jpg",
       "startDate": "2026-10-10T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

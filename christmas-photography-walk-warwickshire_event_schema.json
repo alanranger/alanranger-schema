@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/christmas-photography-walk-warwickshire#event",
       "identifier": "christmas-photography-walk-warwickshire",
       "name": "Christmas Photography Workshop Walk - Warwickshire ",
-      "description": "29/12/2026Warwickshire - A Christmas photography walk near Lapworth; burn off those Christmas calories and escape the madness with this outdoor 1-day photowalk",
+      "description": "29/12/2026 Warwickshire - A Christmas photography walk near Lapworth; burn off those Christmas calories and escape the madness with this outdoor 1-day photowalk",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/christmas-photography-walk-warwickshire",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538941098024-ZZ96CO69Q3GICXI05HRB/Tree+Shadows-Photography-Workshops.jpg",
       "startDate": "2026-12-29T09:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales#event",
       "identifier": "anglesey-photography-workshop-wales",
       "name": "Menai and Anglesey Photography Workshop | Wales | May",
-      "description": "14/05/2027Anglesey photography workshop - Welsh sea and landscape photography on the iconic island and coastline of Anglesey and Menai | All levels welcome",
+      "description": "14/05/2027 Anglesey photography workshop - Welsh sea and landscape photography on the iconic island and coastline of Anglesey and Menai | All levels welcome",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546342807877-4AF2AFH94TL5RIE914UZ/Llanddwyn+Island+II-Photography-Workshops.jpg",
       "startDate": "2027-05-14T15:00:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

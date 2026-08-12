@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring#event",
       "identifier": "peak-district-photography-workshops-spring",
       "name": "Peak District Photography Workshops Padley Gorge - 22-5",
-      "description": "22/05/2027Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
+      "description": "22/05/2027 Peak District Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river so provides ample opportunity for macro &amp; movement shots",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714493375483-G5PG1FYXR8VXFG6VNF6J/peak+district+photography.jpg",
       "startDate": "2027-05-22T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

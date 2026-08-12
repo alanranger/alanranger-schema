@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop#event",
       "identifier": "norfolk-photography-workshop",
       "name": "Norfolk Photography Workshop | Cromer to Hunstanton",
-      "description": "20/11/2026Norfolk Photography Workshop abandoned boats, windmills, nature reserves, dunes, coastal erosion, estuaries, harbours and seascapes. | North Norfolk",
+      "description": "20/11/2026 Norfolk Photography Workshop abandoned boats, windmills, nature reserves, dunes, coastal erosion, estuaries, harbours and seascapes. | North Norfolk",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1670327540020-BBW67S1689K55ALBBY4X/Thornham+-+1+Sep+2020.jpg",
       "startDate": "2026-11-20T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"

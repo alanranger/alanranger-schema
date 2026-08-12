@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn#event",
       "identifier": "lake-district-photography-workshop-autumn",
       "name": "Lake District Photography Workshops | Autumn in Cumbria",
-      "description": "13/11/2026Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
+      "description": "13/11/2026 Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1695040431348-9BC1ENVF8Z9C0N6CR5UZ/blea+tarn-2.jpg",
       "startDate": "2026-11-13T09:30:00",
@@ -90,7 +90,7 @@
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
-          "doesNotShip": "http://schema.org/True",
+          "doesNotShip": true,
           "shippingDestination": {
             "@type": "DefinedRegion",
             "addressCountry": "GB"
