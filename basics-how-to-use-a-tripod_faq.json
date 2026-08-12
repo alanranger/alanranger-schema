@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/basics-how-to-use-a-tripod#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I actually need to use a tripod?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any time your shutter speed drops below the safe handheld minimum — roughly 1/(focal length) seconds. So on a 200mm lens, anything slower than 1/200s starts risking softness. Specifically: low-light scenes, sunrise and sunset, indoor work, long exposures, landscape work at small apertures, macro photography, multi-shot panoramas, focus stacking, and any time precise framing matters more than spontaneity. Even when a tripod isn't strictly necessary, it slows you down — which forces you to compose more deliberately. That's often a bigger benefit than the stability itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos not sharp even with a tripod?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several common causes when sharpness is missing even on a tripod. First, image stabilisation (IBIS/VR/OS) left switched on — most stabilisation systems are designed for handheld use and can actually introduce micro-vibrations when the camera is locked down. Switch it off. Second, the shutter button itself causing vibration — use a 2-second self-timer or a remote release. Third, the centre column extended (less stable) or legs not fully locked. Fourth, the ground itself moving — wooden floors, soft sand, or windy conditions transmit vibration to the camera. Fifth, autofocus missing the actual subject; check the focus point landed where you intended."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size and type of tripod should I buy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buy once, buy properly. Cheap tripods are false economy — they fail, wobble, and end up replaced. Look for one rated for at least double the weight of your heaviest camera-and-lens combination. Carbon fibre is lighter and damps vibration better than aluminium but costs more; aluminium is fine if weight isn't critical. The tripod should extend to eye level without needing the centre column raised (the column adds height but reduces stability). A decent ball head with an Arca-Swiss compatible quick-release plate is the most flexible. Reputable brands worth looking at include Manfrotto, Gitzo, Benro, 3 Legged Thing, and Really Right Stuff."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up a tripod correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set up from the ground up. Extend the thickest leg sections first — they're sturdier than the thinnest ones. Only extend the thin lower sections when you need the extra height. Avoid raising the centre column unless necessary; it's the least stable part of the setup. Make sure all leg locks are fully tightened. On uneven ground, adjust individual leg lengths rather than tilting the whole setup. Check the bubble level on the head — most tripod heads have one, and a level camera matters for landscape and architectural work. Once the camera is mounted, give it a gentle push to confirm nothing wobbles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a tripod in windy conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with adjustments. Drop the centre column entirely. Spread the legs wider for a lower, more stable stance. Many tripods have a hook under the centre column — hang your camera bag from it to add weight (but don't let the bag swing in the wind, which makes things worse). Use a faster shutter speed than you would in still conditions; even on a tripod, the camera body can flex in strong wind. Use a lens hood to reduce wind buffeting on the front element. For very windy conditions, shield the tripod with your body if possible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a tripod for landscape photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For serious landscape work, effectively yes. A tripod lets you shoot at the slow shutter speeds that small apertures require, particularly in low light when most of the best landscape conditions occur. It enables long exposures for moving water and clouds. It allows focus stacking and multi-shot panoramas. And it slows down your process, which usually improves composition. You can shoot some landscapes handheld in good light, but you'll find yourself reaching for the tripod for almost everything else once you've experienced the difference."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the most common tripod mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Raising the centre column when there's no need to. The centre column adds the most height but is the least stable part of any tripod. It should be the last thing you raise, not the first. Tripod legs are the stable structure; the column is a compromise. If you find yourself routinely needing the column up, your tripod is too short for you — buy a taller one. Other common mistakes: leaving stabilisation on, pressing the shutter button directly (use a timer or remote), and not locking the legs properly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use a tripod for handheld-feeling photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — a tripod doesn't lock you into rigid landscape work. You can pan smoothly for moving subjects, swing the camera while loose-locked, use it as a monopod by closing two legs, or set it low to the ground for unusual perspectives. A gimbal head suits wildlife and birds-in-flight. A geared head suits architectural work where precise alignment matters. The tripod is a tool; how you use it depends on what you're shooting."
+      }
+    }
+  ]
+}
