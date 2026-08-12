@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/alistair-willis-rps-distinctions#howto",
+  "name": "Case Study - Alistair Willis - ARPS | RPS Distinctions Panel",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/alistair-willis-rps-distinctions#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "text": "A well-regarded award. I've been a keen photographer since I was about 10, but hadn't done any structured learning until my late 40s. I was originally aiming for an LRPS, but ended up going directly for the ARPS."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Describe how you found the RPS Mentoring Classes.",
+      "text": "Very good, although it can be a bit frustrating trying to find a slot when enough people will attend. On the other hand, it's tremendously valuable seeing other people's work, and getting the insights that come from Alan's critique of them, so it's worth the logistical difficulties. On paper, the classes seemed to be a bit short at first; nominally 30 minutes per attendee. However, Alan's very generous with that time (and doesn't cut short the final attendee if the earlier ones have overrun), and the amount of insight that he can pack into that time is extraordinary. Outside the mentoring c..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Before you started the mentoring course, did you feel you were already good enough to gain a distinction with the RPS?",
+      "text": "I was a long way off the required level when I started the ARPS course. However, I think that, following the Intentions course, we were confident that the core concept of my panel (different generations of household objects) was sound, and that I had the potential to develop a panel at the required level. In fact, I needed to do the course twice over about 4 years before the final panel was ready to my satisfaction and Alan's. (Although the pandemic and some personal circumstances did drag things out.) I think I needed that amount of time to get a feel for all the aspects of the work, espec..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "What distinction did you apply for and were you successful?",
+      "text": "ARPS, and I was successful."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "What was your experience like of the RPS Assessment Day?",
+      "text": "Quite nerve-wracking... my panel was the last of the associate panels to be assessed, and many of the panels that day didn't make the cut. Fortunately, the assessors' comments on my panel were very positive and I was awarded the distinction."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "text": "Yes; I arranged a one2one advisory session with an RPS mentor (who turned out to be one of the assessors of my panel). She was very helpful, and picked out some small slips in the images (minor ghosting artifacts, and some blown highlights) which had somehow managed to get past Alan. The RPS mentor was also very helpful with her comments on my statement of intent. Apparently, many candidates struggle to get this right, and her feedback on my first draft was that it was too impersonal; the assessors like to see something that explains the photographers' connection to their work."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "text": "The phrase that the assessors used a lot for the was that the successful panels look like \"the work of one photographer\". Meaning that they are looking for a distinctive style, but which is consistent across the panel. The assessors also put a lot of emphasis on the statement of intent, and preferred statements which were about the content of the images (\"this topic means a lot to me because...\"), rather than about the technical aspects of the images (\"I wanted to explore this technique because...\") It is also worth exploring other guides and reference books in your chosen area of photograp..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
+      "text": "It's a bit prosaic, but the main difficulty I had was finding the time. Building up 15 high quality pictures which share a common theme is quite hard anyway, but then ensuring that they work together in a panel is an additional challenge."
+    }
+  ]
+}
