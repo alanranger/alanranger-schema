@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/case-study-kirsten-pearce-rps-distinctions#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A question I asked myself many times! I’d made the commitment to develop my skills in photography. It is a recognised international qualification and was a standard to aim for and to challenge myself to reach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2.&nbsp;&nbsp;Why did you choose Alan to mentor you for RPS Distinctions and had you worked with Alan before the RPS Mentoring Course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I completed Alan’s beginner’s course in 2014 as my first step in photography. Since then I have taken part in mentoring, many workshops and the intentions course. Alan was therefore the natural choice of mentor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;4.&nbsp;Do you feel you got the right level and input of support from the course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Definitely. Getting 10 images together that not only work individually, but also as a panel is challenging. Lots of images were rejected along the way. Alan’s constructive criticism as well as the many hints and tips that I picked up from the course have really helped me to develop as a photographer.\n\n5. Did you feel you were already good enough to gain a distinction with the RPS before you started the mentoring course?\n\nI trusted Alan’s opinion that it was achievable. Completing the LRPS was a good choice and has given me the confidence that I have achieved a benchmark that I can move on from. Now I’ve finished the qualification I’m looking forward to developing the areas of photography that I enjoy and not worrying about whether what I’m taking will work in a panel!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;7.&nbsp;&nbsp;What was your experience like of the RPS Distinctions Assessment Day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daunting! I wanted to attend in person as I’d heard from others about their experiences of the day. It turned out that audiences haven’t really returned in numbers post covid and I was the only observer there. Fortunately I was successful, otherwise it would have been very awkward! The staff there were very welcoming and after my assessment had been completed I had the opportunity to talk to the assessors who were very encouraging. I’m glad I went as it was good to be there in person to listen to their comments during my assessment, it made the experience feel more complete than it would have by staying at home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;9.&nbsp;Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I’d definitely recommend getting your images printed rather than doing the digital assessment. I felt that learning about the printing process and having something physical at the end made everything feel more complete. I had my images printed at One Vision and Adam and the team there were incredibly supportive and helpful."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "&nbsp;11.&nbsp; Has working for a RPS Distinctions helped you progress as a photographer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I’ve learnt a lot from camera craft to composition to processing to forming a coherent panel showing a range of techniques. There’s still lots to learn but it has definitely made me a better photographer."
+      }
+    }
+  ]
+}
