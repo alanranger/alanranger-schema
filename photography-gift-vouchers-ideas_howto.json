@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas#howto",
+  "name": "Photography Gift Vouchers Ideas for Every Photographer",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Photography Course Gift Vouchers",
+      "text": "A photography course gift voucher gives the recipient a place on a structured multi-session course — typically spread over several weeks as evening classes or weekend sessions. This is the best gift voucher for photography for anyone starting out who genuinely wants to learn the technical side: how to get off auto mode, how the exposure triangle works, how to get sharp focused images in low light. At Alan Ranger Photography, the beginner's course runs as three consecutive evening sessions in Coventry and is available as a digital gift voucher redeemable against any course or service."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Photography Workshop Gift Vouchers",
+      "text": "A photography workshop gift voucher covers a shorter, more focused session — typically a half-day or full-day event covering a specific subject or style of photography. Workshops suit hobbyists who already have the basics but want to push a particular area: portrait lighting, landscape composition, product photography, street photography. They're also brilliant for complete beginners who want a fast, immersive introduction rather than a multi-week commitment."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Gift Vouchers for Photography Lessons (1-2-1 Tuition)",
+      "text": "A gift voucher for photography lessons gives the recipient one-to-one private tuition — completely personalised to their current skill level and specific goals. This is the premium option and the most flexible. There's no group pacing, no fixed syllabus. The session goes exactly where the recipient needs it to go. Private lesson vouchers are ideal for a hobbyist who's been shooting for years but has a specific weakness, or for someone who wants to learn at their own pace without the social pressure of a group setting."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Flexible Value Vouchers",
+      "text": "Some photography gift vouchers work like gift cards — a set monetary value redeemable against anything on offer, from a single workshop to a full course to private tuition sessions. This is the safest option if you're not sure exactly which format your recipient would prefer. Alan Ranger Photography vouchers work this way: any value, redeemable against any course, workshop, event, or service, including against multiple products if the value covers more than one item. Full details and denomination options are available here."
+    }
+  ]
+}
