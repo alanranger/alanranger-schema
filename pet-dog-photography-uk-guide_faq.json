@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best lens for dog photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For static portraits: 50mm or 85mm prime. For action: 70-200mm or 100-400mm zoom. Avoid wide-angle (below 35mm) which distorts the snout. A 50mm f/1.8 is the best value starter lens for dog photography."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What shutter speed for dog photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1/250 minimum, 1/500 ideal for static portraits — dogs move constantly even when stationary. 1/1000 to 1/2000 for action. 1/60-1/125 for deliberate panning shots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get my dog to look at the camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hold a treat at lens height (not above, not to the side). Make the dog's response noise (kissy noise, squeak, treat word) right before triggering. Don't repeat the noise more than 3 times per session. Or frame for the looking-past-camera shot — often stronger."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my black dog photos so dark and grainy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Camera meter pushes towards mid-grey, under-exposing black coats. Dial in +1 exposure compensation. Light from behind (backlight) for rim of light around silhouette. Backlit black dogs in golden hour produce the most graphic dog photographs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my white dog photos blown out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Same metering problem in reverse. Dial in -1 exposure compensation. Avoid bright sun — overcast bright or open shade is much friendlier. Front-light not back-light for white dogs in sun. Shoot RAW for highlight recovery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use my phone instead of a camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Modern phones (iPhone 13+, Pixel 6+, Samsung S22+) produce A4-printable dog photos. Angle, light, timing matter more than camera. Phone limitation is action freezing in low light. Phone tips: tap eye to focus, drag exposure down slightly, use portrait mode for background blur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best time of day to photograph my dog?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Golden hour (first hour after sunrise, last hour before sunset) for soft warm directional light. Overcast bright days for soft even all-day light. Avoid bright midday sun. Indoor: near north-facing window around midday."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I photograph my dog without stressing them out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leave camera out for several days before sessions. Set up camera before involving dog. Three rounds of 30 seconds beats one 15-minute session. Reward generously with high-value treats. Watch body language (lip licks, whale eye, head turn) and stop at first signal. End sessions positively."
+      }
+    }
+  ]
+}
