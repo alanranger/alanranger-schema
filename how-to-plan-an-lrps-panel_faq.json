@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many images does an LRPS panel need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Licentiate portfolio is ten digital images, ordered and presented in a way of your own choosing. All ten are assessed against the same four criteria, so every image needs to hold its place."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the LRPS assessment criteria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are four: Criterion A, Technical (camerawork); Criterion B, Artistic (visual awareness); Criterion C(a), Visual Narrative covering intent, creativity and empathy; and Criterion C(b), Presentation, a balanced and cohesive portfolio. Every one of the ten images is judged against all four."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is an LRPS portfolio scored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three assessors review the portfolio independently. Each awards up to six points for each of the four criteria, so the maximum total is 72. To pass, the portfolio must reach at least 12 points under each criterion, and every assessor must award at least 4 points against every criterion. A score of 3 or fewer from any assessor against any criterion means the application is unsuccessful, subject to moderation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a theme or single subject for the Licentiate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. There is no restriction on subject matter, and the Licentiate rewards breadth, with a portfolio that shows proficiency across different kinds of photography. The panel still needs to be cohesive, but a single theme is an Associate requirement, not a Licentiate one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does a balanced and cohesive portfolio mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Balance means the ten images show versatility across different kinds of photography and are distributed evenly in colour, composition, lighting and impact. Cohesion means they still feel like one body of work, tied together by a consistent style, palette or mood. A strong Licentiate panel holds both at once."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use AI tools on my Licentiate images?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The Royal Photographic Society does not permit any image, or any element of an image, made using a generative AI feature in a Distinctions submission. A proven breach disqualifies the entire submission, and the Society reserves the right to request original or RAW files. Standard editing such as exposure, contrast, cropping and retouching remains acceptable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my LRPS submission is unsuccessful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All applicants are notified of the result, normally within about six weeks of the closing date, and unsuccessful applicants receive feedback explaining why the portfolio did not meet the criteria. The feedback can be used to refine the portfolio and apply again. There is also a moderation process for borderline scores, where a portfolio is reviewed again by two further assessors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is RPS mentoring worth it, and is it official?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Independent mentoring helps most with portfolio selection, balance and sequencing, the parts hardest to judge on your own work. Alan Ranger's RPS distinctions mentoring is independent and not officially accredited by the Royal Photographic Society; the advice is based on his own experience holding both the Licentiate and Associate distinctions and mentoring others through the process. The Society also runs Advisory Days and a One2One online review, which are complementary to independent mentoring."
+      }
+    }
+  ]
+}
