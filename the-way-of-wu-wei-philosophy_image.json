@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/the-way-of-wu-wei-philosophy#primaryimage",
+  "url": "http://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/5c3a249d88251b8b3c5ed073/1760458650850/out+of+the+mist-Alan-Ranger-Photography.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "The Way of Wu Wei Philosophy - A Personal Reflection",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
