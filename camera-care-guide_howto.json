@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/camera-care-guide#howto",
+  "name": "Extend the life of your camera | Camera Care Guide",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/camera-care-guide#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Use your camera. Don’t worship it.",
+      "text": "Cameras are for using . I have often remarked that buying a camera of any type and leaving it at home wrapped in bubble wrap for fear of damaging it is a pointless possession to own. It is not just because you will not have it with you when that spur-of-the-moment shot appears — it is also because you are more likely to be unfamiliar with its controls and slower to react when the magic shot presents itself. There are, of course, plenty of sensible things you can do to prolong the life of your treasured camera and ensure it remains in full working order for years to come. Good camera care is..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Use common sense",
+      "text": "Most avoidable damage comes from rushing, poor handling and bad habits in the field. #001"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Look after your camera gear properly",
+      "text": "Cameras are for using, not hiding away in fear of wear and tear. But using them properly and looking after them properly are two very different things. Good camera care is not about being precious. It is about sensible habits that reduce avoidable damage, improve reliability and help expensive equipment last much longer. In this guide I’ll cover the main areas that matter most: insurance, bags, cleaning, reducing unnecessary wear, and the common-sense habits that make the biggest difference over time. 01"
+    }
+  ]
+}
