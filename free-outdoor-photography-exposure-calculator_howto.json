@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator#howto",
+  "name": "Mastering Exposure: Outdoor Photography Exposure Calculator",
+  "description": "Document.documentElement.classList.add('wf-loading') @keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation:.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Select the lighting conditions (bright sunlight, cloudy, golden hour, etc.).",
+      "text": "Select the lighting conditions (bright sunlight, cloudy, golden hour, etc.)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Choose your desired aperture, ISO, or shutter speed.",
+      "text": "Choose your desired aperture, ISO, or shutter speed."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "The calculator will automatically show the correct corresponding values to ma...",
+      "text": "The calculator will automatically show the correct corresponding values to maintain exposure balance."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Adjust and experiment freely to see how exposure changes depending on your ch...",
+      "text": "Adjust and experiment freely to see how exposure changes depending on your choices."
+    }
+  ]
+}
