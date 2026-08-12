@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use my Invest In You credits for photography training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Alan Ranger Photography has been an approved Jaguar Land Rover training provider since 2013, and photography courses, workshops and 1-2-1 lessons are all available through the Invest In You scheme (formerly ELS)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much are Invest In You credits worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Invest In You credits are worth £100. Many short workshops, half-day sessions and a one-hour 1-2-1 are fully covered by your credits, with nothing extra to pay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if a course costs more than my credits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You are not locked out of it. JLR's split payments option lets you put your £100 credit towards the cost and pay the difference yourself. For example, a £150 three-week beginners course costs you just £50, and a multi-day landscape workshop can be part-funded by your credits too."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book a course or workshop with my credits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Courses and workshops run on set dates listed on each course page. Log in to the Invest In You portal, find Alan Ranger Photography, and request one of the dates shown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book a private 1-2-1 lesson?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One-to-one lessons are arranged around your availability, so there's one extra step: book your slot in Alan's diary first, then mirror that date and time in your Invest In You portal request. Full instructions and the diary links are on the JLR photography training hub page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need experience or a particular camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Training is pitched at your level, whether you've never taken your camera off Auto or you've been shooting for years. A digital camera is all you need to bring — the focus is on learning to see and use it with intention."
+      }
+    }
+  ]
+}
