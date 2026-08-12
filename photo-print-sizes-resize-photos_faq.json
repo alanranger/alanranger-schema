@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photo-print-sizes-resize-photos#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are standard UK photo print sizes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common photo sizes are 6×4, 7×5, 8×6, 10×8 and 12×8 inches. UK paper sizes (A4, A3) use a different aspect ratio, so images may crop unless you resize to match the output size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the difference between photo sizes and A-sizes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photo sizes follow 3:2 or 4:3 aspect ratios, while A-sizes (A4, A3) use 1:√2. Printing a 3:2 photo on A4 will crop or add borders unless resized to fit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What DPI do I need for each print size?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "300 DPI is ideal for small prints; 240 DPI often looks identical at arm’s length. For large wall prints viewed farther away, 180–200 DPI can still look excellent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many megapixels do I need for 6×4, 8×10 and A4?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Approximate minimums at 300 DPI: 6×4 ≈ 2.2 MP, 8×10 ≈ 7.2 MP, A4 ≈ 8.7 MP. Higher MP gives cropping headroom; 240 DPI lowers the requirement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will my photo be cropped when printing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if your image aspect ratio doesn’t match the print size. Use ‘fit’ with borders, or crop/resample in Lightroom to the target ratio before export."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which paper finish should I choose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gloss gives punch and sharpness; matte reduces glare and fingerprints; lustre is a balanced choice for portraits and general work. Match finish to the display environment."
+      }
+    }
+  ]
+}
