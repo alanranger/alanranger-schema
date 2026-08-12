@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/ten-tips-towards-better-composition#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the rule of thirds and how do I use it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The rule of thirds divides your frame into thirds horizontally and vertically, creating a 3×3 grid. Place horizons on the upper or lower third line rather than dead centre. Position important subjects near the four intersection points rather than in the middle of the frame. This generally produces more balanced, visually engaging compositions than centred placement. It's guidance, not a law — once you understand why it works, you can break it deliberately for centred symmetrical compositions or other deliberate choices. Most cameras can overlay a thirds grid on the rear screen and viewfinder; turn it on while you're learning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I improve my composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition is about leading the viewer's eye through your image. Start by mastering one principle at a time: rule of thirds, leading lines, framing, simplification, balance, foreground interest. The single biggest improvement most photographers make isn't learning more techniques — it's slowing down before pressing the shutter. Walk around the subject, consider three or four angles, watch the edges of the frame and the background as carefully as the subject itself. Most weak compositions have distractions or clutter at the edges. Study photographs you admire and reverse-engineer the choices that made them work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is composition in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition is the deliberate arrangement of elements within the frame — what you include, what you exclude, where the subject sits, what's in the background, how the eye is guided through the image. It's separate from technical settings. A technically perfect photograph of a poorly composed scene is still a weak photograph. Composition is what turns the camera from a recording device into a tool for visual communication. None of the principles require any equipment at all — they're decisions you make in the moments before pressing the shutter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do composition rules really matter or should I just shoot freely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They matter — but as guidance, not commandments. Composition rules exist because they describe arrangements that consistently work for human perception. Learning them gives you a vocabulary for what's working and what isn't. Once you've internalised them, you can break them deliberately, and those broken compositions often produce the strongest images precisely because the rules give them meaning. Photographers who reject the rules entirely usually produce work that feels random; photographers who follow them rigidly produce work that feels formulaic. The goal is fluency, which comes from learning the rules properly first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are leading lines in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leading lines are visual elements that guide the viewer's eye through the image, usually towards the main subject. They can be literal lines — a path, fence, river, road, shoreline — or implied lines created by repeated shapes, gradients, or directional elements. Effective leading lines tend to enter from a lower corner and curve or angle towards the focal point. Avoid lines that lead the eye out of the frame or compete with the subject. Lines work best when they have a clear start and end point, and when the destination is genuinely the most interesting part of the image."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are my photos cluttered or busy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually because the frame contains too many competing elements. Strong compositions are typically simpler than beginners expect. Three fixes: walk closer to the subject so less peripheral stuff fits in; change your angle so a clean area (sky, plain wall, distant water) sits behind the subject; or use a longer focal length to compress and isolate. The 'less is more' principle is consistently more useful than the opposite. If you're not sure whether something belongs in the frame, leave it out."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create depth in landscape compositions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three layers — foreground, middle ground, background — give depth. The eye reads a strong foreground first, then is led through to the distance. Strong foregrounds are usually low and close to the camera: rocks, flowers, leading shoreline, a path. Without foreground, landscape photos often look flat regardless of how impressive the distant subject is. Wide-angle lenses (16–35mm full-frame equivalent) exaggerate the foreground-distance relationship. Walk closer to your foreground than feels natural — beginners are almost always too far back."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I shoot in landscape (horizontal) or portrait (vertical) orientation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both, deliberately. Landscape (horizontal) suits wide scenes, panoramas, and subjects with strong horizontal lines. Portrait (vertical) suits tall subjects, scenes with strong vertical lines, and any composition where height matters more than width. Many photographers default to landscape without thinking — make a habit of trying both orientations for every subject. Vertical frames also work better on phones, which matters more than it used to for how photographs are actually viewed. The right orientation is the one that serves the subject and composition, not the one that's automatic."
+      }
+    }
+  ]
+}
