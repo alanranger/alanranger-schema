@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking",
+  "name": "Focus Modes and Tracking Photography Practice Assignment",
+  "description": "Learning Objectives • Understand the difference between autofocus modes and when to use them • Develop skills in tracking moving subjects with appropriate.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking#blogposting"
+  }
+}
