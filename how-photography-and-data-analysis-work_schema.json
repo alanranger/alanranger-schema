@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-photography-and-data-analysis-work#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/how-photography-and-data-analysis-work",
+  "name": "How Photography and Data Analysis Work Together in Our Age",
+  "description": "How Photography and Data Analysis Work Together in Our Age.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/how-photography-and-data-analysis-work#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/how-photography-and-data-analysis-work#blogposting"
+  }
+}
