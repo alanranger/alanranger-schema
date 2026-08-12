@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-take-real-estate-photos#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What lens is best for real estate photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A moderate wide-angle lens is usually best. On full frame, that is often around 14-24mm or 16-35mm. On APS-C, around 10-20mm is common. The aim is to show enough of the room without creating obvious distortion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What camera height should I use for property photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good starting point is around waist height. This often gives a natural perspective and helps avoid ceilings dominating the image."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use flash for interior property photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sometimes, but carefully. Natural light is often preferable when it is balanced and soft. If you need extra light, bounced flash or LED panels can help, but the result should still look natural."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make a small room look good without making it look fake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep the camera level, use a sensible wide-angle focal length, compose carefully and avoid extreme perspectives. Show the room clearly rather than trying to exaggerate its size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take good estate agent photos with a phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can improve results with a good phone, especially in strong light and with careful composition, but a dedicated camera, wide-angle lens and tripod usually give more control and better geometry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much editing should real estate photos have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Enough to correct exposure, colour and perspective, but not so much that the room stops looking believable. Realism matters."
+      }
+    }
+  ]
+}
