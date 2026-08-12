@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/are-mirrorless-cameras-better-than-dslrs#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which is better mirrorless or DSLR camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Mirrorless cameras are generally considered better than DSLRs for video due to their advanced features and greater versatility. They offer benefits like faster autofocus, electronic viewfinders, and lighter bodies, making them a preferred choice for many videographers.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the disadvantages of a mirrorless camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Mirrorless cameras have disadvantages like shorter battery life, limited lens selection, and higher price points compared to DSLRs. While they excel in portability and video capabilities, these drawbacks can be significant depending on a photographer's needs.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do professional photographers use DSLR or mirrorless?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>Professional photographers now prefer mirrorless cameras, with 63% using them, compared to 36% who use DSLR cameras. Only 1% of professionals use both types. Mirrorless cameras offer advanced features and portability, driving their popularity among professionals.</p>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a major benefit of a mirrorless camera over a DSLR camera?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<p>A major benefit of a mirrorless camera over a DSLR is that mirrorless cameras are generally lighter, more compact, and faster. They also excel in video performance and offer modern, fast lenses. Despite fewer accessories and lenses, mirrorless systems provide sufficient choices for most users.</p>"
+      }
+    }
+  ]
+}
