@@ -57,7 +57,7 @@
     "url": "https://www.youtube.com/watch?v=mJjSQ4KVD4I",
     "embedUrl": "https://www.youtube.com/embed/mJjSQ4KVD4I",
     "thumbnailUrl": "https://i.ytimg.com/vi/mJjSQ4KVD4I/hqdefault.jpg",
-    "uploadDate": "2026-08-31",
+    "uploadDate": "2026-08-31T00:00:00+00:00",
     "publisher": {
       "@id": "https://www.alanranger.com/#org"
     }
