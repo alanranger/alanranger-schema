@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography#howto",
+  "name": "What Is Contrast In Photography",
+  "description": "What Is Contrast In Photography.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Decide how much contrast the photograph needs",
+      "text": "Contrast in photography describes differences between tones, colours, textures or ideas. Those differences can separate elements, reveal a relationship or influence where attention falls. Notice the contrast already present before trying to increase it. A subtle distinction in mist or a quiet colour relationship may be precisely what attracted you. Stronger contrast is useful when it supports that response. Restraint can mean leaving an adjustment unused, reducing a competing highlight or preserving a gentle transition. Compare the result with what you wanted the photograph to express. Thre..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Watch the relationships",
+      "text": "Watch where light falls, what remains in shadow and how those areas change. Direction, diffusion and reflected light affect the relationships you can photograph. Moving your viewpoint may change the background behind an element as much as the light on it."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Choose what you need to retain",
+      "text": "Protect highlight detail when that detail matters. A bright reflection or deep silhouette may serve a different purpose. Check the result and choose exposure for the information and feeling you want to retain."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Look beyond the overall tonal range",
+      "text": "Tonal contrast concerns differences in brightness. The same patch can appear lighter or darker depending on its surroundings. Look at adjacent areas as well as the overall range of the image."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Choose the separation that serves the photograph",
+      "text": "Strong separation may help a shape stand out, while a subtle transition can preserve atmosphere. There is no requirement to place the greatest contrast on one named subject: several areas may form the relationship you want to show."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Consider visual weight",
+      "text": "Notice how much of the frame each colour occupies and how it relates to nearby tones. A small bright area may attract more attention than a large subdued one."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Use HDR when the scene needs it",
+      "text": "Merging bracketed exposures can retain detail across a scene whose brightness range exceeds what one exposure records adequately. Movement between exposures may cause merging problems. The final rendering can be subtle or pronounced. Use the additional information only when it supports the photograph. Restraint question: Does the image need detail throughout the tonal range, or are its highlights and shadows already doing useful work? Editing practice · compare first"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Choose for a reason",
+      "text": "Select the version that best supports your intention and record one visible reason for your choice. Remember: leaving the starting image unchanged is a valid outcome. After every local adjustment, check the whole photograph again. Lesson 31 · conclusion"
+    }
+  ]
+}
