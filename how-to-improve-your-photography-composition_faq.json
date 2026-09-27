@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I improve my photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin by deciding what you want the photograph to communicate. Review where attention goes, remove or reduce competing elements and change one decision at a time, such as viewpoint, timing, framing, visual weight or use of space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most important photography composition rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common starting points include the rule of thirds, leading lines, framing, balance, negative space, patterns and visual contrast. Treat them as options to explore rather than instructions that every photograph must follow. See Lesson 26: Photography Composition Rules for the wider approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I tell whether a photograph has a good composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask whether the viewer notices what matters, whether the elements support the intended mood or story and whether anything competes unnecessarily for attention. A successful composition communicates clearly, even when it deliberately uses imbalance, ambiguity or visual complexity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I simplify a busy photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Move closer, change your camera position, separate overlapping elements or wait for background distractions to disappear. You can also use light, focus or negative space to make the main subject easier to recognise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I create balance in a photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare the visual influence of size, brightness, colour, contrast, detail and position. Balance does not require symmetry: a small bright element can balance a larger quiet area when their visual weight feels appropriate to the photograph. Explore this further in Lesson 32: Compositional Balance ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I always follow photography composition rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Use a rule when it strengthens the subject, relationship or atmosphere you want to communicate. Centred placement, deliberate imbalance, motion blur and unusual cropping can all work when their effect supports the photograph."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can editing improve photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Editing can refine composition through cropping and adjustments to tone, colour and local contrast. Begin with the original intention and use restrained changes to clarify attention rather than making every part of the image equally bright, detailed or saturated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to practise photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose one compositional idea for each session, make several versions and compare what changes. Record which choices helped or weakened the image, then turn that review into one practical goal for your next session using the Photography Composition Framework ."
+      }
+    }
+  ]
+}
