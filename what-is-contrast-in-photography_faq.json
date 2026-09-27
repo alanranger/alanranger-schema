@@ -5,66 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the definition of contrast in photography?",
+      "name": "What is contrast in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Contrast in photography is the visual difference in tones, textures, highlights, shadows, and colors within an image. This difference enhances the depth and clarity of a photograph, making elements stand out.</p>"
+        "text": "Contrast describes differences between tones, colours, textures or ideas in a photograph. These differences can separate elements, suggest relationships and influence where the viewer’s attention goes."
       }
     },
     {
       "@type": "Question",
-      "name": "What does contrast do on a camera?",
+      "name": "What is the difference between high and low contrast?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Contrast on a camera adjusts the difference between the bright and dark areas of an image. High contrast makes the image look lively and vibrant, while low contrast results in a flat and monotonous appearance. Proper contrast settings improve the image's clarity and emphasize the subject's contours.</p>"
+        "text": "High contrast involves stronger differences, while low contrast involves gentler differences. The best choice depends on the photograph’s meaning, detail and atmosphere."
       }
     },
     {
       "@type": "Question",
-      "name": "What does contrast do?",
+      "name": "Does high contrast require pure black and white?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Contrast enhances the difference in brightness between light and dark areas of an image, impacting the number of shades. High contrast images appear crisp with clear dimension, while low contrast images retain detail but may look soft and lack depth.</p>"
+        "text": "No. Strong differences can exist without pure black shadows or pure white highlights. Clipping is a separate issue, so decide which highlight and shadow detail matters before allowing it to disappear."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the contrast effect on a photo?",
+      "name": "Are high key and low contrast the same thing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>The contrast effect in a photo is the difference in lighting between highlights and shadows. High contrast images have strong bright and dark areas, while low contrast images feature more subtle differences in light, resulting in a narrower range of colors and tones.</p>"
+        "text": "No. High key describes an image dominated by lighter tones. Low contrast describes relatively gentle differences. A high key photograph can still contain a strongly contrasting dark element."
       }
     },
     {
       "@type": "Question",
-      "name": "What’s the difference between tonal and colour contrast?",
+      "name": "Does a higher white-balance Temp setting make a photograph warmer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Tonal contrast is the difference between light and dark values; colour contrast is the relationship between hues, such as warm versus cool or complementary pairs. Both can be used together to direct attention and set mood.</p>"
+        "text": "For the same raw photograph in Lightroom Classic, raising the Temp value makes the rendering warmer and lowering it makes the rendering cooler. This compensation control differs from describing the colour temperature of the original light source."
       }
     },
     {
       "@type": "Question",
-      "name": "When should I use high contrast vs low contrast?",
+      "name": "Should I always increase contrast when editing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Use high contrast for punchy, graphic images or dramatic black and white. Choose low contrast in mist, overcast or pastel scenes to create a softer, more subtle mood.</p>"
+        "text": "No. The existing contrast may already express what matters. Compare the starting image with stronger and gentler treatments, then keep a change only when it supports your intention."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I control contrast in-camera?",
+      "name": "What is conceptual contrast?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Expose for the highlights in bright scenes, use side light to emphasize texture, simplify backgrounds, and use filters (polariser/ND) or time of day to influence contrast.</p>"
+        "text": "Conceptual contrast is a relationship between different ideas or subjects, such as old and new or activity and stillness. It depends on context and meaning rather than brightness or colour alone."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I adjust contrast in editing without overdoing it?",
+      "name": "How does contrast relate to restraint?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Set black/white points with Curves, add a gentle S-curve, apply local contrast (Clarity/Texture) selectively, and use dodge & burn to guide the eye rather than pushing global contrast too far.</p>"
+        "text": "Restraint means deciding which differences deserve emphasis and which ones compete with the photograph’s purpose. It may involve reducing a bright distraction, preserving subtle colour or leaving an unnecessary edit unused."
       }
     }
   ]

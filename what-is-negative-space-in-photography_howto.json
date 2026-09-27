@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography#howto",
-  "name": "What Is Negative Space In Photography",
-  "description": "What Is Negative Space In Photography.",
+  "name": "Negative Space in Photography: Give Meaning Room to Breathe",
+  "description": "Explore negative space in photography through framing, light and restraint. Compare practical examples and learn how space supports what you want to communicate.",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography#primaryimage"
@@ -18,32 +18,26 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Consider what the space contributes",
-      "text": "Negative space in photography is the quieter area around or between elements that attract attention. It may be sky, water, shadow or a relatively plain surface. Its shape and relationship with the rest of the frame can carry meaning of their own. Begin with what made you stop. Perhaps the distance between two figures matters more than either figure alone. Before filling that gap, consider whether it is the reason you want to make the photograph. Restraint means deciding what earns its place. Removing an element may help, but keeping a spacious area can be just as deliberate. Compare the eff..."
+      "name": "Notice what attracts you",
+      "text": "01 Notice what attracts you Choose a scene and identify what attracts you: an object, a gap, a relationship or a feeling."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Consider what each element contributes",
-      "text": "Before excluding an element, name what it does. Does it establish location, scale or a relationship? Compare a version without it and check whether the photograph becomes clearer or simply loses meaning."
+      "name": "Make three versions",
+      "text": "02 Make three versions Make a spacious frame, a tighter frame and an intermediate version. Change framing while keeping other decisions as similar as practical."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Look carefully before intervening",
-      "text": "For the philosophical background, The Way of Wu Wei Philosophy reflects on non-forcing through a Taoist parable adapted from Solala Towler’s Tales from the Tao . Here, the practical application is to look carefully before assuming that more detail or intervention will help. Restraint: What can I leave out? Keep the space, detail and relationships that support what you want the photograph to communicate. Composition like this is something you can train your eye to see. If you're starting out, my free online photography course walks you through the fundamentals at your own pace, and my beginn..."
+      "name": "Compare what changes",
+      "text": "03 Compare what changes Compare what each version communicates. Point to a visible difference that explains your response."
     },
     {
       "@type": "HowToStep",
       "position": 4,
-      "name": "Make three versions",
-      "text": "Make a spacious frame, a tighter frame and an intermediate version. Change framing while keeping other decisions as similar as practical. 03"
-    },
-    {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Choose and explain",
-      "text": "Choose one version and state what you gained and lost. A preference for the spacious image is not required."
+      "text": "04 Choose and explain Choose one version and state what you gained and lost. A preference for the spacious image is not required."
     }
   ]
 }

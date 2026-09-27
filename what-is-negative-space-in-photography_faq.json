@@ -5,50 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What does negative space in photography mean?",
+      "name": "What is negative space in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Negative space is the empty or open area around your subject. It defines the subject, adds balance, and creates clarity and mood—especially in minimal, clean compositions."
+        "text": "Negative space is the quieter area around or between elements that attract attention. It can be sky, water, shadow or a relatively plain surface. Its relationship with other elements can express scale, distance, stillness or tension."
       }
     },
     {
       "@type": "Question",
-      "name": "What is an example of negative space?",
+      "name": "How much negative space should a photograph have?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A single subject against a vast sky or plain wall, a landmark surrounded by night darkness, or a portrait with a smooth blurred background—each uses empty areas to amplify the subject."
+        "text": "There is no required percentage. Compare spacious and tighter framings and identify what the space contributes. Keep the amount that supports the feeling or relationship you want the photograph to express."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the negative space in a photograph?",
+      "name": "Does negative space have to be empty or white?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It’s the area of the frame not occupied by the main subject. This ‘breathing room’ guides the eye, prevents clutter, and helps the subject stand out."
+        "text": "No. It may contain colour, texture or subtle detail. The term describes its relatively quiet role within the image, rather than a requirement for blank white surroundings."
       }
     },
     {
       "@type": "Question",
-      "name": "What is a negative image in photography?",
+      "name": "Can negative space be the subject of a photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A negative is a reversed-tone image (traditionally on film) where light areas appear dark and dark areas appear light, used for making photographic prints."
+        "text": "Yes. A gap, an expanse or a relationship between forms may be the main reason for making the photograph. Space can carry meaning instead of merely supporting a separate object."
       }
     },
     {
       "@type": "Question",
-      "name": "How do you use negative space effectively?",
+      "name": "Does negative space always create calm?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Simplify the background, step back to include clean sky/walls, place the subject off-centre, and use light or blur to separate it. Aim for clear subject isolation and intentional empty areas."
+        "text": "No. It may suggest peace, isolation, exposure, uncertainty or another response. Subject matter, light and context influence the effect. Judge the actual image rather than assigning a fixed emotion to a spacious frame."
       }
     },
     {
       "@type": "Question",
-      "name": "How much negative space should I use?",
+      "name": "How do I create negative space?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There’s no fixed rule, but 50–70% negative space often creates calm, impactful images. Adjust to taste—more space for serenity or scale, less space for intensity and tension."
+        "text": "Explore viewpoint, distance and framing to find quieter areas around or between forms. Shadow or selective focus may also reduce detail when useful. Compare what each change adds or removes from the photograph."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can cropping improve negative space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cropping can change the proportion and shape of space already recorded. It cannot add anything beyond the original frame, and it may remove space that carries meaning. Compare the crop with the full photograph before deciding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is negative space connected to restraint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restraint asks what can be left out. With negative space, that also means recognising which quiet areas deserve to remain. Remove elements when their absence helps, while retaining context or complexity that matters."
       }
     }
   ]

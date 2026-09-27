@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography#howto",
-  "name": "What Is Contrast In Photography",
-  "description": "What Is Contrast In Photography.",
+  "name": "Contrast in Photography: Choose What Deserves Attention",
+  "description": "Learn how contrast in photography uses tone, colour, texture and ideas to guide attention, preserve atmosphere and support deliberate composition choices.",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography#primaryimage"
@@ -55,13 +55,13 @@
       "@type": "HowToStep",
       "position": 7,
       "name": "Use HDR when the scene needs it",
-      "text": "Merging bracketed exposures can retain detail across a scene whose brightness range exceeds what one exposure records adequately. Movement between exposures may cause merging problems. The final rendering can be subtle or pronounced. Use the additional information only when it supports the photograph. Restraint question: Does the image need detail throughout the tonal range, or are its highlights and shadows already doing useful work? Editing practice · compare first"
+      "text": "Merging bracketed exposures can retain detail across a scene whose brightness range exceeds what one exposure records adequately. Movement between exposures may cause merging problems. The final rendering can be subtle or pronounced. Use the additional information only when it supports the photograph. Restraint question: Does the image need detail throughout the tonal range, or are its highlights and shadows already doing useful work? Editing practice · Compare first"
     },
     {
       "@type": "HowToStep",
       "position": 8,
-      "name": "Choose for a reason",
-      "text": "Select the version that best supports your intention and record one visible reason for your choice. Remember: leaving the starting image unchanged is a valid outcome. After every local adjustment, check the whole photograph again. Lesson 31 · conclusion"
+      "name": "Choose an editing tool for a specific purpose",
+      "text": "Curves Adjust tonal relationships or separation. Check that highlights, shadows and gentle transitions you value remain intact. Texture and Clarity Change local midtone detail. Apply them selectively when surface character matters and watch for halos or an unnatural appearance. Colour grading Explore relationships between highlights, midtones and shadows. Keep the change only when the colour supports the intended atmosphere. Dodge and burn Lighten or darken specific areas to adjust attention and visual weight. Avoid turning every local difference into stronger contrast. Final check: After e..."
     }
   ]
 }

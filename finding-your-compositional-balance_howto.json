@@ -3,7 +3,7 @@
   "@type": "HowTo",
   "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance#howto",
   "name": "Compositional Balance: Using Visual Weight with Purpose",
-  "description": "Master Compositional Balance with a free 1-page . Learn symmetry, asymmetry, golden ratio and visual weight to create stronger, harmonious photos.",
+  "description": "Learn how compositional balance uses visual weight, symmetry, asymmetry, space and optional grids to create stability, tension and purposeful photographs.",
   "inLanguage": "en-GB",
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance#primaryimage"
@@ -18,20 +18,32 @@
     {
       "@type": "HowToStep",
       "position": 1,
-      "name": "Choose the relationship between visual weights",
-      "text": "Compositional balance concerns how attention is distributed across a photograph. Size, brightness, colour, detail, position and meaning all influence the visual weight of an element. A settled arrangement may express stillness. Unequal weight may create tension or make one area deliberately dominant. Consider what the relationship contributes before deciding that it needs correcting. Restraint includes resisting the urge to add a counterweight. A change of viewpoint, different spacing or an omission may be more useful. Sometimes the existing arrangement already expresses what matters. Three..."
+      "name": "Choose a scene where one area, relationship or pattern attracts your attention.",
+      "text": "Choose a scene where one area, relationship or pattern attracts your attention. State what interests you."
     },
     {
       "@type": "HowToStep",
       "position": 2,
-      "name": "Compose with Vision, Not Just Technique",
-      "text": "Composition isn’t about rule-following. It’s about story-shaping. The camera captures—but you compose meaning through balance, light, framing, and intention. Great composition begins with seeing—pausing, observing, and feeling before pressing the shutter. From that place, choose your method (symmetry, asymmetry, golden ratio, size balance) to guide the viewer's inner journey, not just their eyes. Symmetry — mirror forms for calm structure; break slightly to maintain flow. Asymmetry — offset weight with tone or scale; use diagonals for energy. Golden Ratio — spiral or phi grid naturally guid..."
+      "name": "Make one version that feels relatively settled.",
+      "text": "Make one version that feels relatively settled. You might use symmetry, a central relationship or a more even distribution of visual weight."
     },
     {
       "@type": "HowToStep",
       "position": 3,
-      "name": "Find Your Compositional Balance",
-      "text": "Download the 1-page field checklist or book live support. Download Compositional Balance Checklist (PDF) Image Reviews Clinic (Zoom, £29) 1-to-1 Mentoring (Zoom) Prefer a text link? Download the checklist here"
+      "name": "Make another version that allows more dominance, asymmetry or tension.",
+      "text": "Make another version that allows more dominance, asymmetry or tension. Change your position or framing while keeping other choices as similar as practical."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Check the frame edges, the surrounding space and where attention falls.",
+      "text": "Check the frame edges, the surrounding space and where attention falls. Briefly squint to notice broad tonal weight, then look normally again to restore detail and meaning."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Compare the two photographs without an overlay.",
+      "text": "Compare the two photographs without an overlay. Explain which version better supports your intention and identify one visible reason."
     }
   ]
 }

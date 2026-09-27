@@ -5,42 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the definition of composition balance?",
+      "name": "What is compositional balance in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Composition balance is the distribution of visual weight so that no element overpowers the others. It creates harmony between positive space, negative space, and subject placement."
+        "text": "Compositional balance concerns how visual weight is distributed across\n\na photograph. Size, tone, colour, detail, position, space and subject\n\nmeaning influence where attention falls. The resulting stability or\n\ntension should support what the photograph expresses."
       }
     },
     {
       "@type": "Question",
-      "name": "What is compositional balance in film?",
+      "name": "Does a photograph always need to look balanced?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Compositional balance in film arranges elements within the frame to guide attention and create visual harmony. Imbalance may also be used intentionally for tension or drama."
+        "text": "No. Deliberate dominance or imbalance may express tension, movement or\n\nuncertainty. Compare arrangements and choose according to their effect.\n\nEqual visual weight is not required in every successful photograph."
       }
     },
     {
       "@type": "Question",
-      "name": "What is balance as a compositional rule?",
+      "name": "Can a centred subject make a good composition?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Balance as a compositional rule means arranging elements so their visual weight feels equal. This prevents one part of the image from dominating and makes the scene more engaging."
+        "text": "Yes. Central placement can support symmetry, directness or stillness.\n\nCompare it with an off-centre arrangement and consider the surrounding\n\nspace. Choose the placement that better supports your intention."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the types of compositional balance?",
+      "name": "What is the difference between symmetry and balance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The main types of balance are symmetrical (equal sides), asymmetrical (different but balanced), radial (elements radiating from a centre), and mosaic (pattern-like harmony within variety)."
+        "text": "Symmetry concerns mirrored or repeated forms. Balance concerns the\n\ndistribution of visual weight. An asymmetrical photograph can feel\n\nbalanced, while an apparently symmetrical scene may contain one element\n\nthat attracts much more attention."
       }
     },
     {
       "@type": "Question",
-      "name": "How do you create balance in photography?",
+      "name": "Is the golden ratio better than the rule of thirds?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "To create balance in photography, position subjects with care, use the rule of thirds, control horizon placement, and counterweight with light, colour, or supporting elements."
+        "text": "No overlay guarantees a better photograph. The golden ratio and rule\n\nof thirds suggest arrangements you can compare. Switch the guide off\n\nand judge the resulting relationships, space and meaning within the\n\nimage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to fill empty space to balance a photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Space can contribute scale, stillness, isolation or tension without\n\nanother object. Compare omission, viewpoint and spacing before adding\n\na counterweight. Keep an additional element only when it contributes\n\nto the photograph."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What gives an element visual weight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Size, brightness, colour, contrast, detail, sharpness, isolation and\n\nrecognisable meaning can all attract attention. Their effects depend\n\non the surrounding image. A small dark figure against a pale background\n\nmay carry considerable weight."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I practise compositional balance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Make two versions of one scene: one relatively settled and one allowing\n\nmore dominance or tension. Compare the response each supports and\n\nidentify a visible reason for your preference. Use that observation\n\nto guide your next photograph."
       }
     }
   ]
