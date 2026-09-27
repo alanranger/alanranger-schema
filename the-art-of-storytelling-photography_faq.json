@@ -5,50 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is storytelling in photography?",
+      "name": "What is storytelling photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Storytelling in photography is the intentional use of subject, light, composition, and timing to convey a mood, message, or narrative that makes viewers feel as well as see."
+        "text": "Storytelling photography uses subject, setting, light, composition and\n\ntiming to communicate a mood, idea or situation. It helps the viewer\n\nunderstand or imagine something beyond the photograph’s literal\n\ncontents."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I tell a story with a single photo?",
+      "name": "How do you tell a story with one photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lead with intent: decide the emotion first. Use a clear subject, clean background, controlled light, and strong framing or gesture. Remove elements that don’t serve the message."
+        "text": "Identify one clear moment or relationship and include the visual clues\n\nneeded to understand it. Gesture, expression, setting and timing can\n\nimply what happened before the frame and what may happen next. The image\n\ncan leave questions unanswered while still communicating a recognisable\n\nidea or feeling."
       }
     },
     {
       "@type": "Question",
-      "name": "What elements make a strong narrative image?",
+      "name": "What elements make a strong narrative photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Clarity of subject, meaningful context, directional light, purposeful composition (thirds, lines, space), and a decisive moment or gesture that reveals relationship or change."
+        "text": "Strong narrative photographs usually contain a clear subject,\n\nmeaningful relationships, useful context and deliberate timing. Light,\n\nviewpoint and composition guide attention towards those elements.\n\nEvery detail does not need to explain the story, but competing\n\ninformation should not obscure what matters."
       }
     },
     {
       "@type": "Question",
-      "name": "How can lighting improve storytelling?",
+      "name": "Can one image tell a story, or do I need a series?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Choose light for mood: soft light for intimacy, hard light for drama, backlight for mystery, side light for depth. Align direction, quality, and colour of light with the story."
+        "text": "One image can suggest a complete situation through action, context,\n\ngesture and emotion. A series allows you to develop the story through\n\nestablishing views, details, changes and a deliberate sequence. Choose\n\nthe form according to how much information the viewer needs."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need a series or can one image tell a story?",
+      "name": "How does composition support storytelling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both work. A single frame can suggest a powerful moment; a short series (beginning–middle–end) can develop context, change, and resolution for deeper narratives."
+        "text": "Composition controls what the viewer notices and the order in which\n\nthey discover it. Framing, scale, visual pathways and the spaces between\n\nsubjects can reveal relationships or withhold information. Start with\n\nthe story, then choose the\n\ncomposition tools\n\nthat communicate it most clearly."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I practice storytelling skills?",
+      "name": "How can lighting improve storytelling photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Set a theme, slow down to observe, shoot sequences with different framings, and edit tightly. Review what feeling each frame delivers and refine until the intent reads clearly."
+        "text": "Lighting affects both attention and atmosphere. Soft light may suggest\n\nquietness or intimacy, while directional light and strong shadows can\n\nintroduce tension or drama. Look at which details the light reveals,\n\nwhich it conceals and how\n\ncontrast\n\ninfluences the mood."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do storytelling photographs need to include people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. A place, object, trace of activity or changing condition can suggest\n\na story without showing a person. An empty chair, worn path or abandoned\n\nobject may provide evidence of someone beyond the frame and invite the\n\nviewer to interpret what happened."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I practise storytelling photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose one ordinary activity, relationship or place and observe it for\n\nseveral minutes. Make variations using different viewpoints, timings\n\nand amounts of context. Afterwards, select the frame that communicates\n\nmost clearly without requiring a long caption, then identify one choice\n\nto improve next time."
       }
     }
   ]
