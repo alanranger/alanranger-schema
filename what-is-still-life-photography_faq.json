@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/what-is-still-life-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is still life photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Still life photography is a specialised genre within fine art photography that concentrates on photographing inanimate subjects, which can be either natural or man-made. This form of photography aims to produce artistic images and has its roots in the early days of photography when capturing moving subjects was challenging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does still photography refer to?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Still photography is a term used to describe a standard photograph that is not part of a video or film."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the two primary categories of still life photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Still life photography can be divided into two main types: found and created. Found still life involves photographing a random assortment of objects as they are found, without rearranging them for the photo. Created still life, on the other hand, involves deliberately arranging objects to achieve a desired composition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What qualifies as a still life photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A still life photograph typically features inanimate subjects, often everyday items that can be either natural (such as food, flowers, or dead animals) or human-made (like drinking glasses, books, or jewellery). These are depicted in a way that focuses on their aesthetic and compositional qualities."
+      }
+    }
+  ]
+}
