@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-composition-framework#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is composition in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composition in photography is how the elements within a frame\n\nrelate to one another. Your viewpoint, framing, timing and use\n\nof space influence what a viewer notices and how the photograph\n\nfeels. Composition begins with recognising what interests you,\n\nthen making choices that help express it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes a good photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good composition supports what the photograph is trying to\n\ncommunicate. The placement of elements, light, space and visual\n\nweight contribute to its meaning or feeling. A photograph can\n\nwork through simplicity, complexity, stability or tension.\n\nJudge those choices by their effect on the actual image rather\n\nthan how closely they follow a grid."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the seven rules of composition in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no single agreed list of seven composition rules.\n\nSeven commonly taught techniques are the rule of thirds,\n\nleading lines, framing, symmetry, balance, negative space and\n\nrepetition. Each offers a way to explore a photograph. Use a\n\ntechnique when it supports your intention, and compare\n\nalternatives rather than treating the list as a checklist.\n\nExplore these tools in\n\nLesson 26 — Composition Rules ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have to follow the rule of thirds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The rule of thirds is an optional guide that divides a\n\nframe into nine equal rectangles and suggests placing important\n\nelements near the dividing lines or their intersections.\n\nCentral placement, symmetry or a subject close to an edge may\n\nbetter express your intention. Compare the alternatives and\n\nconsider what each placement contributes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can beginners improve their photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners can improve composition by practising one deliberate\n\nchoice at a time. Photograph the same scene twice, changing\n\nyour position, framing or another compositional decision.\n\nCompare the results and explain which better expresses what\n\ncaught your attention. Check the edges and background as well\n\nas the main area of interest. Repeat the exercise with a\n\nspecific lesson from your review."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does See, Feel, Technique mean in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEE &rarr; FEEL &rarr; TECHNIQUE is the central process in\n\nAlan Ranger’s Composition Framework. See means noticing what\n\ndraws your attention. Feel means recognising the response or\n\nmeaning you want to preserve. Technique means choosing the\n\nposition, framing and camera settings that support it.\n\nYou can return to observation whenever the scene or your\n\nunderstanding changes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between framing and composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Framing concerns the boundaries of the photograph: what you\n\ninclude, exclude and position within its four edges.\n\nComposition encompasses how all those elements work together,\n\nincluding their spacing, visual weight and relationships.\n\nA frame within a frame, such as a doorway or branches, is one\n\noptional framing technique.\n\nLesson 27 — Framing\n\nexplores these decisions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much negative space should a photograph have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no required percentage of negative space in a\n\nphotograph. The amount depends on what the space contributes\n\nto the image, such as isolation, scale, stillness or uncertainty.\n\nCompare tighter and more spacious framings, then choose the\n\nrelationship that supports your intention. Space can carry\n\nmeaning in its own right, as explored in\n\nLesson 30 — Negative Space ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you practise photography composition with a phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A phone lets you practise observation, viewpoint, framing,\n\ntiming and the relationship between elements. Move closer,\n\nstep back or change your angle, then compare how the photograph\n\nchanges. Different cameras offer different technical controls,\n\nbut you can develop compositional judgement with the camera\n\nyou already have."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you know when a photograph is finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A photograph is finished when further changes no longer help\n\nit express what matters to you. Identify what already works,\n\nthen compare any proposed adjustment with the original.\n\nKeep changes that serve the photograph and reject those that\n\nweaken it. Feedback can reveal something you missed, while\n\nthe final decision remains yours. Continue with\n\nLesson 34 — Improving Composition .\n\nphotography-tips , online photography course Alan Ranger 26 September 2026 Alan Ranger Photography composition guide\n\nFacebook 0\n\nLinkedIn 0\n\nReddit\n\nTumblr\n\nPinterest 0\n\n0 Likes"
+      }
+    }
+  ]
+}
