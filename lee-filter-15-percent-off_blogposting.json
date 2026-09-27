@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off#blogposting",
   "headline": "Lee Filters - 15% Off for clients - Grab a deal today",
   "alternativeHeadline": "Lee Filters - 15% Off for clients - Grab a deal today | Alan Ranger Photography",
-  "description": "Lee Filters 15 percent off for Alan Ranger Photography clients. A client deal on quality landscape filters.",
+  "description": "Lee Filters - 15% Off for clients - Grab a deal today.",
   "url": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off",
   "datePublished": "2023-08-23T00:00:00.000Z",
   "dateModified": "2023-08-23T00:00:00.000Z",
   "dateCreated": "2023-08-23T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "Lee Filters 15 percent off for Alan Ranger Photography clients. Grab the deal on quality landscape filters.",
-  "wordCount": 18,
+  "articleBody": "Lee Filters - 15% Off for clients - Grab a deal today.",
+  "wordCount": 12,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off#primaryimage"
   },
@@ -26,11 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/lee-filter-15-percent-off#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Photography"
-    }
-  ]
+  }
 }
