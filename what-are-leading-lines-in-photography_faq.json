@@ -5,74 +5,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is an example of a leading line?",
+      "name": "What are leading lines in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>A road leading toward a mountain is a classic example. Others include rivers, fences, paths, bridges and shorelines that guide the eye toward your subject.</p>"
+        "text": "Leading lines are lines within a photograph that can suggest\n\ndirection, connect elements or create a sense of depth.\n\nThey may draw attention towards a subject or encourage\n\nexploration of the wider scene. Their effect depends on\n\nthe whole composition and how the viewer responds to it."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the definition of leading line?",
+      "name": "What are examples of leading lines?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Leading lines are visual elements that guide the viewer’s eye through the frame toward a focal point, adding direction, depth and structure to a composition.</p>"
+        "text": "Roads, rivers, footpaths, fences, shorelines, shadows and\n\nbuilding edges can all form leading lines. For example,\n\na winding path may connect a nearby walker with distant\n\nhills. Consider what the line contributes to the scene\n\nbefore deciding how prominently to include it."
       }
     },
     {
       "@type": "Question",
-      "name": "What are leading lines in art?",
+      "name": "What are the main types of leading lines?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>In art, leading lines are lines or edges—real or implied—that direct attention to the subject. They create flow and help organise complex scenes.</p>"
+        "text": "Common types include horizontal, vertical, diagonal,\n\ncurved and converging lines. A photograph can also\n\ncontain implied pathways, such as repeated shapes or\n\na person's gaze. These categories describe possibilities;\n\nthe light, subject and surrounding space influence\n\nwhat each pathway communicates."
       }
     },
     {
       "@type": "Question",
-      "name": "What does leading lines mean in film?",
+      "name": "How do you use leading lines in a photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Filmmakers use architecture, roads and light to draw attention to a character or reveal depth. It’s the same principle as stills—lines lead the viewer to what matters.</p>"
+        "text": "Begin with what interests you in the scene. Look for\n\nlines that connect, separate or emphasise its elements,\n\nthen compare viewpoints and framing. Make one version\n\nwith the pathway prominent and another with it reduced.\n\nChoose the photograph that best expresses your intention."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I find leading lines on location?",
+      "name": "Do leading lines have to end at the subject?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Walk the scene and look low for paths, edges, kerbs, railings and shadows. Kneel or go low to exaggerate the perspective and step closer to strengthen the pull.</p>"
+        "text": "No. A subject near the end of a line can create a clear\n\nconnection, but it can also sit beside or partway along\n\nthe line. A pathway may suggest distance, movement or\n\na relationship between several elements without ending\n\nat a single subject."
       }
     },
     {
       "@type": "Question",
-      "name": "Which lenses emphasise leading lines?",
+      "name": "Can leading lines go out of the frame?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Wide lenses (14–35 mm full-frame) exaggerate converging lines and depth. Longer lenses compress distance and work better for horizontal or framing lines.</p>"
+        "text": "Yes. A line continuing beyond the frame can suggest\n\nmovement or a larger world outside the photograph.\n\nChange it when it creates an unwanted distraction.\n\nJudge its contribution to the whole image rather than\n\ntreating every line that crosses an edge as a mistake."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I stop lines pulling attention out of frame?",
+      "name": "Do you need a wide-angle lens for leading lines?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Keep bright lines away from the very edge, crop to remove exits, and aim lines to your subject. Use local darkening on edges so attention holds at the destination.</p>"
+        "text": "No. Leading lines can be photographed with a phone or\n\ndifferent camera lenses. A wide-angle lens lets you\n\ninclude more of the scene and work close to a foreground\n\nline. Camera position affects perspective, so compare\n\nhow the line relates to the background from different\n\npositions."
       }
     },
     {
       "@type": "Question",
-      "name": "Do leading lines have to be straight?",
+      "name": "What is the difference between leading lines and visual pathways?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>No. Curves and S-curves create graceful movement and are ideal when straight lines feel too rigid. Implied lines—like a subject’s gaze—also work.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where should I place my subject relative to the line?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Place the subject at—or just before—the destination of the line. Avoid tangents where the line merges with the subject’s edge; leave a sliver of space for separation.</p>"
+        "text": "Leading lines are one kind of visual pathway. I use\n\nvisual pathways as a broader term that includes lines,\n\nchanges in light, repeated shapes, gestures and gaze.\n\nThese can suggest connections within a photograph\n\nwithout forming a continuous line or guaranteeing\n\nwhere someone will look."
       }
     }
   ]

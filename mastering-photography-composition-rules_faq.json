@@ -5,34 +5,82 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What makes an image truly captivating?",
+      "name": "What are the main composition rules in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The allure of an image often comes down to its composition, which encompasses various artistic rules and principles. These include the rule of thirds, the golden ratio, symmetry, leading lines, framing, and even the strategic use of triangles and diagonals to direct attention. Each of these elements works in harmony to not only draw the viewer's eye but also to maintain their interest by effectively highlighting the subject."
+        "text": "Commonly taught composition techniques include the rule of\n\nthirds, leading lines, symmetry, patterns, framing, balance\n\nand negative space. Each gives you an arrangement to explore.\n\nChoose according to what you want the photograph to express,\n\nthen judge the effect in the actual image."
       }
     },
     {
       "@type": "Question",
-      "name": "How can I capture more captivating photographs?",
+      "name": "What are the seven rules of composition?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "To enhance the quality of your photos, consider these tips:\n\nApply the rule of thirds to balance your shots.\n\nEnsure the eyes of any subjects are sharply in focus.\n\nBe mindful of the photo's background to avoid distractions.\n\nUnderstand the exposure triangle to manage light effectively.\n\nUse the on-camera flash judiciously to avoid harsh lighting.\n\nA tripod can stabilise your shots, especially in low light.\n\nThe soft light of early morning or evening can add beauty to your photos.\n\nLearn from each photograph you take to improve continually."
+        "text": "There is no single agreed list of seven composition rules.\n\nOne common selection is thirds, leading lines, framing,\n\nsymmetry, balance, negative space and repetition. Different\n\nguides group these techniques differently. Learning how\n\nthey affect your photographs is more useful than memorising\n\na particular list."
       }
     },
     {
       "@type": "Question",
-      "name": "How do image composition rules enhance the success of a photograph?",
+      "name": "Which composition rule should a beginner learn first?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The top six rules to improve your photography composition include:\n\nSimplifying the scene by decluttering the background.\n\nUsing the rule of thirds to position your subject off-center.\n\nFilling the frame to avoid excessive negative space.\n\nIncorporating diagonal lines to guide the viewer's eye.\n\nExperimenting with high or low perspectives.\n\nUsing reflections to add an interesting element to your photos."
+        "text": "The rule of thirds is an accessible placement exercise.\n\nBegin by noticing what interests you, then compare placing\n\nit near a thirds line with placing it centrally. Look at\n\nhow the surrounding space and relationships change.\n\nExplain which version better supports your intention."
       }
     },
     {
       "@type": "Question",
-      "name": "What are five compositional techniques for creating strong images?",
+      "name": "Does a subject always need to be off-centre?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "When aiming to strengthen your photographic composition, remember to:\n\nSimplify the scene to focus on your main subject.\n\nLimit the amount of negative space to maintain interest.\n\nUtilise lines to lead the viewer’s eye through the image.\n\nFollow the rule of thirds for a balanced composition.\n\nCreate depth by defining a clear foreground, middle-ground, and background in your shots. Alan Ranger Remember that your images are your unique experience and therefore it’s essential to ensure they are backed up.\n\nRead my post on Safeguarding high-quality images using proper backups."
+        "text": "No. Central placement can support symmetry, directness or\n\nstillness. Off-centre placement changes the space around\n\nan element and its relationship with the rest of the frame.\n\nTry both where practical and compare their effect.\n\nLesson\n\n27 — Framing explores these choices further."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I fill the frame or leave negative space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose according to what the surroundings contribute.\n\nA tight frame may emphasise detail or gesture. More space\n\nmay express scale, isolation, stillness or context.\n\nCompare both versions rather than aiming for a fixed\n\nproportion. See\n\nLesson\n\n30 — Negative Space for more examples of this decision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do leading lines have to point towards the main subject?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. A line may connect areas of the photograph, suggest\n\ndepth, disappear into the distance or continue beyond\n\nthe frame. Consider what that movement contributes to\n\nthe image. In\n\nLesson\n\n29 — Leading Lines , visual pathways also include\n\nconnections created by light, colour and repeated shapes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does every photograph need to look balanced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A photograph can work through stability, tension or\n\ndeliberate dominance. Look at how attention is distributed\n\nand whether that relationship supports your intention.\n\nAdding another element simply to equalise the frame\n\nmay weaken it. Explore this in\n\nLesson\n\n32 — Compositional Balance ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I improve my photography composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photograph one scene in two ways, changing one compositional\n\nchoice. Compare what each version communicates and identify\n\nvisible reasons for your preference. Ask another viewer\n\nwhat they notice, then decide what to test next.\n\nLesson\n\n34 — Improving Composition develops this review process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can cropping improve a photograph’s composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cropping can change the frame’s boundaries, proportions\n\nand relationships. Compare a proposed crop with the\n\noriginal and check what it removes. Keep it when it\n\nstrengthens the photograph’s meaning or feeling.\n\nCropping cannot recover anything outside the original frame."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know when to break a composition rule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare the suggested arrangement with an alternative.\n\nIf central placement, extra space or an uneven distribution\n\nof attention better expresses your intention, use it.\n\nExplain the choice through its effect on the photograph.\n\nThe\n\nPhotography\n\nComposition Framework connects these decisions through\n\nSEE → FEEL → TECHNIQUE."
       }
     }
   ]
