@@ -5,34 +5,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What does it mean when photography is an art of observation?",
+      "name": "Why is photography an art of observation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It means that photography relies on noticing details others overlook. By training your eye to see light, patterns, and fleeting moments, you create images that go beyond the obvious and capture deeper meaning."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the art of observation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The art of observation is the practice of mindful seeing—paying close attention to details, emotions, and context. In photography it means slowing down, focusing deeply, and interpreting scenes with awareness."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is observation in photography?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Observation in photography is the skill of carefully noticing and capturing details of a scene—light, expressions, patterns, and atmosphere. It turns everyday moments into meaningful and authentic images."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is photography as an art form?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photography as an art form combines technical skill with creativity to express ideas. Composition, timing, lighting, and equipment choices all shape how a photographer transforms observation into artistic expression."
+        "text": "Photography involves choosing what deserves attention and\n\nhow to show it. The photographer notices light, gestures,\n\nshapes and relationships, then uses viewpoint, framing and\n\ntiming to communicate what matters. Different photographers\n\ncan interpret the same scene in different ways."
       }
     },
     {
@@ -40,7 +16,55 @@
       "name": "How can I improve my observation skills in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slow down and be mindful. Practise pausing before you shoot, study light and shadow, vary your angles, and review your images critically. Repeating these habits sharpens perception and builds stronger photographs."
+        "text": "Spend time looking before you raise the camera. Notice the\n\nlight, explore the background and watch what changes.\n\nTry the\n\nten-minute observation exercise ,\n\nthen compare what interested you with what appears in your\n\nphotograph. Choose one specific thing to practise next time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between observation and composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Observation is noticing and interpreting what is happening\n\nin a scene. Composition is choosing how to arrange what you\n\ninclude within the photograph. Observation gives you a reason\n\nto make the picture; composition helps you express that reason.\n\nThe two work together as you explore and refine your frame."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I always wait before taking a photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Waiting can help you discover possibilities, but a fleeting\n\nexpression, movement or change in light may need an immediate\n\nresponse. Keep your camera ready. Observation practice should\n\nhelp you recognise when to act, and you can continue exploring\n\nafter capturing the moment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I develop a photographic eye using a phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can practise noticing light, choosing a viewpoint,\n\nwatching movement and checking the edges of your frame with\n\na phone. These decisions apply whatever camera you use.\n\nKeep the camera app ready and reduce interruptions while\n\nyou observe."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for when a scene seems ordinary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for a change in light, a reflection, a repeated shape,\n\na gesture or an unexpected relationship between subjects.\n\nTry moving a little or changing your camera height.\n\nAn ordinary location can offer interesting details, although\n\nyou do not need to make a photograph every time you stop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does observation help with storytelling in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Observation helps you notice the gestures, surroundings and\n\nrelationships that give a photograph context. Your timing\n\nand framing determine which of those clues the viewer can\n\nsee. Explore this further in\n\nThe Art of Storytelling in Photography ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know whether my observation led to a successful photograph?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recall what caught your attention, then look at whether it\n\ncomes across clearly in the image. Check what competes with\n\nit and whether your timing and viewpoint helped. The review\n\nprocess in\n\nLesson 34\n\nwill help you assess those choices."
       }
     }
   ]
