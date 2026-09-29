@@ -65,24 +65,24 @@
     {
       "@type": "Product",
       "name": "LAKE DISTRICT Photography Workshops - Jan - Mar - Sep - Nov",
-      "sku": "SQ9100538",
+      "sku": "SQ5158309",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "An exciting 3 day/2 night residential lake district photography workshop visiting some gorgeous spots around Cumbria. Runs every Jan, Mar, Sep, Nov Summary Location: Cumbria - Lake District Dates:Fri 18 Sep - Sun 20 Sep - 3 Days/2 Nights 2026 Fri 13 Nov - Sun 15 Nov - 3 Days/2 Nights 2026 Fri 22 Jan - Sun 24 Jan - 3 Days/2 Nights 2027 Fri 12 Mar - Sun 14 Mar - 3 Days/2 Nights 2027 Extra night B&B available for Thu - Contact me for details and booking separately Participants: Max 4 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and...",
+      "description": "An exciting 3 day/2 night residential lake district photography workshop visiting some gorgeous spots around Cumbria. Runs every Jan, Mar, Sep, Nov Summary Location: Cumbria - Lake District Dates:Fri 13 Nov - Sun 15 Nov - 3 Days/2 Nights 2026 Fri 22 Jan - Sun 24 Jan - 3 Days/2 Nights 2027 Fri 12 Mar - Sun 14 Mar - 3 Days/2 Nights 2027 Fri 24 Sep - Sun 26 Sep - 3 Days/2 Nights 2027 Extra night B&B available for Thu - Contact me for details and booking separately Participants: Max 4 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714301696717-TME057MTL131H9UHU82H/Bassenthwaite+Rise.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ9100538",
+          "sku": "SQ5158309",
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
-          "name": "Fri 18 Sep - 20 Sep - 3 Days 2026",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
+          "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
             "priceCurrency": "GBP"
@@ -119,62 +119,15 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5158309",
+          "sku": "SQ9016326",
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
-          "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
-          "priceSpecification": {
-            "price": "1075.00",
-            "priceCurrency": "GBP"
-          },
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
+          "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
           "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ9016326",
-          "price": "975.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
-          "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
-          "priceSpecification": {
-            "price": "975.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -209,11 +162,54 @@
           "price": "1125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
-          "name": "Fri 12 Mar - Sun 14 Mar - 3 Days/2 Nights 2027",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
+          "name": "Fri 12 Mar - 14 Mar - 3 Days 2027",
           "priceSpecification": {
             "price": "1125.00",
+            "priceCurrency": "GBP"
+          },
+          "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ9100538",
+          "price": "1075.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
+          "name": "Fri 24 Sep - 26 Sep - 3 Days 2027",
+          "priceSpecification": {
+            "price": "1075.00",
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
@@ -366,9 +362,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Pyta"
+            "name": "Patsy Louer"
           },
-          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
+          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -385,9 +381,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Patsy Louer"
+            "name": "Dave Pyta"
           },
-          "reviewBody": "I recently attended a photographic workshop hosted by Alan, and I can't express how invaluable the experience was. Initially, I felt overwhelmed with the intricate settings of my camera, but Alan demystified them in a way that was both comprehensible and reassuring. Beyond the technicalities, he instilled in me the ability to 'see' a photograph – to truly understand the essence of a scene and capture it effectively. He also provided hands-on guidance with my tripod, ensuring I maximized its potential for stable, crisp shots.  For anyone keen on elevating their photography skills, whether you're a beginner or someone looking to refine your craft, I would highly recommend Alan's courses. His expertise, coupled with his patient and insightful teaching style, truly sets him apart.  I hope this helps, and I'm glad I had such a positive experience! Remember to continue practicing and experimenting with your camera; the world of photography is vast and constantly evolving!",
+          "reviewBody": "Had a fantastic weekend in the lake district with Alan Ranger on one of his residential courses with our fellow photography enthusiasts. Alan didn't just elevate our photography to another level, his skills, intimate local knowledge and organisational abilities were second to none. Alan was always receptive and willing to go the extra mile to make the experience perfect at the same time as providing honest, professional feedback and support. We will definitely be booking more workshops and weekend away with him soon. - Thank you Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

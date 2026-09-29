@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 18 Oct 2026, 23 Oct 2026, 24 Oct 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £99.00, with options visible at checkout."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#faq"
+}

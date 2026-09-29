@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for Christmas Photography Seasonal Workshops - Warwickshire UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 28 Nov 2026, 10 Dec 2026, 29 Dec 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Christmas Photography Seasonal Workshops - Warwickshire UK run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 18:45 to 20:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of Christmas Photography Seasonal Workshops - Warwickshire UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Christmas Photography Seasonal Workshops - Warwickshire UK aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Christmas Photography Seasonal Workshops - Warwickshire UK online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Christmas Photography Seasonal Workshops - Warwickshire UK is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Christmas Photography Seasonal Workshops - Warwickshire UK suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open to all levels and any camera, it's a relaxed, sociable outing in Warwickshire with expert guidance throughout, and there's a choice of two very different sessions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Christmas Photography Seasonal Workshops - Warwickshire UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £50.00, with options visible at checkout."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops#faq"
+}

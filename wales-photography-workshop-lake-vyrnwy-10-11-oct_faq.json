@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for WALES Photography Workshop | Lake Vyrnwy 10-11 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 10 Oct 2026, 13 Nov 2026, 22 Jan 2027, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of WALES Photography Workshop | Lake Vyrnwy 10-11 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 4 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is WALES Photography Workshop | Lake Vyrnwy 10-11 Oct aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does WALES Photography Workshop | Lake Vyrnwy 10-11 Oct take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WALES Photography Workshop | Lake Vyrnwy 10-11 Oct is listed with location details for Wales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is WALES Photography Workshop | Lake Vyrnwy 10-11 Oct suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get Access to Free Online Course Sign up with your email address to access the Academy 101 Foundation Photography Course First Name Last Name Email Address Join today We respect your privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for WALES Photography Workshop | Lake Vyrnwy 10-11 Oct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £695.00 / £975.00 / £1, with options visible at checkout."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#faq"
+}

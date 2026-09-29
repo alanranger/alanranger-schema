@@ -80,8 +80,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "Sat 15 Aug 2026 - Hathersage 18:15 - 21:15",
           "priceSpecification": {
             "price": "125.00",
@@ -123,8 +123,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "Sun 16 Aug 2026 - The Roaches & Ramshaw 05:45 - 08:45",
           "priceSpecification": {
             "price": "125.00",
@@ -165,9 +165,9 @@
           "sku": "SQ5395624",
           "price": "200.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "Both sessions - 15 and 16 Aug - sunset and sunrise",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer3",
@@ -205,8 +205,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "2027 - Sat 14th Aug 18:15 21:15 - Derbyshire Surprise View",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer4",
@@ -244,8 +244,8 @@
           "price": "125.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "2027 - Sun 15 Aug - The Roaches & Ramshaw 05:45 - 08:45",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer5",
@@ -283,8 +283,8 @@
           "price": "200.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-08-12",
-          "priceValidUntil": "2027-08-12",
+          "validFrom": "2026-09-29",
+          "priceValidUntil": "2027-09-29",
           "name": "Both sessions - 14 and 15 Aug - sunset and sunrise",
           "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#offer6",
@@ -360,25 +360,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Clarke"
-          },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Sharon McDonald"
           },
           "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
@@ -401,6 +382,25 @@
             "name": "Alex McDonald"
           },
           "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Clarke"
+          },
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

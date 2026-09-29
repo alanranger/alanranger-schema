@@ -1,41 +1,17 @@
 {
-  "generatedAt": "2026-08-12T09:02:14.327Z",
-  "totalProducts": 51,
+  "generatedAt": "2026-09-29T20:04:18.571Z",
+  "totalProducts": 52,
   "entries": [
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
-      "pathKey": "/photo-workshops-uk/abstract-and-macro-photography-workshops",
-      "schemaFileName": "macro-photography-workshops-warwickshire-various_schema.json",
+      "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+      "pathKey": "/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+      "schemaFileName": "lightroom-courses-for-beginners-photo-editing-coventry_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
-      "pathKey": "/photography-services-near-me/annual-pick-n-mix-subscription",
-      "schemaFileName": "annual-pick-n-mix-subscription-interest-free-payment-plan_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-      "pathKey": "/photo-workshops-uk/batsford-arboretum-photography-workshops",
-      "schemaFileName": "batsford-arboretum-autumn-photography-workshops-23-31-oct_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
-      "pathKey": "/photography-services-near-me/beginners-photography-course",
-      "schemaFileName": "beginners-photography-course-3-weekly-evening-classes_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
-      "pathKey": "/photography-services-near-me/beginners-portrait-photography-course",
-      "schemaFileName": "beginners-portrait-photography-course-coventry-11-oct-25_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-      "pathKey": "/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-      "schemaFileName": "bluebell-woodlands-photography-warks-20-apr-30-apr_schema.json",
+      "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+      "pathKey": "/photography-services-near-me/rps-mentoring-photography-course",
+      "schemaFileName": "rps-courses-independent-rps-mentoring-for-rps-distinctions_schema.json",
       "faqFileName": ""
     },
     {
@@ -45,34 +21,100 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
-      "pathKey": "/photo-workshops-uk/christmas-photography-workshops",
-      "schemaFileName": "christmas-photography-seasonal-workshops-warwickshire-uk_schema.json",
+      "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
+      "pathKey": "/photo-workshops-uk/woodland-photography-walk-warwickshire",
+      "schemaFileName": "warwickshire-woodland-photography-walks-monthly-2hrs_schema.json",
+      "faqFileName": "warwickshire-woodland-photography-walks-monthly-2hrs_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes",
+      "pathKey": "/photography-services-near-me/four-private-photography-classes",
+      "schemaFileName": "4-x-2hr-private-photography-classes-face-to-face-coventry_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops",
-      "pathKey": "/photo-workshops-uk/coastal-northumberland-photography-workshops",
-      "schemaFileName": "northumberland-photography-workshops-mar-18-21_schema.json",
+      "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
+      "pathKey": "/photo-workshops-uk/batsford-arboretum-photography-workshops",
+      "schemaFileName": "batsford-arboretum-autumn-photography-workshops-23-31-oct_schema.json",
+      "faqFileName": "batsford-arboretum-autumn-photography-workshops-23-31-oct_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
+      "pathKey": "/photography-services-near-me/monthly-pick-n-mix-subscription",
+      "schemaFileName": "monthly-pick-n-mix-subscription-interest-free-payment-plan_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
-      "pathKey": "/photo-workshops-uk/dartmoor-photography-landscape-workshop",
-      "schemaFileName": "dartmoor-photography-workshop-landscapes-2nd-4th-apr_schema.json",
+      "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
+      "pathKey": "/photo-workshops-uk/bluebell-woodlands-photography-workshops",
+      "schemaFileName": "bluebell-woodlands-photography-warks-20-apr-30-apr_schema.json",
+      "faqFileName": "bluebell-woodlands-photography-warks-20-apr-30-apr_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+      "pathKey": "/photography-services-near-me/annual-pick-n-mix-subscription",
+      "schemaFileName": "annual-pick-n-mix-subscription-interest-free-payment-plan_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
-      "pathKey": "/photo-workshops-uk/dorset-landscape-photography-workshop",
-      "schemaFileName": "dorset-landscape-photography-workshop-purbeck-25-27-sep_schema.json",
+      "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
+      "pathKey": "/photography-services-near-me/quarterly-pick-n-mix-subscription",
+      "schemaFileName": "quarterly-pick-n-mix-subscription-interest-free-payments_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
-      "pathKey": "/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
-      "schemaFileName": "exmoor-photography-workshop-sat-8-sun-9-may-2027_schema.json",
+      "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+      "pathKey": "/photography-services-near-me/beginners-photography-course",
+      "schemaFileName": "beginners-photography-course-3-weekly-evening-classes_schema.json",
       "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
+      "pathKey": "/photography-services-near-me/intermediates-intentions-photography-project-course",
+      "schemaFileName": "intermediates-intentions-photography-project-course_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
+      "pathKey": "/photo-workshops-uk/landscape-photography-devon-hartland-quay",
+      "schemaFileName": "devon-landscape-photography-workshops-various-dates_schema.json",
+      "faqFileName": "devon-landscape-photography-workshops-various-dates_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
+      "pathKey": "/photo-workshops-uk/photography-workshops-chesterton-windmill",
+      "schemaFileName": "chesterton-windmill-photography-workshops-warwickshire_schema.json",
+      "faqFileName": "chesterton-windmill-photography-workshops-warwickshire_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
+      "pathKey": "/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
+      "schemaFileName": "fairy-glen-and-fairy-falls-long-exposure-photography_schema.json",
+      "faqFileName": "fairy-glen-and-fairy-falls-long-exposure-photography_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
+      "pathKey": "/photo-workshops-uk/photography-workshops-lavender-fields",
+      "schemaFileName": "lavender-field-photography-workshop-glouc-or-warks-july_schema.json",
+      "faqFileName": "lavender-field-photography-workshop-glouc-or-warks-july_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
+      "pathKey": "/photo-workshops-uk/poppy-fields-photography-workshops",
+      "schemaFileName": "poppy-fields-photography-workshops-worcestershire_schema.json",
+      "faqFileName": "poppy-fields-photography-workshops-worcestershire_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham",
+      "pathKey": "/photo-workshops-uk/long-exposure-photography-workshops-burnham",
+      "schemaFileName": "burnham-on-sea-long-exposure-photography-workshop-8-may_schema.json",
+      "faqFileName": "burnham-on-sea-long-exposure-photography-workshop-8-may_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
+      "pathKey": "/photo-workshops-uk/lake-district-photography-workshop",
+      "schemaFileName": "lake-district-photography-workshops-jan-mar-sep-nov_schema.json",
+      "faqFileName": "lake-district-photography-workshops-jan-mar-sep-nov_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
@@ -87,16 +129,10 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
-      "pathKey": "/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
-      "schemaFileName": "fireworks-photography-workshop-long-exposure-kenilworth_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes",
-      "pathKey": "/photography-services-near-me/four-private-photography-classes",
-      "schemaFileName": "4-x-2hr-private-photography-classes-face-to-face-coventry_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
+      "pathKey": "/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
+      "schemaFileName": "peak-district-photography-workshops-may-oct-and-nov_schema.json",
+      "faqFileName": "peak-district-photography-workshops-may-oct-and-nov_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
@@ -105,130 +141,148 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
-      "pathKey": "/photo-workshops-uk/garden-photography-workshop",
-      "schemaFileName": "the-art-of-garden-photography-coventry-may-and-july_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
-      "pathKey": "/photography-services-near-me/intermediates-intentions-photography-project-course",
-      "schemaFileName": "intermediates-intentions-photography-project-course_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
-      "pathKey": "/photo-workshops-uk/ireland-photography-workshops-dingle",
-      "schemaFileName": "kerry-southern-ireland-photography-workshop-mar-2026_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
-      "pathKey": "/photo-workshops-uk/lake-district-photography-workshop",
-      "schemaFileName": "lake-district-photography-workshops-jan-mar-sep-nov_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
-      "pathKey": "/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
-      "schemaFileName": "peak-district-photography-workshops-may-oct-and-nov_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay",
-      "pathKey": "/photo-workshops-uk/landscape-photography-devon-hartland-quay",
-      "schemaFileName": "devon-landscape-photography-workshops-various-dates_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
-      "pathKey": "/photo-workshops-uk/landscape-photography-snowdonia-workshops",
-      "schemaFileName": "snowdonia-landscape-photography-sat-26-sun-27-sep-2026_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
-      "pathKey": "/photo-workshops-uk/landscape-photography-wales-photo-workshop",
-      "schemaFileName": "gower-landscape-photography-wales-28-may-30-may-2027_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
-      "pathKey": "/photo-workshops-uk/landscape-photography-workshop-norfolk",
-      "schemaFileName": "norfolk-landscape-photography-workshop-coastal-20-22-nov_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/coastal-northumberland-photography-workshops",
+      "pathKey": "/photo-workshops-uk/coastal-northumberland-photography-workshops",
+      "schemaFileName": "northumberland-photography-workshops-mar-18-21_schema.json",
+      "faqFileName": "northumberland-photography-workshops-mar-18-21_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
       "pathKey": "/photo-workshops-uk/landscape-photography-workshops-anglesey",
       "schemaFileName": "anglesey-landscape-photography-workshop-may-2027_schema.json",
-      "faqFileName": ""
+      "faqFileName": "anglesey-landscape-photography-workshop-may-2027_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-nant-mill",
       "pathKey": "/photo-workshops-uk/landscape-photography-workshops-nant-mill",
       "schemaFileName": "nant-mill-woodlands-and-waterfalls-photo-workshop-7-jun_schema.json",
+      "faqFileName": "nant-mill-woodlands-and-waterfalls-photo-workshop-7-jun_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/ireland-photography-workshops-dingle",
+      "pathKey": "/photo-workshops-uk/ireland-photography-workshops-dingle",
+      "schemaFileName": "kerry-southern-ireland-photography-workshop-mar-2026_schema.json",
+      "faqFileName": "kerry-southern-ireland-photography-workshop-mar-2026_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
+      "pathKey": "/photo-workshops-uk/landscape-photography-workshop-norfolk",
+      "schemaFileName": "norfolk-landscape-photography-workshop-coastal-20-22-nov_schema.json",
+      "faqFileName": "norfolk-landscape-photography-workshop-coastal-20-22-nov_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+      "pathKey": "/photography-services-near-me/beginners-portrait-photography-course",
+      "schemaFileName": "beginners-portrait-photography-course-coventry-11-oct-25_schema.json",
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-      "pathKey": "/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-      "schemaFileName": "lightroom-courses-for-beginners-photo-editing-coventry_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops",
+      "pathKey": "/photo-workshops-uk/suffolk-landscape-photography-workshops",
+      "schemaFileName": "suffolk-landscape-photography-workshops-5th-7th-feb_schema.json",
+      "faqFileName": "suffolk-landscape-photography-workshops-5th-7th-feb_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
+      "pathKey": "/photo-workshops-uk/abstract-and-macro-photography-workshops",
+      "schemaFileName": "macro-photography-workshops-warwickshire-various_schema.json",
+      "faqFileName": "macro-photography-workshops-warwickshire-various_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
+      "pathKey": "/photo-workshops-uk/north-yorkshire-landscape-photography",
+      "schemaFileName": "north-yorkshire-landscape-photography-workshop-jun-2027_schema.json",
+      "faqFileName": "north-yorkshire-landscape-photography-workshop-jun-2027_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/christmas-photography-workshops",
+      "pathKey": "/photo-workshops-uk/christmas-photography-workshops",
+      "schemaFileName": "christmas-photography-seasonal-workshops-warwickshire-uk_schema.json",
+      "faqFileName": "christmas-photography-seasonal-workshops-warwickshire-uk_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
+      "pathKey": "/photo-workshops-uk/yorkshire-dales-photography-workshops",
+      "schemaFileName": "yorkshire-dales-landscape-photography-workshop-16-18-apr_schema.json",
+      "faqFileName": "yorkshire-dales-landscape-photography-workshop-16-18-apr_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
+      "pathKey": "/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
+      "schemaFileName": "wales-photography-workshop-lake-vyrnwy-10-11-oct_schema.json",
+      "faqFileName": "wales-photography-workshop-lake-vyrnwy-10-11-oct_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
+      "pathKey": "/photo-workshops-uk/dorset-landscape-photography-workshop",
+      "schemaFileName": "dorset-landscape-photography-workshop-purbeck-9-apr_schema.json",
+      "faqFileName": "dorset-landscape-photography-workshop-purbeck-9-apr_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
+      "pathKey": "/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
+      "schemaFileName": "urban-architecture-photography-workshops-coventry-9-sep_schema.json",
+      "faqFileName": "urban-architecture-photography-workshops-coventry-9-sep_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
       "pathKey": "/photo-workshops-uk/long-exposure-photography-kenilworth",
       "schemaFileName": "kenilworth-sunset-long-exposure-photography-workshop_schema.json",
-      "faqFileName": ""
+      "faqFileName": "kenilworth-sunset-long-exposure-photography-workshop_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
-      "pathKey": "/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen",
-      "schemaFileName": "fairy-glen-and-fairy-falls-long-exposure-photography_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-snowdonia-workshops",
+      "pathKey": "/photo-workshops-uk/landscape-photography-snowdonia-workshops",
+      "schemaFileName": "snowdonia-landscape-photography-sat-6-sun-7-mar-2027_schema.json",
+      "faqFileName": "snowdonia-landscape-photography-sat-6-sun-7-mar-2027_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham",
-      "pathKey": "/photo-workshops-uk/long-exposure-photography-workshops-burnham",
-      "schemaFileName": "burnham-on-sea-long-exposure-photography-workshop-1-aug_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
+      "pathKey": "/photo-workshops-uk/garden-photography-workshop",
+      "schemaFileName": "the-art-of-garden-photography-coventry-may-and-july_schema.json",
+      "faqFileName": "the-art-of-garden-photography-coventry-may-and-july_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
-      "pathKey": "/photography-services-near-me/monthly-pick-n-mix-subscription",
-      "schemaFileName": "monthly-pick-n-mix-subscription-interest-free-payment-plan_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-wales-photo-workshop",
+      "pathKey": "/photo-workshops-uk/landscape-photography-wales-photo-workshop",
+      "schemaFileName": "gower-landscape-photography-wales-28-may-30-may-2027_schema.json",
+      "faqFileName": "gower-landscape-photography-wales-28-may-30-may-2027_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
-      "pathKey": "/photo-workshops-uk/north-yorkshire-landscape-photography",
-      "schemaFileName": "north-yorkshire-landscape-photography-workshop-sep-2026_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
+      "pathKey": "/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
+      "schemaFileName": "fireworks-photography-workshop-long-exposure-kenilworth_schema.json",
+      "faqFileName": "fireworks-photography-workshop-long-exposure-kenilworth_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
+      "pathKey": "/photo-workshops-uk/exmoor-photography-workshops-lynmouth",
+      "schemaFileName": "exmoor-photography-workshop-sat-12-sun-13-jun-2027_schema.json",
+      "faqFileName": "exmoor-photography-workshop-sat-12-sun-13-jun-2027_faq.json"
+    },
+    {
+      "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
+      "pathKey": "/photo-workshops-uk/sezincote-garden-photography-workshop",
+      "schemaFileName": "sezincote-garden-photography-workshop-gloucs-29-may_schema.json",
+      "faqFileName": "sezincote-garden-photography-workshop-gloucs-29-may_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop",
       "pathKey": "/photo-workshops-uk/peak-district-heather-photography-workshop",
       "schemaFileName": "peak-district-heather-photography-workshops-14-15-aug_schema.json",
-      "faqFileName": ""
+      "faqFileName": "peak-district-heather-photography-workshops-14-15-aug_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
-      "pathKey": "/photo-workshops-uk/photography-workshops-chesterton-windmill",
-      "schemaFileName": "chesterton-windmill-photography-workshops-warwickshire_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/secrets-of-woodland-photography-workshop",
+      "pathKey": "/photo-workshops-uk/secrets-of-woodland-photography-workshop",
+      "schemaFileName": "the-secret-of-woodland-photography-1-day-jan-apr-aug-oct_schema.json",
+      "faqFileName": "the-secret-of-woodland-photography-1-day-jan-apr-aug-oct_faq.json"
     },
     {
-      "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields",
-      "pathKey": "/photo-workshops-uk/photography-workshops-lavender-fields",
-      "schemaFileName": "lavender-field-photography-workshop-glouc-or-warks-july_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/poppy-fields-photography-workshops",
-      "pathKey": "/photo-workshops-uk/poppy-fields-photography-workshops",
-      "schemaFileName": "poppy-fields-photography-workshops-worcestershire_schema.json",
-      "faqFileName": ""
+      "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop",
+      "pathKey": "/photo-workshops-uk/dartmoor-photography-landscape-workshop",
+      "schemaFileName": "dartmoor-photography-workshop-landscapes-2nd-4th-apr_schema.json",
+      "faqFileName": "dartmoor-photography-workshop-landscapes-2nd-4th-apr_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
@@ -237,57 +291,9 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-      "pathKey": "/photography-services-near-me/quarterly-pick-n-mix-subscription",
-      "schemaFileName": "quarterly-pick-n-mix-subscription-interest-free-payments_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
-      "pathKey": "/photography-services-near-me/rps-mentoring-photography-course",
-      "schemaFileName": "rps-courses-independent-rps-mentoring-for-rps-distinctions_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/secrets-of-woodland-photography-workshop",
-      "pathKey": "/photo-workshops-uk/secrets-of-woodland-photography-workshop",
-      "schemaFileName": "the-secret-of-woodland-photography-1-day-jan-apr-aug-oct_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop",
-      "pathKey": "/photo-workshops-uk/sezincote-garden-photography-workshop",
-      "schemaFileName": "sezincote-garden-photography-workshop-gloucs-29-may_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops",
-      "pathKey": "/photo-workshops-uk/suffolk-landscape-photography-workshops",
-      "schemaFileName": "suffolk-landscape-photography-workshops-5th-7th-feb_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
-      "pathKey": "/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
-      "schemaFileName": "urban-architecture-photography-workshops-coventry-9-sep_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
-      "pathKey": "/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
-      "schemaFileName": "wales-photography-workshop-lake-vyrnwy-10-11-oct_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
-      "pathKey": "/photo-workshops-uk/woodland-photography-walk-warwickshire",
-      "schemaFileName": "warwickshire-woodland-photography-walks-monthly-2hrs_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
-      "pathKey": "/photo-workshops-uk/yorkshire-dales-photography-workshops",
-      "schemaFileName": "yorkshire-dales-landscape-photography-workshop-16-18-apr_schema.json",
+      "url": "https://www.alanranger.com/photography-services-near-me/2hr-private-photography-classes-2hr",
+      "pathKey": "/photography-services-near-me/2hr-private-photography-classes-2hr",
+      "schemaFileName": "1-x-2hr-private-photography-classes-face-to-face-coventry_schema.json",
       "faqFileName": ""
     },
     {

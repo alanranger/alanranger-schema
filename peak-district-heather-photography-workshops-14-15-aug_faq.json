@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 17 Oct 2026, 1 Nov 2026, 7 Nov 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 18:15 to 21:15."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £125.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug is listed with prices from £125.00, a 4 hr format, an in-person delivery format."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop#faq"
+}

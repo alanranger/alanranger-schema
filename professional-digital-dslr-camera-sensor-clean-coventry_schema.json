@@ -79,8 +79,8 @@
         "price": "30.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-08-12",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29",
+        "priceValidUntil": "2027-09-29",
         "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
         "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#offer",
         "seller": {
@@ -116,6 +116,82 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Simon Chatterley"
+          },
+          "reviewBody": "Had a great evening with Alan at kennelworth castle long exposure workshop. It gave me a new insight to my photography and helped me unlock settings and gave me help with composition of shots. Would highly recommend",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam Franklin"
+          },
+          "reviewBody": "Had a fantastic experience during the photography workshop at Kenilworth Castle.  Alan is very knowledgeable and easy to talk to!  Will be looking to book another session in the future.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Simona Abaidoo"
+          },
+          "reviewBody": "Amazing service! My camera sensor was perfectly cleaned.  Highly recommend!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bonny John"
+          },
+          "reviewBody": "Great sensor clean service.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Szymon Dereg"
           },
           "reviewBody": "Great camera sensor clean service. Will be back!",
@@ -135,9 +211,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kate Clay"
+            "name": "Harmit Kuner"
           },
-          "reviewBody": "I attended the intro 3 week course and it was excellent. I have for a long time wanted to 'get off auto' and Alan made that possible and enjoyable. I have loved practising at during the week and have already booked back to come onto another course. Thank you 🙏",
+          "reviewBody": "Good, friendly tuition. Highly recommended.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -154,9 +230,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Harmit Kuner"
+            "name": "Kate Clay"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
+          "reviewBody": "I attended the intro 3 week course and it was excellent. I have for a long time wanted to 'get off auto' and Alan made that possible and enjoyable. I have loved practising at during the week and have already booked back to come onto another course. Thank you 🙏",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -284,7 +360,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 9
+        "reviewCount": 13
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#product"
     }

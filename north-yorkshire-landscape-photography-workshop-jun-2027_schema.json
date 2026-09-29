@@ -56,33 +56,37 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Dorset Landscape Photography Workshop Purbeck 25 – 27 Sep",
-          "item": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop"
+          "name": "North Yorkshire Landscape Photography Workshop - Jun 2027",
+          "item": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography"
         }
       ],
-      "@id": "https://www.alanranger.com/dorset-landscape-photography-workshop#breadcrumbs"
+      "@id": "https://www.alanranger.com/north-yorkshire-landscape-photography#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "DORSET Landscape Photography Workshop Purbeck 25 - 27 Sep",
-      "sku": "SQ2754105",
+      "name": "NORTH YORKSHIRE Landscape Photography Workshop - Jun 2027",
+      "sku": "SQ9283225",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me on this 3-day/2-night fantastic Dorset Photography workshop along the Jurassic coastline of Dorset - Purbeck Summary - Dorset Landscape Photography Location: Dorset Dates: Fri 2 nd - Sun 4 th Oct 2026 3 Days/2 Nights(Price includes B&B and evening meal - Half Board)Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Dorset Description: This is a 3-day, 2-night residential landscape photography workshop along the Jurassic Coast of Dorset, open to all levels from...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714681245814-0QW8DK4XQ18FM0JLBXYN/Harry+Rocks+%2301+-+Mar+2024.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
+      "description": "An exciting 4-day residential Yorkshire Landscape Photography Workshop - visiting some of the iconic spots around the North Yorkshire Coast and Moors Summary - Photography Workshops Yorkshire Location: North Yorkshire Dates:Thu 3 Jun - Sun 6 Jun 2027 - 4 Days/3 Nights Participants: Max 3 Fitness: 2. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details North Yorkshire Description: This is a 4-day, 3-night residential landscape photography workshop on the dramatic northeast coast of England, exploring the...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714649253879-9IH9C2DQR5W69WW1JK5P/Saltwick+Bay.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ2754105",
-        "price": "925.00",
+        "sku": "SQ9283225",
+        "price": "1450.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-08-12",
-        "priceValidUntil": "2027-08-12",
-        "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop#offer",
+        "validFrom": "2026-09-29",
+        "priceValidUntil": "2027-09-29",
+        "priceSpecification": {
+          "price": "1450.00",
+          "priceCurrency": "GBP"
+        },
+        "url": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,16 +120,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "john plevin"
+            "name": "James Cameron"
           },
-          "reviewBody": "Very helpful.",
+          "reviewBody": "Alan is relatively not that well known and it is only time until he is. My advice to everyone reading this, is to book a session and approach it with an open mind and you will get tonnes of value from the time spent with him.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-03",
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -135,16 +139,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Gill Cartwright"
+            "name": "Danielle Daley"
           },
-          "reviewBody": "Expert individual attention focusing on composition of the photograph and best use of equipment.",
+          "reviewBody": "The content of the course was excellent and has definitely inspired me to think more about the photos I'm taking and how to get the result I want.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-03",
+          "datePublished": "2016-04-10",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -154,16 +158,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jennifer"
+            "name": "Pom"
           },
-          "reviewBody": "To me Alan has always been so helpful, as a learner it’s his belief that you can achieve so much more than you think.  Alan will always help, guide, encourage you.  My go to guy.",
+          "reviewBody": "Covers the basics of both technical and composition - ideal for beginner with just a bit of knowledge. Recommended.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-03",
+          "datePublished": "2016-04-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,16 +177,34 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Derek Robbins"
+            "name": "Christopher Walton"
           },
-          "reviewBody": "Would not hesitate to recommend Alan. I have used his services several times and have been more than satisfied.",
+          "reviewBody": "Really good course for introducing basic photography techniques that really makes you think about the process behind taking a photo. Would reccomend it for those just getting into photography or those thinking of getting into it.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-03",
+          "datePublished": "2016-02-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise Campbell"
+          },
+          "reviewBody": "Excellent content delivered within a 3hour slot which flew by. Alan was both engaging and inspirational and definitely motivated me to go and experiment and improve my photography skills. Thank you!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -192,9 +214,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 4
+        "reviewCount": 5
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/north-yorkshire-landscape-photography#product"
     }
   ]
 }

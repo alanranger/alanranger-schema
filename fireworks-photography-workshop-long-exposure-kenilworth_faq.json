@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for Fireworks Photography Workshop | Long Exposure | Kenilworth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 5 Oct 2026, 6 Nov 2026, 5 Feb 2027, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does Fireworks Photography Workshop | Long Exposure | Kenilworth run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 17:30 to 19:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of Fireworks Photography Workshop | Long Exposure | Kenilworth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 4 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is Fireworks Photography Workshop | Long Exposure | Kenilworth aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Fireworks Photography Workshop | Long Exposure | Kenilworth online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fireworks Photography Workshop | Long Exposure | Kenilworth is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Fireworks Photography Workshop | Long Exposure | Kenilworth suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open to all levels and any camera, it's built around the Round Table's spectacular annual display, and the magical, fleeting moment when long exposure turns streaking light and exploding colour into a single dramatic image with the castle as its..."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for Fireworks Photography Workshop | Long Exposure | Kenilworth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £75.00, with options visible at checkout."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#faq"
+}
