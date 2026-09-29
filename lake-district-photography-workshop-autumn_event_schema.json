@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn",
         "validFrom": "2025-11-04 18:08:18",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,7 +96,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ9100538",
+        "sku": "SQ5158309",
         "availabilityStarts": "2026-11-13T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ9100538",
+      "sku": "SQ5158309",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

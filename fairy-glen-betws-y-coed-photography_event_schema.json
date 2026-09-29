@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography",
         "validFrom": "2026-05-17 14:22:01",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,7 +96,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ8778402",
+        "sku": "SQ9080164",
         "availabilityStarts": "2027-03-06T10:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ8778402",
+      "sku": "SQ9080164",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

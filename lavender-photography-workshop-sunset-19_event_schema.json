@@ -79,10 +79,10 @@
         "@type": "Offer",
         "price": "150.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/OutOfStock",
+        "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
         "validFrom": "2026-07-13 14:42:00",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",

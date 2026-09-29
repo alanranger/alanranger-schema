@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring#event",
+      "identifier": "abstract-and-macro-photography-workshop-spring",
+      "name": "Abstract and Macro Photography Workshop - Warwickshire May",
+      "description": "01/05/2027 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734085795822-KGL13H1JB15QFAVBP4IU/Abstract+and+Macro+Photography+Workshops.jpg",
+      "startDate": "2027-05-01T11:00:00",
+      "endDate": "2027-05-01T13:00:00",
+      "duration": "PT120M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Alan Ranger Photography",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.2819,
+          "longitude": -1.5845
+        }
+      },
+      "about": "Macro and close-up photography",
+      "keywords": "photography course, photography workshop, macro photography, 2.5hrs-4hrs, Alan Ranger Photography",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring",
+        "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "65.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring",
+        "validFrom": "2026-09-29 18:29:58",
+        "priceValidUntil": "2027-09-29",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": true,
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ9970442",
+        "availabilityStarts": "2027-05-01T10:00:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ9970442",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "18",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john lewis"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan has over 20 years experience as a professional photographer and is an excellent and patient tutor. I have learnt a great deal about Macro photography and the importance of depth of field. I strongly recommend him to improve your photography at any level John Lewis",
+          "datePublished": "2026-09-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Franklin"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent macro course, helped refresh my knowledge of stacking.",
+          "datePublished": "2025-10-26 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Manning"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
+          "datePublished": "2024-06-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pyers tucker"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quic...",
+          "datePublished": "2024-06-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hardeep Nagra"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan undertook some house shoots for me. He was excellent in his communication before, during and after the shoot. End product was as described. Would love to use again",
+          "datePublished": "2023-02-24 00:00:00"
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Abstract and Macro Photography Workshop - Warwickshire May",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-spring"
+        }
+      ]
+    }
+  ]
+}

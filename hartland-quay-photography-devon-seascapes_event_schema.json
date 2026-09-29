@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes#event",
       "identifier": "hartland-quay-photography-devon-seascapes",
       "name": "Hartland Quay, Devon Seascape Photography Workshops",
-      "description": "04/09/2026 Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
+      "description": "03/09/2027 Devon, Hartland Quay - Photography Workshop. Learn how to photograph seascapes, long-exposure &amp; classic views at this dramatic coastline location",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1674565120064-MZONL9LFH2Z0RH81Z9CT/Atlantic+Force.jpg",
-      "startDate": "2026-09-04T12:30:00",
-      "endDate": "2026-09-06T12:30:00",
+      "startDate": "2027-09-03T12:30:00",
+      "endDate": "2027-09-05T12:30:00",
       "duration": "PT2880M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-photography-devon-seascapes",
-        "validFrom": "2025-12-12 16:46:07",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29 18:42:43",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,8 +96,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ2516659",
-        "availabilityStarts": "2026-09-04T11:30:00.000Z",
+        "sku": "SQ3856406",
+        "availabilityStarts": "2027-09-03T11:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ2516659",
+      "sku": "SQ3856406",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -122,11 +122,26 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "7",
+        "reviewCount": "8",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Cross"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently attended Alan's \"Hartland Quay - Devon Seascapes\" workshop. I am a relative novice where photography is concerned but never felt out of place. Alan provides help with clear explanation and with honest feedback and guidance on how things can be improved. The workshop was a small group a...",
+          "datePublished": "2026-09-11 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -186,21 +201,6 @@
           },
           "reviewBody": "Despite absolutely appalling weather, I had an amazing weekend at Hartland Quay and its environs with Alan. His enthusiasm to capture images and learn photography in the most challenging conditions was infectious.   If we were unable to venture outside, we spent our time learning some extremely u...",
           "datePublished": "2020-07-03 11:59:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "KP"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Really enjoyable workshop in Devon despite the very challenging weather. Alan was able to adapt to the conditions that we were faced with to ensure that it was still a great experience.",
-          "datePublished": "2020-05-03 17:40:00"
         }
       ],
       "potentialAction": {

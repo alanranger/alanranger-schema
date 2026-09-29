@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
         "validFrom": "2025-10-31 15:09:46",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,7 +96,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ3572999",
+        "sku": "SQ0796814",
         "availabilityStarts": "2026-10-05T16:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ3572999",
+      "sku": "SQ0796814",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

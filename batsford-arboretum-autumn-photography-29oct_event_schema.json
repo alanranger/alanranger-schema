@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-29oct",
         "validFrom": "2025-10-31 13:35:51",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,7 +122,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "93",
+        "reviewCount": "92",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -146,7 +146,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Chris Franklin"
+            "name": "James Collins"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -154,7 +154,22 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Excellent day, really enjoyed the support and input for Alan. Helped to blow off the dust",
+          "reviewBody": "Learned a lot",
+          "datePublished": "2025-10-26 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "supriya s m"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "datePublished": "2025-10-26 00:00:00"
         },
         {
@@ -170,21 +185,6 @@
             "worstRating": "1"
           },
           "reviewBody": "Great guidance and expertise - highly recommended",
-          "datePublished": "2025-10-26 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Learned a lot",
           "datePublished": "2025-10-26 00:00:00"
         }
       ],

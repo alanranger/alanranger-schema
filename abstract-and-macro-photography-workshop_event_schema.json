@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop#event",
       "identifier": "abstract-and-macro-photography-workshop",
       "name": "Abstract and Macro Photography Workshop - Warwickshire",
-      "description": "08/09/2026 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
+      "description": "29/08/2027 Warwickshire - Abstract and Macro Photography Workshops. Learn how to photograph macro images with an award-winning professional photographer.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734085795822-KGL13H1JB15QFAVBP4IU/Abstract+and+Macro+Photography+Workshops.jpg",
-      "startDate": "2026-09-08T18:00:00",
-      "endDate": "2026-09-08T20:00:00",
+      "startDate": "2027-08-29T16:00:00",
+      "endDate": "2027-08-29T18:00:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -80,8 +80,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
-        "validFrom": "2026-05-17 13:13:37",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29 18:26:55",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,8 +95,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ8482281",
-        "availabilityStarts": "2026-09-08T17:00:00.000Z",
+        "sku": "SQ9970442",
+        "availabilityStarts": "2027-08-29T15:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -113,7 +113,7 @@
           }
         }
       },
-      "sku": "SQ8482281",
+      "sku": "SQ9970442",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -121,7 +121,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "16",
+        "reviewCount": "18",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -130,7 +130,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "pyers tucker"
+            "name": "john lewis"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -138,8 +138,23 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quic...",
-          "datePublished": "2024-06-11 00:00:00"
+          "reviewBody": "Alan has over 20 years experience as a professional photographer and is an excellent and patient tutor. I have learnt a great deal about Macro photography and the importance of depth of field. I strongly recommend him to improve your photography at any level John Lewis",
+          "datePublished": "2026-09-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Franklin"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent macro course, helped refresh my knowledge of stacking.",
+          "datePublished": "2025-10-26 00:00:00"
         },
         {
           "@type": "Review",
@@ -160,6 +175,21 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "pyers tucker"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quic...",
+          "datePublished": "2024-06-11 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Hardeep Nagra"
           },
           "reviewRating": {
@@ -170,36 +200,6 @@
           },
           "reviewBody": "Alan undertook some house shoots for me. He was excellent in his communication before, during and after the shoot. End product was as described. Would love to use again",
           "datePublished": "2023-02-24 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paula Greenlees"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I learnt so much from the 'Get Off Auto' course. The sessions were well explained with visual examples, along with a printed guide to everything that was covered. Each week's homework challenged my skills and I will use these to continue to improve my photography. I think I am now looking at comp...",
-          "datePublished": "2023-02-21 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "David Pitt"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great session on macro photography. Alan was very helpful in his explanations and advice. To be recommended.",
-          "datePublished": "2023-02-21 00:00:00"
         }
       ],
       "potentialAction": {

@@ -13,8 +13,8 @@
       "description": "02/10/2026 Dorset Photography Workshop - Learn how to photograph the coastline with award-winning, professional photographer Alan Ranger on this Jurassic Coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546347241014-RTAHXH3JAKUBFBF94325/durdle+door-Photography-Workshops.jpg",
-      "startDate": "2026-10-02T14:00:00",
-      "endDate": "2026-10-04T14:00:00",
+      "startDate": "2027-04-09T14:00:00",
+      "endDate": "2027-04-11T14:00:00",
       "duration": "PT2880M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
-        "validFrom": "2026-01-13 07:45:33",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-22 12:27:32",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -97,7 +97,7 @@
           }
         },
         "sku": "SQ2754105",
-        "availabilityStarts": "2026-10-02T13:00:00.000Z",
+        "availabilityStarts": "2027-04-09T13:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",

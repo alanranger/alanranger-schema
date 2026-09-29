@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales#event",
       "identifier": "fairy-glen-photography-wales",
       "name": "Fairy Glen Betws-y-Coed Photography Workshop - Wales Autumn",
-      "description": "26/09/2026 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
+      "description": "09/10/2027 Fairy Glen Betws-y-Coed Photography Workshop - A magical serene gorge through the river Conwy provides a great opportunity to practise long exposure",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1740502341422-AGUUE085W47A3L7137NG/Fairy+Glen+4.jpg",
-      "startDate": "2026-09-26T10:00:00",
-      "endDate": "2026-09-26T13:30:00",
+      "startDate": "2027-10-09T10:00:00",
+      "endDate": "2027-10-09T13:30:00",
       "duration": "PT210M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales",
-        "validFrom": "2026-01-17 16:13:10",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29 17:58:15",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,8 +96,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ8778402",
-        "availabilityStarts": "2026-09-26T09:00:00.000Z",
+        "sku": "SQ9080164",
+        "availabilityStarts": "2027-10-09T09:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ8778402",
+      "sku": "SQ9080164",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

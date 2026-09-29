@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer#event",
       "identifier": "lake-district-photography-workshop-late-summer",
       "name": "Lake District Photography Workshop Late Summer in Cumbria",
-      "description": "18/09/2026 Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
+      "description": "24/09/2027 Lake District Photography Workshops - Enjoy the iconic scenes in late summer with misty mornings, atmospheric light, and conditions - Join Now",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538928327366-YR9B778G2HGSWZ6N3B21/morning+calm-Photography-Workshops.jpg",
-      "startDate": "2026-09-18T09:30:00",
-      "endDate": "2026-09-20T13:30:00",
+      "startDate": "2027-09-24T09:30:00",
+      "endDate": "2027-09-26T13:30:00",
       "duration": "PT3120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
-        "validFrom": "2025-09-22 12:45:15",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-08 09:01:40",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,8 +96,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ9100538",
-        "availabilityStarts": "2026-09-18T08:30:00.000Z",
+        "sku": "SQ5158309",
+        "availabilityStarts": "2027-09-24T08:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ9100538",
+      "sku": "SQ5158309",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"

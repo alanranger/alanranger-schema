@@ -10,11 +10,11 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry#event",
       "identifier": "urban-architecture-photography-workshop-coventry",
       "name": "Coventry Evening Urban Architecture Photography Workshop ",
-      "description": "09/09/2026 Coventry - Once City of Culture - Explore the new and old surrounding area to create Urban Architecture Photography with Alan on this night shoot.",
+      "description": "13/09/2027 Coventry - Once City of Culture - Explore the new and old surrounding area to create Urban Architecture Photography with Alan on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546344708108-3P21C5HFHMEO7XP2F2LT/ST+MICHAEL+SUBDUING+THE+DEVIL+-Photography-Workshops.jpg",
-      "startDate": "2026-09-09T18:15:00",
-      "endDate": "2026-09-09T20:15:00",
+      "startDate": "2027-09-13T18:15:00",
+      "endDate": "2027-09-13T20:15:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
-        "validFrom": "2026-04-22 14:08:42",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29 18:20:55",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -97,7 +97,7 @@
           }
         },
         "sku": "SQ4066377",
-        "availabilityStarts": "2026-09-09T17:15:00.000Z",
+        "availabilityStarts": "2027-09-13T17:15:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -122,11 +122,71 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "7",
+        "reviewCount": "11",
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Penelope Ulander"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their...",
+          "datePublished": "2026-09-15 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo G"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Urban photography - a great opportunity to learn some tricks and trips",
+          "datePublished": "2026-09-13 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt G"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
+          "datePublished": "2026-09-09 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, p...",
+          "datePublished": "2026-09-09 00:00:00"
+        },
         {
           "@type": "Review",
           "author": {
@@ -141,66 +201,6 @@
           },
           "reviewBody": "Just the right level of helpful and practical advice, a very enjoyable evening shoot.",
           "datePublished": "2020-04-02 22:24:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I learned a lot about low light exposure and bracketing.  Well worth the trip.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "MartinS"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Excellent guided night shoot in Coventry",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Scott Bremner"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A good evening around Coventry. Alan was open to questions, advice, guidance and so on which made it easy to learn. Definitely recommend.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ester  Riodran"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "This is only the third time of meeting and spending time with Alan but so far so good.  He has helped me with Lightroom and with landscape photography which has improved my skills and knowledge considerably and my photos.  I like his honest no nonsense approach - some who are sensitive may find t...",
-          "datePublished": ""
         }
       ],
       "potentialAction": {

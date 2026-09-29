@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-xx94r",
         "validFrom": "2026-06-29 12:06:43",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -122,7 +122,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.8",
-        "reviewCount": "33",
+        "reviewCount": "44",
         "bestRating": "5",
         "worstRating": "1"
       },

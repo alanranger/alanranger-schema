@@ -9,12 +9,12 @@
       ],
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5#event",
       "identifier": "sunset-chesterton-windmill-spring-7gw7j-9akd5",
-      "name": "Sunset Photographic Workshop - Chesterton Windmill 16-09",
-      "description": "16/09/2026 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
+      "name": "Sunset Photographic Workshop - Chesterton Windmill 06-09",
+      "description": "06/09/2027 Warwickshire - Chesterton Windmill - Practise and learn long exposures and composition at this famous Midlands landmark windmill on this night shoot.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
-      "startDate": "2026-09-16T18:00:00",
-      "endDate": "2026-09-16T20:00:00",
+      "startDate": "2027-09-06T18:00:00",
+      "endDate": "2027-09-06T20:00:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
-        "validFrom": "2025-11-04 18:22:32",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-09-29 18:18:39",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -96,8 +96,8 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ3572999",
-        "availabilityStarts": "2026-09-16T17:00:00.000Z",
+        "sku": "SQ0796814",
+        "availabilityStarts": "2027-09-06T17:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
@@ -114,7 +114,7 @@
           }
         }
       },
-      "sku": "SQ3572999",
+      "sku": "SQ0796814",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -231,7 +231,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Sunset Photographic Workshop - Chesterton Windmill 16-09",
+          "name": "Sunset Photographic Workshop - Chesterton Windmill 06-09",
           "item": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5"
         }
       ]

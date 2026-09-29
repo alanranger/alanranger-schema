@@ -82,7 +82,7 @@
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
         "validFrom": "2026-08-01 12:21:28",
-        "priceValidUntil": "2027-08-12",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -161,21 +161,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Clarke"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
-          "datePublished": "2026-05-16 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Sharon McDonald"
           },
           "reviewRating": {
@@ -200,6 +185,21 @@
             "worstRating": "1"
           },
           "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "datePublished": "2026-05-16 00:00:00"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Clarke"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
           "datePublished": "2026-05-16 00:00:00"
         }
       ],

@@ -13,8 +13,8 @@
       "description": "10/09/2026 Landscape Photography Workshops Yorkshire - Moors and Coast - A great opportunity from sunrise to sunset to get iconic photos of the Yorkshire coast",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707212564861-65XIJN9NGEKXOO8C2J73/North+Yorkshire+Photography+Workshop.jpg",
-      "startDate": "2026-09-10T14:00:00",
-      "endDate": "2026-09-13T13:00:00",
+      "startDate": "2027-06-03T14:00:00",
+      "endDate": "2027-06-06T13:00:00",
       "duration": "PT4260M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire",
-        "validFrom": "2026-01-12 12:57:18",
-        "priceValidUntil": "2027-08-12",
+        "validFrom": "2026-08-22 10:26:30",
+        "priceValidUntil": "2027-09-29",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -97,7 +97,7 @@
           }
         },
         "sku": "SQ9211910",
-        "availabilityStarts": "2026-09-10T13:00:00.000Z",
+        "availabilityStarts": "2027-06-03T13:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
           "@type": "MerchantReturnPolicy",
