@@ -121,6 +121,120 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Ian McHardy"
+          },
+          "reviewBody": "I spent a very informative and enlightening morning with Alan where he gave me a greater understanding of my Sony Alpha camera . He has challenged me to take my photography away from automatic mode and take it to the next level. Alan’s tuition was clear and well presented. Many thanks Alan .",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew Morris"
+          },
+          "reviewBody": "Would highly recommend if you're thinking about taking up photography as either a hobby or profession.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara Bett"
+          },
+          "reviewBody": "Recently two of us  had a  morning’s practical tuition with Alan at an outside location with the aim of improving our landscape photography. I appreciated that Alan pitched the level exactly as we had requested with challenges to make  the best possible image from the terrain in front of us, and suggestions on how to better our results. He answered our many questions with specific and considered replies.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Grubb"
+          },
+          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Burns"
+          },
+          "reviewBody": "Alan has a passion for photography and his explanation of the subject was easy to follow as a less experienced person. Can't wait for next session with him to take my level of understanding up a level.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-03-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chris brown"
+          },
+          "reviewBody": "Really educational and practical 1-2-1 session with Alan.  Extremely worthwhile.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2022-11-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Matthew Payton"
           },
           "reviewBody": "I've booked a block of 4 two hour 1-1 sessions with Alan in order to gain the knowledge and experience that I need to start my journey into photography. I'm a complete novice at this, but having completed my first session, I already feel comfortable and confident that Alan will guide me through the world of photography.",
@@ -131,6 +245,44 @@
             "worstRating": "1"
           },
           "datePublished": "2022-01-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire Hannis"
+          },
+          "reviewBody": "From the very first session with Alan, my photography skills have improved! The lessons are well thought out with clear tuition and expert instruction; skills are built step by step in terms of both theory and practice; the pace is tailored to my individual need and the level of challenge is designed to inspire. I feel passionately about photography and excited to learn - this is fuelled by Alan’s creative approach coupled with his insightful, professional knowledge. All in all - a brilliant experience and I’m so glad Alan is guiding me on this new adventure! I can definitely recommend it!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-09-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ash Routen"
+          },
+          "reviewBody": "I booked a one-to-one tutorial session with Alan at a local National Trust property. Alan was very personable and explained key concepts in an understandable manner. I took away one good piece of learning related to the technical side, and a number related to composition. Below are some of the pics that came from the session with Alan. I would recommend Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-06-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -324,8 +476,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.91",
-        "reviewCount": 11
+        "ratingValue": "4.95",
+        "reviewCount": 19
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes#product"
     }

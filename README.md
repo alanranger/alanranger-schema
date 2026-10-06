@@ -78,3 +78,7 @@ schema CNAME alanranger.github.io
 
 Wait for DNS propagation (usually 5-30 minutes).
 
+## Manual page schemas (not in products-manifest)
+
+- **Mentoring** (`/photography-mentoring-online-assignments`): reviews are pasted manually into Squarespace page header as a Service+Product `#service` node (Alan decision 2026-10-06). File `photography-mentor-online-monthly-mentoring_schema.json` is kept for generation/reference only — **not** listed in `products-manifest.json`.
+- **1×2hr F2F** (`/photography-services-near-me/2hr-private-photography-classes-2hr`): page currently 404; schema file kept, **excluded from manifest** until the Squarespace product is restored. Reviews live on the four-pack product page.
