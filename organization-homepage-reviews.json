@@ -1,0 +1,144 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Organization",
+    "LocalBusiness",
+    "ProfessionalService"
+  ],
+  "name": "Alan Ranger Photography",
+  "url": "https://www.alanranger.com",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.78,
+    "reviewCount": 9,
+    "bestRating": 5
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "jill harrison"
+      },
+      "datePublished": "2018-10-30",
+      "reviewBody": "Alan is a very good teacher - always available to comment and makes lots of suggestions and recommendations but lets you get on with your own stuff. Highly recommended",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anne Veal"
+      },
+      "datePublished": "2024-11-16",
+      "reviewBody": "I am an absolute beginner and was concerned that I would be overwhelmed. Alan was patient and helped me get to grip with the basics. He shared his knowledge and experience with the group. A thoroughly enjoyable afternoon in the beautiful Peak District.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Slothman118"
+      },
+      "datePublished": "2026-03-07",
+      "reviewBody": "Excellent workshop experience. Learned valuable skills for photography with moving objects and excellent scenery",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Sean"
+      },
+      "datePublished": "2025-09-02",
+      "reviewBody": "Mr Ranger is a wonderful photographer and is not shy to share his vast knowledge of this subject. His articles are easy to read and even easier to follow.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "re wu"
+      },
+      "datePublished": "2023-11-16",
+      "reviewBody": "I have attended a few good workshop with Alan and done some face to face lessons and summarizing, if you are looking for passionate, knowledgeable photographer who will guide you through this sometime complicated but also fascinating world, it is Alan. He is not a photographer but and artist and soulful person, who will inspire you with his stories as a person and teach you a lot with his experience. Workshops gave me very valuable time in beautiful places and interesting people, which worth is ",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Mike"
+      },
+      "datePublished": "2023-11-09",
+      "reviewBody": "Alan's workshop was my first such course and combined a perfect combination of theory and practical guidance on composition and camera use. Regardless of your level of experience, Alan's workshops provide a friendly and constructive environment in which to enhance your skills. I look forward to the next one.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "seun adeusi"
+      },
+      "datePublished": "2021-10-06",
+      "reviewBody": "Great",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 3,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "dp"
+      },
+      "datePublished": "2021-06-17",
+      "reviewBody": "I've only done 1 session but so far so good. The service is very professional and supportive. The feedback on my work was honest and encouraging. I'm looking forward to seeing how working with Alan develops.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "George H"
+      },
+      "datePublished": "2020-05-18",
+      "reviewBody": "Excellent tips and tricks, really enjoyed the session!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    }
+  ]
+}

@@ -81,7 +81,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Mondays - Oct 12 - Oct 26 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer1",
@@ -120,7 +120,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Wednesdays - Oct 14 - Oct 28 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer2",
@@ -159,7 +159,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Mondays - Nov 9 - Nov 23 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer3",
@@ -198,7 +198,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Tuesdays - Dec 1 - Dec 15 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer4",
@@ -237,7 +237,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Wednesdays - Jan 13 - Jan 27 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer5",
@@ -276,7 +276,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Thursdays - Jan 28 - Feb 11 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer6",
@@ -315,7 +315,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Tuesdays - Mar 2 - Mar 16 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer7",
@@ -354,7 +354,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Thursdays  Apr 1 - Apr 15 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer8",
@@ -393,7 +393,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Wednesdays May 12 - May 26 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer9",
@@ -432,7 +432,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-09-29",
+          "priceValidUntil": "2027-10-06",
           "name": "3wks Mondays  - Jun 7  - Jun 21 Coventry",
           "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
           "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course#offer10",
@@ -470,16 +470,35 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Kuner"
+            "name": "Kate Clay"
           },
-          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course modules. I enjoyed the course and have just signed up for the composition session.",
+          "reviewBody": "I attended the intro 3 week course and it was excellent. I have for a long time wanted to 'get off auto' and Alan made that possible and enjoyable. I have loved practising at during the week and have already booked back to come onto another course. Thank you 🙏",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-07-19",
+          "datePublished": "2026-07-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harmit Kuner"
+          },
+          "reviewBody": "Good, friendly tuition. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-16",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -492,25 +511,6 @@
             "name": "Alex Rainer"
           },
           "reviewBody": "Beginners camera course, 3 x 2 hour session over three weeks to master the basics of photography. I was one of 3 participants, nice small group. Alan was very patient, as we all have very different camera to work through setting. Have a much better understanding on my camera and critical setting for getting good images. Would highly recommend the course. HG",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Bailey"
-          },
-          "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -546,16 +546,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Roz"
+            "name": "Paul Bailey"
           },
-          "reviewBody": "I am in New Orleans USA and needed a location shoot in Coventry. I emailed several photographers and Alan was the only one that  promptly replied back and discussed the job with me. He not only worked within my budget but gave me quality deliverables, exactly as I needed. Would definitely work with again!",
+          "reviewBody": "Beginners photography class: I’ve had a DSLR for years and I’ve learnt so much more about it and what it can do in the 3 sessions. Alan knows his stuff!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-03-20",
+          "datePublished": "2026-04-15",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -575,25 +575,6 @@
             "worstRating": "1"
           },
           "datePublished": "2026-03-19",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Francisca Solis Puello"
-          },
-          "reviewBody": "Before the session, Alan made sure to understand how I would be using the photos he was going to take and asked about all my requirements to ensure he could offer exactly what I was looking for.  During the session, he gave me several helpful tips to achieve a good photo for the back cover of my first book. I felt comfortable while Alan was taking the photos.  After the photo session, he listened carefully to my feedback and worked on the adjustments until I was satisfied with the final results.  Thank you, Alan, for your patience and the professionalism you bring to your work.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-03-14",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -660,25 +641,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Joint Rollason"
-          },
-          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-01-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Deb Moffat"
           },
           "reviewBody": "Was a complete beginner and found this very useful to get confidence with my camera. Alan has so much knowledge and expertise to impart. Good atmosphere and some laughs along the way.",
@@ -698,35 +660,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jack"
+            "name": "Joint Rollason"
           },
-          "reviewBody": "We've just finished up a 3 week beginners photography course with Alan and really enjoyed it! Alan was a great teacher and would have a laugh with you but also covered a lot each week.  Alan taught us all of the basics of our camera and gave us a great starting point to go away and practice. Along with the 3 sessions we also get access to an online portal with loads of further lessons and guides so we can keep practicing in our own time.",
+          "reviewBody": "Excellent course to get a grip of the basics. Would highly recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-11-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Graham Rousell"
-          },
-          "reviewBody": "I approached Alan because I was seeing dark spots appearing within my photographs.   It needed a sensor clean and although I could see various kits on-line advertised to do this I was not confident myself.  I'm pleased I did contact him, because for not much more than the cost of a kit I now have a completely clean sensor and no spots.  I cannot recommend his service enough!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-11-20",
+          "datePublished": "2026-01-20",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -755,6 +698,63 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Atmos"
+          },
+          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ergin Taşdelen"
+          },
+          "reviewBody": "Great Photography lessons with Alan! The lessons were inspiring and well-structured. I learned new techniques that made a real difference in my photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Hill"
+          },
+          "reviewBody": "Alan is such a friendly host, full of knowledge and a strong history of photography. His people skills and approach to tutoring is very positive. If you’re looking for a tutor, feedback on your current skills or anything in the photography world, I could not recommend Alan Ranger photography enough! Thank you Alan, see you again soon for a day out!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Joel Wymer"
           },
           "reviewBody": "I joined Alan for his Beginners Course. I’ve done similar courses before but a mix of Alan’s down-to-earth, simplified and easy to follow delivery meant I learnt more about the capabilities of my camera than at any previous courses.  I highly recommend Alan for his camera courses.",
@@ -774,9 +774,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Britt van zeeland"
+            "name": "Clifford Katsande"
           },
-          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
+          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -793,9 +793,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clifford Katsande"
+            "name": "Britt van zeeland"
           },
-          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
+          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -888,35 +888,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Michael Auinger"
+            "name": "Karen & Dave"
           },
-          "reviewBody": "Alan is an amazing photographer! The photos are excellent and were sent on the same day (digital version). It all went really smooth. Definitely calling him again when in need for a photoshoot",
+          "reviewBody": "I really enjoyed the Basic Photography course. Alan showed me how to properly use my camera and I'm looking forward to booking a 1-1 session so that he can critique my shots. He also makes a great cup of tea!!!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-05-23",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kerrie Porter"
-          },
-          "reviewBody": "I joined Alan for a long exposure photography lesson at Kenilworth Castle on a beautiful May evening. While the sunny weather wasn’t ideal for long exposure shots, the session was still fantastic. Over the course of two hours, our small group (typically allows 6 people per event) received insightful guidance from Alan, who proved to be an excellent tutor. His deep knowledge and approachable teaching style made the lesson valuable for both beginners and advanced photographers alike. He helped us set up our cameras and provided clear explanations of the fundamental principles, ensuring everyone got the most out of the experience.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-05-21",
+          "datePublished": "2025-03-25",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -936,6 +917,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-03-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Fuller"
+          },
+          "reviewBody": "I received a gift card for a big birthday and I recently completed the Beginners course over an very extended period. This was only possible due to Alan's flexibility and patience. With the remaining credit I am now having some one to one tuition and guidance on a project I have in mind. The first meeting on the project went extremely well and Alan provided some highly practical advice and valuable insights into how to approach the assignment. I look forward to continuing our collaboration into the future.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-22",
           "publisher": {
             "@type": "Organization",
             "name": "Google"

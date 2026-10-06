@@ -80,7 +80,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-06",
         "priceSpecification": {
           "price": "50.00",
           "priceCurrency": "GBP"
@@ -116,25 +116,6 @@
         }
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Penelope Ulander"
-          },
-          "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their potential dangers and swift tides was priceless for enjoying a stress free environment where safety is paramount. The curriculum has been painstakingly curated and pre-shoot briefs and post-shoot processing and feedback sessions are all part of a very well rounded workshop.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-09-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -322,8 +303,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.91",
-        "reviewCount": 11
+        "ratingValue": "4.9",
+        "reviewCount": 10
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry#product"
     }
