@@ -397,7 +397,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.8",
-        "reviewCount": 15
+        "reviewCount": 15,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry#product"
     }

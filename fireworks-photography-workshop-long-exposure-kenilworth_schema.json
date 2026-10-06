@@ -230,7 +230,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.83",
-        "reviewCount": 6
+        "reviewCount": 6,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#product"
     }

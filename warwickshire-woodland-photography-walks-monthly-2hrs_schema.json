@@ -788,8 +788,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.92",
-        "reviewCount": 25
+        "ratingValue": "4.94",
+        "reviewCount": 32,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire#product"
     }

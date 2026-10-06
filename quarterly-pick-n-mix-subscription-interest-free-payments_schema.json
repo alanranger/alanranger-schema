@@ -368,7 +368,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.67",
-        "reviewCount": 3
+        "reviewCount": 3,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#product"
     }

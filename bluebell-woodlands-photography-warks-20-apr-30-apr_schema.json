@@ -1575,25 +1575,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
-          },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Anna Kopytek"
           },
           "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
@@ -1898,6 +1879,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Joanne galloway"
+          },
+          "reviewBody": "Another excellent workshop at the Lavender Fields at Snowshill  with superb guidance from Alan on how to get the best from the beautiful lavender . Sharing his knowledge & expertise ensures that the end product is a great photo instead of a “ snap”  I have now attended several of Alan’s workshops and I always learn a great deal and reinforce what I’ve previously learnt .",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-08-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "desmond sutton"
           },
           "reviewBody": "A really good time with Alan 4 others on our half day shoot in the bluebells. A simply stunning location with,1000s of bluebells set in beautiful woodlands.",
@@ -1936,9 +1936,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Con McHugh"
+            "name": "Diana"
           },
-          "reviewBody": "I am really enjoying the Intentions course focusing on the homeless",
+          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommend this workshop, you will not be disappointed.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1955,9 +1955,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Diana"
+            "name": "Con McHugh"
           },
-          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommend this workshop, you will not be disappointed.",
+          "reviewBody": "I am really enjoying the Intentions course focusing on the homeless",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1973,8 +1973,10 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.88",
-        "reviewCount": 25
+        "ratingValue": "4.84",
+        "reviewCount": 64,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#product"
     }

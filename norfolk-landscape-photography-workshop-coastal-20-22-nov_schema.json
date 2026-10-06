@@ -192,7 +192,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.75",
-        "reviewCount": 4
+        "reviewCount": 4,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk#product"
     }

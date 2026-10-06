@@ -136,9 +136,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Bruce Radebaugh"
+            "name": "Andrew Blaxhall"
           },
-          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds .",
+          "reviewBody": "Great helpful material, great presentation and ideas",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -155,9 +155,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Andrew Blaxhall"
+            "name": "Bruce Radebaugh"
           },
-          "reviewBody": "Great helpful material, great presentation and ideas",
+          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds .",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -174,7 +174,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 3
+        "reviewCount": 3,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/free-online-photography-course#product"
     }

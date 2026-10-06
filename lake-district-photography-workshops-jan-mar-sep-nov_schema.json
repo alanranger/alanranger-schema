@@ -286,6 +286,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Shelly Soo"
+          },
+          "reviewBody": "I have thoroughly enjoyed the Lake District photography workshop with a lovely small group.  We were blessed with excellent weather those few days.  Alan drove us to areas of Lake District that I have never been. I have learnt simple basic stuff (setting up of tripods) to using of ND filters (borrowed from Alan) to Lightroom editing whenever opportunities arose. Alan is a good teacher with very clear mindset of how to take a good photograph.  He however, did leave us to try and compose our own photos ... I have enjoyed and learnt much from the feedback session. Thank you Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-09-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Alex Frost"
           },
           "reviewBody": "Lake District 3 day workshop in September.  This was my first residential workshop and I couldn't think of anyone better to do it with than Alan Ranger Photography.  His great knowledge of the area combined with his experience has made it really enjoyable whilst being able to pick up new techniques. Thank you Alan!  I would definitely consider and recommend Alan Ranger Photography for future workshops.",
@@ -620,7 +639,9 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.95",
-        "reviewCount": 20
+        "reviewCount": 21,
+        "bestRating": "5",
+        "worstRating": "1"
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#product"
     }
