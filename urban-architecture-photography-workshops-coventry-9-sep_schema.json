@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Penelope Ulander"
-          },
-          "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their potential dangers and swift tides was priceless for enjoying a stress free environment where safety is paramount. The curriculum has been painstakingly curated and pre-shoot briefs and post-shoot processing and feedback sessions are all part of a very well rounded workshop.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-09-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Jo G"
           },
           "reviewBody": "Urban photography - a great opportunity to learn some tricks and trips",
@@ -206,6 +187,44 @@
             "worstRating": "1"
           },
           "datePublished": "2020-04-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lesley Starkey"
+          },
+          "reviewBody": "Couldn’t help me use my bridge camera and not enough practical work",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-12-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara Skeet"
+          },
+          "reviewBody": "Mr Ranger took my camera off me athe beginning of my paid session and altered all my settings, even my view finder was altered to his eye.  It took me several weeks to reset my camera to my settings! The session itself was of little benefit to me, as he was more interested in three other members of the group who obviously were impressed with his constant name dropping of where his photographs had appeared.  He told us at the beginning of the day long session it was up to us to go and take photographs and then he would circulate and look at our results.  He then proceeded to wander off with his own camera and click away to his own benefit.  Yes he did come over to me once all day and went through my photos.  I found his comments unhelpful, but I guess by this time I had realised that this course and tutor was not for me.  The day could not end soon enough for me.  I would not recommend Alan Ranger as you will be wasting your money.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-12-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -322,8 +341,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.91",
-        "reviewCount": 11,
+        "ratingValue": "4.42",
+        "reviewCount": 12,
         "bestRating": "5",
         "worstRating": "1"
       },

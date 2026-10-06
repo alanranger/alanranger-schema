@@ -139,6 +139,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "peter martin"
+          },
+          "reviewBody": "Informative demonstration regarding bracketing and stacking. I also received very useful observations and advice upon many of my photos.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-11-30",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "John Amies"
           },
           "reviewBody": "I was encouraged that Alan Ranger believes good photographs should be produced in the main by a combination of the photographer and the camera and not by hours of post-shoot processing in Photoshop.",
@@ -231,7 +250,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 6,
+        "reviewCount": 7,
         "bestRating": "5",
         "worstRating": "1"
       },

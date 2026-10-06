@@ -158,6 +158,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Penelope Ulander"
+          },
+          "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their potential dangers and swift tides was priceless for enjoying a stress free environment where safety is paramount. The curriculum has been painstakingly curated and pre-shoot briefs and post-shoot processing and feedback sessions are all part of a very well rounded workshop.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Dave Cross"
           },
           "reviewBody": "I recently attended Alan's \"Hartland Quay - Devon Seascapes\" workshop. I am a relative novice where photography is concerned but never felt out of place. Alan provides help with clear explanation and with honest feedback and guidance on how things can be improved. The workshop was a small group and Alan was able to give us all attention where and when needed. I learnt a lot over the course of three packed days of photo opportunities and I hope to attend another workshop in the future.",
@@ -310,7 +329,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 8,
+        "reviewCount": 9,
         "bestRating": "5",
         "worstRating": "1"
       },

@@ -158,6 +158,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Mr Glyn Fletcher"
+          },
+          "reviewBody": "It seems to me Alan may be more comfortable in a classroom than on location this time to Northumbria. Their was little or no preparation on the scene we were about to visit. What we will see, what we could be looking for to frame a shot, alternative viewpoints, what obvious mistakes to avoid. How to set up the camera, which lens, mode, exposure depth of field etc and whether there were any questions on reaching our destination. Instead on arrival Alan marched us straight to where he thought the best image was with no discussion, set up his camera and really had little by way of Q & A on site leaving everyone to pretty much get on with it. He reviewed the images captured over the evening meal and made comments by which time it was of course too late to consider changing composition or camera settings. This is learning by ones mistakes after the photographic opportunity has passed and not taking advantage of a professionals knowledge to consider how to improve whilst the opportunity is in front of you. I did ask the others on our trip how they thought the trip was going and I agreed with much of their comments which I have repeated here. I have resisted reviewing Alans trip since October 2017 as I think he believes he is doing a good job and will not be receptive to negative comments.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-03-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Con McHugh"
           },
           "reviewBody": "Joined Alan and 4 others for weekend in Northumberland. A great experience in every way. The details about where/what we photographing were excellent and included weather forecast, tide times as well. We covered lots of locations over the 3 days. Got lots of really good tuition and loved the feedback sessions (on the days photos) in the evenings as it was dark early. A good group with same interest in learning more. One of my photos was also selected for this months banner on Alan's facebook group. Highly recommend to other photographers as it really gets you into the 'zone' to improve your skills. Thank you Alan.",
@@ -321,8 +340,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.82",
-        "reviewCount": 11,
+        "ratingValue": "4.67",
+        "reviewCount": 12,
         "bestRating": "5",
         "worstRating": "1"
       },

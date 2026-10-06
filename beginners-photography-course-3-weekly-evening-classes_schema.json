@@ -622,25 +622,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jack"
-          },
-          "reviewBody": "We've just finished up a 3 week beginners photography course with Alan and really enjoyed it! Alan was a great teacher and would have a laugh with you but also covered a lot each week.  Alan taught us all of the basics of our camera and gave us a great starting point to go away and practice. Along with the 3 sessions we also get access to an online portal with loads of further lessons and guides so we can keep practicing in our own time.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-11-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Graham Rousell"
           },
           "reviewBody": "I approached Alan because I was seeing dark spots appearing within my photographs.   It needed a sensor clean and although I could see various kits on-line advertised to do this I was not confident myself.  I'm pleased I did contact him, because for not much more than the cost of a kit I now have a completely clean sensor and no spots.  I cannot recommend his service enough!",
@@ -831,25 +812,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kerrie Porter"
-          },
-          "reviewBody": "I joined Alan for a long exposure photography lesson at Kenilworth Castle on a beautiful May evening. While the sunny weather wasn’t ideal for long exposure shots, the session was still fantastic. Over the course of two hours, our small group (typically allows 6 people per event) received insightful guidance from Alan, who proved to be an excellent tutor. His deep knowledge and approachable teaching style made the lesson valuable for both beginners and advanced photographers alike. He helped us set up our cameras and provided clear explanations of the fundamental principles, ensuring everyone got the most out of the experience.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-05-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Karen & Dave"
           },
           "reviewBody": "I really enjoyed the Basic Photography course. Alan showed me how to properly use my camera and I'm looking forward to booking a 1-1 session so that he can critique my shots. He also makes a great cup of tea!!!",
@@ -940,12 +902,50 @@
             "@type": "Organization",
             "name": "Google"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly Westwood"
+          },
+          "reviewBody": "I thoroughly enjoyed both the beginners photography course and the lightroom course. I am a complete beginner but feel like I have learned so much. Alan is really good at giving examples and explaining things in a way you can understand. The classes are small, which makes them personal and we had lots of laughs throughout the course. Already signed up the monthly mentoring, which I’m hoping with continue to improve my knowledge and skills. Look forward to the workshops in the future. Thanks Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-02-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly McDonnell"
+          },
+          "reviewBody": "Amazing mentor, fantastic photographer. Will definitely book more courses in the future. Would give ten stars if I could.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-08-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 140,
+        "reviewCount": 138,
         "bestRating": "5",
         "worstRating": "1"
       },

@@ -177,6 +177,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "John Madigan"
+          },
+          "reviewBody": "Lavender fields and flowers another rewarding subject to photograph steered by Alan.  A good couple of hours.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne galloway"
+          },
+          "reviewBody": "Another excellent workshop at the Lavender Fields at Snowshill  with superb guidance from Alan on how to get the best from the beautiful lavender . Sharing his knowledge & expertise ensures that the end product is a great photo instead of a “ snap”  I have now attended several of Alan’s workshops and I always learn a great deal and reinforce what I’ve previously learnt .",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-08-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "David Simpson"
           },
           "reviewBody": "Being an absolute novice to photography, since buying a entry level dlsr I've become more curious about the science around photography techniques.    Alan's introduction session was both informative and mind provoking - to the extent that I have enrolled on the follow up four week course.",
@@ -248,8 +286,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": 5,
+        "ratingValue": "4.71",
+        "reviewCount": 7,
         "bestRating": "5",
         "worstRating": "1"
       },

@@ -252,6 +252,63 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Simon Chatterley"
+          },
+          "reviewBody": "Had a great evening with Alan at kennelworth castle long exposure workshop. It gave me a new insight to my photography and helped me unlock settings and gave me help with composition of shots. Would highly recommend",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam Franklin"
+          },
+          "reviewBody": "Had a fantastic experience during the photography workshop at Kenilworth Castle.  Alan is very knowledgeable and easy to talk to!  Will be looking to book another session in the future.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-23",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kerrie Porter"
+          },
+          "reviewBody": "I joined Alan for a long exposure photography lesson at Kenilworth Castle on a beautiful May evening. While the sunny weather wasn’t ideal for long exposure shots, the session was still fantastic. Over the course of two hours, our small group (typically allows 6 people per event) received insightful guidance from Alan, who proved to be an excellent tutor. His deep knowledge and approachable teaching style made the lesson valuable for both beginners and advanced photographers alike. He helped us set up our cameras and provided clear explanations of the fundamental principles, ensuring everyone got the most out of the experience.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "colin yuill"
           },
           "reviewBody": "He definitely knows his stuff ! And very helpful.",
@@ -457,6 +514,24 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "E"
+          },
+          "reviewBody": "I was disappointed with the course. With some basic knowledge of settings and controls I was hoping for a refresher and but most of the course was very abstract, about a photograph having to say something about the photographer. Only the last 45 minutes was actual techniques and settings, so it was very basic. It felt a bit like it was intended to draw you in to sign up for the four week course rather than a course in its own right.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Sarah Vaughan"
           },
           "reviewBody": "This guy knows his stuff! I went on an introductory seminar. He explains basic photography 'science' in a way everyone can understand and provides a handy booklet with start-up information and some tasks to complete to get you going.    I was so impressed that I have now enrolled in the beginners full 4-weeks course and will be attending some of his outdoor workshops so that I can really get to grips with using my new camera and to start to learn the art.",
@@ -492,8 +567,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.92",
-        "reviewCount": 13,
+        "ratingValue": "4.76",
+        "reviewCount": 17,
         "bestRating": "5",
         "worstRating": "1"
       },

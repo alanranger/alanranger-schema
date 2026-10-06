@@ -508,25 +508,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sandra Dawkes"
-          },
-          "reviewBody": "A few days prior to the evening workshop Alan sent through a 2 page worksheet packing with useful information, which I found helpful. Alan also set the bracketing on my camera so I could compensate for the high contrast lighting.  Second review 8 January 2026 for 1:1 meeting on zoom This was a session to review edits on my photos for the LRPS, Alan was encouraging but also honest and what I needed to do to in order to progress my panel photos.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-09-29",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Peter Orton"
           },
           "reviewBody": "The service and expertise is outstanding. No hesitation in recommending his services. We worked together on my photography panel for a distinction qualification with the RPS. In all areas (art craft and science) he is a true expert. In addition his character is friendly and helpful. His knowledge is extensive and constantly growing. He supports all levels of photographers.  In addition to his support, I worked with him in the field planning and photographing a number of sites, on the coast, over 3 days. Once again a superb service. Peter",
@@ -716,7 +697,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.92",
-        "reviewCount": 13,
+        "reviewCount": 12,
         "bestRating": "5",
         "worstRating": "1"
       },

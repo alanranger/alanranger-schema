@@ -1101,25 +1101,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Madigan"
-          },
-          "reviewBody": "Lavender fields and flowers another rewarding subject to photograph steered by Alan.  A good couple of hours.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Martin Vincent"
           },
           "reviewBody": "I like Alan's style of teaching much more engaging than some of the other workshop leaders I have experienced. Achieved some reasonable images from the day - thank you",
@@ -1324,12 +1305,31 @@
             "@type": "Organization",
             "name": "Google"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mandy Waters"
+          },
+          "reviewBody": "A great afternoon at Batsford Arboretum for the autumn workshop.  Alan was very helpful giving me ideas to improve my composition, assisting with my camera settings, answering any photography questions I had. A really enjoyable afternoon and look forward to going out to practice some new techniques and skills. Thanks again",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },

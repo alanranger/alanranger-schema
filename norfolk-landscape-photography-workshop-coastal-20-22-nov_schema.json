@@ -120,6 +120,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "GT"
+          },
+          "reviewBody": "My experience was a disaster from start to finish and I didn't even finish the course.  There was no tuition, no guidance, too many sites to visit each day and it was just horrible.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-12-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Peter Hagger"
           },
           "reviewBody": "A well organised shoot, expert advice when needed. Despite weather problems Alan found alternative sites and had a flexible approach.",
@@ -191,8 +210,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.75",
-        "reviewCount": 4,
+        "ratingValue": "4.0",
+        "reviewCount": 5,
         "bestRating": "5",
         "worstRating": "1"
       },

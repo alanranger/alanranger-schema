@@ -1879,25 +1879,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Joanne galloway"
-          },
-          "reviewBody": "Another excellent workshop at the Lavender Fields at Snowshill  with superb guidance from Alan on how to get the best from the beautiful lavender . Sharing his knowledge & expertise ensures that the end product is a great photo instead of a “ snap”  I have now attended several of Alan’s workshops and I always learn a great deal and reinforce what I’ve previously learnt .",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-08-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "desmond sutton"
           },
           "reviewBody": "A really good time with Alan 4 others on our half day shoot in the bluebells. A simply stunning location with,1000s of bluebells set in beautiful woodlands.",
@@ -1969,12 +1950,31 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norman"
+          },
+          "reviewBody": "Excellent workshop in a great location.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-08-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.84",
-        "reviewCount": 64,
+        "reviewCount": 63,
         "bestRating": "5",
         "worstRating": "1"
       },

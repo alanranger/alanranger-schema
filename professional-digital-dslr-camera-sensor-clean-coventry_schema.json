@@ -116,44 +116,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Simon Chatterley"
-          },
-          "reviewBody": "Had a great evening with Alan at kennelworth castle long exposure workshop. It gave me a new insight to my photography and helped me unlock settings and gave me help with composition of shots. Would highly recommend",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-09-23",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sam Franklin"
-          },
-          "reviewBody": "Had a fantastic experience during the photography workshop at Kenilworth Castle.  Alan is very knowledgeable and easy to talk to!  Will be looking to book another session in the future.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-09-23",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Simona Abaidoo"
           },
           "reviewBody": "Amazing service! My camera sensor was perfectly cleaned.  Highly recommend!",
@@ -322,7 +284,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 11,
+        "reviewCount": 9,
         "bestRating": "5",
         "worstRating": "1"
       },

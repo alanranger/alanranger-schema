@@ -294,6 +294,24 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Kim Moorman"
+          },
+          "reviewBody": "It was a good introductory course but I found it a bit too technical. I only have a pretty basic camera and would have liked to hear more about the design element of photography (which I appreciate is covered on the 4 week course). Alan is nice but can sometimes be a bit too opinionated!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Sew Laces"
           },
           "reviewBody": "Great 3hr introductory course to beginners photography! Enjoyed it so much have enrolled on a further course with Alan. Simple but complex, Alan shared his knowledge & passion and the technical stuff was broken down for all to understand. Highly recommended!",
@@ -311,8 +329,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 2,
+        "ratingValue": "4.33",
+        "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },

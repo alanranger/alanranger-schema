@@ -470,6 +470,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course modules. I enjoyed the course and have just signed up for the composition session.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dean Le Page"
+          },
+          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-06-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Richard Johnson"
           },
           "reviewBody": "Alan provided me with RPS Mentoring for a distinction submission. He has huge knowledge of the process and what the judges base their scoring on. I learnt a lot more than just this though, improving my choose of subjects, composition and editing for the future.",
@@ -508,6 +546,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Jack"
+          },
+          "reviewBody": "We've just finished up a 3 week beginners photography course with Alan and really enjoyed it! Alan was a great teacher and would have a laugh with you but also covered a lot each week.  Alan taught us all of the basics of our camera and gave us a great starting point to go away and practice. Along with the 3 sessions we also get access to an online portal with loads of further lessons and guides so we can keep practicing in our own time.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-11-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Nicholas Barber"
           },
           "reviewBody": "I had a 1h 1:1 online mentoring session with Alan to sort out how to deal with my images on a long holiday. He was brilliant, clear instructions and a 2 page accurate summary of our conversation followed the same day.",
@@ -518,6 +575,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra Dawkes"
+          },
+          "reviewBody": "A few days prior to the evening workshop Alan sent through a 2 page worksheet packing with useful information, which I found helpful. Alan also set the bracketing on my camera so I could compensate for the high contrast lighting.  Second review 8 January 2026 for 1:1 meeting on zoom This was a session to review edits on my photos for the LRPS, Alan was encouraging but also honest and what I needed to do to in order to progress my panel photos.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-09-29",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -594,6 +670,25 @@
             "worstRating": "1"
           },
           "datePublished": "2021-05-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kasia jan"
+          },
+          "reviewBody": "Excellent zoom class. Very professional and packed with knowledge. I have learned a lot during this session, got inspired and would recommend to  anyone who wants to improve at fast pace. Thank you Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-02-25",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -849,7 +944,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 20,
+        "reviewCount": 25,
         "bestRating": "5",
         "worstRating": "1"
       },

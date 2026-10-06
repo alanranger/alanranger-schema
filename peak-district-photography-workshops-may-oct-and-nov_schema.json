@@ -252,25 +252,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Michael Donnelly"
-          },
-          "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Alex McDonald"
           },
           "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
@@ -477,8 +458,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.92",
-        "reviewCount": 12,
+        "ratingValue": "4.91",
+        "reviewCount": 11,
         "bestRating": "5",
         "worstRating": "1"
       },
