@@ -489,6 +489,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Dean Le Page"
+          },
+          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-06-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Richard Johnson"
           },
           "reviewBody": "Alan provided me with RPS Mentoring for a distinction submission. He has huge knowledge of the process and what the judges base their scoring on. I learnt a lot more than just this though, improving my choose of subjects, composition and editing for the future.",
@@ -499,25 +518,6 @@
             "worstRating": "1"
           },
           "datePublished": "2026-03-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dean Le Page"
-          },
-          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-03-06",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -622,25 +622,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Barbara Bett"
-          },
-          "reviewBody": "Recently two of us  had a  morning’s practical tuition with Alan at an outside location with the aim of improving our landscape photography. I appreciated that Alan pitched the level exactly as we had requested with challenges to make  the best possible image from the terrain in front of us, and suggestions on how to better our results. He answered our many questions with specific and considered replies.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Kirsty Lilley"
           },
           "reviewBody": "Alan is an intuitive, knowledgeable and thoughtful tutor. I have just completed 4 sessions as a beginner and can already see improvements in my photography skills.  I thoroughly enjoyed each session. They were all paced well and planned according to my levels and needs. There has been plenty of opportunities to ask questions and feedback was given at the start of each lesson on the previous weeks homework assignments. It has given me a new passion in photography and I look forward to continuing my journey. I would thoroughly recommend to anyone interested in developing their photography interest!",
@@ -669,7 +650,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-11-08",
+          "datePublished": "2021-08-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -755,25 +736,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Rosamund Sheppard"
-          },
-          "reviewBody": "Alan Ranger is an extremely talented artistic photographer.  His enthusiastic approach to photography makes him an excellent photography tutor that I can highly recommend.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Anne Watkinson"
           },
           "reviewBody": "Alan is an excellent tutor taking all skill levels into account. He is a very talented photographer and willingly shares his expertise with members of the group. He offers a wide variety of interesting and flexible courses covering both classes and outdoor photographic opportunities.",
@@ -783,121 +745,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Louise Whitehouse"
-          },
-          "reviewBody": "Have done a few classroom based courses and some photography workshops, all of which have been excellent.   Alan has really helped me develop my skills and confidence and I have recommended him to lots of other people.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "jade kerri dibb"
-          },
-          "reviewBody": "Wonderful Photographer and Trainer. I would highly recommend Alan Ranger Photography to all whom are looking for an experienced professional trainer that provides supportive, honest and friendly guidance and feedback, along with offering great workshops and all round great tutoring. He is also an amazing Photographer.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jean Dance"
-          },
-          "reviewBody": "I would unreservedly recommend Alan Ranger to teach and guide you through your photography Journey",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "paul skidmore"
-          },
-          "reviewBody": "I have attended several courses and enjoyed everyone. There are many topics to choose from and it doesn't matter what level you are at you will always gain more knowledge and experience from any of them.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "T Balcombe"
-          },
-          "reviewBody": "We attended a 'foundation' course and had a very interesting, informative and fun evening. My photography has definitely benefited and we would have taken further courses had we not moved away from Coventry, though when we get time we are hoping to attend one of Alan's 'field' days. I'm sure that anyone from beginners like ourselves upwards would enjoy and benefit from Alan's expertise if not from attending a course just reading his blog which we find excellent.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Andy"
-          },
-          "reviewBody": "Highly recommended! Alan really gets you thinking about your photography and puts his knowledge across in a way that's easy to understand",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-01-05",
+          "datePublished": "2018-05-01",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -916,7 +764,140 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-01-05",
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy"
+          },
+          "reviewBody": "Highly recommended! Alan really gets you thinking about your photography and puts his knowledge across in a way that's easy to understand",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T Balcombe"
+          },
+          "reviewBody": "We attended a 'foundation' course and had a very interesting, informative and fun evening. My photography has definitely benefited and we would have taken further courses had we not moved away from Coventry, though when we get time we are hoping to attend one of Alan's 'field' days. I'm sure that anyone from beginners like ourselves upwards would enjoy and benefit from Alan's expertise if not from attending a course just reading his blog which we find excellent.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "paul skidmore"
+          },
+          "reviewBody": "I have attended several courses and enjoyed everyone. There are many topics to choose from and it doesn't matter what level you are at you will always gain more knowledge and experience from any of them.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Dance"
+          },
+          "reviewBody": "I would unreservedly recommend Alan Ranger to teach and guide you through your photography Journey",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jade kerri dibb"
+          },
+          "reviewBody": "Wonderful Photographer and Trainer. I would highly recommend Alan Ranger Photography to all whom are looking for an experienced professional trainer that provides supportive, honest and friendly guidance and feedback, along with offering great workshops and all round great tutoring. He is also an amazing Photographer.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Whitehouse"
+          },
+          "reviewBody": "Have done a few classroom based courses and some photography workshops, all of which have been excellent.   Alan has really helped me develop my skills and confidence and I have recommended him to lots of other people.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rosamund Sheppard"
+          },
+          "reviewBody": "Alan Ranger is an extremely talented artistic photographer.  His enthusiastic approach to photography makes him an excellent photography tutor that I can highly recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-01",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -935,7 +916,25 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2016-01-08",
+          "datePublished": "2016-08-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emma Moxon"
+          },
+          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

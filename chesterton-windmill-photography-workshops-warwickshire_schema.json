@@ -261,26 +261,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-04-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gillian Perry"
-          },
-          "reviewBody": "I saw an advert for a workshop I really wanted to do that was cancelled.  I was not upset about the cancellation as the reason was due to a change in conditions and the I was pleased it didn't go ahead when there would be nothing to photograph.  It then took many attempts to find a date that worked for myself and for Alan.    The details for joining the workshop came a couple of days before the event.  It did recommend a filter that I didn't have but it was too late to buy it from Amazon.  No real problem through as we did really need it.  The first 15 minutes of the workshop were tuition and I picked up a few very useful tips from the workshop which I will use in future.  The rest of the workshop is you photograph the subject and move around the site at your own pace but not too far from the group so Alan can move around each individual and answer questions, review photos and give advice.  You are expected to ask questions and learn more that way.  I personally find that I don't think of questions until much later when the learning experience has really soaked in.  So it would have been good to stop and specifically talk about a topic.    I plan to visit the location again on a different day and try again now I have seen my photos.  I will definitely consider booking again in the future depending on the subjects.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-09-05",
+          "datePublished": "2019-11-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -299,7 +280,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-08",
+          "datePublished": "2018-08-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gillian Perry"
+          },
+          "reviewBody": "I saw an advert for a workshop I really wanted to do that was cancelled.  I was not upset about the cancellation as the reason was due to a change in conditions and the I was pleased it didn't go ahead when there would be nothing to photograph.  It then took many attempts to find a date that worked for myself and for Alan.    The details for joining the workshop came a couple of days before the event.  It did recommend a filter that I didn't have but it was too late to buy it from Amazon.  No real problem through as we did really need it.  The first 15 minutes of the workshop were tuition and I picked up a few very useful tips from the workshop which I will use in future.  The rest of the workshop is you photograph the subject and move around the site at your own pace but not too far from the group so Alan can move around each individual and answer questions, review photos and give advice.  You are expected to ask questions and learn more that way.  I personally find that I don't think of questions until much later when the learning experience has really soaked in.  So it would have been good to stop and specifically talk about a topic.    I plan to visit the location again on a different day and try again now I have seen my photos.  I will definitely consider booking again in the future depending on the subjects.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

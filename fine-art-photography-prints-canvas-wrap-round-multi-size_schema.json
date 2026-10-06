@@ -372,25 +372,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Viktoria B."
-          },
-          "reviewBody": "I attended only one evening workshop but it was a good session to practice and review what you've previously learned. Good opportunity to consciously think about application of all the photography elements, not just snap away. Also good opportunity to meet fellow enthusiasts and exchange experience and learn from that too.   Would recommend the workshops.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-12-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "lucy st"
           },
           "reviewBody": "Alan not only shares his expert knowledge with his students, but will offer guidance and advice which which enables you to develop your skills with confidence.  Alan is enthusiastic,  approachable and welcoming his courses are informative as well as being fun. You will walk away from any of Alans courses with more enthusiasm, new ideas and skills to go out and start taking better photos.",
@@ -400,7 +381,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-10-11",
+          "datePublished": "2014-11-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Viktoria B."
+          },
+          "reviewBody": "I attended only one evening workshop but it was a good session to practice and review what you've previously learned. Good opportunity to consciously think about application of all the photography elements, not just snap away. Also good opportunity to meet fellow enthusiasts and exchange experience and learn from that too.   Would recommend the workshops.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-09-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -121,6 +121,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Matthew Payton"
+          },
+          "reviewBody": "I've booked a block of 4 two hour 1-1 sessions with Alan in order to gain the knowledge and experience that I need to start my journey into photography. I'm a complete novice at this, but having completed my first session, I already feel comfortable and confident that Alan will guide me through the world of photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2022-01-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "KP"
           },
           "reviewBody": "Great workshop with 1-2-1 help when required taking into account the experience of each photographer. Lovely evening, many thanks",
@@ -130,7 +149,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-09-04",
+          "datePublished": "2019-04-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -149,7 +168,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-05-03",
+          "datePublished": "2019-03-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -168,7 +187,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-05-01",
+          "datePublished": "2019-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -187,7 +206,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-11-08",
+          "datePublished": "2018-08-11",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -206,7 +225,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-10-11",
+          "datePublished": "2014-11-10",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -305,8 +324,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": 10
+        "ratingValue": "4.91",
+        "reviewCount": 11
       },
       "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes#product"
     }

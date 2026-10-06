@@ -56,33 +56,34 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-          "item": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth"
+          "name": "Photography Mentor Online — Monthly Mentoring",
+          "item": "https://www.alanranger.com/photography-mentoring-online-assignments"
         }
       ],
-      "@id": "https://www.alanranger.com/fireworks-photography-workshop-kenilworth#breadcrumbs"
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Fireworks Photography Workshop | Long Exposure | Kenilworth",
-      "sku": "SQ1182401",
+      "name": "Photography Mentor Online — Monthly Mentoring",
+      "sku": "SQ-MENTOR-MONTHLY",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Fireworks Photography Workshop - Long exposure and fireworks. Learn about camera settings, exposure use and composition.Summary Location: Kenilworth Dates: TBC Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Fireworks Description: This Fireworks Photography Workshop is a one-off evening capturing one of the most exciting subjects in photography — a full fireworks display bursting over the floodlit ruins of Kenilworth Castle. Open to all levels and any camera, it's built...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1713518270092-GJSBASA0ZLL4NBMCK355/Kenilworth+Fireworks+2017+-+2.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
+      "description": "Online photography mentoring with monthly assignments, a personal Lightroom review of your images and 30 practice packs. £20/month, cancel anytime.",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/0ddfe780-871c-4d90-a207-82f053d68ce0/monthly+mentoring+assigments.png",
+      "url": "https://www.alanranger.com/photography-mentoring-online-assignments",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ1182401",
-        "price": "75.00",
+        "sku": "SQ-MENTOR-MONTHLY",
+        "price": "20.00",
         "priceCurrency": "GBP",
-        "availability": "https://schema.org/OutOfStock",
-        "validFrom": "2026-09-29",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-10-06",
         "priceValidUntil": "2027-10-06",
-        "url": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#offer",
+        "name": "Foundation Plus — Monthly Mentoring £20/mo",
+        "url": "https://www.alanranger.com/photography-mentoring-online-assignments",
+        "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,73 +117,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paula Major"
+            "name": "John Ellis"
           },
-          "reviewBody": "Fireworks photography. Guidance and instructions at the start of  the workshop, then Alan helped everyone as the fireworks started.  Thoroughly enjoyed the evening, great value.",
+          "reviewBody": "Alan’s advice and help is always invaluable. I’ve been taking part in the monthly mentoring sessions for the past year and I know I can always rely on him for clear and honest feedback and as a result feel I have really improved my photographic skills in a way that I could never have done by simply reading theory and articles.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-09-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Frederick  Stubbs"
-          },
-          "reviewBody": "Lovely location and lots of good advice from Alan",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-05-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Cheryl Millyard"
-          },
-          "reviewBody": "Learnt enough that I would feel confident photographing fireworks by myself. Got some great shots. Good value",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-04-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Laura Byrne"
-          },
-          "reviewBody": "Alan is an amazing photographer and teacher. Im currently learning with him and don't intend on stopping any time soon. Hes understanding and encouraging of anyones ability and I just love his work and his methods of teaching. My photography has come on ten fold since learning with Alan",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2017-02-21",
+          "datePublished": "2025-12-09",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -192,47 +136,66 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Eva B"
+            "name": "Patricia Willis"
           },
-          "reviewBody": "For this fireworks photo-shoot Alan sent out a clear briefing sheet beforehand and answered my questions by email, which helped me prepare before getting there. Starting early, he gave each of us time and help to get our cameras set up and ready to shoot. Once the fireworks started he checked with each of us that everything was going according to plan, giving guidance as needed.  I got some great photos - really pleased I went!",
+          "reviewBody": "Very encouraging and supportive. An excellent manner that left me feeling very positive that I could improve my photography.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-09-11",
+          "datePublished": "2021-11-10",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John"
+            "name": "John Flack"
           },
-          "reviewBody": "The Firework workshop was very enjoyable and informative.",
+          "reviewBody": "Brilliant!!!  Had several mentoring feedback sessions and all of them have been beneficial.  Every session full of useful and relevant information.  Assessments and feedback is honest, accurate and delivered in Alan's inimitable style.  Always something I look forward to.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-09-11",
+          "datePublished": "2020-04-24",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jan & Gary Boulter"
+          },
+          "reviewBody": "Update July 2024 - another very successful meeting with Alan. Helped me focus on where I am going with a project and provided quality food for thought on both the technical and composition elements of my photography. Enjoyed as always  Great webinar on editing, really useful advice to achieve your objective for an image. Small group and interactive, with Alan showing you step by step, the various Editing options.  Really enjoyed it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-04-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
           }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.83",
-        "reviewCount": 6
+        "ratingValue": "5.0",
+        "reviewCount": 4
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/fireworks-photography-workshop-kenilworth#product"
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#product"
     }
   ]
 }

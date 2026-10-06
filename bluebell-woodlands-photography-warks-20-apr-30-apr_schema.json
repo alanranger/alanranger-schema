@@ -1594,44 +1594,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Pravin Pawar"
-          },
-          "reviewBody": "I had an incredible experience training with Alan. His passion for photography is truly infectious, and his ability to break down complex techniques into easy-to-understand lessons made learning both fun and effective. Whether you're a complete beginner or looking to refine your skills, he tailors each session to your level and goals.  What stood out most was his hands-on approach—plenty of practical exercises, real-time feedback, and creative challenges that helped me grow in confidence behind the camera. He also has a great eye for detail and composition, and his tips on lighting and editing were game-changers for me.  Highly recommend to anyone serious about improving their photography. Professional, patient, and inspiring—this trainer is the real deal!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-11-07",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Soon Leong"
-          },
-          "reviewBody": "I had a half day session with Alan back in May for bluebell photography. Alan is very knowledgeable about the area and offer many tips for taking good pictures of the bluebells and wood in general. Would highly recommend Alan to anyone with all level of skills.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-07",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Anna Kopytek"
           },
           "reviewBody": "Course was excellent. An eye opener for me. Things I may have read or heard before finally put into place. Great tutor (thank you for your patience Alan 😀)",
@@ -1661,6 +1623,63 @@
             "worstRating": "1"
           },
           "datePublished": "2025-07-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pravin Pawar"
+          },
+          "reviewBody": "I had an incredible experience training with Alan. His passion for photography is truly infectious, and his ability to break down complex techniques into easy-to-understand lessons made learning both fun and effective. Whether you're a complete beginner or looking to refine your skills, he tailors each session to your level and goals.  What stood out most was his hands-on approach—plenty of practical exercises, real-time feedback, and creative challenges that helped me grow in confidence behind the camera. He also has a great eye for detail and composition, and his tips on lighting and editing were game-changers for me.  Highly recommend to anyone serious about improving their photography. Professional, patient, and inspiring—this trainer is the real deal!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Soon Leong"
+          },
+          "reviewBody": "I had a half day session with Alan back in May for bluebell photography. Alan is very knowledgeable about the area and offer many tips for taking good pictures of the bluebells and wood in general. Would highly recommend Alan to anyone with all level of skills.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stuart Hurcomb"
+          },
+          "reviewBody": "I did the Bluebells session which was excellent. Alan is very knowledgabel and approachable when discussing different topics, he has a wealth of knowledge, you just need to engage and ask questions. The session was an early start and very enjoyable, just a shame the bluebell area was not as perfect as it could have been, but not Alans fault. A very good experience all round and I am keen to do other sessions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-01",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1746,16 +1765,54 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Stuart Hurcomb"
+            "name": "David Proctor"
           },
-          "reviewBody": "I did the Bluebells session which was excellent. Alan is very knowledgabel and approachable when discussing different topics, he has a wealth of knowledge, you just need to engage and ask questions. The session was an early start and very enjoyable, just a shame the bluebell area was not as perfect as it could have been, but not Alans fault. A very good experience all round and I am keen to do other sessions.",
+          "reviewBody": "I have done two workshops with Alan and both have been excellent. His teaching style is very much geared to the individual participants and the workshop numbers are limited so that everyone gets the amount of time / help that they need. His knowledge, both technical and of the locations used, is second to none. If anyone is considering doing a photography workshop I would have no hesitation whatsoever in recommending Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-01-07",
+          "datePublished": "2024-05-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sanjay Kumar"
+          },
+          "reviewBody": "Alan was very helpful and took time to explain. Meeting points and location for photography were excellent. Good weather was ice on the cake.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-05-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna Rokitowska"
+          },
+          "reviewBody": "I had the the professional lesson about the manual settings on my camera with Alan. Alan is very professional and supportive. The material was very interesting and the discussions were truly inspiring. He has an impressive knowledge about the photography. I particularly enjoyed all the instructions, which made the content easily understandable. Alan showed me and taught me so many new things during my lesson. I also took a part in his few workshops which I really enjoyed. Especially workshop in the forest full of bluebells. Unforgettable experience. I can highly recommend Alan to everyone who would like to start the adventure with photography or improve the photography skills.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-05-01",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1822,63 +1879,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "David Proctor"
-          },
-          "reviewBody": "I have done two workshops with Alan and both have been excellent. His teaching style is very much geared to the individual participants and the workshop numbers are limited so that everyone gets the amount of time / help that they need. His knowledge, both technical and of the locations used, is second to none. If anyone is considering doing a photography workshop I would have no hesitation whatsoever in recommending Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-03-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sanjay Kumar"
-          },
-          "reviewBody": "Alan was very helpful and took time to explain. Meeting points and location for photography were excellent. Good weather was ice on the cake.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-02-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Anna Rokitowska"
-          },
-          "reviewBody": "I had the the professional lesson about the manual settings on my camera with Alan. Alan is very professional and supportive. The material was very interesting and the discussions were truly inspiring. He has an impressive knowledge about the photography. I particularly enjoyed all the instructions, which made the content easily understandable. Alan showed me and taught me so many new things during my lesson. I also took a part in his few workshops which I really enjoyed. Especially workshop in the forest full of bluebells. Unforgettable experience. I can highly recommend Alan to everyone who would like to start the adventure with photography or improve the photography skills.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Ian Hope"
           },
           "reviewBody": "Recently attended a workshop in private bluebell woods with Alan. This gave us extensive photo opportunities in an area usually closed to the public. Alan talked us through a variety of technical and compositional suggestions before letting us loose (with due regard to the environment). Alan was on hand to give constructive critical advice as needed.",
@@ -1907,7 +1907,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2023-04-05",
+          "datePublished": "2023-05-04",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1936,25 +1936,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Diana"
-          },
-          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommend this workshop, you will not be disappointed.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-05-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Con McHugh"
           },
           "reviewBody": "I am really enjoying the Intentions course focusing on the homeless",
@@ -1964,7 +1945,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-05-09",
+          "datePublished": "2019-09-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "The bluebell workshop run by Alan was definitely worth the very early start. The location is beautiful with so many wonderful photographic opportunities. Alan was on hand to help when needed and he gave us lots of ideas as to where we should go and ideas for  composition. I can certainly recommend this workshop, you will not be disappointed.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-09-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

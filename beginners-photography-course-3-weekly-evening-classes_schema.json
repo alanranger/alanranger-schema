@@ -603,25 +603,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jimmy Concannon"
-          },
-          "reviewBody": "As a novice to photography I engaged with Alan to put me in the right direction. From the offset Alan was an inspiration, he has a depth of knowledge which he is willing to pass on. He got me going in the right direction from the first lesson, explained what I should be doing and gave me a better understanding of what to look for whilst taking pictures. During my course I got a good understanding of light, bracketing, settings, the subject, colours, noise, etc. Alan is a very good teacher who makes you feel relaxed. I would highly recommend any novice take a course with Alan it is money very well spent.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-03-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Marie Rushworth"
           },
           "reviewBody": "I've just attended a 3 week total beginners course with Alan. Alan has an absolute wealth of knowledge but that doesn't stop him forgetting what it is to be a beginner. His course is excellent. His course material and delivery is professional, informative and fun. Alan himself is quite the character, and enjoys a bit of banter. But he is kind and thoughtful, and you can see he is passionate about a newbies aspirations in photography. I wouldn't hesitate to recommend Alan and I'm looking forward to attending more courses as my confidence grows.",
@@ -679,6 +660,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Jimmy Concannon"
+          },
+          "reviewBody": "As a novice to photography I engaged with Alan to put me in the right direction. From the offset Alan was an inspiration, he has a depth of knowledge which he is willing to pass on. He got me going in the right direction from the first lesson, explained what I should be doing and gave me a better understanding of what to look for whilst taking pictures. During my course I got a good understanding of light, bracketing, settings, the subject, colours, noise, etc. Alan is a very good teacher who makes you feel relaxed. I would highly recommend any novice take a course with Alan it is money very well spent.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-01-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Laura Simpson"
           },
           "reviewBody": "I attended the beginners camera course, would definitely recommend, didn't realise just how much there was to know before starting the course! Nice small group which helps give you time to ask questions.",
@@ -727,25 +727,6 @@
             "worstRating": "1"
           },
           "datePublished": "2025-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Richard Hill"
-          },
-          "reviewBody": "Alan is such a friendly host, full of knowledge and a strong history of photography. His people skills and approach to tutoring is very positive. If you’re looking for a tutor, feedback on your current skills or anything in the photography world, I could not recommend Alan Ranger photography enough! Thank you Alan, see you again soon for a day out!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-03",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -917,6 +898,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-03-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Hill"
+          },
+          "reviewBody": "Alan is such a friendly host, full of knowledge and a strong history of photography. His people skills and approach to tutoring is very positive. If you’re looking for a tutor, feedback on your current skills or anything in the photography world, I could not recommend Alan Ranger photography enough! Thank you Alan, see you again soon for a day out!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-03-10",
           "publisher": {
             "@type": "Organization",
             "name": "Google"

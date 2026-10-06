@@ -1053,7 +1053,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-07-05",
+          "datePublished": "2025-05-07",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1092,6 +1092,63 @@
             "worstRating": "1"
           },
           "datePublished": "2023-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sheila Coughlan"
+          },
+          "reviewBody": "Fantastic tutoring. he is the master of explaining. will be using my camera to it's full potential . thanks Alan",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine Cash"
+          },
+          "reviewBody": "Joined Alan on a Batsford autumn colour workshop recently which was just lovely. My first visit to Batsford which is stunning,   Alan was very professional, helping us all with set ups and composition. He had his camera to “show” but all his attention was on the group. I learnt so much and although the sun didn’t appear, I now have the tools to use in the future, thanks to Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Goby"
+          },
+          "reviewBody": "A very interesting workshop at Batsford Arboretum. Well done for completing this in very challenging weather conditions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-01",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1253,82 +1310,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sheila Coughlan"
+            "name": "Di"
           },
-          "reviewBody": "Fantastic tutoring. he is the master of explaining. will be using my camera to it's full potential . thanks Alan",
+          "reviewBody": "I had a fantastic day with Alan Ranger at Batsford. He packed so much into the day and explained some of the basic techniques very clearly, he was very  patient. I learnt loads and felt the day was well worth it and great value. I am now looking forward to a 3 day workshop in the lakes. Thank you.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-03-11",
+          "datePublished": "2018-11-04",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Elaine Cash"
-          },
-          "reviewBody": "Joined Alan on a Batsford autumn colour workshop recently which was just lovely. My first visit to Batsford which is stunning,   Alan was very professional, helping us all with set ups and composition. He had his camera to “show” but all his attention was on the group. I learnt so much and although the sun didn’t appear, I now have the tools to use in the future, thanks to Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-02-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Goby"
-          },
-          "reviewBody": "A very interesting workshop at Batsford Arboretum. Well done for completing this in very challenging weather conditions.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-01-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Bean counter"
-          },
-          "reviewBody": "I recently attended one of Alan's workshops at Batsford Arboretum. The information that Alan provided in advance was very comprehensive, and included not just equipment required but also advice on clothing and food and drink. Not surprisingly, the theme of the workshop was 'Autumn leaves', and Alan started by stressing the importance of composition:no matter how expensive your kit or how technically skilled you are, these are of little value if what's in the frame is not interesting. After giving us some advice and a short demonstration he sent us off for half an hour to select our subject matter.  He then provided each of us with hands on guidance on how to take the best shots from both an artistic and technical point of view.  For example, he showed me some tricks available in my camera that I didn't know existed, and I'd never realized just how beautiful an oak leaf can be. In a few hours I learned a lot about photography in general and my camera's features in particular. For me, a very successful and inspiring day.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-11-10",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
           }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.96",
+        "ratingValue": "5.0",
         "reviewCount": 25
       },
       "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#product"

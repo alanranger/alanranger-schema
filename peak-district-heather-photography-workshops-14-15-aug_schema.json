@@ -474,6 +474,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Dave Bayley"
+          },
+          "reviewBody": "After booking the workshop with Alan Ranger for a local spot near me.  i found Alan to be very approachable and willing to help with any questions that i had.  The day i spent with Alan was great fun and i took a lot from the course to help better my hobby.  i would recommend any one of Alan's courses to any budding togger as i feel you would learn a lot no matter your skill set.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Trevor Davis"
           },
           "reviewBody": "I enjoyed a very informative day with Alan at Padley Gorge and Bolehill Quarry, picking up some fresh ideas that will help improve my photography. The workshop was very well organised.",
@@ -493,19 +512,19 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Bayley"
+            "name": "Inderjeet Boora"
           },
-          "reviewBody": "After booking the workshop with Alan Ranger for a local spot near me.  i found Alan to be very approachable and willing to help with any questions that i had.  The day i spent with Alan was great fun and i took a lot from the course to help better my hobby.  i would recommend any one of Alan's courses to any budding togger as i feel you would learn a lot no matter your skill set.",
+          "reviewBody": "The course was detailed with Alan having very good technique of teaching. He made me want to learn more. Thanks Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-02-11",
+          "datePublished": "2015-08-04",
           "publisher": {
             "@type": "Organization",
-            "name": "Google"
+            "name": "Trustpilot"
           }
         },
         {
@@ -521,26 +540,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2015-09-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Inderjeet Boora"
-          },
-          "reviewBody": "The course was detailed with Alan having very good technique of teaching. He made me want to learn more. Thanks Alan",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-04-08",
+          "datePublished": "2015-05-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

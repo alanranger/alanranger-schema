@@ -206,7 +206,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-11-09",
+          "datePublished": "2026-09-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kim pratt"
+          },
+          "reviewBody": "A wonderful experience, Alan is very knowledgeable man. I came away with  valuable knowledge to practice at home with how to work around Marco photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-11-08",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -235,25 +254,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "kim pratt"
-          },
-          "reviewBody": "A wonderful experience, Alan is very knowledgeable man. I came away with  valuable knowledge to practice at home with how to work around Marco photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-08-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "pyers tucker"
           },
           "reviewBody": "Great macro photography course with Alan for my first macro photographs, now posted on instragram. Good, helpful, understandable introduction then great location to practice, with Alan coming round regularly to see how getting on, look at images just taken, critique and suggest followed with quick review and comments on screen from memory card. Very helpful and productive day. Thank you Alan",
@@ -263,7 +263,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2024-11-06",
+          "datePublished": "2024-06-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -282,7 +282,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2024-11-06",
+          "datePublished": "2024-06-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -415,7 +415,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-08-06",
+          "datePublished": "2019-06-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -434,45 +434,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-08-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Richard Ambrose"
-          },
-          "reviewBody": "I found Alan to be highly a  competent tutor, easily approachable, knowledgeable and patient. An enjoyable and engaging experience.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-08-02",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Nick Board"
-          },
-          "reviewBody": "Excellent balance between theory and practical with level of detail of instruction to suit varying levels of expertise in the group Timings of session just right and good sense of humour!!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-08-02",
+          "datePublished": "2019-04-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -491,7 +453,45 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-08-02",
+          "datePublished": "2019-02-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick Board"
+          },
+          "reviewBody": "Excellent balance between theory and practical with level of detail of instruction to suit varying levels of expertise in the group Timings of session just right and good sense of humour!!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-02-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Ambrose"
+          },
+          "reviewBody": "I found Alan to be highly a  competent tutor, easily approachable, knowledgeable and patient. An enjoyable and engaging experience.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-02-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -510,7 +510,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-08-01",
+          "datePublished": "2019-01-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -529,7 +529,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-05",
+          "datePublished": "2018-05-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -158,25 +158,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Cross"
-          },
-          "reviewBody": "I recently attended Alan's \"Hartland Quay - Devon Seascapes\" workshop. I am a relative novice where photography is concerned but never felt out of place. Alan provides help with clear explanation and with honest feedback and guidance on how things can be improved. The workshop was a small group and Alan was able to give us all attention where and when needed. I learnt a lot over the course of three packed days of photo opportunities and I hope to attend another workshop in the future.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-11-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Penelope Ulander"
           },
           "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their potential dangers and swift tides was priceless for enjoying a stress free environment where safety is paramount. The curriculum has been painstakingly curated and pre-shoot briefs and post-shoot processing and feedback sessions are all part of a very well rounded workshop.",
@@ -196,6 +177,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Dave Cross"
+          },
+          "reviewBody": "I recently attended Alan's \"Hartland Quay - Devon Seascapes\" workshop. I am a relative novice where photography is concerned but never felt out of place. Alan provides help with clear explanation and with honest feedback and guidance on how things can be improved. The workshop was a small group and Alan was able to give us all attention where and when needed. I learnt a lot over the course of three packed days of photo opportunities and I hope to attend another workshop in the future.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Bassam Al Jazy"
           },
           "reviewBody": "I recently attended the Landscape Photography Devon Workshop with Mr. Alan Ranger, and it was an outstanding experience from start to finish. The workshop was well-organized, with a detailed schedule and excellent information about each location — including the best times for sunrise, sunset, high tide, and low tide. Everything we needed to know was clearly explained and thoughtfully planned.  The choice of locations was perfect for training and practice. Each spot offered unique opportunities to experiment with composition, light, and timing. I must admit, I learned a lot of useful techniques, creative ideas, and ways to think differently about each shot — especially the importance of being patient and waiting for the right moment.  There were only three of us in total, which made the experience even more personal and interactive. I also learned a great deal from my fellow participants. The commuting distances between locations were short and comfortable, and Alan proved to be not only an excellent tutor but also an excellent driver!  Overall, this workshop was both educational and inspiring. I’m truly grateful for the experience and hope to join Alan again for more workshops in other locations.",
@@ -205,7 +205,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-04-10",
+          "datePublished": "2025-10-04",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -224,7 +224,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-01-10",
+          "datePublished": "2025-10-01",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -243,7 +243,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-09-08",
+          "datePublished": "2021-08-09",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -262,7 +262,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-03-07",
+          "datePublished": "2020-07-03",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -281,7 +281,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-03-05",
+          "datePublished": "2020-05-03",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -300,7 +300,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-03-04",
+          "datePublished": "2020-04-03",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -319,7 +319,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-09-06",
+          "datePublished": "2019-06-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

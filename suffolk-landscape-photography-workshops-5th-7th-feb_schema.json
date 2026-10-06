@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "PAMELA DIGBY"
-          },
-          "reviewBody": "I recently attended a 3 day course with Alan in Southwold  I was keen to learn more about long exposure and the course fulfilled this  There was plenty of time for other genre .  I thoroughly recommend these short courses.  The accommodation was excellent. Pam",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-09-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Ian Blake"
           },
           "reviewBody": "It was a great weekend with Alan - a small group so we had plenty of space but still social. Alan was able to inspire me to extend my photography both in the type of shorts (minimalism), the angles that I choose and the technical details. Thanks!",
@@ -149,6 +130,25 @@
             "worstRating": "1"
           },
           "datePublished": "2024-03-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PAMELA DIGBY"
+          },
+          "reviewBody": "I recently attended a 3 day course with Alan in Southwold  I was keen to learn more about long exposure and the course fulfilled this  There was plenty of time for other genre .  I thoroughly recommend these short courses.  The accommodation was excellent. Pam",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-03-09",
           "publisher": {
             "@type": "Organization",
             "name": "Google"

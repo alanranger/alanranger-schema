@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in 1 x 2hr Private Photography Classes - Face to Face Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1 x 2hr Private Photography Classes - Face to Face Coventry is listed with a 2hr format, an in-person delivery format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 1 x 2hr Private Photography Classes - Face to Face Coventry online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1 x 2hr Private Photography Classes - Face to Face Coventry is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long is 1 x 2hr Private Photography Classes - Face to Face Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page describes this as a 2hr format."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/2hr-private-photography-classes-2hr#faq"
+}

@@ -362,26 +362,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2015-02-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "rbegg"
-          },
-          "reviewBody": "A worthwhile 3 hour session (with stretching breaks!). Whether you are a complete beginner or know a bit, like me, it helps to bring together the basics and give ideas to develop further. It give a good overview of the concept of photography, practical camera settings and picture composition.  It really consolidated bits I'd picked up along the way and motivates to move forward with some pointers and confidence.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-12-11",
+          "datePublished": "2015-12-02",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -400,7 +381,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2014-10-12",
+          "datePublished": "2014-12-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rbegg"
+          },
+          "reviewBody": "A worthwhile 3 hour session (with stretching breaks!). Whether you are a complete beginner or know a bit, like me, it helps to bring together the basics and give ideas to develop further. It give a good overview of the concept of photography, practical camera settings and picture composition.  It really consolidated bits I'd picked up along the way and motivates to move forward with some pointers and confidence.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-11-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

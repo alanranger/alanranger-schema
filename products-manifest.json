@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T08:55:26.736Z",
-  "totalProducts": 52,
+  "generatedAt": "2026-10-06T12:34:46.360Z",
+  "totalProducts": 54,
   "entries": [
     {
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
@@ -294,7 +294,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/2hr-private-photography-classes-2hr",
       "pathKey": "/photography-services-near-me/2hr-private-photography-classes-2hr",
       "schemaFileName": "1-x-2hr-private-photography-classes-face-to-face-coventry_schema.json",
-      "faqFileName": ""
+      "faqFileName": "1-x-2hr-private-photography-classes-face-to-face-coventry_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
@@ -312,6 +312,18 @@
       "url": "https://www.alanranger.com/photography-services-near-me/photography-masterclasses-coventry",
       "pathKey": "/photography-services-near-me/photography-masterclasses-coventry",
       "schemaFileName": "photography-masterclasses-learn-and-improve-your-photography_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photography-mentoring-online-assignments",
+      "pathKey": "/photography-mentoring-online-assignments",
+      "schemaFileName": "photography-mentor-online-monthly-mentoring_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/free-online-photography-course",
+      "pathKey": "/free-online-photography-course",
+      "schemaFileName": "free-online-photography-course_schema.json",
       "faqFileName": ""
     }
   ]

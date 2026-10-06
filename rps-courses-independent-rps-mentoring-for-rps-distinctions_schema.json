@@ -479,7 +479,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-11-06",
+          "datePublished": "2026-06-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -527,25 +527,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Barbara V"
-          },
-          "reviewBody": "Working towards a distinction I found mentoring with Alan extremely helpful, he is very knowledgeable about all aspects of photography and processing.  He worked with me at a pace which was just right for me.  I thoroughly recommend mentoring with Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-11-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Mary Hamilton"
           },
           "reviewBody": "I chose Alan Ranger for photography processing instruction because he produces images of exceptional quality.  I was pleasantly surprised to discover that Alan is an outstanding teacher.  Alan explains how I could improve my images, then demonstrates several methods of enhancement.  I can recommend Alan's course to any photographer who wishes to optimise their image processing workflow.",
@@ -556,6 +537,25 @@
             "worstRating": "1"
           },
           "datePublished": "2024-08-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara V"
+          },
+          "reviewBody": "Working towards a distinction I found mentoring with Alan extremely helpful, he is very knowledgeable about all aspects of photography and processing.  He worked with me at a pace which was just right for me.  I thoroughly recommend mentoring with Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-03-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -593,7 +593,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-11-08",
+          "datePublished": "2021-08-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -631,7 +631,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-07-08",
+          "datePublished": "2019-08-07",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -650,7 +650,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-07-06",
+          "datePublished": "2019-06-07",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

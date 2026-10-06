@@ -158,63 +158,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewBody": "A very pleasant evening in the Sunflower field.  Although the group got quite spread out doing their own thing, Alan ensured he found each of us over the course of the evening to give some composition feedback and ideas.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-09-06",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Norman"
-          },
-          "reviewBody": "Excellent tuition and location",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-09-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon Hill"
-          },
-          "reviewBody": "Great location. Struggled with the composition and settings but did receive some help and managed to come away with some reasonable images.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-09-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Tina Jackson"
           },
           "reviewBody": "Great evening shooting the poppyfields with Alan ready to give advice and tips without interfering, thanks Alan",
@@ -224,7 +167,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-11",
+          "datePublished": "2019-11-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -243,7 +186,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-11",
+          "datePublished": "2019-11-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -262,7 +205,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-10",
+          "datePublished": "2019-10-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -281,7 +224,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-10",
+          "datePublished": "2019-10-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -300,7 +243,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-08",
+          "datePublished": "2019-08-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice Jordan"
+          },
+          "reviewBody": "A very pleasant evening in the Sunflower field.  Although the group got quite spread out doing their own thing, Alan ensured he found each of us over the course of the evening to give some composition feedback and ideas.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-06-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -339,6 +301,44 @@
             "worstRating": "1"
           },
           "datePublished": "2019-06-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norman"
+          },
+          "reviewBody": "Excellent tuition and location",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-04-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon Hill"
+          },
+          "reviewBody": "Great location. Struggled with the composition and settings but did receive some help and managed to come away with some reasonable images.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-04-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
