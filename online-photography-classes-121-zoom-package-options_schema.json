@@ -81,7 +81,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Standard (Weekdays 9-5) - 1 x 1hr - Pay as you go    £50",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer1",
@@ -120,7 +120,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Standard (Weekdays 9-5) - 4 x 1hr (15% Off)          £170",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer2",
@@ -159,7 +159,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Standard (Weekdays 9-5) - 6 x 1hr (20% Off)          £240",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer3",
@@ -198,7 +198,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Standard (Weekdays 9-5) - 8 x 1hr (25% Off)          £300",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer4",
@@ -237,7 +237,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Standard (Weekdays 9-5) - 12 x 1hr (25% Off)         £450",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer5",
@@ -276,7 +276,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Premium (Eve/Weekend 9-9) - 1 x 1hr - Pay as you go  £75",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer6",
@@ -315,7 +315,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Premium (Eve/Weekend 9-9) - 4 x 1hr (15% Off)        £255",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer7",
@@ -354,7 +354,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Premium (Eve/Weekend 9-9) - 6 x 1hr (20% Off)        £360",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer8",
@@ -393,7 +393,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Premium (Eve/Weekend 9-9) - 8 x 1hr (25% Off)        £450",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer9",
@@ -432,7 +432,7 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-06",
+          "priceValidUntil": "2027-10-07",
           "name": "Zoom Premium (Eve/Weekend 9-9) - 12 x 1hr (25% Off)       £675",
           "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
           "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom#offer10",
@@ -613,6 +613,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-08-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john simpson"
+          },
+          "reviewBody": "Customer review available on Google",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-29",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -921,30 +940,12 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Emma Moxon"
-          },
-          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 25,
+        "reviewCount": 26,
         "bestRating": "5",
         "worstRating": "1"
       },

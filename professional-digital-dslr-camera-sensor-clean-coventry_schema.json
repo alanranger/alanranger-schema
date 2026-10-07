@@ -80,7 +80,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-10-06",
+        "priceValidUntil": "2027-10-07",
         "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
         "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#offer",
         "seller": {
@@ -154,44 +154,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kate Clay"
-          },
-          "reviewBody": "I attended the intro 3 week course and it was excellent. I have for a long time wanted to 'get off auto' and Alan made that possible and enjoyable. I have loved practising at during the week and have already booked back to come onto another course. Thank you 🙏",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
-          },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Szymon Dereg"
           },
           "reviewBody": "Great camera sensor clean service. Will be back!",
@@ -202,6 +164,25 @@
             "worstRating": "1"
           },
           "datePublished": "2026-07-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Graham Rousell"
+          },
+          "reviewBody": "I approached Alan because I was seeing dark spots appearing within my photographs.   It needed a sensor clean and although I could see various kits on-line advertised to do this I was not confident myself.  I'm pleased I did contact him, because for not much more than the cost of a kit I now have a completely clean sensor and no spots.  I cannot recommend his service enough!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-11-20",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -284,7 +265,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 9,
+        "reviewCount": 8,
         "bestRating": "5",
         "worstRating": "1"
       },
