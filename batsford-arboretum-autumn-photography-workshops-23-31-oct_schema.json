@@ -854,25 +854,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jill Bowman"
-          },
-          "reviewBody": "Customer review available on Google",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Simon Worledge"
           },
           "reviewBody": "Alan clearly has a great enthusiasm for photography that he loves to share. He easily adapts his teaching style to suit each person’s individual needs. (Now if he could just get a better line through to the weather gods…)",
@@ -1047,25 +1028,6 @@
             "name": "Dianne Morgan"
           },
           "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Atmos"
-          },
-          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1310,16 +1272,54 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Karen Skillings"
+            "name": "Morgan Andringa"
           },
-          "reviewBody": "Customer review available on Google",
+          "reviewBody": "Great afternoon with Alan. I have learnt lots and I am sure that my photos have been improved as a result.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2021-10-27",
+          "datePublished": "2021-10-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mandy Waters"
+          },
+          "reviewBody": "A great afternoon at Batsford Arboretum for the autumn workshop.  Alan was very helpful giving me ideas to improve my composition, assisting with my camera settings, answering any photography questions I had. A really enjoyable afternoon and look forward to going out to practice some new techniques and skills. Thanks again",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Di"
+          },
+          "reviewBody": "I had a fantastic day with Alan Ranger at Batsford. He packed so much into the day and explained some of the basic techniques very clearly, he was very  patient. I learnt loads and felt the day was well worth it and great value. I am now looking forward to a 3 day workshop in the lakes. Thank you.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-11-04",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1328,8 +1328,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 90,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },

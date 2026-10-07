@@ -679,6 +679,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Atmos"
+          },
+          "reviewBody": "I really enjoyed Alan’s beginner photography course. I have been taking photos for a couple of years but learned a lot in three sessions. I’m more informed on how to create better images now.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Ergin Taşdelen"
           },
           "reviewBody": "Great Photography lessons with Alan! The lessons were inspiring and well-structured. I learned new techniques that made a real difference in my photography.",
@@ -689,25 +708,6 @@
             "worstRating": "1"
           },
           "datePublished": "2025-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jack Ranger"
-          },
-          "reviewBody": "Customer review available on Google",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-05",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -945,7 +945,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 140,
+        "reviewCount": 142,
         "bestRating": "5",
         "worstRating": "1"
       },

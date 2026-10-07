@@ -192,25 +192,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jason"
-          },
-          "reviewBody": "I have just attended the 3hr beginner course and found it excellent. The delivery and passion for photography shown by Alan was evident throughout. I found the session informative and enjoyable and thoroughly recommend this course to anyone interested in starting a photography journey. I am looking forward to attending more courses and seeing where I can go.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-11-06",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Tessa Fletcher"
           },
           "reviewBody": "Very useful course, I wish I had gone on it before.",
@@ -265,7 +246,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 8,
+        "reviewCount": 7,
         "bestRating": "5",
         "worstRating": "1"
       },

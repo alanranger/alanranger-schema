@@ -1841,25 +1841,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jane Harris"
-          },
-          "reviewBody": "Customer review available on Google",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-04-22",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "John Duncombe"
           },
           "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
@@ -1965,6 +1946,25 @@
             "worstRating": "1"
           },
           "datePublished": "2019-09-05",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norman"
+          },
+          "reviewBody": "Excellent workshop in a great location.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-08-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

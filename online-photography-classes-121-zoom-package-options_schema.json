@@ -622,25 +622,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "john simpson"
-          },
-          "reviewBody": "Customer review available on Google",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-07-29",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Kirsty Lilley"
           },
           "reviewBody": "Alan is an intuitive, knowledgeable and thoughtful tutor. I have just completed 4 sessions as a beginner and can already see improvements in my photography skills.  I thoroughly enjoyed each session. They were all paced well and planned according to my levels and needs. There has been plenty of opportunities to ask questions and feedback was given at the start of each lesson on the previous weeks homework assignments. It has given me a new passion in photography and I look forward to continuing my journey. I would thoroughly recommend to anyone interested in developing their photography interest!",
@@ -936,6 +917,24 @@
             "worstRating": "1"
           },
           "datePublished": "2016-08-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emma Moxon"
+          },
+          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
