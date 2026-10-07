@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Irene Matthews"
-          },
-          "reviewBody": "Not a happy experience!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "1",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-12-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "James Cameron"
           },
           "reviewBody": "Alan is relatively not that well known and it is only time until he is. My advice to everyone reading this, is to book a session and approach it with an open mind and you will get tonnes of value from the time spent with him.",
@@ -232,8 +213,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.33",
-        "reviewCount": 6,
+        "ratingValue": "5.0",
+        "reviewCount": 5,
         "bestRating": "5",
         "worstRating": "1"
       },

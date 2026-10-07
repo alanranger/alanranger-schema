@@ -502,25 +502,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "David McGuire"
-          },
-          "reviewBody": "After completing the beginners course, I wasn't sure what do do next, so I signed up for some 1-2-1 sessions with Alan. His expertise and constructive critique during the first session enabled him to tailor a session suitable for me for No 2. We discussed black and white photography and concentrated on editing some of my previous shots using software add-ons to the Lightroom program, which I already use. While I am by no means anywhere near expert quality, Alans teaching style has given me the confidence to take my photography to the next level. Alan offers as many 1-2-1 sessions as you feel you will need, but for me, I have chosen to use my other 2 sessions in a workshop situation, allowing me to get out and about with other photographers in the field and learn more techniques with guidance from Alan. One real positive that has come from this was an immediate solution to a problem I had been suffering with my photo editing. This was due to Lightroom being updated recently and my Mac not being able to cope. Since upgrading my RAM, following Alans recommendation, the performance and speed of my software has been much improved, allowing my to spend more time doing decent edits instead of waiting like I was before. Many thanks for all your help so far, and looking forward to the next one.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-12-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Julie Emmanuel-Hunt"
           },
           "reviewBody": "I learn a lot from the get off auto course, I would recommend.  I would do the rest of course but it’s to far to drive",
@@ -706,12 +687,31 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Len Sutton"
+          },
+          "reviewBody": "The several courses I have done with Alan i.e.  a photography masterclass, Adobe Lightroom have all been educational, informational, and above all fun and enjoyable.  Alan goes beyond just the teaching of all aspects of photography but provides advice and support at whatever level of experience you are at.  I highly recommend any course with Alan and look forward to taking another course with him to improve, enhance my knowledge and ability on how to take a ' good photo' Len Sutton -  Birmingham - 06/04/18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-06-04",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.79",
-        "reviewCount": 47,
+        "ratingValue": "4.78",
+        "reviewCount": 46,
         "bestRating": "5",
         "worstRating": "1"
       },
