@@ -79,8 +79,8 @@
         "price": "360.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-10-07",
+        "validFrom": "2026-10-12",
+        "priceValidUntil": "2027-10-12",
         "name": "4 x 2hr sessions - weekday daytime",
         "priceSpecification": {
           "price": "360.00",
@@ -162,25 +162,6 @@
             "name": "Barbara Bett"
           },
           "reviewBody": "Recently two of us  had a  morning’s practical tuition with Alan at an outside location with the aim of improving our landscape photography. I appreciated that Alan pitched the level exactly as we had requested with challenges to make  the best possible image from the terrain in front of us, and suggestions on how to better our results. He answered our many questions with specific and considered replies.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-05-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "John Grubb"
-          },
-          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -476,8 +457,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 19,
+        "ratingValue": "4.94",
+        "reviewCount": 18,
         "bestRating": "5",
         "worstRating": "1"
       },

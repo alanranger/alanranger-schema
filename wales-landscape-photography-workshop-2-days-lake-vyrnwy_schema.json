@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Wales Photography Workshop | Lake Vyrnwy 10 – 11 Oct",
+          "name": "Wales Landscape Photography Workshop - 2 Days Lake Vyrnwy",
           "item": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "WALES Photography Workshop | Lake Vyrnwy 10-11 Oct",
+      "name": "WALES Landscape Photography Workshop - 2 Days Lake Vyrnwy",
       "sku": "SQ5697158",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-Wales Location: Wales - Dee Valley Dates: Sat 10 th - Sun 11 th Oct 2026 - 2 Days/1 Night Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Wales Photography Workshop Event Details Lake Vyrnwy Description: This is a 2-day, 1-night residential Wales photography workshop based in the valleys of Mid-Wales, open to all levels from beginner to advanced. It's built around two of the country's most rewarding landscape...",
+      "description": "Join me for this fantastic Wales photography workshop of woodlands, lakes and waterfalls in Mid-Wales Location: Wales - Lake Vyrnwy & Pistyll Rhaeadr, Powys Dates: Sat 13 th - Sun 14 th Mar 2027 - 2 Days/1 Night Participants: Max 4 (1 Car, transport between locations included)Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Wales Photography Workshop Event Details Lake Vyrnwy Description: This is a 2-day, 1-night residential Wales photography workshop based in the valleys of Mid-Wales, open to all levels from beginner to advanced....",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714636535694-5SWM865PVWA9MMT8LCQB/Dawn+at+Lake+Vyrnwy_.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "offers": {
@@ -79,8 +79,8 @@
         "price": "695.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-10-07",
+        "validFrom": "2026-10-12",
+        "priceValidUntil": "2027-10-12",
         "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
         "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#offer",
         "seller": {
@@ -116,6 +116,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "lonnie morris"
+          },
+          "reviewBody": "I love Alan's workshops.  I've been to 2 3day workshops. Alan is helpful when you need it but let's you get on with it at other times. I have learnt a lot from his sessions and enjoyed them. His feedback is valuable. He's well organised and thorough. His work before the workshops makes for a really good experience.  He chooses nice places to stay and the social aspect is good too. I'd recommend the workshops although the Gower in June is going to be a challenge because of the time of year. Although it's nicer to stand outdoors in the summer, workshops in autumn and winter would be my preference. Anyway, if you're thinking of booking or buying a gift for someone.....do it!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-02-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Graham Ibbetson"
           },
           "reviewBody": "As always great experience with a great teacher. Alan is very patient and really helps you learn. Learned a great deal on this course both in camera and post processing",
@@ -129,6 +148,44 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice Jordan"
+          },
+          "reviewBody": "A very pleasant evening in the Sunflower field.  Although the group got quite spread out doing their own thing, Alan ensured he found each of us over the course of the evening to give some composition feedback and ideas.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-06-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon Hill"
+          },
+          "reviewBody": "Great location. Struggled with the composition and settings but did receive some help and managed to come away with some reasonable images.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-04-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
           }
         },
         {
@@ -189,8 +246,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 4,
+        "ratingValue": "4.86",
+        "reviewCount": 7,
         "bestRating": "5",
         "worstRating": "1"
       },

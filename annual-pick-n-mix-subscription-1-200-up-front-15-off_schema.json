@@ -56,35 +56,35 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Quarterly Pick N Mix Subscription | Interest Free Payments",
-          "item": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription"
+          "name": "Annual Pick N Mix Subscription | £1,200 Up-Front, 15% Off",
+          "item": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription"
         }
       ],
-      "@id": "https://www.alanranger.com/quarterly-pick-n-mix-subscription#breadcrumbs"
+      "@id": "https://www.alanranger.com/annual-pick-n-mix-subscription#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "Quarterly Pick N Mix Subscription | Interest Free Payments",
-      "sku": "SQ4217445",
+      "name": "Annual Pick N Mix Subscription | £1,200 Up-Front, 15% Off",
+      "sku": "SQ0754560",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Quarterly Pick N Mix Subscription Package. 15% Discount on events/services for one year | Interest Free Payment Plan | Take events or lessons immediately |",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/fbab50ee-2fe8-4fe9-8804-e691b883cf4b/Photography+Payment+Plan.png",
-      "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
+      "description": "Annual Pick N Mix Subscription: pay once up-front, from £1,200, for your first year of photography development. 15% off courses, workshops and 1-to-1 s, 4 one-hour quarterly 1-2-1 reviews and free Photography Academy membership for 12 months",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/4c6bb1a6-8752-4aea-a250-484fb1acdf75/Photography+Payment+Plan.png",
+      "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ4217445",
-          "price": "250.00",
+          "sku": "SQ0754560",
+          "price": "1200.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x £250 = £1000",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer1",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "1 x £1200 = £1200",
+          "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+          "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -115,15 +115,15 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ6277577",
-          "price": "300.00",
+          "sku": "SQ7502565",
+          "price": "1500.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x £300 = £1200",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer2",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "1 x £1500 = £1500",
+          "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+          "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer2",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -154,15 +154,15 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ7788516",
-          "price": "350.00",
+          "sku": "SQ1485137",
+          "price": "2000.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x £350 = £1400",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer3",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "1 x £2000 = £2000",
+          "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+          "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -193,93 +193,15 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5124608",
-          "price": "400.00",
+          "sku": "SQ7001156",
+          "price": "2500.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x 400 = £1600",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer4",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ2657628",
-          "price": "500.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x £500 = £2000",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer5",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ2267503",
-          "price": "750.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "4 x £750 = £3000",
-          "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
-          "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#offer6",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "1 x £2500 = £2500",
+          "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+          "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#offer4",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -314,33 +236,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Bob Peapell"
+            "name": "Tre Buck"
           },
-          "reviewBody": "The two day workshop held in the Lakes ticked all the boxes for photo techniques and more importantly for me offered an introduction to composition. I have enjoyed my photography for many years but knew that I need to understand the art rather than the technical side of image making. Alan was able to introduce the art side whilst relating to the technical so a win win situation for me. I am now looking forward to improving my compositional skills alongside Alan over the coming twelve months. A great weekend photo experience that i would recommend to others.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jennifer"
-          },
-          "reviewBody": "If you wanted a overview to a camera course this is the course to do,  It was at levels anyone could understand and all questions answered nothing was missed.  Gave clear and concise information relating to camera workings.  Left you wanting to know more.  Would recommend this to anyone",
+          "reviewBody": "I used to shoot everything on auto settings. Aperture and shutter speeds were a mystery to me. I was always disappointed when I tried to capture pretty Christmas lights. Pinpoints of light in a sea of black, not what I was after at all. Then I took some classes. My camera no longer sits unloved and unused. Settings are unlocked, a whole new world of photography opened up. Definitely courses well worth doing",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2014-09-11",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -350,9 +255,27 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mark Whitticase"
+            "name": "Kim Moorman"
           },
-          "reviewBody": "This course is excellent for anybody who wants to get away from using the automatic mode of the camera and start to understand the basic concepts of photography.  Alan's delivery style is really engaging and enjoyable - highly recommended!",
+          "reviewBody": "It was a good introductory course but I found it a bit too technical. I only have a pretty basic camera and would have liked to hear more about the design element of photography (which I appreciate is covered on the 4 week course). Alan is nice but can sometimes be a bit too opinionated!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sew Laces"
+          },
+          "reviewBody": "Great 3hr introductory course to beginners photography! Enjoyed it so much have enrolled on a further course with Alan. Simple but complex, Alan shared his knowledge & passion and the technical stuff was broken down for all to understand. Highly recommended!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -367,12 +290,12 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.67",
+        "ratingValue": "4.33",
         "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },
-      "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription#product"
+      "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription#product"
     }
   ]
 }

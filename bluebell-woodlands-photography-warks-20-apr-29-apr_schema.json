@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Bluebell Woodlands Photography - Warks - 20 Apr - 30 Apr",
+          "name": "Bluebell Woodlands Photography - Warks - 20 Apr - 29 Apr",
           "item": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 30 Apr",
+      "name": "BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr",
       "sku": "SQ8599409",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Bluebell woodlands photography workshop - Choose a sunrise or mid-morning 4 hr bluebell photography shoot or both sessions at this private bluebell woodland with exclusive access Summary Location: Warwickshire (Near Stratford Upon Avon)Dates (are subject to the timing of the bluebell flowering and their peek display - you will be contacted nearer the time to consider alt-dates, please pick your initial first date choice but be flexible if nearer the time it needs to change)Tue-20-Apr-27 Wed-21-Apr-27 Thu-22-Apr-27 Fri-23-Apr-27 Sat-24-Apr-27 Sun-25-Apr-27 Mon-26-Apr-27 Tue-27-Apr-27...",
+      "description": "Bluebell woodlands photography workshop - Choose a sunrise or mid-morning 4 hr bluebell photography shoot or both sessions at this private bluebell woodland with exclusive access Summary Location: Warwickshire (Near Stratford Upon Avon)Dates (are subject to the timing of the bluebell flowering and their peek display - you will be contacted nearer the time to consider alt-dates, please pick your initial first date choice but be flexible if nearer the time it needs to change)Tue-20-Apr-27 Thu-22-Apr-27 Sat-24-Apr-27 Sun-25-Apr-27 Tue-27-Apr-27 Thu-29-Apr-274 hrs - 5:45 am to 9:45 am or 10:30 am...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707309659883-DPISYTNT0T584VPXCK39/bluebell+photography+workshops.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Tue 20 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Tue 20 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Tue 20 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -205,13 +205,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ8437523",
+          "sku": "SQ1660230",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 21 Apr - 5:45am - 09:45am",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Thu 22 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -248,13 +248,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ8685603",
+          "sku": "SQ1568285",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 21 Apr - 10:30am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Thu 22 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -291,13 +291,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ1561078",
+          "sku": "SQ5411810",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 21 Apr All day - 5:45am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Thu 22 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -334,13 +334,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ1660230",
+          "sku": "SQ1318075",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Thu 22 Apr - 5:45am - 09:45am",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sat 24 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -377,13 +377,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ1568285",
+          "sku": "SQ8270632",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Thu 22 Apr - 10:30am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sat 24 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -420,13 +420,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5411810",
+          "sku": "SQ4260038",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Thu 22 Apr All day - 5:45am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sat 24 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -463,13 +463,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5831738",
+          "sku": "SQ6145280",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 23 Apr - 5:45am - 09:45am",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sun 25 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -506,13 +506,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ3014350",
+          "sku": "SQ2267773",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 23 Apr - 10:30am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sun 25 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -549,13 +549,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ5312475",
+          "sku": "SQ2428415",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 23 Apr All day - 5:45am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Sun 25 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -592,13 +592,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ1318075",
+          "sku": "SQ1102782",
           "price": "99.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 24 Apr - 5:45am - 09:45am",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Tue 27 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -635,13 +635,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ8270632",
+          "sku": "SQ5885147",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 24 Apr - 10:30am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Tue 27 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -678,13 +678,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ4260038",
+          "sku": "SQ3102560",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 24 Apr All day - 5:45am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Tue 27 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
@@ -721,13 +721,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ6145280",
+          "sku": "SQ7100218",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sun 25 Apr - 5:45am - 09:45am",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Thu 29 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -764,13 +764,13 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ2267773",
+          "sku": "SQ2446216",
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sun 25 Apr - 10:30am - 14:30pm",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
+          "name": "Thu 29 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
             "priceCurrency": "GBP"
@@ -807,664 +807,19 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ2428415",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sun 25 Apr All day - 5:45am - 14:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer18",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ6117337",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Mon 26 Apr - 5:45am - 09:45am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer19",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ8500857",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Mon 26 Apr - 10:30am - 14:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer20",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1516510",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Mon 26 Apr All day - 5:45am - 14:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer21",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1102782",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Tue 27 Apr - 5:45am - 09:45am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer22",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ5885147",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Tue 27 Apr - 10:30am - 14:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer23",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ3102560",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Tue 27 Apr All day - 5:45am - 14:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer24",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1465142",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 28 Apr - 5:45am - 09:45am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer25",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1264314",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 28 Apr - 10:30am - 14:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer26",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ8706845",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Wed 28 Apr All day - 5:45am - 14:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer27",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ7100218",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Thu 29 Apr - 5:45am - 09:45am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer28",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ2446216",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Thu 29 Apr - 10:30am - 14:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer29",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
           "sku": "SQ3086312",
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Thu 29 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer30",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1353684",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30 Apr - 5:45am - 09:45am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer31",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ0574386",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30 Apr - 10:30am - 14:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer32",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ2004510",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30 Apr All day - 5:45am - 14:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer33",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#offer18",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -1879,6 +1234,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Astrid L"
+          },
+          "reviewBody": "My workshop experience with Alan was educational and enjoyable.  I particularly appreciated the unhurried pace, the encouragement to soak up our surroundings and to really think about composition found in nature's framing. I would definitely recommend regardless of your level of experience.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2023-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Ian Hope"
           },
           "reviewBody": "Recently attended a workshop in private bluebell woods with Alan. This gave us extensive photo opportunities in an area usually closed to the public. Alan talked us through a variety of technical and compositional suggestions before letting us loose (with due regard to the environment). Alan was on hand to give constructive critical advice as needed.",
@@ -1950,31 +1324,12 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Con McHugh"
-          },
-          "reviewBody": "I am really enjoying the Intentions course focusing on the homeless",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-09-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.85",
-        "reviewCount": 65,
+        "reviewCount": 66,
         "bestRating": "5",
         "worstRating": "1"
       },

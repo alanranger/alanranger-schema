@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Norfolk Landscape Photography Workshop - Coastal 20 – 22 Nov",
+          "name": "Norfolk Landscape Photography Workshop - 3 Days near Cromer",
           "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
         }
       ],
@@ -64,27 +64,23 @@
     },
     {
       "@type": "Product",
-      "name": "NORFOLK Landscape Photography Workshop  - Coastal 20 - 22 Nov",
+      "name": "NORFOLK Landscape Photography Workshop - 3 Days near Cromer",
       "sku": "SQ8747213",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Landscape Photography Workshop Norfolk - Coastal Photography Based Nr Cromer Summary - Norfolk Photography Workshop Location: North Norfolk Coast - Cromer Area Dates: Fri 20 th, 09:30 am - Sun 22 nd Nov 2026, 14:00 - 3 Days/2 Nights Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Norfolk Description: This is a 3-day, 2-night residential landscape photography workshop on the beautiful North Norfolk coast, based near Cromer — open to all levels from beginner to advanced. North...",
+      "description": "Landscape Photography Workshop Norfolk - Coastal Photography Based Nr Cromer Summary - Norfolk Photography Workshop Location: North Norfolk Coast - Cromer Area Dates: Fri 20 th, 09:30 am - Sun 22 nd Nov 2026, 14:00 - 3 Days/2 Nights Participants: Max 4 (1 Car, transport between locations included)Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Norfolk Description: This is a 3-day, 2-night residential landscape photography workshop on the beautiful North Norfolk coast, based near Cromer — open to...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/e301c931-8fdc-4ff0-bc78-618aea6241a1/Norfolk+Nov+2024+-+%2303.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
       "offers": {
         "@type": "Offer",
         "sku": "SQ8747213",
-        "price": "1025.00",
+        "price": "1075.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-10-07",
-        "priceSpecification": {
-          "price": "1025.00",
-          "priceCurrency": "GBP"
-        },
+        "validFrom": "2026-10-12",
+        "priceValidUntil": "2027-10-12",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk#offer",
         "seller": {

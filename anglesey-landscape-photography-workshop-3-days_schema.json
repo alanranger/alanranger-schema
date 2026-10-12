@@ -56,33 +56,33 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Yorkshire Dales Landscape Photography Workshop - 16 – 18 Apr",
-          "item": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
+          "name": "Anglesey Landscape Photography Workshop - 3 days",
+          "item": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
         }
       ],
-      "@id": "https://www.alanranger.com/yorkshire-dales-photography-workshops#breadcrumbs"
+      "@id": "https://www.alanranger.com/landscape-photography-workshops-anglesey#breadcrumbs"
     },
     {
       "@type": "Product",
-      "name": "YORKSHIRE DALES Landscape  Photography Workshop - 16 - 18 Apr",
-      "sku": "SQ9211910",
+      "name": "ANGLESEY Landscape Photography Workshop -  3 days",
+      "sku": "SQ8503376",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Yorkshire Dales Photography Workshop - Join me for this fantastic landscape workshop on limestone pavements and waterfalls.Summary Location: Yorkshire Dales Dates: Fri 16 th - Sun 18 th Apr 2027 - 3 Days/2 Nights Participants: Max 4 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Yorkshire Dales Description: This is a 3-day, 2-night residential landscape photography workshop in the Yorkshire Dales — one of England's most iconic and varied landscapes, open to all levels from beginner to...",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1714659095505-TB874TXCA6ADNDFC82FX/Muker+%2302+-+July+2021.jpg",
-      "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
+      "description": "Join me for this exciting Anglesey landscape photography workshop, where we will shoot along the stunning coastline features to capture breathtaking vistas that showcase the natural beauty surrounding the shorelines and iconic lighthouses.Summary - Anglesey Photography Workshop Location: Wales - Anglesey Island Dates: Fri 14 th May 15:00 - Sun 16 th May 14:00, 2027 Duration: 3 Days/2 Nights Participants: Max 4 (1 Car, transport between locations included)Fitness: 2. Moderate (15-30 min walks)Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod...",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1707225841274-TEMCPAEP5DHDVCBJP2RD/anglesey+photography+workshop.jpg",
+      "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
       "offers": {
         "@type": "Offer",
-        "sku": "SQ9211910",
-        "price": "895.00",
+        "sku": "SQ8503376",
+        "price": "975.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-09-29",
-        "priceValidUntil": "2027-10-07",
-        "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
-        "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#offer",
+        "validFrom": "2026-10-12",
+        "priceValidUntil": "2027-10-12",
+        "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
+        "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -116,16 +116,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sofiagzagdo"
+            "name": "Michael White"
           },
-          "reviewBody": "This is a great photography course! I had very little knowledge about photography and a lot of questions… Alan is super knowledgeable, patient and takes the time to answer and explain all your doubts. The main focus of the session concentrated on composition which I throughly enjoyed and wished to learn. I can’t wait to take another of Alan’s courses and continue learning more especially his Lightroom knowledge. Extremely well thought out course and great teacher.",
+          "reviewBody": "My wife and I want to offer our highest recommendations for Alan Ranger’s workshop in Anglesey, Wales. The sites to which Alan guided us were spectacular, the included accommodations were very pleasant, his photographic instruction was excellent, and the entire trip was meticulously planned and executed.  Alan approaches photography as an art, an art that is mediated by technology, but nonetheless an art. Thus, much of the workshop involved developing artistic appreciations of the landscape. Technical questions were certainly addressed, but the core of the workshop was concerned with how to best represent the beauty that we saw. And we saw a great deal of beauty. As much as I enjoyed the photography, the experience of watching the day break on a beautiful Welch beach would have been worth the price of admission. Back in London we spoke with someone who grew up on Anglesey. When we told him where Alan had taken us, he said that these were the places he would have gone. You will not be disappointed.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-02",
+          "datePublished": "2026-05-20",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -135,16 +135,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Chris Stamp"
+            "name": "Mattia Tosi"
           },
-          "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
+          "reviewBody": "I would recommend Alan to everyone! I've done the Beginner's Photography course, the Lightroom course and two workshops and thanks to these and Alan's coaching and honest feedback, my photography improved significantly. Thanks Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-13",
+          "datePublished": "2021-09-13",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -154,16 +154,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nicola"
+            "name": "Janice Jordan"
           },
-          "reviewBody": "Went through the basics to introduce you to photography and you can either sign on to continue the course over the next few weeks with Alan or get out there and start snapping. He is very enthusiastic and passionate about photography and it is impossible not to let it rub off on you. Really enjoyed it!",
+          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2016-12-09",
+          "datePublished": "2019-07-03",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -173,49 +173,31 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Martin Chidgey"
+            "name": "Joyce James"
           },
-          "reviewBody": "Alan's obvious enthusiasm and creativity made for a really interesting and informative evening.  The session was well timed with well spaced breaks. The information covered was presented in an interesting way with lots of examples to illustrate the points made.  I felt enthused to go out and take more photos but in a more considered and thoughtful way. I certainly want to learn more about how I can make better use of my camera.",
+          "reviewBody": "Just back from an excellent 3 day workshop in Northumbria. Alan really made the most of the wild and windy conditions and chose great locations to provide opportunities to learn more about fairly advanced techniques such as long exposures, bracketing and taking more than one shot to subsequently 'mask' in photoshop. A fantastic learning experience and great fun! Thanks Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2016-08-01",
+          "datePublished": "2018-10-16",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Michael Bulman"
+            "name": "Allison T"
           },
-          "reviewBody": "Having just changed over from film to digital I realised that I missed a lot by using film but now hope to apply all knowledge, help and information that you gave.",
+          "reviewBody": "Excellent guidance and advice. Good briefings pre and post shoot. Clear joining instructions Would have appreciated more time one on one as when you get it it’s worthwhile. Acknowledge that’s hard in a group though.",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Whiting"
-          },
-          "reviewBody": "A well paced 3 hour workshop which took us through an introduction to some of the key pillars behind digital photography - both technical and creative.    Alan delivered the session in an engaging and informative manner and I took away a number of thoughts and principles to practice and use in order to improve my photography.  Found his analogies and examples really useful to help my understanding.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
+            "ratingValue": "4",
             "bestRating": "5",
             "worstRating": "1"
           },
@@ -228,9 +210,45 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex Rodgers"
+            "name": "Mosie"
           },
-          "reviewBody": "A great evening class to introduce the basics of digital photography.",
+          "reviewBody": "A great few informative days With Alan in Wales on a workshop.  Alan managed to find places to photograph despite the dreadful weather.  Will definitely book to go on another workshop.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy Troth"
+          },
+          "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Blake"
+          },
+          "reviewBody": "Had a great weekend, saw some fantastic locations. The midday light was quite harsh but Alan planned it well to make the most of locations according to light and tide. I like having the weekend off driving, it was nice to be able to relax and be ferried between locations! Top picture from Llanddwyn Island.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -245,12 +263,12 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": 7,
+        "ratingValue": "4.75",
+        "reviewCount": 8,
         "bestRating": "5",
         "worstRating": "1"
       },
-      "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#product"
+      "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#product"
     }
   ]
 }

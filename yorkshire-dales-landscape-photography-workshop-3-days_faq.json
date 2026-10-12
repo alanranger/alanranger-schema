@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for YORKSHIRE DALES Landscape Photography Workshop - 3 Days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 5 Feb 2027, 2 Apr 2027, 16 Apr 2027, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of YORKSHIRE DALES Landscape Photography Workshop - 3 Days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 4 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is YORKSHIRE DALES Landscape Photography Workshop - 3 Days aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does YORKSHIRE DALES Landscape Photography Workshop - 3 Days take place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "YORKSHIRE DALES Landscape Photography Workshop - 3 Days is listed with location details for Yorkshire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is YORKSHIRE DALES Landscape Photography Workshop - 3 Days suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Get Access to Free Online Course Sign up with your email address to access the Academy 101 Foundation Photography Course First Name Last Name Email Address Join today We respect your privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for YORKSHIRE DALES Landscape Photography Workshop - 3 Days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £895.00 / £150.00 / £175.00, with options visible at checkout."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in YORKSHIRE DALES Landscape Photography Workshop - 3 Days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Summary Location: Yorkshire Dales Dates: Fri 16th - Sun 18th Apr 2027 - 3 Days/2 Nights Participants: Max 4 (1 Car, transport between locations included) Fitness: 3."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#faq"
+}

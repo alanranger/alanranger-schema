@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What dates are currently listed for BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed dates include 16 Oct 2026, 6 Nov 2026, 4 Dec 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 9:45 to 10:30."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many participants are in each session of BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The page indicates a maximum of 6 participants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What experience level is BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This is described as suitable for Beginners photographers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr online or in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr is presented as an in-person format."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless..."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What price options are shown for BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current listed prices start from £99.00 / £150.00 / £175.00, with options visible at checkout."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops#faq"
+}

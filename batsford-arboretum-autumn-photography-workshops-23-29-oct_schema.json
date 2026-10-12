@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Batsford Arboretum Autumn Photography Workshops 23 – 31 Oct",
+          "name": "Batsford Arboretum Autumn Photography Workshops 23 – 29 Oct",
           "item": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
         }
       ],
@@ -64,13 +64,13 @@
     },
     {
       "@type": "Product",
-      "name": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct",
+      "name": "BATSFORD Arboretum Autumn Photography Workshops 23 - 29 Oct",
       "sku": "SQ0818501",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Batsford Arboretum Photography Workshops in autumn. Enjoy the colour and expert photographic guidance | Half or One Day Sessions | Any Level and Camera Summary Location: Batsford Arboretum - Gloucestershire Dates: Fri 23 Oct – Sat 31 Oct 2026 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera Photography Workshop Event Batsford Arboretum Description: For nearly fifteen years I've returned to Batsford Arboretum each autumn, and in that time I've come to know every corner of it — which spot works at which hour, where the light...",
+      "description": "Batsford Arboretum Photography Workshops in autumn. Enjoy the colour and expert photographic guidance | Half or One Day Sessions | Any Level and Camera Summary Location: Batsford Arboretum - Gloucestershire Dates: Fri 23 Oct –Thu 29 2026 Participants: Max 6 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera Photography Workshop Event Batsford Arboretum Description: For nearly fifteen years I've returned to Batsford Arboretum each autumn, and in that time I've come to know every corner of it — which spot works at which hour, where the light...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1715155253660-I9BNV2CJV5TPWB56WH93/Batsford+Autumn+7.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
       "offers": [
@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Fri 23  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Fri 23 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Fri 23 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sat 24  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sat 24 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sat 24 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sun 25 Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sun 25 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Sun 25 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Thu 29  Oct 2026 AM - 8am - 11:30am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Thu 29 Oct 2026 PM - 12pm - 3:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Thu 29 Oct 2026 All Day -8am - 3:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -562,264 +562,6 @@
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer12",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ0732756",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30  Oct 2026 AM - 8am - 11:30am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer13",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ6382131",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30 Oct 2026 PM - 12pm - 3:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer14",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ4533936",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Fri 30 Oct 2026 All Day -8am - 3:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer15",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ4668363",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 31  Oct 2026 AM - 8am - 11:30am",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer16",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ5203247",
-          "price": "99.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 31 Oct 2026 PM - 12pm - 3:30pm",
-          "priceSpecification": {
-            "price": "99.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer17",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ1249736",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
-          "name": "Sat 31 Oct 2026 All Day -8am - 3:30pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer18",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -930,25 +672,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ross HK"
-          },
-          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Neil W"
           },
           "reviewBody": "Recently I attended a photography workshop with Alan at Batsford Arboretum.  The focus of the session concentrated on composition, aiming to make you think about the photograph you have in mind.  Alan has a wealth of knowledge and has the knack of being able to explain topics in an easy to understand way pitching at the right level - he’s very happy to take questions and encourages engagement.  A very positive experience, I enjoyed my afternoon taking on board the hints and tips that Alan provided.  Thank you.",
@@ -968,16 +691,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Tim Chance"
+            "name": "Ross HK"
           },
-          "reviewBody": "Great experience in a lovely location at Batsford Arboretum photographing the amazing autumn colours. Alan knows his stuff and the arboretum well so was able to guide us to some great locations and offer tips on composition, light and observation.",
+          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-10-24",
+          "datePublished": "2025-10-25",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -1006,9 +729,28 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dr. Yumna I S"
+            "name": "Tim Chance"
           },
-          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
+          "reviewBody": "Great experience in a lovely location at Batsford Arboretum photographing the amazing autumn colours. Alan knows his stuff and the arboretum well so was able to guide us to some great locations and offer tips on composition, light and observation.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dianne Morgan"
+          },
+          "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1025,9 +767,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dianne Morgan"
+            "name": "Dr. Yumna I S"
           },
-          "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
+          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1177,9 +919,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Nick F"
+            "name": "Linda Newbery"
           },
-          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
+          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1196,9 +938,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Hardwick"
+            "name": "Nick F"
           },
-          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
+          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1234,9 +976,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Linda Newbery"
+            "name": "Ian Hardwick"
           },
-          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
+          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

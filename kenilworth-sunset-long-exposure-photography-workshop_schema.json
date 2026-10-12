@@ -80,8 +80,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Mon 22 Mar 2027 - 18:00 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -123,8 +123,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Wed 14 Apr 2027 - 18:30 - 20:30",
           "priceSpecification": {
             "price": "50.00",
@@ -166,8 +166,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Wed 5 May 2027 - 18:00 - 20:00",
           "priceSpecification": {
             "price": "50.00",
@@ -209,8 +209,8 @@
           "price": "50.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-09-29",
-          "priceValidUntil": "2027-10-07",
+          "validFrom": "2026-10-12",
+          "priceValidUntil": "2027-10-12",
           "name": "Wed 22 Sep 2027 - 17:45 - 19:45",
           "priceSpecification": {
             "price": "50.00",
@@ -252,9 +252,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Simon Chatterley"
+            "name": "Sam Franklin"
           },
-          "reviewBody": "Had a great evening with Alan at kennelworth castle long exposure workshop. It gave me a new insight to my photography and helped me unlock settings and gave me help with composition of shots. Would highly recommend",
+          "reviewBody": "Had a fantastic experience during the photography workshop at Kenilworth Castle.  Alan is very knowledgeable and easy to talk to!  Will be looking to book another session in the future.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -271,9 +271,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sam Franklin"
+            "name": "Simon Chatterley"
           },
-          "reviewBody": "Had a fantastic experience during the photography workshop at Kenilworth Castle.  Alan is very knowledgeable and easy to talk to!  Will be looking to book another session in the future.",
+          "reviewBody": "Had a great evening with Alan at kennelworth castle long exposure workshop. It gave me a new insight to my photography and helped me unlock settings and gave me help with composition of shots. Would highly recommend",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
