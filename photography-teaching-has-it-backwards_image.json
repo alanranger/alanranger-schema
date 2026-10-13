@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-teaching-has-it-backwards#primaryimage",
+  "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6ace891c2f1ce9246e10a2f5/1791929327829/Grasmere+%2301+-+Sep+2021.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Photography Teaching: Why Most Of It Has It Backwards",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
