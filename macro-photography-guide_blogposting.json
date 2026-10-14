@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-guide#blogposting",
   "headline": "Macro Photography Guide: 1-Page Field Checklist PDF",
   "alternativeHeadline": "Macro Photography Guide: 1-Page Field Checklist PDF | Alan Ranger Photography",
-  "description": "Macro Photography Guide checklist to improve composition, focus and depth of field, manage light and backgrounds, and capture detailed close-ups every time.",
+  "description": "A one-page field checklist covering Macro for photographers.",
   "url": "https://www.alanranger.com/blog-on-photography/macro-photography-guide",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "Macro Photography Guide: 1-Page Field Checklist PDF 1-page field checklistsAlan Ranger 2 January 2026 photography genre guide",
-  "wordCount": 17,
+  "articleBody": "A one-page field checklist covering Macro for photographers.",
+  "wordCount": 8,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-guide#primaryimage"
   },
@@ -26,11 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/macro-photography-guide#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Photography"
-    }
-  ]
+  }
 }
