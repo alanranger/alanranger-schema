@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem",
+  "name": "Photography Gear Isn't The Problem — It's Your Composition",
+  "description": "A good photograph isn't the one Instagram likes — it's the one that meets a standard you set before you touch a slider. The case for owning your finish line.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#blogposting"
+  }
+}
