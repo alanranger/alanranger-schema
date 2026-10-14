@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/youtube-photography-cant-replace-teaching#howto",
+  "name": "Why YouTube Photography Tutorials Can't Replace Teaching",
+  "description": "YouTube photography tutorials show you how to use a camera. They can't see your photographs, so they can't tell you what's wrong with them. Here's the gap.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/youtube-photography-cant-replace-teaching#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "No sequence",
+      "text": "The algorithm doesn't serve you what you need next; it serves you what keeps you watching. Those aren't the same thing, and they're sometimes opposites. Learning needs ordering — this before that, foundations before refinements — and the recommendation engine is structurally incapable of providing it, because it doesn't know what you can already do. It only knows what you clicked."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "No feedback",
+      "text": "This is the heart of it. A tutorial with ten million views contains not one second of footage of your photographs. The presenter cannot look at the frame you made yesterday and ask the only question that matters: what were you trying to say? They can't see that your horizons lean, that your edges are cluttered, that the picture you're proudest of has a lamppost growing out of your subject's head. Watching someone correct their work teaches you remarkably little about correcting yours."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "No test",
+      "text": "Here's the trap nobody warns you about: understanding a video and being able to do the thing are two different achievements — and they feel identical from the sofa. You watch a video on metering a backlit scene, follow every word, and come away with the warm sense of having learned. Whether you actually have only reveals itself on a hillside, against a real backlit scene, with no pause button. Educationalists call the missing piece retrieval : knowledge isn't yours until you've had to produce it, not merely recognise it. A pile of watched videos contains no gates. Nothing ever asks you to p..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "No progression",
+      "text": "No \"you are here\". No \"do this next\". Just an infinite buffet and a creeping, unspecific sense that you ought to be better by now. I suspect this — more than any gap in knowledge — is what wears people down. They aren't short of information. They're short of a map."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "No \"why\"",
+      "text": "A quieter fifth absence. Look at what the library actually stocks: it is overwhelmingly a library of technique . The how. Settings, gear, recipes, edits. Almost none of it is about seeing — and not because the platform is hostile to artistry, but because artistry demonstrates badly on camera. A histogram makes a good thumbnail; patience doesn't. The core idea A technically perfect photo means nothing if it says nothing — and saying something is the part no tutorial can hand you. The counter-argument"
+    }
+  ]
+}
