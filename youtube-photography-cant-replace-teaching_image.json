@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://www.alanranger.com/blog-on-photography/youtube-photography-cant-replace-teaching#primaryimage",
+  "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53836c32e4b05b1c55576880/6acf76169ec9374afe4dfdaa/1791992617049/tmp-Composition_with_Restraint-10s.jpg?format=1500w",
+  "width": 1500,
+  "height": 1000,
+  "caption": "Why YouTube Photography Tutorials Can't Replace Teaching",
+  "inLanguage": "en-GB",
+  "creator": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  }
+}
