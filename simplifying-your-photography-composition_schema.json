@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition",
+  "name": "Simplifying Your Photography Composition: The Art Of Less",
+  "description": "The hardest thing in photography composition isn't adding — it's leaving out. Simplifying your frames is where good photographs begin. Here's how to practise it.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition#blogposting"
+  }
+}
