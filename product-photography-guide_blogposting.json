@@ -4,14 +4,14 @@
   "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#blogposting",
   "headline": "Product Photography Guide - 1 Page Field Checklist",
   "alternativeHeadline": "Product Photography Guide - 1 Page Field Checklist | Alan Ranger Photography",
-  "description": "Product Photography Guide checklist to improve composition and lighting, control reflections, choose backgrounds, style props, set camera settings and shoots.",
+  "description": "A one-page field checklist covering Product for photographers.",
   "url": "https://www.alanranger.com/blog-on-photography/product-photography-guide",
   "datePublished": "2026-01-02T00:00:00.000Z",
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "Product Photography Guide - 1 Page Field Checklist 1-page field checklistsAlan Ranger 2 January 2026 photography genre guide",
-  "wordCount": 18,
+  "articleBody": "A one-page field checklist covering Product for photographers.",
+  "wordCount": 8,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#primaryimage"
   },
@@ -26,11 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/product-photography-guide#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Photography"
-    }
-  ]
+  }
 }
