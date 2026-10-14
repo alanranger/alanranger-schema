@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Blog",
+      "item": "https://www.alanranger.com/blog-on-photography"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Photography Gear Isn't The Problem — It's Your Composition",
+      "item": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem"
+    }
+  ]
+}
