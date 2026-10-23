@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio",
+  "name": "Photography Portfolio Planning for Busy College Students",
+  "description": "Learn how to organise a photography portfolio, select stronger images, manage written coursework, and meet college deadlines without losing creative quality.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#blogposting"
+  }
+}
