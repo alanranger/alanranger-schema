@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#howto",
+  "name": "Photography Portfolio Planning for Busy College Students",
+  "description": "Learn how to organise a photography portfolio, select stronger images, manage written coursework, and meet college deadlines without losing creative quality.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Start with the Brief",
+      "text": "Before selecting photographs, check what the portfolio needs to demonstrate. A college assessment might ask for experimentation and evidence of development. An internship application may require a focused selection relevant to a particular type of photography. Write down the image limit, submission deadline, file requirements and any supporting text. Follow the brief rather than assuming every portfolio needs the same number of photographs. If you need ten documentary images and a written reflection, plan time for both. The reflection should explain your decisions, while the photographs sho..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Plan for Written Coursework",
+      "text": "Photography courses often combine practical projects with artist statements, research and reflective essays. Give each task its own place in your schedule so a writing deadline does not consume the time you need for image selection. Some students researching support for written assignments encounter services where they can buy college papers online as reference material. Before using external support, check your institution’s rules. Submitted work should be your own, and any sources you use should be acknowledged appropriately. For your portfolio reflection, keep notes throughout the projec..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Make a Broad First Selection",
+      "text": "Begin with contact sheets or thumbnails in your editing software. Look through the whole shoot before spending time polishing individual files. Flag photographs with potential, then compare similar frames. Small differences in expression, gesture, light or background can determine which image works best. Use three rounds to narrow your choices: Remove accidental technical failures that undermine the photograph. Compare similar images and keep the strongest version. Assess what each remaining photograph contributes to the portfolio. Avoid rejecting an image simply because it breaks a technic..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Check the Final Presentation",
+      "text": "Leave time to inspect the actual submission. Check filenames, image dimensions, colour consistency and the order of pages or photographs. Open the exported files and view them at the intended display size. If you are submitting prints, check the proofs before producing the final set. Read any supporting text alongside the images to make sure it accurately describes the work. Keep unused photographs in a separate folder. They may suit another project. A strong photography portfolio is a considered selection. Give every image a clear reason to be there, and allow enough time to judge the coll..."
+    }
+  ]
+}
