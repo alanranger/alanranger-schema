@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": "https://www.alanranger.com/blog-on-photography/student-photo-essay#howto",
+  "name": "Photo Essay Planning and Photography for College Students",
+  "description": "Learn how to plan, photograph and sequence a student photo essay, with practical advice on research, camera settings, image selection and final presentation.",
+  "inLanguage": "en-GB",
+  "image": {
+    "@id": "https://www.alanranger.com/blog-on-photography/student-photo-essay#primaryimage"
+  },
+  "author": {
+    "@id": "https://www.alanranger.com/#person"
+  },
+  "publisher": {
+    "@id": "https://www.alanranger.com/#org"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Connect Research with Your Photographs",
+      "text": "Research can help you identify important activities, understand unfamiliar situations and prepare useful questions. Look at how other photographers have approached related subjects, but develop your own viewpoint. Some students exploring support for written coursework encounter services where they can buy a research paper . Before purchasing or using such material, check your institution’s academic-integrity rules. Do not submit purchased writing as your own or assume that its claims and references are accurate. For a photo essay, direct observation, reliable sources and your own notes prov..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Choose Equipment That Suits the Situation",
+      "text": "You do not need several lenses to produce a varied photo essay. A single prime lens or a standard zoom can be enough. Variety can come from changing your position, distance, viewpoint and timing. Photograph the setting, the people involved, their activities and significant details. A wider lens can include more of the surroundings when space is limited. A longer lens can help you frame a distant subject more tightly. Choose equipment for the access and perspective you need, rather than treating particular focal lengths as compulsory. Carry a manageable kit so equipment does not distract you..."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Set Exposure for the Photograph You Want",
+      "text": "There is no single correct exposure mode for documentary work. Manual exposure can be useful when the light is stable and you want consistent settings. Aperture priority can help when light changes and depth of field is your main concern. Shutter priority can be useful when movement determines the result. Choose a shutter speed appropriate to the subject. Around 1/250 second may be a useful starting point for ordinary human movement, but faster action may require a shorter exposure. Deliberate movement blur may call for a slower one. Select the aperture according to how much of the scene ne..."
+    }
+  ]
+}
