@@ -80,8 +80,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 20 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -123,8 +123,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 20 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -166,8 +166,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 20 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -209,8 +209,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 22 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -252,8 +252,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 22 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -295,8 +295,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 22 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -338,8 +338,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sat 24 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -381,8 +381,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sat 24 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -424,8 +424,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sat 24 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -467,8 +467,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sun 25 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -510,8 +510,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sun 25 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -553,8 +553,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Sun 25 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -596,8 +596,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 27 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -639,8 +639,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 27 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -682,8 +682,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Tue 27 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -725,8 +725,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 29 Apr - 5:45am - 09:45am",
           "priceSpecification": {
             "price": "99.00",
@@ -768,8 +768,8 @@
           "price": "99.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 29 Apr - 10:30am - 14:30pm",
           "priceSpecification": {
             "price": "99.00",
@@ -811,8 +811,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-12",
-          "priceValidUntil": "2027-10-12",
+          "validFrom": "2026-10-25",
+          "priceValidUntil": "2027-10-25",
           "name": "Thu 29 Apr All day - 5:45am - 14:30pm",
           "priceSpecification": {
             "price": "150.00",
@@ -1196,9 +1196,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Stephen Frost"
+            "name": "John Duncombe"
           },
-          "reviewBody": "Well organised photo shoot. Communication was first class with written advice on equipment and camera settings. I would highly recommend this event.",
+          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -1215,9 +1215,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Duncombe"
+            "name": "Stephen Frost"
           },
-          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
+          "reviewBody": "Well organised photo shoot. Communication was first class with written advice on equipment and camera settings. I would highly recommend this event.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

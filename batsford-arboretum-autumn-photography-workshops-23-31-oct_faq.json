@@ -7,7 +7,15 @@
       "name": "What dates are currently listed for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Current listed dates include 18 Oct 2026, 23 Oct 2026, 24 Oct 2026, plus additional listed dates."
+        "text": "Current listed dates include 25 Oct 2026, 29 Oct 2026, 1 Nov 2026, plus additional listed dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What times does BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The listed session time is 9:30 to 15:00."
       }
     },
     {
@@ -36,10 +44,18 @@
     },
     {
       "@type": "Question",
+      "name": "Is BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Max 6, any level.Summary Location: Batsford Arboretum - Gloucestershire Dates: Sat 23 Oct and Sun 24 Oct 2027 Sat 30 Oct and Sun 31 Oct 2027 Participants: Max 6 Fitness: 1."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "What price options are shown for BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Current listed prices start from £99.00 / £15.00 / £1, with options visible at checkout."
+        "text": "Current listed prices start from £150 / £150.00 / £1, with options visible at checkout."
       }
     }
   ],
