@@ -18,7 +18,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photo editing and post-processing",
       "keywords": "collections, composition, exporting, exposure, lightroom, photo-critiques, photo-editing, photoshop, Lightroom, photo editing, beginners-lightroom, Coventry",
       "sameAs": [
-        "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d",
-        "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry"
+        "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "150.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d",
         "validFrom": "2026-06-29 12:07:05",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ7526725",
-        "availabilityStarts": "2027-01-19T19:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ7526725",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": "44",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Anisha Gohil"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "An insightful session on Lightroom course. Will be implementing this into our teaching practice.",
-          "datePublished": "2025-10-09 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Schoenfeld"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I finally got my longstanding issues resolved.  I should have consulted Alan a long time ago considering all the time I spent trying to fix things myself.  I had thousands of missing photographs in the Lightroom Classic catalog.  This is fixed now.  Also enjoyed working with Alan.  We got on fine...",
-          "datePublished": "2024-08-06 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeanette Waters"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I was thrilled to find this site and organise a Zoom meeting with Alan. He understood the lightroom problem, helped me sort it out,. Didn't rush and it was so easy to follow what I had to do. Problem sorted and I can now get on and enjoy the programme. I would definitely use Alan again.",
-          "datePublished": "2021-09-10 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Nick B"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Only one paid for session so far, but Alan was thoughtful, helpful and professional.  He listened carefully to what I needed and made sure I got it,  The free 20 min session beforehand ensured I am using his skills appropriately - it was very helpful.  UPDATE: since then I got in a muddle with fi...",
-          "datePublished": "2021-07-09 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kasia jan"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Excellent zoom class. Very professional and packed with knowledge. I have learned a lot during this session, got inspired and would recommend to  anyone who wants to improve at fast pace. Thank you Alan.",
-          "datePublished": "2021-02-25 00:00:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-55f3d"

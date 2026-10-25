@@ -18,7 +18,7 @@
       "duration": "PT2880M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2-5-days, Dorset",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop"
+        "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "925.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
         "validFrom": "2026-09-22 12:27:32",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,99 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ2754105",
-        "availabilityStarts": "2027-04-09T13:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ2754105",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "4",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "john plevin"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Very helpful.",
-          "datePublished": "2018-03-04 20:57:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gill Cartwright"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Expert individual attention focusing on composition of the photograph and best use of equipment.",
-          "datePublished": "2018-03-04 16:24:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jennifer "
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "To me Alan has always been so helpful, as a learner it’s his belief that you can achieve so much more than you think.  Alan will always help, guide, encourage you.  My go to guy.",
-          "datePublished": "2018-03-04 15:26:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Derek Robbins"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Would not hesitate to recommend Alan. I have used his services several times and have been more than satisfied.",
-          "datePublished": "2018-03-04 15:19:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop"

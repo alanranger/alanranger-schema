@@ -18,7 +18,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Coventry",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
-        "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry"
+        "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "50.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
         "validFrom": "2026-09-29 18:20:55",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ4066377",
-        "availabilityStarts": "2027-09-13T17:15:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ4066377",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "11",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Penelope Ulander"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan Ranger came highly recommended by a friend working on his RPS associate distinction. I'm so glad I joined his Hartland Quay workshop earlier this month. I have some beautiful shots to add to my portfolio. The location is iconic but Alan's abundant local knowledge of these rocky shores, their...",
-          "datePublished": "2026-09-15 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jo G"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Urban photography - a great opportunity to learn some tricks and trips",
-          "datePublished": "2026-09-13 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Matt G"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
-          "datePublished": "2026-09-09 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Josh"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, p...",
-          "datePublished": "2026-09-09 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Helen Sotheran"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Just the right level of helpful and practical advice, a very enjoyable evening shoot.",
-          "datePublished": "2020-04-02 22:24:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry"

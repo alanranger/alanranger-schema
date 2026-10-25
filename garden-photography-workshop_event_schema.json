@@ -18,7 +18,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Coventry",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
+        "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "35.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop",
         "validFrom": "2026-07-14 16:14:18",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ0939451",
-        "availabilityStarts": "2027-07-11T14:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ0939451",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "reviewCount": "5",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Caro Durk"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Garden Photography Workshop - very good -very patient - lovely garden with lots of things to photo.",
-          "datePublished": "2026-07-12 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dean Le Page"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Had an introductory 1-1 zoom session to help me develop my woodland photography skills. Alan was honest and forthright in what I needed to do to improve. Will be booking some follow ups.",
-          "datePublished": "2026-06-03 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mahmood Esmail"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
-          "datePublished": "2026-05-27 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "datePublished": "2026-05-27 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael Donnelly"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A fantastic opportunity for restarting my photography adventure.",
-          "datePublished": "2026-05-21 00:00:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop"

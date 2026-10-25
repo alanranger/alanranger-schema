@@ -13,12 +13,12 @@
       "description": "10/10/2026 Wales Photography workshop - Valleys, rivers, lakes, mountains, woodlands and waterfalls | Join me on this exciting, varied 2-day photography event",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1538936266800-X7E25G1Y68K21JET6YMU/Lake+Vyrnwy+-Photography-Workshops.jpg",
-      "startDate": "2026-10-10T09:30:00",
-      "endDate": "2026-10-11T15:00:00",
+      "startDate": "2027-03-13T09:30:00",
+      "endDate": "2027-03-14T15:00:00",
       "duration": "PT1770M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -41,13 +41,13 @@
       },
       "location": {
         "@type": "Place",
-        "name": "Wales - Dee Valley",
+        "name": "Wales - Lake Vyrnwy &amp; Pistyll Rhaeadr, Powys",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "United Kingdom",
           "addressLocality": "Wales",
           "addressRegion": "Wales",
-          "postalCode": "LL20 7LD",
+          "postalCode": "SY10 0LY",
           "addressCountry": "GB"
         },
         "geo": {
@@ -57,10 +57,9 @@
         }
       },
       "about": "Photography education and training",
-      "keywords": "wales, photography course, photography workshop, 2-5-days, Wales - Dee Valley",
+      "keywords": "wales, photography course, photography workshop, 2-5-days, Wales - Lake Vyrnwy &amp; Pistyll Rhaeadr, Powys",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
-        "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr"
+        "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "525.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
-        "validFrom": "2026-05-17 14:04:09",
-        "priceValidUntil": "2027-09-29",
+        "validFrom": "2026-10-08 12:35:36",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,99 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ5697158",
-        "availabilityStarts": "2026-10-10T08:30:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ5697158",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "4",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Graham Ibbetson"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "As always great experience with a great teacher. Alan is very patient and really helps you learn. Learned a great deal on this course both in camera and post processing",
-          "datePublished": "2020-03-12 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Serena Nicholls"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Ignited my creative side..... lesson was informative and fun but very intensive as well to get across all the information required. Looking forward to the next course",
-          "datePublished": "2016-11-09 10:07:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harriet"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I have just come back from a weekend workshop with Alan Ranger - great experience and well planned to make the most of the light and conditions. Good size group (5) so there were others to learn from but with plenty of dedicated time from Alan when requested. Will definitely go on another worksho...",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Anne-Marie"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Excellent class.  Well paced, informative and inclusive",
-          "datePublished": ""
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr"

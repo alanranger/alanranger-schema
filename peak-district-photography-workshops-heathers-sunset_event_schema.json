@@ -18,7 +18,7 @@
       "duration": "PT180M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "peak district, photography course, photography workshop, 2.5hrs-4hrs, Peak District",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
-        "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop"
+        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "125.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset",
         "validFrom": "2026-08-01 12:21:28",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ1994489",
-        "availabilityStarts": "2027-08-14T17:15:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ1994489",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "19",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Farrington"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
-          "datePublished": "2026-05-19 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Lisa Vincent"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
-          "datePublished": "2026-05-18 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon McDonald"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
-          "datePublished": "2026-05-16 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "datePublished": "2026-05-16 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dave Clarke"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
-          "datePublished": "2026-05-16 00:00:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset"

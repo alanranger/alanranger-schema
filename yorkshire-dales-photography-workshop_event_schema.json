@@ -18,7 +18,7 @@
       "duration": "PT3120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Landscape photography techniques",
       "keywords": "photography course, photography workshop, landscape photography, 2-5-days, Yorkshire Dales",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
+        "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "825.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
         "validFrom": "2026-05-11 21:23:22",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ9211910",
-        "availabilityStarts": "2027-04-16T09:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ9211910",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "7",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sofiagzagdo"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "This is a great photography course! I had very little knowledge about photography and a lot of questions… Alan is super knowledgeable, patient and takes the time to answer and explain all your doubts. The main focus of the session concentrated on composition which I throughly enjoyed and wished t...",
-          "datePublished": "2026-05-02 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Chris Stamp"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
-          "datePublished": "2026-04-13 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Nicola"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Went through the basics to introduce you to photography and you can either sign on to continue the course over the next few weeks with Alan or get out there and start snapping. He is very enthusiastic and passionate about photography and it is impossible not to let it rub off on you. Really enjoy...",
-          "datePublished": "2016-12-09 11:27:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Martin Chidgey"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan's obvious enthusiasm and creativity made for a really interesting and informative evening.  The session was well timed with well spaced breaks. The information covered was presented in an interesting way with lots of examples to illustrate the points made.  I felt enthused to go out and take...",
-          "datePublished": "2016-08-01 08:33:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Michael Bulman"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Having just changed over from film to digital I realised that I missed a lot by using film but now hope to apply all knowledge, help and information that you gave.",
-          "datePublished": ""
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop"

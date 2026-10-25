@@ -13,12 +13,12 @@
       "description": "30/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
-      "startDate": "2026-10-30T08:00:00",
-      "endDate": "2026-10-30T15:30:00",
-      "duration": "PT450M",
+      "startDate": "2027-10-30T09:30:00",
+      "endDate": "2027-10-30T15:00:00",
+      "duration": "PT330M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 1-day,  Batsford Arboretum - Gloucestershire",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov",
-        "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
+        "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "99.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov",
-        "validFrom": "2025-10-31 13:36:44",
-        "priceValidUntil": "2027-09-29",
+        "validFrom": "2026-10-25 14:05:14",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,99 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ0818501",
-        "availabilityStarts": "2026-10-30T08:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ0818501",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "92",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Simon Worledge"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan clearly has a great enthusiasm for photography that he loves to share. He easily adapts his teaching style to suit each person’s individual needs. (Now if he could just get a better line through to the weather gods…)",
-          "datePublished": "2025-10-27 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Learned a lot",
-          "datePublished": "2025-10-26 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "supriya s m"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
-          "datePublished": "2025-10-26 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Orr Shachar"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Great guidance and expertise - highly recommended",
-          "datePublished": "2025-10-26 00:00:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov"

@@ -18,7 +18,7 @@
       "duration": "PT3120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "landscape, photography course, photography workshop, 2-5-days, Lake District",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
-        "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop"
+        "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "975.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer",
         "validFrom": "2026-09-08 09:01:40",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ5158309",
-        "availabilityStarts": "2027-09-24T08:30:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ5158309",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "21",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "John Kitteringham"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Very enjoyable weekend landscape photography workshop with Alan in the Lake District.  Despite some challenging weather conditions I learnt an enormous amount and had a lot of fun.",
-          "datePublished": "2025-10-01 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Shelly Soo"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I had a 3rd hr of light room classic with Alan.  I consolidated my learning of LrC, and learning more on snapshots and how to publish on email and for competition submission, which are very useful.  Thank you.",
-          "datePublished": "2024-12-15 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Shelly Soo"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I have thoroughly enjoyed the Lake District photography workshop with a lovely small group.  We were blessed with excellent weather those few days.  Alan drove us to areas of Lake District that I have never been. I have learnt simple basic stuff (setting up of tripods) to using of ND filters (bor...",
-          "datePublished": "2024-09-26 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex Frost"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Lake District 3 day workshop in September.  This was my first residential workshop and I couldn't think of anyone better to do it with than Alan Ranger Photography.  His great knowledge of the area combined with his experience has made it really enjoyable whilst being able to pick up new techniqu...",
-          "datePublished": "2024-09-23 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Margaret Widdowson"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "The workshop I attended was very enjoyable, in a beautiful location, extremely well organised and with good company - thank you very much Alan for putting up with me!",
-          "datePublished": "2024-03-30 00:00:00"
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer"

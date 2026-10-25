@@ -18,7 +18,7 @@
       "duration": "PT3150M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2-5-days, Norfolk",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
+        "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "975.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop",
         "validFrom": "2026-01-24 19:57:29",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,99 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ8747213",
-        "availabilityStarts": "2026-11-20T09:30:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ8747213",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": "4",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Peter Hagger"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A well organised shoot, expert advice when needed. Despite weather problems Alan found alternative sites and had a flexible approach.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harriet"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A fantastic three days in Norfolk with Alan. The weekend was planned really thoroughly to ensure we had a great selection of locations and spent a minimum amount of time in the car - although the agenda was flexible enough to move things around to suit conditions and the preferences of the group....",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dr James Parker"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I attended one of Alan's 3 day all inclusive trips to Norfolk this September. It was extremely well organised, with a detailed itinerary which covered a huge range of locations to suit all tastes. His knowledge of the locations and where to get the best shots was excellent. The itinerary was adju...",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Andy Holmes"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Despite challenging circumstances, Alan proved to be an excellent tour leader. Accomodation was great value and instruction was first class.  He clearly tries to tailor his guidance to individual needs from the discussions at the beginning of the workshop. Alan offers a range of options for his w...",
-          "datePublished": ""
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop"

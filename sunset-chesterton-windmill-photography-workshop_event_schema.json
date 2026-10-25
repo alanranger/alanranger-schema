@@ -18,7 +18,7 @@
       "duration": "PT150M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Warwickshire",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
+        "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "50.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop",
         "validFrom": "2026-05-17 13:39:19",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ0796814",
-        "availabilityStarts": "2027-05-10T17:30:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ0796814",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.7",
-        "reviewCount": "7",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Angela Abraham"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Wonderful Photographer and Trainer. I have attended several courses and enjoyed everyone. Had a really great time. Excellent class.",
-          "datePublished": "2019-11-04 13:40:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Linda"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan is a very good teacher",
-          "datePublished": "2018-08-04 12:04:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gillian Perry"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I saw an advert for a workshop I really wanted to do that was cancelled.  I was not upset about the cancellation as the reason was due to a change in conditions and the I was pleased it didn't go ahead when there would be nothing to photograph.  It then took many attempts to find a date that work...",
-          "datePublished": "2018-05-09 07:42:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ester  Riodran"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan was his normal helpful self encouraging us to expand our knowledge by trying new things.  Always available to answer any questions or to provide guidance.  It was just a pity the sky didn't play ball with us.  Here's to the next time",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Justin Meaden"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Really enjoyable workshop despite not getting the weather we were hoping for with guidance and advice throughout when requested and enabled me to make the most of a lovely location despite the weather not being perfect.",
-          "datePublished": ""
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop"

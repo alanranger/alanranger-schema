@@ -18,7 +18,7 @@
       "duration": "PT2820M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,8 +59,7 @@
       "about": "Photography education and training",
       "keywords": "wales, photography course, photography workshop, 2-5-days, Wales - Anglesey",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
-        "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
+        "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,12 +76,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "795.00",
+        "price": "0.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales",
         "validFrom": "2026-05-20 15:11:07",
-        "priceValidUntil": "2027-09-29",
+        "priceValidUntil": "2027-10-25",
         "seller": {
           "@type": "Organization",
           "name": "Alan Ranger Photography",
@@ -95,114 +94,8 @@
             "@type": "DefinedRegion",
             "addressCountry": "GB"
           }
-        },
-        "sku": "SQ8503376",
-        "availabilityStarts": "2027-05-14T14:00:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
         }
       },
-      "sku": "SQ8503376",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.7",
-        "reviewCount": "6",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mattia Tosi"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "I would recommend Alan to everyone! I've done the Beginner's Photography course, the Lightroom course and two workshops and thanks to these and Alan's coaching and honest feedback, my photography improved significantly. Thanks Alan!",
-          "datePublished": "2021-09-13 00:00:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
-          "datePublished": "2019-07-03 20:34:00"
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Allison T"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Excellent guidance and advice. Good briefings pre and post shoot. Clear joining instructions Would have appreciated more time one on one as when you get it it’s worthwhile. Acknowledge that’s hard in a group though.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mosie"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "A great few informative days With Alan in Wales on a workshop.  Alan managed to find places to photograph despite the dreadful weather.  Will definitely book to go on another workshop.",
-          "datePublished": ""
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
-          "datePublished": ""
-        }
-      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales"
