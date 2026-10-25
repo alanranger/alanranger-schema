@@ -18,7 +18,7 @@
       "duration": "PT180M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -58,7 +58,8 @@
       "about": "Macro and close-up photography",
       "keywords": "photography course, photography workshop, macro photography, 2.5hrs-4hrs, Alan Ranger Photography",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop"
+        "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
+        "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -75,7 +76,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "0.00",
+        "price": "75.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",

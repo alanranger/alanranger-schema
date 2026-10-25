@@ -18,7 +18,7 @@
       "duration": "PT180M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,7 +59,8 @@
       "about": "Photography education and training",
       "keywords": "peak district, photography course, photography workshop, 2.5hrs-4hrs, Staffordshire - Upper Hulme",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise"
+        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise",
+        "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -76,7 +77,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "0.00",
+        "price": "125.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise",

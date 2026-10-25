@@ -18,7 +18,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -59,7 +59,8 @@
       "about": "Photography fundamentals and camera basics",
       "keywords": "camera-settings, composition, exposure, photo-critiques, dslr-settings, Week-1, beginner photography, photography for beginners, beginners-courses, Coventry",
       "sameAs": [
-        "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t"
+        "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t",
+        "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -76,7 +77,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "0.00",
+        "price": "150.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t",

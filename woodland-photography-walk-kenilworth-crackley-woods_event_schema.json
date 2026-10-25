@@ -18,7 +18,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -53,7 +53,8 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Kenilworth",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods"
+        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods",
+        "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -70,7 +71,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "0.00",
+        "price": "15.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods",
