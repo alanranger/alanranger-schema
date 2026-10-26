@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-lessons-for-beginners#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer online or in-person options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary beginners course runs as weekly in-person classes in Coventry, combining classroom teaching with practical local shoots — the immediate feedback accelerates learning. Online mentoring support is included between sessions for questions and homework feedback, and fully online routes exist too: 1-2-1 online lessons or the free online course."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm a complete beginner — is that OK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — the beginners classes are designed for complete beginners through to those already gaining confidence with basic settings. No prior knowledge is assumed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do the lessons work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weekly 2-hour sessions over 3 weeks, in small groups capped at four, with practice tasks between classes so each idea gets used on your own camera before the next session."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I can't get to Coventry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose online 1-2-1 lessons for live personal teaching over Zoom, or start with the free online course and add support when you need it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare for my first lesson?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bring your camera (any make), its battery charged, and — most usefully — a handful of your own photos you like or are frustrated by. Frame your goals around techniques you want to learn rather than gear you think you need; skills, not equipment, are what move beginners forward."
+      }
+    }
+  ]
+}
