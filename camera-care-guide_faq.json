@@ -58,6 +58,14 @@
         "@type": "Answer",
         "text": "Empty it regularly, vacuum it out, wipe all surfaces, and if it becomes damp remove all gear and let the bag dry fully with the compartments open. Do not overfill it, use a rain cover where possible, and keep silica gel packs inside to help absorb moisture."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I stop tripod legs getting clogged with mud and sand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a dirty shoot, leave the bottom leg section partly extended so grit, mud and sand can dry and fall away naturally. Dry the tripod properly before storing it, and clean off contamination before it works its way deeper into the locks and joints."
+      }
     }
   ]
 }

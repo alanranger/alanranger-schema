@@ -8,7 +8,7 @@
       "name": "What camera should I take on a photography holiday?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The one you already know. Travel rewards fluency with your kit, not theoretical sensor quality. If buying, an APS-C or full-frame mirrorless with a 24-105mm zoom covers 90% of scenarios in the lightest package."
+        "text": "The one you already know. Travel rewards fluency with your kit, not the theoretical sensor quality of a new one. If you're buying for travel, an APS-C or full-frame mirrorless body with a 24–105mm zoom covers 90% of scenarios in the lightest possible package. Leave the second and third lenses at home for your first few trips."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "Is one lens really enough?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most travel, yes. A 24-105mm or 24-120mm zoom covers wide landscapes, portraits, street scenes, and food details. You'll photograph more overall because you're not changing lenses or leaving kit at the hotel."
+        "text": "For most travel, yes. A 24–105mm or 24–120mm zoom on full-frame (or 16–80mm equivalent on APS-C) covers wide landscapes, portraits, tight street scenes, and food details. You'll miss the occasional wildlife shot and the occasional ultra-wide cathedral, but you'll photograph more overall because you're not changing lenses or leaving kit at the hotel."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "Can I do travel photography on my phone?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, entirely. Modern phones are excellent for street, food, interiors, and daylight landscapes. Limitations are low-light and reach. For city-focused holidays, a phone is a legitimate travel camera."
+        "text": "Yes, entirely. Modern phones are excellent for street, food, interiors, and daylight landscapes. The limitations are low-light (above ISO 1600 equivalent they get noisy) and reach (no real telephoto for wildlife or distant architecture). For a two-week holiday focused on cities, food, and family, a phone is a completely legitimate travel camera. Carry a small tripod for night shots."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "How do I photograph people respectfully while travelling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ask first for posed portraits. Chat for two minutes after they say yes — the photograph after that is immeasurably better. For candid street, make people one element of a wider story. Never photograph children without parent consent."
+        "text": "Ask first if you want a posed portrait; smile, point at the camera, nod. After they say yes, chat for two minutes about what they're doing — the photograph you take after that short conversation will be immeasurably better than the one you take immediately. For candid street, photograph scenes where the person is one element of a larger story, not the sole subject. Delete anything that feels intrusive. Never photograph children without a parent's clear consent."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "How do I keep gear safe in unfamiliar places?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Plain-looking bag, short cross-body strap, nothing visible in car boots. Split kit across bags. Back up daily. Check travel insurance covers your gear value — standard policies cap at £1,500 and may need a photographic add-on."
+        "text": "Use a plain-looking bag (avoid obvious camera branding). Keep your camera in your hand or on a short cross-body strap, not dangling long. Don't leave anything visible in a car boot. Split your spare kit across two bags if you're carrying much. Back up cards daily. For travel insurance, check your gear's value is covered — standard policies often cap at £1,500 and you may need a specific photographic equipment add-on."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "What's the best way to back up photos on the road?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Two-device rule minimum. Options: laptop + portable SSD, portable card-to-SSD reader, or cloud (needs reliable WiFi). Whichever you choose, every night, no exceptions. Lost cards and stolen laptops happen eventually."
+        "text": "Two-device rule is the minimum. Options: (1) laptop + portable SSD — most reliable, most control, most bulk; (2) portable card-to-SSD reader (e.g. WD My Passport Wireless) — no laptop needed; (3) cloud backup — requires reliable WiFi, slow for raw files but safe. Whichever you choose, do it every night, no exceptions. Lost cards and stolen laptops happen to everyone eventually."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "Do I need a tripod for travel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Usually no — modern high-ISO lets you handhold at 1/30s ISO 6400 for most scenes. A travel tripod earns its weight only for long-exposure landscapes or interiors. A 200g tabletop tripod fits in a jacket pocket as a compromise."
+        "text": "For most travel, no — modern high-ISO performance means you can handhold at 1/30s at ISO 6400 and get usable files for almost everything. A travel tripod earns its weight only if you're committed to long-exposure landscapes or interior architecture. If you do pack one, go for a small carbon-fibre model that folds to under 40cm (Benro, Peak Design, Leofoto travel tripods all work). Or carry a small tabletop tripod — they're 200g and fit in a jacket pocket."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I not spend my whole holiday behind the camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shoot with intention the first two hours and last two hours of the day. Put the camera away between. Stronger portfolio, actual memories. The every-waking-hour photographer comes home exhausted with 2,000 frames and 20 keepers."
+        "text": "Shoot with real intention for the first two hours of the day and the last two hours. Put the camera in the bag between. You'll come home with a stronger portfolio and actual memories of being there. The photographer who shoots every waking hour comes home exhausted with 2,000 frames, 20 of which are keepers. The one who shoots the edges of the day comes home with 15 keepers and a tan."
       }
     }
   ]

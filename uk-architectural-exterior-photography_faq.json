@@ -8,7 +8,7 @@
       "name": "Do I need a tilt-shift lens for architectural exteriors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Probably not for occasional work. Tilt-shift is cleanest perspective correction (£1,500-£2,500) but Lightroom Transform handles moderate convergence well enough for amateur use with 10-15% resolution loss after correction crop. Buy tilt-shift if architecture is genuine focus and you'll use it monthly; rely on Lightroom with wide-margin capture if occasional."
+        "text": "Probably not for occasional architectural work. A tilt-shift lens (typically £1,500-£2,500 new) is the cleanest possible solution to perspective correction — straight verticals at capture, no resolution loss, no editing-induced distortion. But Lightroom's Transform panel handles moderate convergence well enough for most amateur and enthusiast use, with only 10-15% resolution loss after the correction crop. Modern 24-45 megapixel sensors give plenty of headroom for that loss. Buy a tilt-shift if architecture is a genuine focus and you'll use it monthly; rely on Lightroom correction with wide-margin capture if architecture is occasional. The single best-value addition to an architecture kit isn't the tilt-shift — it's a sturdier tripod than you currently own."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "What's the best lens for architectural exterior photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depends on shot type. Wide-angle (16-35mm) for context. Standard zoom (24-70mm or 24-105mm) for most heritage façade and urban-context work — most useful single architectural lens. Telephoto (70-200mm) for compressed compositions and abstract detail. Strong portfolios cover all three ranges."
+        "text": "Depends on shot type. Wide-angle (16-35mm full-frame, 10-22mm crop) for context shots and tight urban environments where you can't step back. Standard zoom (24-70mm or 24-105mm) for most heritage façade and urban-context work — the most useful single architectural lens if you're buying one. Telephoto (70-200mm) for compressed compositions, abstract detail, and façade fragments. The biggest mistake intermediate photographers make is shooting only at 16-35mm regardless of subject — most strong architectural portfolios cover all three focal length ranges, often within a single session at a single building."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "What's the best time of day to photograph buildings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modern glass towers at pre-sunrise blue hour. Heritage stone façades post-sunset golden-into-blue. Brutalism at midday with hard shadow. Urban-context shots in late afternoon active hours. No universal 'best time' — match building type to moment that suits its visual identity."
+        "text": "Depends on the building type. Modern glass towers photograph best at pre-sunrise blue hour (interior lights still on, sky deep blue). Heritage stone façades photograph best post-sunset when the warm stone catches last light against deepening blue sky. Brutalism and concrete modernism photograph best at midday with hard directional shadow — counter-intuitive but consistent. Urban-context shots with people work in late afternoon active hours. The rule that matters: there's no universal \"best time\" for buildings — match the building type to the moment that suits its visual identity."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "How do I fix converging verticals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three options. Tilt-shift lens at capture — cleanest but expensive. Lightroom Transform panel — free, effective for moderate convergence, costs 10-15% resolution. Or embrace the lean as creative choice. Pick deliberately rather than half-committing — heritage façade fine-art needs correction; modern tower editorial often embraces lean."
+        "text": "Three options. Tilt-shift lens at capture — the cleanest result but expensive and manual focus only. Lightroom Transform panel (Auto, Guided, Vertical, Level options) — free, effective for moderate convergence, costs 10-15% resolution after the correction crop. Or embrace the lean as a creative choice — extreme angles where the convergence becomes the photograph rather than a problem. The intermediate skill is choosing deliberately rather than half-committing. A heritage façade for fine-art print? Tilt-shift if you have it, careful Lightroom correction if not. A modern tower for editorial use? Embrace the lean. A property documentation shot? Lightroom correction with generous capture margin."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "Can I photograph buildings without permission in the UK?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes from public land — pavement, public street, public park — for amateur and editorial use. Tripod use restricted at many heritage sites and central-London locations without permit. Some commercial use considerations for architect-designed buildings. Private land requires permission. Check before traveling."
+        "text": "In England, Scotland, Wales and Northern Ireland you can photograph any building from public land — pavement, public street, public park — without permission, including for amateur and editorial use. Commercial use of an architect-designed building's image may have separate considerations (architects sometimes hold copyright in the design itself, though this is rarely enforced for editorial photography). Tripod use is restricted at many heritage sites and central-London locations without a permit — Trafalgar Square, parts of South Bank, some National Trust properties, and many cathedrals and historic estates require advance arrangement for tripod-based work. Check before traveling — a wasted trip teaches the lesson once. From private land or inside private buildings, permission is required."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "Should I photograph people in architectural exteriors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depends on shot type. Pure architectural studies usually exclude people — wait for crowds to clear, use long exposures to blur. Urban-context shots often need people for scale and life. Decide before you arrive — deliberately in or deliberately out. Half-cropped people is the most common amateur tell."
+        "text": "Depends on the shot type. For pure architectural studies (heritage façade, modern glass tower, abstract detail) people are usually a distraction and excluding them is the goal — visit at quieter hours, wait for crowds to clear, use long exposures to blur passing pedestrians into invisible motion. For urban-context shots people are often the point — they add scale, life, and a sense of the building in active use. The decision is editorial: are you photographing the building or photographing the building-in-context? Decide before you arrive and either compose them deliberately in or deliberately out. Half-cropped people in the corner of an otherwise architectural shot is the most common amateur tell."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "Why do my architectural exteriors look flat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three causes. Wrong light direction — buildings need directional light to reveal 3D form. Wrong sky — featureless sky behind strong building reads as nothing. Wrong viewpoint — eye-level frontal capture flattens the building. Try lower viewpoints with foreground context, elevated viewpoints, or three-quarter angle showing two façades."
+        "text": "Three usual causes. Wrong light direction — flat overhead noon sun produces flat-looking buildings. Buildings need directional light (low-angle morning, low-angle late afternoon, or the two golden moments) to reveal three-dimensional form. Wrong sky condition — featureless white or pale-blue sky behind a strong building reads as nothing happening. Match the building to the conditions: modern glass to dramatic cloud, heritage stone to clean blue, brutalism to direct sun. Wrong viewpoint — eye-level frontal capture flattens the building into a documentation shot. Try lower viewpoints with foreground context, elevated viewpoints from across the street, or three-quarter angle compositions that show two façades at once."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "What's the best UK city for architectural photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "London for variety — every shot type within a weekend. Bath for heritage stone at headline level. Edinburgh for Old/New Town contrast. Liverpool for waterfront. Manchester for contemporary. Coventry for heritage-modern juxtaposition. Your nearest workable city beats long-drive pilgrimages — repeat visits outperform one-offs."
+        "text": "Depends on what you want. London for sheer variety — every shot type is available within a single weekend including the world's most photographed contemporary towers (Shard, Walkie-Talkie, Cheesegrater, Gherkin), brutalism (Barbican), heritage (St Paul's, Westminster), and historic-modern juxtaposition (Tate Modern). Bath for heritage stone at the headline UK level (Royal Crescent, the Circus, Pulteney Bridge). Edinburgh for heritage at scale plus Old Town/New Town contrast. Liverpool for waterfront-led architecture (Albert Dock, Three Graces). Manchester for contemporary character. Coventry for heritage-and-modern juxtaposition in a manageable, walkable city centre. Your nearest workable architectural city is usually better than a long drive — repeat visits at different times and conditions outperform one-off pilgrimages."
       }
     }
   ]

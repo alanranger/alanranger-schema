@@ -8,7 +8,7 @@
       "name": "What's the cheapest realistic setup for bird photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An APS-C body plus a used Sigma or Tamron 100-400mm lens — typically £500-£800 all-in used. That gives around 600mm equivalent reach, fast enough autofocus for garden birds, and image quality that embarrasses far more expensive kit."
+        "text": "An APS-C camera body plus a used Sigma or Tamron 100–400mm lens — typically £500–£800 all-in used. That gives you around 600mm equivalent reach, fast enough autofocus for garden birds, and image quality that will embarrass camera gear much more expensive. Save your upgrade money for fieldcraft and fieldtime, which matters more."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "Do I need bird-eye autofocus?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not at all — it's a nice-to-have, not a need. Single-point AF has produced world-class bird photography for 20 years. Bird-eye AF shines for birds-in-flight, but for 90% of garden bird work single-point on the eye works just as well."
+        "text": "Not at all — it's a nice-to-have, not a need. Bird photographers have been producing world-class images with single-point AF for 20 years. Bird-eye AF shines for birds-in-flight and quick action, but for 90% of garden bird work, a single focus point placed on the eye works just as well and teaches you the fundamentals better."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "What shutter speed freezes a bird in flight?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Small birds: 1/2500s minimum, 1/4000s to be sure. Medium birds: 1/1600s usually enough. Larger birds with slower wingbeats: 1/1000s to 1/1600s. Don't be afraid to push ISO to 3200-6400 — a sharp noisy photo beats a clean blurred one."
+        "text": "For small birds (tits, finches, wagtails): 1/2500s minimum, 1/4000s to be sure. For medium birds (thrushes, starlings): 1/1600s is usually enough. For larger birds with slower wingbeats (buzzards, herons, geese): 1/1000s to 1/1600s. Don't be afraid to push ISO to 3200 or 6400 to hit these speeds — a sharp noisy photo always beats a clean blurred one."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "Where's best to photograph birds if I don't have a garden?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Local nature reserves are ideal starting points. WWT sites like Slimbridge and Martin Mere have hides with reliable subjects at known distances. Urban park lakes give you tame waterfowl to practise on. Start somewhere with high encounter rates while you build technique."
+        "text": "Local nature reserves are ideal starting points. WWT sites (Slimbridge, Martin Mere, Washington Wetland Centre) have hides with reliable subjects at known distances. Local RSPB reserves offer similar. Urban parks with lakes give you tame waterfowl to practise exposure and composition on. Start somewhere with high encounter rates while you build technique."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "Should I wear camouflage clothing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rarely necessary for UK birds. Silhouette, movement and sound matter more. Dark earth-tone clothing is plenty. Move slowly, stop often, keep movements below head height, don't talk. Camo can make other walkers suspicious of you pointing a long lens."
+        "text": "Rarely necessary for UK birds. What matters far more is your silhouette, movement, and sound. Dark earth-tone clothing (dark green, brown, dark grey) is plenty. Move slowly, stop often, keep your movements below head height, and don't talk. Birds react to motion and noise, not hi-vis orange as some people think. If anything, camo can make other walkers suspicious of you — which matters when you're pointing a long lens at something."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "Can I use a bridge camera or superzoom?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, for learning and for sharing online. Nikon P1000 and Sony RX10 IV give 1200mm+ reach in one package. Small sensor drops image quality above ISO 800, so can't make big prints. For social media and the joy of the shot, they're genuinely excellent."
+        "text": "Yes, for learning and for sharing online. Cameras like the Nikon P1000 or Sony RX10 IV give you 1200mm+ reach in one package. The limitation is the small sensor — image quality drops sharply above ISO 800, and you can't make big prints. For social media, blogs, and the joy of getting the shot, they're genuinely excellent. For portfolio-quality work, you'll eventually want an interchangeable-lens system."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "How do I stop my photos looking like snapshots?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Two things distinguish a bird photograph from a bird snapshot: clean background (no branches across the body, no bright bits behind the head) and expressive posture (head turned, catchlight in the eye, mid-movement). Neither requires expensive kit."
+        "text": "Two things distinguish a bird photograph from a bird snapshot: clean background (no branches across the body, no bright bits behind the head, soft tones) and expressive posture (head turned slightly, catchlight in the eye, mid-movement rather than static). Neither requires expensive kit. Both require patience and the willingness to not press the shutter until it looks right."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "Is it ethical to use bird feeders to attract subjects?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For common garden birds, entirely fine — they benefit from reliable food, especially in winter. Use appropriate food (not bread), keep feeders clean, don't site where cats can ambush. For rare species, baiting is discouraged. Nests of Schedule 1 species require a licence."
+        "text": "For common garden birds — entirely fine, and they benefit from the reliable food source, especially in winter. Use appropriate food (not bread), keep feeders clean to prevent disease spread, and don't site feeders where cats can ambush birds. For rare or threatened species, baiting for photography is discouraged. For nests, never photograph so closely that parents abandon — Schedule 1 species are protected by law and require a licence."
       }
     }
   ]

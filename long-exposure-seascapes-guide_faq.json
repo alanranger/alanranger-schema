@@ -8,7 +8,7 @@
       "name": "What ND filter strength should I buy first for seascapes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "stop ND. It's the workhorse filter for the milky-smooth shot type, covering 80% of seascape long-exposure situations at UK light levels. Buy 6-stop first, add 10-stop and 3-stop later. Avoid cheap filters with colour cast; Kase, Haida and NiSi produce neutral 6-stops."
+        "text": "stop ND. It's the workhorse filter for the milky-smooth shot type which is the most versatile and forgiving of the five seascape shot types. A 6-stop extends a 1/15 second exposure to 4 seconds, or a 1 second exposure to 64 seconds — that's the range that covers 80% of seascape long-exposure situations at typical UK light levels. Buy a 6-stop first, add a 10-stop and 3-stop once you know which shot types you shoot most. Avoid cheap square filters with colour cast; Kase, Haida and NiSi all produce neutral 6-stops that won't tint your water pink."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "How long should my shutter speed actually be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "0.5-4 seconds gives streaking wave motion. 10-30 seconds gives milky smooth. 60-240 seconds gives glassy mirror. Take three bracketed exposures of each composition and choose in edit which reads best."
+        "text": "There's no single right answer — the exposure length defines the type of photograph. 0.5–4 seconds gives streaking wave motion (you see the water's path). 10–30 seconds gives milky smooth (texture softened but still readable). 60–240 seconds gives glassy mirror (water becomes almost reflective). The practical working habit: take three bracketed exposures of each composition — a shorter one, a middle one, a longer one — and choose in edit which reads best. The scene tells you, the formula doesn't."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "Do I need a polariser as well as an ND?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The polariser cuts glare off wet rock, wet sand and water surface. Without it long-exposure seascapes have a washed-out milky quality that post-processing can't recover. Stack polariser behind the ND in most holder systems."
+        "text": "Yes. The polariser isn't about shutter extension — it's about cutting glare off wet rock, wet sand and the water surface itself. Without a polariser, long-exposure seascape frames have a washed-out milky quality that no amount of post-processing recovers. Stack the polariser behind the ND in most holder systems. Rotate before fitting the ND to find the right angle (the ND makes the effect harder to see through the viewfinder). A good polariser costs the same as a cheap ND — the per-shot value is higher."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "What's the best UK location for long-exposure seascapes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depends on the look. Hartland Quay (Devon) and Jurassic Coast for dramatic rock stacks. Burnham-on-Sea and Saltburn for piers. Northumberland and Saunton Sands for wide sandy beaches. Pembrokeshire, West Cornwall, Lizard for rugged Atlantic cliffs."
+        "text": "Depends what you want. For dramatic rock-stack compositions: Hartland Quay in North Devon (folded sandstone, huge tidal range) and the Jurassic Coast at Durdle Door and Lulworth. For minimalist piers and breakwaters: Burnham-on-Sea lighthouse and Saltburn pier. For wide sandy beaches with texture: Northumberland (Bamburgh, Embleton, Beadnell) and Saunton Sands. For rugged Atlantic-facing cliffs: Pembrokeshire, West Cornwall, and the Lizard. Your nearest workable coastline is almost always better than a four-hour drive to a \"famous\" location — you can learn it in all tide states, all weathers, all seasons."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "How do I calculate the exposure time with an ND filter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Multiply base exposure by 2 raised to filter stop value. 6-stop = 64x (1/15s becomes 4s). 10-stop = 1024x (1/15s becomes 68s). Or use a calculator app like PhotoPills, NiSi ND Calc, or LE Calc. Exposures over 30 seconds need Bulb mode."
+        "text": "Take your base exposure without the filter. Then multiply the shutter time by 2 raised to the filter's stop value. A 6-stop extends by 2^6 = 64×, so 1/15 sec becomes roughly 4 seconds. A 10-stop extends by 2^10 = 1024×, so 1/15 sec becomes roughly 68 seconds. Easier: use a calculator app — PhotoPills, NiSi ND Calc, or LE Calc all give you the answer in seconds and start a countdown for you. For exposures over 30 seconds you'll need Bulb mode. On modern cameras the long-exposure noise reduction feature doubles the total wait time (the camera takes a second dark frame equal to the exposure) — useful but budget for it."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "Should I shoot at sunrise, sunset, or blue hour?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Blue hour — 30 minutes before sunrise or after sunset — beats golden hour for long-exposure seascapes. Softer light, cleaner tonal separation, better sea rendering in long exposure. Don't pack up at sunset; stay another 40 minutes."
+        "text": "Most long-exposure seascape photographers favour blue hour — the 30 minutes before sunrise and the 30 minutes after sunset — over the golden hour with sun on horizon. The light is softer, the tonal separation between sea and sky is cleaner, and the sea reads better in long exposure (no sparkle on waves, no blown highlights). Sunrise beats sunset in the UK statistically because there are fewer people around and the coast is quieter. The practical rule: schedule your tide target to align with blue hour, not golden hour, and don't pack up at sunset — stay another 40 minutes."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "How do I stop the sky being blown out?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three options: fit a graduated ND filter (3-stop soft grad) above horizon; shoot bracketed set and blend in post; re-compose with less sky in the frame. Graduated ND is fastest, bracketing most flexible, composition fix is free."
+        "text": "Three options. First: fit a graduated ND filter (3-stop soft grad is most useful) above the horizon line during the exposure. Second: shoot a bracketed set (one exposure for the sky, one for the sea) and blend in post. Third: re-compose with less sky in the frame — if the sky isn't doing creative work, reduce it to 20–30% of the frame. All three work; the graduated ND is fastest in the field, the bracketing is most flexible in edit, the composition fix is free. Modern dynamic-range-recovery in Lightroom means bracketing is less critical than it was, but a blown-out sky above a perfectly smoothed sea is still the most common amateur tell."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How dangerous is UK seascape photography really?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Real but manageable. Main risks: sneaker waves, rising-tide cut-off, wet-rock falls. All preventable: never turn your back on the sea, use a proper tide table with 60-minute safety margin, wear boots with moulded rubber compound, don't shoot alone at new locations."
+        "text": "Real, but manageable. Several photographers die on UK coasts every year — almost always from three causes: sneaker waves (unexpected large waves that break well above the waterline), rising-tide cut-off (being stranded as access closes), and wet-rock falls (sandstone and kelp are as slippery as ice). All three are preventable. Never turn your back on the sea. Always use a proper tide table and build a 60-minute margin before the opposite state arrives. Wear boots with moulded rubber compound. Don't shoot alone at new locations. Consider a workshop at a proven location with a guide the first few times you shoot an unfamiliar coast — it compresses several years of safe-location learning into one weekend."
       }
     }
   ]

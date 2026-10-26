@@ -5,7 +5,7 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "I wanted to improve my photography in a more structured and disciplined way. I travel a great deal, and I wanted to come back with really good images, rather than a lot of poor snaps. I hoped the process of working towards a LRPS would improve my camera work, technique and composition."
@@ -13,7 +13,7 @@
     },
     {
       "@type": "Question",
-      "name": "2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Course?",
+      "name": "Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Course?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Before I met Alan I had submitted a panel for LRPS which was not successful. I subsequently did a few workshops with Alan and really liked his style of teaching, and when I saw that he was offering an RPS mentoring course, I felt I would like to give it another go."
@@ -21,7 +21,15 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was your experience like of the RPS Assessment Day?",
+      "name": "Did you feel you were already good enough to gain a distinction with the RPS before you started the mentoring course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At the beginning , definitely not. During the course I gained more confidence, although I realised I had to really focus on the many aspects to achieve my goals. It was a journey with ups and downs, but by the end of the course I felt I had achieved those goals, but I recognise I would never have learned so much without the mentoring course."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was your experience like of the RPS Assessment Day?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "A bit nail biting, although I felt I had presented a panel I was happy with. However, you never know how the judges will view it. The RPS staff were very helpful throughout. The judges all commented on the importance of panel layout, printing, mounting, choice of image variety and of course camera technique. I really enjoyed looking at other candidates panels."
@@ -29,7 +37,15 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I attended an advisory day before my assessment, which I found really useful. I had my prints professionally printed and mounted, and sought their advice on suitable papers and mounts to use ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "It was definitely worthwhile, however, I know that I would certainly not have learned nearly so much on my own, and I am not sure I would have been successful without Alan's mentoring. If it's something you think you would like to do, then go for it. With Alan's mentoring you are in very good hands!"
@@ -37,7 +53,7 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;10.&nbsp;&nbsp; What was the hardest part of gaining a distinction with the RPS and why?",
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Although it was difficult selecting 10 images and working on them, the hardest part was putting images together that worked well, especially as many of them were not directly related. I also found post processing a challenge as I have preferred to get things right in camera in the past, but I have learned that even small adjustments can make or break an image."
@@ -45,7 +61,7 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;11.&nbsp;&nbsp; Has working for a distinction helped you progress as a photographer?",
+      "name": "Has working for a distinction helped you progress as a photographer?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Absolutely! As that was my aim at the outset it has definitely been worthwhile."

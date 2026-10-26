@@ -5,7 +5,7 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1.&nbsp;&nbsp;Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
+      "name": "Why did you want to gain a distinction with the Royal Photographic Society (RPS)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "To be honest, I had not thought about doing a distinction, but once Alan had suggested the idea I thought that having such a goal to reach would help me develop my photography"
@@ -13,7 +13,7 @@
     },
     {
       "@type": "Question",
-      "name": "2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Mentoring Course?",
+      "name": "Why did you choose Alan to mentor you for a distinction and had you worked with Alan before the RPS Distinctions Mentoring Course?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Alan has mentored me over the last few years. I respect his advice."
@@ -21,7 +21,7 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you feel you got the right level and input of support from the course?",
+      "name": "Do you feel you got the right level and input of support from the course?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, definitely\n\n5. Did you feel you were already good enough to gain a distinction with the RPS before you started the mentoring course?\n\nNo, but I don’t think Alan would have contemplated the idea if he didn’t think I had some potential"
@@ -29,7 +29,7 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was your experience like of the RPS Assessment Day?",
+      "name": "What was your experience like of the RPS Assessment Day?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "I attended an RPS advisory day about halfway into the course and my panel changed quite a lot as a result. I then applied for online advice when I felt that I was almost ready to be assessed. Again a few tweaks but it helped to consolidate my panel"
@@ -37,7 +37,15 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Having completed the course and Distinction Assessment, what advice would you like to share with others?",
+      "name": "Did you seek independent advice, feedback or input from anywhere else before your panel assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I attended an advisory day before my assessment, which I found really useful. I had my prints professionally printed and mounted and sought their advice on suitable papers and mounts to use ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Having completed the course and Distinction Assessment, what advice would you like to share with others?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "You have to be prepared to put in a lot of time and effort. Sometimes it’s difficult to keep the enthusiasm going, especially when images are rejected, but eventually, you will see your panel beginning to come together"
@@ -45,7 +53,7 @@
     },
     {
       "@type": "Question",
-      "name": "&nbsp;10.&nbsp;&nbsp; What was the hardest part of gaining a distinction with the RPS and why?",
+      "name": "What was the hardest part of gaining a distinction with the RPS and why?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Producing 15 images that were varied enough for the judges, but that also worked cohesively to produce a panel"

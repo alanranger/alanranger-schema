@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/composition-in-photography#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I learn composition even if I'm not naturally creative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Creativity isn’t a fixed trait—it’s a muscle. Composition is a visual language that anyone can learn to speak fluently with practice. It’s about seeing relationships between elements in a frame, and that comes with awareness and repetition. If you're willing to observe more thoughtfully and reflect on your choices, your composition will improve."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the most important rule of composition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There isn’t just one—and that’s the point. While guides like the rule of thirds or leading lines are useful, no single rule fits every situation. The most important thing is intention: every element you include (or exclude) should serve a purpose. Think of composition not as a set of rules, but as a set of tools to help you express your vision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my composition is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good starting point is to ask yourself: Where does my eye go first? What emotion or story does the image suggest? Are there distractions pulling attention away from the subject? Over time, your instinct will grow. Sharing your work with others and seeking constructive feedback can also reveal compositional strengths and weaknesses you might not notice yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I always compose in-camera, or can I crop later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It’s always best to get the strongest composition in-camera. This builds your observational and framing skills in real time. Cropping in post can refine things, but relying on it too often can lead to sloppy shooting habits. Training yourself to compose at the moment of capture is one of the most valuable skills a photographer can develop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the best way to practise composition in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slow down. Choose a simple subject—like a doorway, a tree, or a shadow—and photograph it in five different ways. Change your position. Experiment with spacing. Play with light. Then review your results and ask why some frames feel more compelling than others. Composition improves not through random shooting, but through deliberate seeing ."
+      }
+    }
+  ]
+}

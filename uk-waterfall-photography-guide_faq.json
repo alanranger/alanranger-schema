@@ -8,7 +8,7 @@
       "name": "What's the best shutter speed for waterfalls?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "1/4 to 1 second preserves water structure with light blur. 1 to 2 seconds gives the popular silky look. 4+ seconds flattens water into featureless white. Most keepers come from 1/2 to 2-second range. Bracket three exposures and choose in edit."
+        "text": "There's no single right answer — the exposure length defines the type of photograph. 1/4 to 1 second preserves visible water structure with light blur and reads dynamic. 1 to 2 seconds gives the popular silky look while keeping some structure. 4 seconds or longer flattens water into featureless white which often loses detail and reads generic. Most waterfall keepers come from the 1/2 to 2-second range. Bracket three exposures (1/4s, 1s, 4s) of each composition and choose in edit which reads best."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "Do I need an ND filter for waterfall photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Less than the internet says. Polariser alone often gives 1/2 to 2-second shutter — it provides 1.5-2 stops light reduction. Add 3-stop or 6-stop ND for brighter conditions or longer exposure. 10-stop rarely needed for UK waterfalls."
+        "text": "Less than the internet says. In overcast UK light, a polariser alone often gives you the 1/2 to 2-second shutter you need — it provides 1.5–2 stops of light reduction by itself. Add a 3-stop or 6-stop ND for full-fall classic shots in brighter light or for environmental wide compositions where you want longer exposure. The 10-stop is rarely needed for UK waterfalls — it's a seascape and architecture filter. Polariser is mandatory; ND is situational."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "Why is the polariser so important for waterfalls?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three reasons: cuts glare off wet rock so it reads its natural colour; deepens surrounding greens (moss, ferns, leaves) which fill UK waterfall frames; provides 1.5-2 stops light reduction often enough for silky water without ND. Most important filter for waterfall work."
+        "text": "Three reasons. First, it cuts glare off wet rock — sandstone, slate, granite and limestone all reflect highlights from any sky, so without a polariser the rock reads grey-silver-washed-out. With one rotated correctly, rock saturates back to its natural colour. Second, it deepens surrounding greens — moss, ferns, leaves, lichen — which is most of what fills a UK waterfall frame. The colour difference is more than any post-processing can recover. Third, it provides 1.5–2 stops of light reduction, often enough to push your shutter into the silky-water range without an ND. The polariser is the most important filter for waterfall work, not the ND."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "What's the best UK waterfall to photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depends on what you want. Dramatic scale: Pistyll Rhaeadr (Wales 240ft), Hardraw Force, Aira Force. Intimate gorge: Fairy Glen, Padley Gorge, Lumsdale. Multi-tier: Aysgarth, Stock Ghyll Force. Autumn drama: Snowdonia or Lake District in October. Your nearest workable waterfall is usually better than a 4-hour drive."
+        "text": "Depends what you want. For dramatic single-drop scale: Pistyll Rhaeadr (Wales, 240 feet), Hardraw Force (Yorkshire), Aira Force (Lake District). For intimate gorge photography: Fairy Glen (Conwy Valley, Wales), Padley Gorge (Peak District), Lumsdale Falls (Peak). For multi-tier classics: Aysgarth Falls (Yorkshire Dales), Stock Ghyll Force (Lake District). For autumn drama: anywhere in Snowdonia or the Lake District in mid to late October. Your nearest workable waterfall is almost always better than a four-hour drive to a \"famous\" location, because you can return in different rainfall and light conditions until you've fully read it."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "What's the best time of year for UK waterfalls?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mid October to late November is strongest — autumn colour against white water plus reliable rainfall. Spring (April-early May) second strongest — snowmelt flow, fresh moss. Summer often thin flow and harsh light. Winter ice formations possible but treacherous. Target 2-3 days after sustained rain."
+        "text": "Mid October to late November is the strongest single window — autumn foliage colour against white water is the most photogenic combination, and rainfall is reliable. Spring (April to early May) is the second-strongest — strong flow from snowmelt, fresh-green moss and ferns starting. Summer often disappoints — thin flow after dry spells, harsh light when sun breaks through. Winter can deliver iconic ice formations on the right falls (Aysgarth, Yorkshire frost waterfalls) but access becomes treacherous and short daylight limits productive time. The practical rule: target 2–3 days after sustained rain in autumn or spring."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "What aperture should I use for waterfalls?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "f/8 to f/11 for most shot types — good depth of field, sharpest range. f/13-f/16 only when needing maximum depth without focus stacking. Avoid f/22 — diffraction softens. Always shoot at base ISO (64 or 100) for maximum dynamic range."
+        "text": "f/8 to f/11 for most waterfall shot types — gives good depth of field and stays in your lens's sharpest range. f/13 to f/16 only when you genuinely need maximum depth of field for a layered foreground-stream composition without focus stacking. Avoid f/22 — diffraction softens the image noticeably on most modern lenses. For intimate cascade detail with telephoto, f/8 to f/11 is plenty because you're not trying to keep distant context sharp. Always shoot at base ISO (64 or 100 depending on camera) for maximum dynamic range and minimum noise — your camera is on a tripod, so ISO discipline costs nothing."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "How do I keep spray off the lens?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Microfibre cloth and rocket blower in outer jacket pocket. Between every frame check front element from side, blow before wiping, wipe in one direction. Position back to prevailing wind. Weather cover for heavy spray situations."
+        "text": "You can't completely. Spray off any moving water lands on the front element within minutes. Three habits manage it. First, carry a microfibre cloth and a rocket blower in an outer jacket pocket — not buried in the bag. Second, between every frame, check the front element from the side (the spray spots show as soft glare on the rear LCD); blow before wiping; wipe in one direction only. Third, position your back to the prevailing wind direction — usually means shooting from upstream side rather than downstream side. A weather cover for the camera is useful in heavy spray; keep one in the bag for when you need it."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How dangerous is UK waterfall photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lower-risk than seascapes but not zero. Main hazards: wet rock (slippery as wet ice — proper boots and poles essential), flash flood after upstream rain (gorges can rise rapidly), falls from undercut banks. Stay on marked paths. Avoid slot gorges in unstable weather. Working with a guide compresses years of learning into one weekend."
+        "text": "Lower-risk than seascape work but not zero. The main hazards are wet rock (mossy sandstone is as slippery as wet ice — proper boots and walking poles essential), flash flood after upstream rain (steep gorges like Fairy Glen, Padley Gorge and Lumsdale can rise from ankle to chest depth in 20 minutes, so check the entire upstream catchment forecast not just your location), and falls from undercut banks. Stay on marked paths. Don't enter slot gorges during unstable weather. Working with a guide who knows the safe ground compresses several years of trial-and-error learning into one weekend, especially at locations with established access patterns."
       }
     }
   ]

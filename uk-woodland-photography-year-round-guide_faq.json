@@ -8,7 +8,7 @@
       "name": "Do I need a wide-angle lens for woodland photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Probably not. 24-105mm standard zoom and 70-200mm telephoto cover most of the genre. Telephoto often more useful than wide-angle for compression and isolation. If only one lens, 24-105mm beats 16-35mm. Save wide-angle for grand landscape."
+        "text": "Probably not. The instinct from grand landscape — go wide, take it all in — is wrong for woodland. A 24-105mm standard zoom and a 70-200mm telephoto cover most of the genre. Telephoto is often more useful than wide-angle for compression, isolation, and excluding distracting clutter at the edges of the frame. If you only have one lens for woodland work, a 24-105mm is a stronger choice than a 16-35mm. Save the wide-angle for grand landscape."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "What's the best time of year for woodland photography in the UK?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "October-February for mist, bare structure, directional light. Mid-Oct to mid-Nov for peak autumn colour. May for fresh-green and bluebells. Avoid full mid-summer (June-July) unless overcast or intimate detail. Repeat visits beat exotic locations."
+        "text": "Depends what you're after. October to February for mist, bare structure, and reliable directional light — many practitioners' favourite months. Mid-October to mid-November for peak autumn colour. May for fresh-green canopy and bluebell colour. Avoid full mid-summer (June-July) unless conditions are heavily overcast or you're working intimate detail. The wider truth: the woodland that's \"done\" in May is a completely different photographic territory in November. Repeat visits to a local woodland across the year produce stronger portfolios than chasing exotic locations once."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "Is mist really that important?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Mist solves the genre's chaos problem by hiding distant clutter and creating tonal recession. Strongest UK woodland frames usually misty. Mist months October-February. Plan around overnight forecasts: cold clear overnight, damp ground, still wind."
+        "text": "Yes. Mist solves the genre's central problem (visual chaos) by hiding distant clutter and turning depth into clean tonal recession — closer trees darker, distant trees fading toward white. Negative space appears naturally. Compositions resolve themselves where without mist they'd be busy and unresolvable. Most of the strongest UK woodland frames you'll see were made in misty conditions. Worth structuring your shooting calendar around mist months (October-February with peak frequency October-November and February). Plan trips around overnight forecasts that suggest morning mist — cold clear overnight, damp ground, still wind."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "What's the best UK woodland location?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your nearest workable one. Local woodland visited 10-20 times across a year produces more strong frames than driving to famous locations once. Almost every UK region has working woodland within 30 minutes."
+        "text": "Your nearest workable one. Genuinely. The instinct to drive three hours to Snowdonia, the Peak District, or Dartmoor for \"proper\" woodland produces fewer strong frames per year than the photographer who knows their local woodland intimately across all four seasons. Across the UK, almost every region has working woodland within 30 minutes' drive — oak, beech, silver birch, hazel coppice, mixed deciduous. The intermediate practitioner returns to the same woodland 10-20 times across a year and learns the conditions and viewpoints that work; the novice drives to a famous location once and assumes they've seen it."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "Do I really need a polariser for woodland?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Almost always yes. Cuts reflections from wet leaves, damp bark, moss, lichen — deepens greens, saturates bark texture, reveals foliage detail. Worth using on overcast days too. Single most useful filter for the genre."
+        "text": "Almost always yes. Wet leaves, damp bark, mossy surfaces, and lichen all reflect non-polarised light that flattens colour and detail. A circular polariser cuts those reflections, deepening greens, saturating bark texture, and revealing detail in foliage that's otherwise lost. Worth a polariser even on overcast days when the sky-darkening effect doesn't apply. Rotate the filter while looking at the scene through the viewfinder — the moment of maximum reflection cut is usually obvious. The single most useful filter for the genre."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "How do I avoid bright-sky patches at the top of the frame?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Compose to exclude (recompose, slight downward tilt, step forward). Or shoot wide-margin and crop. Or embrace deliberately if enough sky with weather. The mistake is small in-between white patches."
+        "text": "Three approaches. First, compose to exclude — recompose to remove the small white patches between upper foliage entirely. A slight downward camera tilt or a step forward often resolves it. Second, shoot wide-margin and crop in editing — leave generous space at the top so you can crop down to a frame without bright patches. Third, embrace the sky deliberately — if there's enough sky and it has weather (cloud, mist), include it as a deliberate element rather than as a small distracting patch. The mistake is the in-between: small white patches that aren't enough to be a sky element but are too prominent to ignore."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "Why do my woodland photos look flat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three causes. Bright direct sun (switch to overcast days). Missing polariser (add it). Eye-level capture only (try lower viewpoints). Combined: overcast + polariser + lower viewpoint transforms flat frames into depth."
+        "text": "Three usual causes. Wrong conditions — bright direct sun produces flat-looking woodland because the light is fighting you; overcast bright produces depth because the light is even. Switch sessions to overcast days. Missing polariser — wet surfaces reflecting non-polarised light flatten colour across the whole frame. Add the polariser. Eye-level capture only — frontal eye-level frames flatten the genre into documentation; lower viewpoints (knee height or below) reveal the woodland floor as foreground and add depth. Try crouching for the next session. Combined: overcast day + polariser + lower viewpoint usually transforms flat woodland frames into ones with depth."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "Can I shoot woodland in mid-summer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes with caveats. June-July most challenging — full canopy, dappled-light disasters. Workable on heavily overcast days, in deep shaded woodland, or for intimate detail/macro. Best strategy: switch to detail work where you control light by choosing subject."
+        "text": "Yes, with caveats. June-July is the most challenging woodland window because the canopy is full and bright sun produces dappled-light disasters. Heavily overcast days are workable — the canopy then provides even diffuse light through soft cloud cover, and intimate detail and macro work both succeed. Deep shaded woodland (under dense oak or beech canopy) can be worked even on bright days because the leaves above filter the harsh light. Avoid open woodland edges, sunny clearings, and any composition with the sun in or near frame. The single best mid-summer strategy is to switch to intimate detail/macro work where you control the light by choosing the subject."
       }
     }
   ]
