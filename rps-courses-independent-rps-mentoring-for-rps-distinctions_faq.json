@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is this mentoring officially accredited by the RPS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. This is independent, private mentoring based on Alan's own experience holding both the LRPS and ARPS and guiding others through the process. It is not accredited or endorsed by the Royal Photographic Society. The Society's own Advisory Days and One2One reviews are excellent and well worth attending alongside — mentoring complements them with sustained, personal support over months rather than a single day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sessions will I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends where you're starting. Most photographers beginning a panel from scratch take a block of around six; those revising a panel that didn't pass often need just three or four. Start with a single session if you're not sure, and top up whenever you need to."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I failed my panel — can you help me revise and resubmit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it's very common. We work from the assessors' feedback to rebuild the panel — reviewing what to keep, what to drop, and how to strengthen the whole — so you go back with a submission that's genuinely ready."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it one-to-one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — every session is one-to-one with Alan, online via Zoom. The time is dedicated entirely to you and your panel, at a pace and focus tailored to where you are."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's your pass rate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To date, 100% — across more than 20 Licentiate and 4 Associate candidates mentored to a successful distinction. No mentor can guarantee a result, but every effort is made to ensure you only submit when you're genuinely ready."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do I have to use my sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your package is valid for 12 months from purchase. If you need longer, the timeline can be extended, or you can add further sessions — panels often develop over several months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you guarantee I'll pass?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No honest mentor can guarantee an assessment result — the decision rests with the RPS assessors. What Alan offers is experienced, candid guidance and a 100% pass rate to date, working with you so you only submit when the panel is genuinely ready."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course#faq"
+}

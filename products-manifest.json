@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-27T21:06:56.481Z",
-  "totalProducts": 37,
+  "generatedAt": "2026-10-27T22:19:19.945Z",
+  "totalProducts": 38,
   "entries": [
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
+      "pathKey": "/photography-services-near-me/photography-gift-vouchers",
+      "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
+      "faqFileName": ""
+    },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "pathKey": "/photo-workshops-uk/abstract-and-macro-photography-workshops",
@@ -24,7 +30,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
       "pathKey": "/photography-services-near-me/beginners-photography-course",
       "schemaFileName": "beginners-photography-course-3-weekly-evening-classes_schema.json",
-      "faqFileName": ""
+      "faqFileName": "beginners-photography-course-3-weekly-evening-classes_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
@@ -126,7 +132,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "pathKey": "/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "schemaFileName": "lightroom-courses-for-beginners-photo-editing-coventry_schema.json",
-      "faqFileName": ""
+      "faqFileName": "lightroom-courses-for-beginners-photo-editing-coventry_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth",
@@ -186,7 +192,7 @@
       "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
       "pathKey": "/photography-services-near-me/rps-mentoring-photography-course",
       "schemaFileName": "rps-courses-independent-rps-mentoring-for-rps-distinctions_schema.json",
-      "faqFileName": ""
+      "faqFileName": "rps-courses-independent-rps-mentoring-for-rps-distinctions_faq.json"
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/secrets-of-woodland-photography-workshop",
@@ -204,25 +210,25 @@
       "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
       "pathKey": "/photo-workshops-uk/urban-architecture-photography-workshops-coventry",
       "schemaFileName": "urban-architecture-photography-workshops-coventry-sep_schema.json",
-      "faqFileName": "urban-architecture-photography-workshops-coventry-sep_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "pathKey": "/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
       "schemaFileName": "wales-landscape-photography-workshop-2-days-lake-vyrnwy_schema.json",
-      "faqFileName": "wales-landscape-photography-workshop-2-days-lake-vyrnwy_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire",
       "pathKey": "/photo-workshops-uk/woodland-photography-walk-warwickshire",
       "schemaFileName": "warwickshire-woodland-photography-walks-monthly-2hrs_schema.json",
-      "faqFileName": "warwickshire-woodland-photography-walks-monthly-2hrs_faq.json"
+      "faqFileName": ""
     },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "pathKey": "/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "schemaFileName": "yorkshire-dales-landscape-photography-workshop-3-days_schema.json",
-      "faqFileName": "yorkshire-dales-landscape-photography-workshop-3-days_faq.json"
+      "faqFileName": ""
     }
   ]
 }
