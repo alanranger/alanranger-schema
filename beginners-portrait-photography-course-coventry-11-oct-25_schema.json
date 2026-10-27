@@ -2,7 +2,10 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
@@ -10,25 +13,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "telephone": "+44 781 701 7994",
       "email": "info@alanranger.com",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "45 Hathaway Road",
-        "addressLocality": "Coventry",
-        "addressRegion": "West Midlands",
-        "postalCode": "CV4 9HW",
-        "addressCountry": "GB"
-      }
-    },
-    {
-      "@type": "LocalBusiness",
-      "@id": "https://www.alanranger.com/#localbusiness",
-      "name": "Alan Ranger Photography",
-      "url": "https://www.alanranger.com",
-      "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "priceRange": "£50–£500",
-      "email": "info@alanranger.com",
-      "telephone": "+44 781 701 7994",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "45 Hathaway Road",
@@ -60,7 +45,7 @@
           "item": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
         }
       ],
-      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#breadcrumbs"
+      "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#breadcrumbs"
     },
     {
       "@type": "Product",
@@ -80,7 +65,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/OutOfStock",
         "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-25",
+        "priceValidUntil": "2027-10-27",
         "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
         "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course#offer",
         "seller": {

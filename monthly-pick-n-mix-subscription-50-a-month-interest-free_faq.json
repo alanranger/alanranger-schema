@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's included in the Pick N Mix Subscription",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10% off courses, workshops and 1-to-1 lessons for 12 months (residential workshops capped at 10%; bundles count at their bundle price) 4 quarterly 1-2-1 Zoom reviews : 30 minutes, or 60 minutes on plans of £1,000+ (£85 a month and up) 12 months' Photography Academy, free (worth £79): 200+ learning resources, 30 exams, 5 accreditation levels and your personal dashboard First refusal on new residential workshop dates Interest-free over 12 monthly payments"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How the monthly plan works",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose your monthly amount from the dropdown: £50 a month gives a £600 plan, or choose more if you like. Your full plan value is available once your first payment is made. Alan will send you a link to book your first review in his diary, and you will then receive a confirmation email with a Zoom link. Book courses, workshops and lessons online using your plan code: your discount is applied and the cost comes off your balance. You can top up your balance at any time with a one-off payment. Any unused balance can be used up to 3 months after your plan ends; after that it is forfeited. Plans are non-refundable and non-cancellable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Next steps and payment",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subscribe on this page, or pay by standing order to: Halifax · Sort code 11 00 01 · Account 08281711 See example plans and full details on the Pick n Mix: Your first year page."
+      }
+    }
+  ],
+  "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription#faq"
+}
