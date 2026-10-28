@@ -10,7 +10,7 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct#event",
       "identifier": "batsford-arboretum-autumn-photography-31oct",
       "name": "Batsford Arboretum Autumn Photography Workshop - 23/10",
-      "description": "23/10/2026 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
+      "description": "23/10/2027 Gloucestershire - Batsford Arboretum Autumn Photography Workshops are a must for autumn colour - open to all levels and experience and camera",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675347700488-3E0I5HD2RWPTEA20AQ1D/Autumn+Leaves.jpg",
       "startDate": "2027-10-23T09:30:00",
@@ -21,23 +21,7 @@
       "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        },
-        "sameAs": [
-          "https://www.instagram.com/alanrangerphoto",
-          "https://www.facebook.com/alanrangerphotography",
-          "https://www.linkedin.com/in/alanranger"
-        ]
+        "@id": "https://www.alanranger.com/#org"
       },
       "location": {
         "@type": "Place",
@@ -81,12 +65,10 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct",
-        "validFrom": "2026-10-25 14:03:54",
-        "priceValidUntil": "2027-10-25",
+        "validFrom": "2026-10-25 14:28:20",
+        "priceValidUntil": "2027-10-28",
         "seller": {
-          "@type": "Organization",
-          "name": "Alan Ranger Photography",
-          "url": "https://www.alanranger.com"
+          "@id": "https://www.alanranger.com/#org"
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",

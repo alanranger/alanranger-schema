@@ -10,34 +10,18 @@
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn#event",
       "identifier": "lake-district-photography-workshop-autumn",
       "name": "Lake District Photography Workshops | Autumn in Cumbria",
-      "description": "13/11/2026 Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
+      "description": "12/11/2027 Capture breathtaking images at our autumn Lake District Photography Workshops. Enhance your skills and discover iconic vistas with expert guidance.",
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1695040431348-9BC1ENVF8Z9C0N6CR5UZ/blea+tarn-2.jpg",
-      "startDate": "2026-11-13T09:30:00",
-      "endDate": "2026-11-15T14:30:00",
+      "startDate": "2027-11-12T09:30:00",
+      "endDate": "2027-11-14T14:30:00",
       "duration": "PT3180M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        },
-        "sameAs": [
-          "https://www.instagram.com/alanrangerphoto",
-          "https://www.facebook.com/alanrangerphotography",
-          "https://www.linkedin.com/in/alanranger"
-        ]
+        "@id": "https://www.alanranger.com/#org"
       },
       "location": {
         "@type": "Place",
@@ -81,12 +65,10 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn",
-        "validFrom": "2025-11-04 18:08:18",
-        "priceValidUntil": "2027-10-25",
+        "validFrom": "2026-10-26 10:49:10",
+        "priceValidUntil": "2027-10-28",
         "seller": {
-          "@type": "Organization",
-          "name": "Alan Ranger Photography",
-          "url": "https://www.alanranger.com"
+          "@id": "https://www.alanranger.com/#org"
         },
         "shippingDetails": {
           "@type": "OfferShippingDetails",
