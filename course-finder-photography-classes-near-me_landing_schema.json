@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/course-finder-photography-classes-near-me#webpage",
+      "url": "https://www.alanranger.com/course-finder-photography-classes-near-me",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/course-finder-photography-classes-near-me#primaryimage"
+      },
+      "name": "Best Photography Classes Near Me - Course Finder - Coventry",
+      "headline": "Best Photography Classes Near Me - Course Finder - Coventry",
+      "description": "Photography classes near me — find the right course in Coventry or online. Beginners camera, Lightroom editing, 1-2-1 Zoom and RPS mentoring. Find your dates"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/course-finder-photography-classes-near-me#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
+      "name": "Best Photography Classes Near Me - Course Finder - Coventry primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/course-finder-photography-classes-near-me#service",
+      "url": "https://www.alanranger.com/course-finder-photography-classes-near-me",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
+      "name": "Best Photography Classes Near Me - Course Finder - Coventry",
+      "description": "Photography classes near me — find the right course in Coventry or online. Beginners camera, Lightroom editing, 1-2-1 Zoom and RPS mentoring. Find your dates"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

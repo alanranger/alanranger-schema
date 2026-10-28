@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/beginners-photography-classes#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you run camera courses near me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The classes are held in Coventry (CV4, Tile Hill), an easy drive from Kenilworth, Warwick, Solihull and across Warwickshire — so for most people in the area it’s the nearest hands-on beginners camera course. If you’re further afield, the same content is available one-to-one online over Zoom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need an expensive camera or lenses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Any DSLR or mirrorless camera with manual exposure modes is perfect — it doesn’t need to be new or expensive. You don’t need extra lenses; the kit lens that came with your camera is fine. Bring what you have."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I’m a complete beginner — will I be out of my depth?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not at all. The course assumes no prior knowledge and starts with the fundamentals. With a maximum of four people there’s time for questions and individual help — and there’s genuinely no such thing as a silly question here."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much time does the course take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Three weekly evening sessions of two hours each — six hours of teaching in total — plus optional practical assignments between sessions, usually a couple of hours a week if you want to get the most from it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there parking at the venue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — there’s space for two to three cars on the premises, plus free roadside parking on the cul-de-sac."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I miss one of the three weeks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course runs as a fixed three-week block, so a missed session can’t be repeated within it. You’ll still receive the full course material for that week to work through yourself, and if you’d like to cover it properly you can book a one-to-one private lesson (1–2 hours) with Alan to go through what you missed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can under-18s attend?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — younger photographers are welcome on the classroom course, but anyone under 18 must be accompanied by a paying adult on the course."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the venue accessible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The classroom is on the ground floor with step-free access. Please note the toilet is on the first floor, up a flight of stairs. If you have any specific access needs, get in touch before booking and Alan will do his best to help."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can I do after the beginners course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most people add the Lightroom photo editing course to develop their images, or continue with monthly mentoring or 1-2-1 lessons. If you’re aiming higher, there’s also RPS distinction support."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/beginners-photography-classes#webpage",
+      "url": "https://www.alanranger.com/beginners-photography-classes",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/beginners-photography-classes#primaryimage"
+      },
+      "name": "Beginners Photography Classes Coventry — 3-Week Course",
+      "headline": "Beginners Photography Classes Coventry — 3-Week Course",
+      "description": "Beginners photography classes in Coventry — a friendly 3-week evening course to get you off Auto and confident in manual. Small groups, max 4. Book your place."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/beginners-photography-classes#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "Beginners Photography Classes Coventry — 3-Week Course primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/beginners-photography-classes#service",
+      "url": "https://www.alanranger.com/beginners-photography-classes",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "Beginners Photography Classes Coventry — 3-Week Course",
+      "description": "Beginners photography classes in Coventry — a friendly 3-week evening course to get you off Auto and confident in manual. Small groups, max 4. Book your place."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Which photography style is right for you? -Discover more about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Which photography style is right for you? -Discover your default photography style and get 3 tips to improve your photography by taking this short quiz"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is this suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get help choosing the right option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#webpage",
+      "url": "https://www.alanranger.com/which-photography-style-is-right-for-you",
+      "name": "Which photography style is right for you? -Discover more",
+      "headline": "Which photography style is right for you? -Discover more",
+      "description": "Which photography style is right for you? -Discover your default photography style and get 3 tips to improve your photography by taking this short quiz",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "author": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#primaryimage"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "name": "Which photography style is right for you? -Discover more primary image"
+    },
+    {
+      "@type": "Service",
+      "serviceType": [
+        "Photography Workshops",
+        "Private Lessons",
+        "Photography Courses",
+        "Mentoring",
+        "Commercial Photography",
+        "Online Courses"
+      ],
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "United Kingdom"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#service",
+      "name": "Which photography style is right for you? -Discover more",
+      "description": "Which photography style is right for you? -Discover your default photography style and get 3 tips to improve your photography by taking this short quiz",
+      "url": "https://www.alanranger.com/which-photography-style-is-right-for-you",
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

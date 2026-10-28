@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/fine-art-prints#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a Giclee fine art print?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Giclee printing is used by many museums and galleries worldwide for its painterly quality. Images take on a softer, more matt appearance with deep blacks, bright whites and subtle pastel tones. The fine textured paper adds character, so prints look slightly less sharp than a glossy photo lab print, which is part of their charm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What paper and materials do you use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prints are made on archival grade, 100 percent acid-free, pH neutral fine art papers, including Bamboo 290gsm and Hahnemuhle, using Epson large format printers. The papers are chosen to suit warm-toned colour and monochrome images and are made to last."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the canvas wrap finished?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The canvas wrap round is a neat, contemporary finish. Your image is printed, over-enlarged and sealed with a canvas effect, then wrapped over a solid 18mm block so it sits close to the wall."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What sizes are available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prints only and canvas wrap are available in seven sizes from 16x12 up to 60x40 inches. Framed prints are available in four sizes up to 36x24 inches. Sizes are in inches (width x height) and the actual print may be adjusted slightly to match the aspect ratio of your chosen image."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does production and delivery take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prints are made to order by a leading print lab, with production taking up to 7 working days. UK shipping is approximately 15 pounds. For international orders I will confirm the shipping cost with you before the order is committed to print."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I tell you which image I want?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Each image in the gallery shows its title. Note the title of the photo you want, then add your chosen size and finish to the cart and type the image title at checkout so I know exactly which photo to print."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I order a custom size or framing option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Other sizes, framing options and products are available on request. Contact me with your requirements and I will help you find the right option."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/fine-art-prints#webpage",
+      "url": "https://www.alanranger.com/fine-art-prints",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/fine-art-prints#primaryimage"
+      },
+      "name": "Fine Art Landscape Photography Prints - Framed & Canvas",
+      "headline": "Fine Art Landscape Photography Prints - Framed & Canvas",
+      "description": "Fine art landscape photography prints by Alan Ranger, available framed, mounted or as canvas. A range of sizes and finishes for home or office, from £50"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/fine-art-prints#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a2145609d129d02efd45cab/1780565344416/Framed+sizes.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a2145609d129d02efd45cab/1780565344416/Framed+sizes.png?format=1500w",
+      "name": "Fine Art Landscape Photography Prints - Framed & Canvas primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/fine-art-prints#service",
+      "url": "https://www.alanranger.com/fine-art-prints",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a2145609d129d02efd45cab/1780565344416/Framed+sizes.png?format=1500w",
+      "name": "Fine Art Landscape Photography Prints - Framed & Canvas",
+      "description": "Fine art landscape photography prints by Alan Ranger, available framed, mounted or as canvas. A range of sizes and finishes for home or office, from £50"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

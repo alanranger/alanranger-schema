@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/corporate-photography-training#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is corporate photography training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is practical, in-house training that teaches your team to create the photographs your business needs — product, workplace, staff and social images — using your own cameras or smartphones, so you are less reliant on outside photographers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the business case for training staff rather than outsourcing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For routine, day-to-day images, building in-house capability is usually faster and more cost-effective than commissioning every shot. Training gives you consistent, on-brand images on demand, while you still use a specialist for high-end work when it matters."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer on-site photography training for businesses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Most training is delivered on-site at your premises across Coventry, Warwickshire and the West Midlands, using your equipment and real tasks so the skills transfer straight into your day-to-day work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you train just one key staff member?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. One-to-one training is ideal for the person responsible for content or product photography. Sessions are tailored to their role, kit and workflow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many people can attend a session?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Up to four people per session, with additional participants at £75 per person. Small groups keep the training practical and hands-on."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this suitable for beginners on the team?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Training is built around your team's current level — from getting off auto and basic lighting through to product photography and a simple editing workflow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What equipment do we need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Whatever you already use. Training adapts to your existing cameras or smartphones, and any genuine equipment gaps are noted at the consultation — recommendations only where they are actually needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best way to get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with the free 20-minute fact-finding call. From there we can plan an optional 1–2 hour on-site consultation or go straight to a tailored training session."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/corporate-photography-training#webpage",
+      "url": "https://www.alanranger.com/corporate-photography-training",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/corporate-photography-training#primaryimage"
+      },
+      "name": "Corporate Photography Training in Coventry & Warwickshire",
+      "headline": "Corporate Photography Training in Coventry & Warwickshire",
+      "description": "Corporate photography training for teams across Coventry, Warwickshire and the West Midlands. Practical in-house staff training in product and business images"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/corporate-photography-training#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1735807751966-QNV395NTQRNMDTYT0WVJ/_-15.jpg?format=500w",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1735807751966-QNV395NTQRNMDTYT0WVJ/_-15.jpg?format=500w",
+      "name": "Corporate Photography Training in Coventry & Warwickshire primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/corporate-photography-training#service",
+      "url": "https://www.alanranger.com/corporate-photography-training",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1735807751966-QNV395NTQRNMDTYT0WVJ/_-15.jpg?format=500w",
+      "name": "Corporate Photography Training in Coventry & Warwickshire",
+      "description": "Corporate photography training for teams across Coventry, Warwickshire and the West Midlands. Practical in-house staff training in product and business images"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

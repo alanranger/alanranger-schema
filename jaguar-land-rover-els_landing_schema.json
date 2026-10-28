@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/jaguar-land-rover-els#webpage",
+      "url": "https://www.alanranger.com/jaguar-land-rover-els",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/jaguar-land-rover-els#primaryimage"
+      },
+      "name": "JLR Photography Training | Invest In You Provider Since 2013",
+      "headline": "JLR Photography Training | Invest In You Provider Since 2013",
+      "description": "Approved Jaguar Land Rover training provider since 2013. Photography courses, workshops &amp; 1-2-1 tuition for JLR employees through the Invest In You scheme."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/jaguar-land-rover-els#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "JLR Photography Training | Invest In You Provider Since 2013 primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/jaguar-land-rover-els#service",
+      "url": "https://www.alanranger.com/jaguar-land-rover-els",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "JLR Photography Training | Invest In You Provider Since 2013",
+      "description": "Approved Jaguar Land Rover training provider since 2013. Photography courses, workshops &amp; 1-2-1 tuition for JLR employees through the Invest In You scheme."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

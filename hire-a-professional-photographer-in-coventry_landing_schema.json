@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which service do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you're selling products, choose commercial; for property listings or hospitality, choose property; for people and team images, choose headshots & portraits; to upskill your own staff, choose corporate training. A free 20-minute call can confirm the right route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you work in Coventry only?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Coventry is the base, with regular work across Warwickshire and the West Midlands, and wider UK by arrangement for suitable projects."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to hire a photographer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commercial and property shoots start from £150 (1 hour); headshots from £150 (individual) or £275 (team); corporate training from £175. Full pricing is on each service page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you shoot on-site at our premises?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — commercial, property, headshots and training are all delivered on-site or on location as needed, planned around your brief."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far do you travel and do travel costs apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Travel is typically included within 15 miles of CV4; beyond that it's £1/mile, invoiced separately. Exact terms are shown on each service page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you help me plan before the shoot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — every service starts with a free 20-minute consultation to clarify the brief, usage and the right option before booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you photograph individuals as well as businesses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — alongside business and commercial work, personal headshots, couples and graduation portraits are available on the headshots & portraits page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Go straight to the relevant service page to view rates and book, or book a free 20-minute consultation and I'll point you to the right option."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry#webpage",
+      "url": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry",
+      "name": "Hire a Professional Photographer in Coventry & Warwickshire",
+      "headline": "Hire a Professional Photographer in Coventry & Warwickshire",
+      "description": "Hire a professional photographer in Coventry for commercial, property, headshots and team training. Compare services, prices and book a free consultation.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1755527100177-ZNKC6D4C5P206XEXS602/_-23.jpg?format=750w",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1755527100177-ZNKC6D4C5P206XEXS602/_-23.jpg?format=750w",
+      "name": "Hire a Professional Photographer in Coventry & Warwickshire primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry#service",
+      "url": "https://www.alanranger.com/hire-a-professional-photographer-in-coventry",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1755527100177-ZNKC6D4C5P206XEXS602/_-23.jpg?format=750w",
+      "name": "Hire a Professional Photographer in Coventry & Warwickshire",
+      "description": "Hire a professional photographer in Coventry for commercial, property, headshots and team training. Compare services, prices and book a free consultation."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

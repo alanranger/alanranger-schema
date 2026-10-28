@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-lessons-online-121#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are online lessons suitable for complete beginners?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. There’s no group to keep up with and nothing to feel self-conscious about — we start exactly where you are, whether that’s understanding your camera or finding your way around Lightroom for the first time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a “proper camera”?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Bring whatever you have — a DSLR, mirrorless, bridge or even a phone. The lessons are built around your kit and what you want to achieve with it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you help with Lightroom editing over Zoom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — this is one of the most common reasons people book. Over screen-share we can sort out your folders, imports, duplicates and file naming, then build a repeatable editing workflow on your own images."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much do online photography lessons cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard weekday sessions (9am–5pm Mon–Fri) start at £50 for a single hour, with bundles of 4, 6, 8 or 12 saving up to 25%. If you need evenings or weekends, premium sessions (9am–9pm any day) start at £75 an hour, with the same bundle discounts. You can pay as you go for a single session, or buy a bundle and book the dates later."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I have lessons in the evening or at weekends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. As well as standard weekday lessons (9am–5pm Mon–Fri), there’s a premium option that runs 9am–9pm any day, including evenings and weekends. Premium sessions are £75 an hour, with the same bundle discounts of up to 25%. Choose the premium package in the booking box if those times suit you better."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book and schedule my Zoom sessions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a single session, book directly in the online diary and pay at the point of booking. For a bundle, buy the package first — Alan then emails you a diary link and a code that bypasses payment, so you book your dates whenever they suit you. Standard sessions are 9am–5pm Mon–Fri; premium sessions are 9am–9pm any day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What software or setup do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A stable internet connection, a laptop, desktop or tablet, and Zoom (free). Alan will share a Dropbox folder so you can send images for review. If you can join a Zoom call and share your screen, you’re ready."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does feedback work between sessions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You’ll leave each session knowing exactly what to practise and why. Many clients also receive a written summary of what was covered, and you can share new images via Dropbox for review in your next session."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer RPS mentoring online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If you’re working towards an LRPS, ARPS or FRPS distinction, we can run structured panel preparation over Zoom — sequencing, consistency and feedback cycles. RPS clients have a 100% pass rate. See the RPS mentoring page for details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I read reviews from students?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You’ll find verified 4 and 5-star reviews across Google and Trustpilot — over 800 in total. There’s a link to them throughout this page."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-lessons-online-121#webpage",
+      "url": "https://www.alanranger.com/photography-lessons-online-121",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-lessons-online-121#primaryimage"
+      },
+      "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
+      "headline": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
+      "description": "Online photography lessons 1-2-1 on Zoom: fix Lightroom, learn to edit, honest photo critique and camera help. Book a single session or save with a bundle."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-lessons-online-121#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/653a64ae5f869956e020061d/1698325682331/photography-lessons-online.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/653a64ae5f869956e020061d/1698325682331/photography-lessons-online.png?format=1500w",
+      "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-lessons-online-121#service",
+      "url": "https://www.alanranger.com/photography-lessons-online-121",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/653a64ae5f869956e020061d/1698325682331/photography-lessons-online.png?format=1500w",
+      "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
+      "description": "Online photography lessons 1-2-1 on Zoom: fix Lightroom, learn to edit, honest photo critique and camera help. Book a single session or save with a bundle."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

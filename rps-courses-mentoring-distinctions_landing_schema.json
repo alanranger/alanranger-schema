@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this mentoring officially accredited by the RPS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. This is independent, private mentoring based on Alan's own experience holding both the LRPS and ARPS and guiding others through the process. It isn't officially accredited by the Royal Photographic Society, and it works well alongside the Society's own Advisory Days and One2One reviews."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many sessions will I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on where you're starting. Most photographers beginning a panel from scratch take a block of around six one-hour sessions across their twelve months. Those revising a panel that didn't pass often need just three or four. You can always add more single sessions as you go."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I failed my panel — can you help me revise and resubmit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and it's very common. We work from the assessors' feedback to rebuild the panel — reviewing what to keep, what to drop, the sequencing and the Statement of Intent. The case study on this page is exactly that: a failed ARPS panel rebuilt into a pass."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it one-to-one or in a group?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both are available. You can work one-to-one, or in a small group of up to three. All sessions are online via Zoom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's your pass rate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To date, 100% — across more than 20 Licentiate and 4 Associate candidates mentored to a successful distinction. No mentor can guarantee a result, but the planning-led approach is built around what assessors actually look for."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What software and equipment do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Just Zoom for the sessions and Dropbox for sharing your images and updated panels between meetings. Both are free to use, and Alan will explain how to set them up if you're not familiar with them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I take it for both the LRPS and the ARPS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Many photographers work towards the Licentiate first and then return to step up to the Associate, which is a different kind of challenge — a single genre with a personal voice and a Statement of Intent. The mentoring covers both."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do I have to use my sessions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sessions are valid for twelve months from purchase. If you need longer — panels often develop over a year or more — the timeline can be extended and unused sessions retained, so nothing is lost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to be an RPS member?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You don't need to be a member to start mentoring, but you will need to be a member of the Royal Photographic Society to apply for a distinction with them. It's worth joining early so you have access to their own resources too."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you guarantee I'll pass?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No honest mentor can guarantee an assessment result — the decision rests with the RPS assessors. What the mentoring does is prepare your panel as thoroughly as possible against the published criteria, and the track record to date is a 100% pass rate."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#webpage",
+      "url": "https://www.alanranger.com/rps-courses-mentoring-distinctions",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#primaryimage"
+      },
+      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
+      "headline": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
+      "description": "Independent RPS distinctions mentoring for your LRPS or ARPS panel. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#service",
+      "url": "https://www.alanranger.com/rps-courses-mentoring-distinctions",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
+      "description": "Independent RPS distinctions mentoring for your LRPS or ARPS panel. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

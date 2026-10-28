@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do I need an expensive camera or lens?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Any DSLR or mirrorless camera with manual exposure modes is perfect — it doesn't need to be new or expensive. Ideally bring a zoom (50mm+) or a 50mm prime, but the kit lens you already have is a fine place to start."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will there be a model to photograph?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide the models for the practical session, so you get to photograph a real subject under studio lighting with guidance — rather than just talking theory."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I'm a complete beginner — will I be out of my depth?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not at all. The course assumes only a basic understanding of exposure and builds from there. With a maximum of four people there's time for questions and individual help, and there's genuinely no such thing as a silly question here."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It's a full day, roughly 9am to 5pm, with about an hour for lunch. You'll cover lighting, settings, composition and posing, with a hands-on practical session photographing a model."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is it held and is there parking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course runs at our studio at 17A Spon Street, Coventry, CV1 3BA. Parking is Pay & Display, or the Skydome Multi-Storey Car Park (15 Croft Road, CV1 3LD) is a short walk away."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a friend or partner come along to watch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Places are limited to four participants to keep the day personal, so it's for booked participants only rather than observers. If a friend or partner would also like to learn, they're very welcome to book their own place."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can under-18s attend?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — younger photographers are welcome, but anyone under 18 must be accompanied by a paying adult on the course."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I get a certificate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not as standard, but one is available on request — an informal acknowledgement of completing your portrait photography training."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if no dates are listed right now?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you don't see a date to book, dates for the next course haven't been scheduled yet. The quickest option is Alan's private 1-2-1 package, which covers the same material around your own schedule — or get in touch to be told when the next date is set."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can I do after the portrait course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most people add the Lightroom photo editing course to develop their images, or continue with monthly mentoring or 1-2-1 lessons. If you're aiming higher, there's also RPS distinction support."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if a course can't run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On the rare occasion a course can't go ahead, you'll be offered an alternative date or a credit."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#webpage",
+      "url": "https://www.alanranger.com/beginners-portrait-photography-course",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/beginners-portrait-photography-course#primaryimage"
+      },
+      "name": "Beginners Portrait Photography Course | 1 Day | Coventry",
+      "headline": "Beginners Portrait Photography Course | 1 Day | Coventry",
+      "description": "A one-day beginners portrait photography course in our Coventry studio. Lighting, settings, posing and composition, max 4, models provided. From £195."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5db45ab32ca7a63a6d423168/1572155192767/Portrait-Photography-Alan-Ranger-Photography.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5db45ab32ca7a63a6d423168/1572155192767/Portrait-Photography-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "Beginners Portrait Photography Course | 1 Day | Coventry primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#service",
+      "url": "https://www.alanranger.com/beginners-portrait-photography-course",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5db45ab32ca7a63a6d423168/1572155192767/Portrait-Photography-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "Beginners Portrait Photography Course | 1 Day | Coventry",
+      "description": "A one-day beginners portrait photography course in our Coventry studio. Lighting, settings, posing and composition, max 4, models provided. From £195."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

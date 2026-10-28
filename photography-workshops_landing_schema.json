@@ -1,0 +1,664 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are photography workshops worth it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Landscape photography workshops are incredibly valuable, especially for those looking to enhance their skills in capturing the UK's stunning scenery. These workshops offer hands-on experience, expert guidance, and the opportunity to explore breathtaking locations. You'll learn advanced techniques, receive immediate feedback, and network with like-minded photographers. For beginners and seasoned photographers alike, workshops provide a structured environment to rapidly improve your craft and gain insider knowledge that would take years to acquire on your own."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started in landscape photography?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To begin your journey in landscape photography: 1. Invest in a quality camera and wide-angle lens 2. Master the basics of composition and exposure 3. Learn to use a tripod for stability 4. Practice during the 'golden hours' of sunrise and sunset 5. Experiment with different weather conditions 6. Join a UK-based landscape photography workshop to accelerate your learning. Remember, the best way to improve is through practice and guidance from experienced professionals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can photographers be self-taught?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, photographers can certainly be self-taught. Many successful landscape photographers have honed their skills through practice, research, and experimentation. However, while self-teaching is possible, attending landscape photography workshops can significantly speed up the learning process. These workshops provide structured learning, expert insights, and hands-on experience that can take years to acquire independently."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do I start landscape photography?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To start landscape photography: 1. Begin in your local area, exploring nearby parks or scenic spots 2. Practice composition techniques like the rule of thirds 3. Experiment with different times of day and weather conditions 4. Learn to use your camera's manual settings 5. Study the work of renowned UK landscape photographers for inspiration 6. Consider joining a beginner's landscape photography workshop to build a strong foundation. Starting locally allows you to practice frequently and understand how light and weather affect your images before venturing to more exotic locations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to get noticed as a landscape photographer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To gain recognition as a landscape photographer: 1. Develop a unique style that sets your work apart 2. Consistently produce high-quality images 3. Create a professional website and maintain an active social media presence 4. Enter photography competitions and exhibitions 5. Network with other photographers and industry professionals 6. Attend and eventually lead landscape photography workshops 7. Collaborate with local tourism boards or conservation groups. Remember, building a reputation takes time, but persistence and quality work will help you stand out in the UK's competitive landscape photography scene."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you make money selling landscape photos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, it's possible to earn money from landscape photography. Here are some avenues to explore: 1. Sell prints online or in galleries 2. License images through stock photography websites 3. Offer landscape photography workshops or tours 4. Create and sell educational content like e-books or online courses 5. Pursue commercial assignments for travel magazines or tourism boards 6. Develop a strong social media following to attract sponsorships. While it can be challenging, with dedication and business acumen, you can turn your passion for landscape photography into a profitable venture."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do landscape photographers edit their photos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, most professional landscape photographers edit their photos. Post-processing is an integral part of modern digital photography. Editing allows photographers to enhance the natural beauty of a scene, correct for camera limitations, and realise their creative vision. However, ethical landscape photography maintains a balance between enhancement and authenticity. Many UK-based landscape photography workshops include lessons on responsible editing techniques to help you achieve stunning, yet credible results."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best software for landscape photography?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "While there's no one-size-fits-all solution, some popular software options for landscape photography include: 1. Adobe Lightroom: Excellent for organising and basic editing 2. Adobe Photoshop: Powerful for advanced editing and compositing 3. Capture One: Known for superior colour handling 4. DxO PhotoLab: Great for noise reduction and lens corrections 5. ON1 Photo RAW: An all-in-one solution with AI-powered features. The 'best' software depends on your specific needs and workflow. Many UK landscape photography workshops include software tutorials to help you choose and master the right tools for your style."
+          }
+        }
+      ],
+      "@id": "https://www.alanranger.com/photography-workshops#faq"
+    },
+    {
+      "@type": "ItemList",
+      "name": "__ALL__ Events",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-wales"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-piles-coppice"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-winter"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-autumn"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-29oct"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-30oct"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-31oct"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-1nov"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-2nov"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/batsford-arboretum-autumn-photography-3nov"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-tile-hill"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-cv4"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl"
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/northumberland-landscape-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/dingle-kerry-ireland-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-betws-y-coed-photography"
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-snowdonia-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-spring"
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-workshops-yorkshire"
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring"
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2"
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth"
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring"
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-20"
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-21"
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-22"
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-23"
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-24"
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-25"
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-17"
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-18"
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-19"
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-29"
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-30"
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/bluebell-photography-photo-workshop-warwickshire-01"
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-burnham-on-sea"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-meriden-millisons-wood"
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed"
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/anglesey-photography-workshop-wales"
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-spring"
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry"
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms"
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/exmoor-photography-workshops-seascapes-lynmouth"
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/sezincote-garden-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19"
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset"
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunset"
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-heathers-sunrise"
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-late-summer"
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands"
+        }
+      ],
+      "@id": "#__all__-events"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/photography-workshops#itemlist",
+      "name": "Best UK Outdoor Landscape Photography Workshops | Book Now",
+      "description": "Join our top-rated landscape photography workshops across the UK. Perfect \nfor beginners and intermediates. Book now for expert tuition in stunning \nlocations!",
+      "url": "https://www.alanranger.com/photography-workshops",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Case Study Vincenzo Albano Rps Distinctions",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/case-study-vincenzo-albano-rps-distinctions",
+            "url": "https://www.alanranger.com/blog-on-photography/case-study-vincenzo-albano-rps-distinctions"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "John Simpson Rps Distinctions",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/john-simpson-rps-distinctions",
+            "url": "https://www.alanranger.com/blog-on-photography/john-simpson-rps-distinctions"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peter Orton Rps Distinctions",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions",
+            "url": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Long Exposure Photo Workshop Sunset Kenilworth",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Long Exposure Photography Workshop Kenilworth2",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photography-workshop-kenilworth2"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Secrets Of Woodland Photography Masterclass Spring",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-spring"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Sunset Chesterton Windmill Spring",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Urban Architecture Photography Workshop Coventry",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/urban-architecture-photography-workshop-coventry"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Yorkshire Dales Photography Workshop",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/yorkshire-dales-photography-workshop"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Certificate.Pdf",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/s/certificate.pdf",
+            "url": "https://www.alanranger.com/s/certificate.pdf"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-workshops#webpage",
+      "url": "https://www.alanranger.com/photography-workshops",
+      "name": "Best UK Outdoor Landscape Photography Workshops | Book Now",
+      "headline": "Best UK Outdoor Landscape Photography Workshops | Book Now",
+      "description": "Join our top-rated landscape photography workshops across the UK. Perfect for beginners and intermediates. Book now for expert tuition in stunning locations!",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-workshops#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-workshops#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "name": "Best UK Outdoor Landscape Photography Workshops | Book Now primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-workshops#service",
+      "name": "Best UK Outdoor Landscape Photography Workshops | Book Now",
+      "description": "Join our top-rated landscape photography workshops across the UK. Perfect for beginners and intermediates. Book now for expert tuition in stunning locations!",
+      "url": "https://www.alanranger.com/photography-workshops",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "UK"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

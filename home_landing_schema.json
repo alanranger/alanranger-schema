@@ -1,0 +1,459 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "name": "Alan Ranger Photography | Workshops | Classes | Commercial primary image"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/home#itemlist",
+      "name": "Alan Ranger Photography | Workshops | Classes | Commercial",
+      "description": "Enhance your photography skills on photography workshops and photography \ncourses with Alan Ranger Photography, a professional photographer and \nqualified tutor.",
+      "url": "https://www.alanranger.com/home",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "6gq4fd6yusjpnruv2thzmiju95e817",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/commercial-people-photography/6gq4fd6yusjpnruv2thzmiju95e817",
+            "url": "https://www.alanranger.com/commercial-people-photography/6gq4fd6yusjpnruv2thzmiju95e817"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rza6lwzz3dlj9zdwwdeu8yn67psbpd",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/commercial-people-photography/rza6lwzz3dlj9zdwwdeu8yn67psbpd",
+            "url": "https://www.alanranger.com/commercial-people-photography/rza6lwzz3dlj9zdwwdeu8yn67psbpd"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wad579954tenb1yvyidkhtj4m6nwps",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/commercial-people-photography/wad579954tenb1yvyidkhtj4m6nwps",
+            "url": "https://www.alanranger.com/commercial-people-photography/wad579954tenb1yvyidkhtj4m6nwps"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Yftgno5f2248f6y1mlrwwvqdphv6ek",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/commercial-people-photography/yftgno5f2248f6y1mlrwwvqdphv6ek",
+            "url": "https://www.alanranger.com/commercial-people-photography/yftgno5f2248f6y1mlrwwvqdphv6ek"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "6r0i8ef5nmgkk0k15ss8m9dfhskov1",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/product-photographer/6r0i8ef5nmgkk0k15ss8m9dfhskov1",
+            "url": "https://www.alanranger.com/product-photographer/6r0i8ef5nmgkk0k15ss8m9dfhskov1"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Hc6xrj4qx1dje2aqkhz0k1fur1vdi2",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/product-photographer/hc6xrj4qx1dje2aqkhz0k1fur1vdi2",
+            "url": "https://www.alanranger.com/product-photographer/hc6xrj4qx1dje2aqkhz0k1fur1vdi2"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "J2nnzwxvj5p134wlag04j75g6jj919",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/product-photographer/j2nnzwxvj5p134wlag04j75g6jj919",
+            "url": "https://www.alanranger.com/product-photographer/j2nnzwxvj5p134wlag04j75g6jj919"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "R0btdlhecyx90tkuafgm57vy8izhrg",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/product-photographer/r0btdlhecyx90tkuafgm57vy8izhrg",
+            "url": "https://www.alanranger.com/product-photographer/r0btdlhecyx90tkuafgm57vy8izhrg"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "4hhnxgy34aellm61yd9rsgv2hhxm8o",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/property-photographer/4hhnxgy34aellm61yd9rsgv2hhxm8o",
+            "url": "https://www.alanranger.com/property-photographer/4hhnxgy34aellm61yd9rsgv2hhxm8o"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Gf3z1a66rxx9hia3nlg9v9l8hxodz9",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/property-photographer/gf3z1a66rxx9hia3nlg9v9l8hxodz9",
+            "url": "https://www.alanranger.com/property-photographer/gf3z1a66rxx9hia3nlg9v9l8hxodz9"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Nnzabmc6pqb0qpywoexb7d2bdkkel0",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/property-photographer/nnzabmc6pqb0qpywoexb7d2bdkkel0",
+            "url": "https://www.alanranger.com/property-photographer/nnzabmc6pqb0qpywoexb7d2bdkkel0"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Sm1c3ii13tg3u4zxb42922b1wodnaq",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/property-photographer/sm1c3ii13tg3u4zxb42922b1wodnaq",
+            "url": "https://www.alanranger.com/property-photographer/sm1c3ii13tg3u4zxb42922b1wodnaq"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Certificate.Pdf",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/s/certificate.pdf",
+            "url": "https://www.alanranger.com/s/certificate.pdf"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "url": "https://www.alanranger.com",
+      "name": "Alan Ranger Photography",
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png",
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "@id": "https://www.alanranger.com/#searchaction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "10",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roz"
+          },
+          "datePublished": "2026-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am in New Orleans USA and needed a location shoot in Coventry. I emailed several photographers and Alan was the only one that  promptly replied back and discussed the job with me. He not only worked within my budget but gave me quality deliverables, exactly as I needed. Would definitely work with again!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Slothman118"
+          },
+          "datePublished": "2026-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent workshop experience. Learned valuable skills for photography with moving objects and excellent scenery"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sean"
+          },
+          "datePublished": "2025-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Mr Ranger is a wonderful photographer and is not shy to share his vast knowledge of this subject. His articles are easy to read and even easier to follow."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne Veal"
+          },
+          "datePublished": "2024-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am an absolute beginner and was concerned that I would be overwhelmed. Alan was patient and helped me get to grip with the basics. He shared his knowledge and experience with the group. A thoroughly enjoyable afternoon in the beautiful Peak District."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "re wu"
+          },
+          "datePublished": "2023-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have attended a few good workshop with Alan and done some face to face lessons and summarizing, if you are looking for passionate, knowledgeable photographer who will guide you through this sometime complicated but also fascinating world, it is Alan. He is not a photographer but and artist and soulful person, who will inspire you with his stories as a person and teach you a lot with his experience. Workshops gave me very valuable time in beautiful places and interesting people, which worth is"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "datePublished": "2023-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan's workshop was my first such course and combined a perfect combination of theory and practical guidance on composition and camera use. Regardless of your level of experience, Alan's workshops provide a friendly and constructive environment in which to enhance your skills. I look forward to the next one."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "seun adeusi"
+          },
+          "datePublished": "2021-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dp"
+          },
+          "datePublished": "2021-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've only done 1 session but so far so good. The service is very professional and supportive. The feedback on my work was honest and encouraging. I'm looking forward to seeing how working with Alan develops."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "George H"
+          },
+          "datePublished": "2020-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent tips and tricks, really enjoyed the session!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jill harrison"
+          },
+          "datePublished": "2018-10-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan is a very good teacher - always available to comment and makes lots of suggestions and recommendations but lets you get on with your own stuff. Highly recommended"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/home#webpage",
+      "url": "https://www.alanranger.com/home",
+      "name": "Alan Ranger Photography | Workshops | Classes | Commercial",
+      "headline": "Alan Ranger Photography | Workshops | Classes | Commercial",
+      "description": "Enhance your photography skills on photography workshops and photography courses with Alan Ranger Photography, a professional photographer and qualified tutor.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/home#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "name": "Alan Ranger Photography | Workshops | Classes | Commercial primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/home#service",
+      "name": "Alan Ranger Photography | Workshops | Classes | Commercial",
+      "description": "Enhance your photography skills on photography workshops and photography courses with Alan Ranger Photography, a professional photographer and qualified tutor.",
+      "url": "https://www.alanranger.com/home",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

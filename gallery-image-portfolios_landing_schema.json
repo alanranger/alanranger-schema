@@ -1,0 +1,555 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#schema",
+      "name": "Photography Gallery - Image Portfolios by Alan Ranger",
+      "description": "Photography Gallery and portfolio from landscape locations around the UK available to purchase as prints or license — Best Landscape Photography Photographs.",
+      "url": "https://www.alanranger.com/gallery-image-portfolios",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w",
+      "offers": {
+        "@type": "Offer",
+        "price": "95.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/gallery-image-portfolios",
+        "priceValidUntil": "2026-11-12",
+        "seller": {
+          "@type": "Organization",
+          "name": "Alan Ranger Photography",
+          "url": "https://www.alanranger.com/"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          },
+          "doesNotShip": "http://schema.org/False"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "0.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "20"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "Beautiful photographic prints with outstanding detail and colour fidelity."
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#itemlist",
+      "name": "Photography Gallery - Image Portfolios By Alan Ranger",
+      "description": "Photography Gallery and portfolio from landscape locations around the UK \nare available to purchase as prints or license - Best Landscape Photography \nPhotographs",
+      "url": "https://www.alanranger.com/gallery-image-portfolios",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Lake District Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints-/lake-district-photography",
+            "url": "https://www.alanranger.com/fine-art-prints-/lake-district-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Anglesey Photography Photo Spots",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/anglesey-photography-photo-spots",
+            "url": "https://www.alanranger.com/fine-art-prints/anglesey-photography-photo-spots"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Batsford Arboretum Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/batsford-arboretum-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/batsford-arboretum-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Chesterton Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/chesterton-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/chesterton-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Collection A Love Of Emptiness Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-a-love-of-emptiness-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-a-love-of-emptiness-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Collection Coastline Minimalist Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-coastline-minimalist-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-coastline-minimalist-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Collection Lake Reflections Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-lake-reflections-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-lake-reflections-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Collection Rock Photography Study",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-rock-photography-study",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-rock-photography-study"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Collection Tree Bark Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-tree-bark-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-tree-bark-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Collection Water Abstracts Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-water-abstracts-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-water-abstracts-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Collection Woodland Photography Spirit",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/collection-woodland-photography-spirit",
+            "url": "https://www.alanranger.com/fine-art-prints/collection-woodland-photography-spirit"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Coventry Photography Spots",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/coventry-photography-spots",
+            "url": "https://www.alanranger.com/fine-art-prints/coventry-photography-spots"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Dartmoor Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/dartmoor-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/dartmoor-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Devon Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/devon-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/devon-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Dorset Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/dorset-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/dorset-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "French Riviera Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/french-riviera-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/french-riviera-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Glencoe Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/glencoe-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/glencoe-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Ireland Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/ireland-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/ireland-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Latest Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/latest-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/latest-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Norfolk Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/norfolk-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/norfolk-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Northumbria Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/northumbria-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/northumbria-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Peak District Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/peak-district-photography",
+            "url": "https://www.alanranger.com/fine-art-prints/peak-district-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Serenity Photography Collection",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/serenity-photography-collection",
+            "url": "https://www.alanranger.com/fine-art-prints/serenity-photography-collection"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Somerset Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/somerset-photography-prints",
+            "url": "https://www.alanranger.com/fine-art-prints/somerset-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Suffolk Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/suffolk-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/suffolk-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Wales Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/wales-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/wales-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Warwickshire Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/warwickshire-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/warwickshire-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "Yorkshire Photography Images",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/fine-art-prints/yorkshire-photography-images",
+            "url": "https://www.alanranger.com/fine-art-prints/yorkshire-photography-images"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Certificate.Pdf",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/s/certificate.pdf",
+            "url": "https://www.alanranger.com/s/certificate.pdf"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Photography Gallery - Image Portfolios By Alan Ranger about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Photography Gallery and portfolio from landscape locations around the UK are available to purchase as prints or license - Best Landscape Photography Photographs"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is this suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get help choosing the right option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#webpage",
+      "url": "https://www.alanranger.com/gallery-image-portfolios",
+      "name": "Photography Gallery - Image Portfolios By Alan Ranger",
+      "headline": "Photography Gallery - Image Portfolios By Alan Ranger",
+      "description": "Photography Gallery and portfolio from landscape locations around the UK are available to purchase as prints or license - Best Landscape Photography Photographs",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/gallery-image-portfolios#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w",
+      "name": "Photography Gallery - Image Portfolios By Alan Ranger primary image"
+    },
+    {
+      "@type": "Service",
+      "serviceType": [
+        "Photography Workshops",
+        "Private Lessons",
+        "Photography Courses",
+        "Mentoring",
+        "Commercial Photography",
+        "Online Courses"
+      ],
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "United Kingdom"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "@id": "https://www.alanranger.com/gallery-image-portfolios#service",
+      "name": "Photography Gallery - Image Portfolios By Alan Ranger",
+      "description": "Photography Gallery and portfolio from landscape locations around the UK are available to purchase as prints or license - Best Landscape Photography Photographs",
+      "url": "https://www.alanranger.com/gallery-image-portfolios",
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

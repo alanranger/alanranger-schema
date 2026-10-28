@@ -1,0 +1,329 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/free-photography-tips#itemlist",
+      "name": "Photography Tips | Learn Photography with Free Pro Tips",
+      "description": "Enhance your photography skills with my extensive range of free photography \ntips covering everything from the basics to advanced techniques and \nequipment usage",
+      "url": "https://www.alanranger.com/free-photography-tips",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Art Of Macro Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography",
+            "url": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Best Cameras For Beginners",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/best-cameras-for-beginners",
+            "url": "https://www.alanranger.com/blog-on-photography/best-cameras-for-beginners"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Delete Duplicate Photos In Lightroom",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom",
+            "url": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Finding Your Compositional Balance",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance",
+            "url": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Take The On Line Colour Test",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test",
+            "url": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Tripod For Headshots Top Picks Amp Reviews 2026",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+            "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "What Are Leading Lines In Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/what-are-leading-lines-in-photography",
+            "url": "https://www.alanranger.com/blog-on-photography/what-are-leading-lines-in-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "What Do Camera Lens Filters Do",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do",
+            "url": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "What Is Contrast In Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography",
+            "url": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "What Is White Balance In Photography",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography",
+            "url": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Photography Tips Pocket Guide Series",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-tips-pocket-guide-series",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-tips-pocket-guide-series"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Certificate.Pdf",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/s/certificate.pdf",
+            "url": "https://www.alanranger.com/s/certificate.pdf"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/free-photography-tips#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Photography Tips | Learn Photography with Free Pro Tips about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Enhance your photography skills with my extensive range of free photography tips covering everything from the basics to advanced techniques and equipment usage"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is this suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get help choosing the right option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/free-photography-tips#webpage",
+      "headline": "Photography Tips | Learn Photography with Free Pro Tips",
+      "description": "Enhance your photography skills with my extensive range of free photography tips covering everything from the basics to advanced techniques and equipment usage",
+      "url": "https://www.alanranger.com/free-photography-tips",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/free-photography-tips"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "author": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography"
+      },
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+      },
+      "name": "Photography Tips | Learn Photography with Free Pro Tips",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/free-photography-tips#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "name": "Photography Tips | Learn Photography with Free Pro Tips primary image"
+    },
+    {
+      "@type": "Service",
+      "serviceType": [
+        "Photography Workshops",
+        "Private Lessons",
+        "Photography Courses",
+        "Mentoring",
+        "Commercial Photography",
+        "Online Courses"
+      ],
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "United Kingdom"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "@id": "https://www.alanranger.com/free-photography-tips#service",
+      "name": "Photography Tips | Learn Photography with Free Pro Tips",
+      "description": "Enhance your photography skills with my extensive range of free photography tips covering everything from the basics to advanced techniques and equipment usage",
+      "url": "https://www.alanranger.com/free-photography-tips",
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photo-editing-course-coventry#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What do I need to bring, and what software do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bring your own laptop with Adobe Lightroom Classic installed and an active subscription. Please install it and sign in before the first session so we can get straight into editing. You don't need any other software."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I've never edited before — will I keep up?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The course assumes no prior editing experience and starts from the very beginning — importing and organising — before moving on to adjustments. With only three people per class, there's plenty of time for individual help."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to shoot in RAW?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the course works whether you shoot RAW or JPG. That said, editing is where RAW files really come into their own, so you'll learn how to get the most from RAW if and when you start using it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lightroom Classic or the cloud version — which do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This course uses Adobe Lightroom Classic (the desktop catalogue-based version), so please make sure that's the one installed. If you're unsure which you have or which plan to choose, get in touch before booking and Alan will point you the right way."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why only three people per class?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Editing software is more technical to teach, and everyone needs space for an open laptop and hands-on help when they hit a problem. Capping the class at three (smaller than the beginners camera course) means Alan can support each person individually on their own machine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there parking at the venue?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — there's space for two to three cars on the premises, plus free roadside parking on the cul-de-sac."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I miss one of the three weeks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course runs as a fixed three-week block, so a missed session can't be repeated within it. You'll still receive the full course material for that week, and if you'd like to cover it properly you can book a one-to-one private lesson (1–2 hours) with Alan to go through what you missed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the venue accessible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The classroom is on the ground floor with step-free access. Please note the toilet is on the first floor, up a flight of stairs. If you have any specific access needs, get in touch before booking and Alan will do his best to help."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can under-18s attend?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — younger photographers are welcome, but anyone under 18 must be accompanied by a paying adult on the course."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can I do after the course?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many students go on to monthly mentoring for ongoing feedback, or 1-2-1 lessons to focus on their own work. If you started here, the beginners camera course pairs perfectly to strengthen your shooting too."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photo-editing-course-coventry#webpage",
+      "url": "https://www.alanranger.com/photo-editing-course-coventry",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photo-editing-course-coventry#primaryimage"
+      },
+      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course",
+      "headline": "Lightroom Photo Editing Course Coventry — 3-Week Course",
+      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photo-editing-course-coventry#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photo-editing-course-coventry#service",
+      "url": "https://www.alanranger.com/photo-editing-course-coventry",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Coventry"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
+      "offers": {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photo-editing-course-coventry"
+      },
+      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course",
+      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

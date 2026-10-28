@@ -1,0 +1,402 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/photography-services-near-me#itemlist",
+      "name": "Photography Services | workshops, courses, 1-2-1 | mentoring",
+      "description": "Photography services and products, photography courses, photography \ntuition, photography workshops, one-to-one private lessons, camera sensor \ncleaning and more",
+      "url": "https://www.alanranger.com/photography-services-near-me",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beginners Photography Course",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course",
+            "url": "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Lightroom Courses For Beginners Coventry",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+            "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Photography Gift Vouchers",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Private Online Photography Classes Zoom",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom",
+            "url": "https://www.alanranger.com/photography-services-near-me/private-online-photography-classes-zoom"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rps Mentoring Photography Course",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course",
+            "url": "https://www.alanranger.com/photography-services-near-me/rps-mentoring-photography-course"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Annual Pick N Mix Subscription",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription",
+            "url": "https://www.alanranger.com/photography-services-near-me/annual-pick-n-mix-subscription"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Beginners Portrait Photography Course",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course",
+            "url": "https://www.alanranger.com/photography-services-near-me/beginners-portrait-photography-course"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Black And White Photography Course",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course",
+            "url": "https://www.alanranger.com/photography-services-near-me/black-and-white-photography-course"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Camera Settings Photography Field Checklists",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-settings-photography-field-checklists",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-settings-photography-field-checklists"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Composition Settings Photography Field Checklists",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists",
+            "url": "https://www.alanranger.com/photography-services-near-me/composition-settings-photography-field-checklists"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Fine Art Photography Prints Canvas",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas",
+            "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-canvas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Fine Art Photography Prints Unframed",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed",
+            "url": "https://www.alanranger.com/photography-services-near-me/fine-art-photography-prints-unframed"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Four Private Photography Classes",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes",
+            "url": "https://www.alanranger.com/photography-services-near-me/four-private-photography-classes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Framed Fine Art Photography Prints",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints",
+            "url": "https://www.alanranger.com/photography-services-near-me/framed-fine-art-photography-prints"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Intermediates Intentions Photography Project Course",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course",
+            "url": "https://www.alanranger.com/photography-services-near-me/intermediates-intentions-photography-project-course"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Monthly Online Photography Mentoring",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring",
+            "url": "https://www.alanranger.com/photography-services-near-me/monthly-online-photography-mentoring"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Monthly Pick N Mix Subscription",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription",
+            "url": "https://www.alanranger.com/photography-services-near-me/monthly-pick-n-mix-subscription"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Photo Print Preparation Service 30min",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min",
+            "url": "https://www.alanranger.com/photography-services-near-me/photo-print-preparation-service-30min"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Photography 35bundle Photography Field Checklists",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-35bundle-photography-field-checklists",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-35bundle-photography-field-checklists"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "Photography Foundation Course Ebook",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-foundation-course-ebook",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-foundation-course-ebook"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Photography Genre Photography Field Checklists",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-genre-photography-field-checklists",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-genre-photography-field-checklists"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Photography Tips Pocket Guide Series",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/photography-tips-pocket-guide-series",
+            "url": "https://www.alanranger.com/photography-services-near-me/photography-tips-pocket-guide-series"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Premium Photography Academy Membership",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/premium-photography-academy-membership",
+            "url": "https://www.alanranger.com/photography-services-near-me/premium-photography-academy-membership"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Quarterly Pick N Mix Subscription",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription",
+            "url": "https://www.alanranger.com/photography-services-near-me/quarterly-pick-n-mix-subscription"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca16b898583ce09d79b80/1572155148567/photography-support-Services-1.png?format=1500w"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-services-near-me#webpage",
+      "url": "https://www.alanranger.com/photography-services-near-me",
+      "name": "Photography Services | workshops, courses, 1-2-1 | mentoring",
+      "headline": "Photography Services | workshops, courses, 1-2-1 | mentoring",
+      "description": "Photography services and products, photography courses, photography tuition, photography workshops, one-to-one private lessons, camera sensor cleaning and more",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-services-near-me#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-services-near-me#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca16b898583ce09d79b80/1572155148567/photography-support-Services-1.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca16b898583ce09d79b80/1572155148567/photography-support-Services-1.png?format=1500w",
+      "name": "Photography Services | workshops, courses, 1-2-1 | mentoring primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-services-near-me#service",
+      "name": "Photography Services | workshops, courses, 1-2-1 | mentoring",
+      "description": "Photography services and products, photography courses, photography tuition, photography workshops, one-to-one private lessons, camera sensor cleaning and more",
+      "url": "https://www.alanranger.com/photography-services-near-me",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca16b898583ce09d79b80/1572155148567/photography-support-Services-1.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

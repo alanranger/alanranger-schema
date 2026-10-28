@@ -1,0 +1,193 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/bluebell-woods-near-me/#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/623987c06428f30effa6ca18/1647937478849/Bluebell+Woodlands.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/623987c06428f30effa6ca18/1647937478849/Bluebell+Woodlands.jpg?format=1500w",
+      "name": "Bluebell Woods Near Me - Warwickshire Photo Workshops primary image"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/bluebell-woods-near-me#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where are the bluebell woods near me in Warwickshire?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The workshop runs in a private ancient woodland in Warwickshire, near Henley-in-Arden and close to Stratford-upon-Avon. The exact location is kept confidential to protect the site, and you’re sent the precise spot and parking details when you book. It’s within easy reach of Stratford, Warwick and the wider Midlands."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to photograph bluebells?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Native English bluebells peak for a short window in spring, usually mid-to-late April depending on the season. Because the display is so brief and weather-dependent, dates are set provisionally and confirmed nearer the time — you pick your first-choice date and we’ll let you know if the bloom shifts it by a few days."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this a bluebell photoshoot or a workshop?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both — it’s a hands-on bluebell photography workshop where you also come away with your own photoshoot. You get one-to-one tuition pitched at your level alongside the time and space to make your own images, in a private wood with exclusive access rather than a crowded public site."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What experience level and camera do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any level, and any digital camera (DSLR or mirrorless) plus a tripod. You’ll receive one-to-one support throughout as we explore the wood at a mindful pace. Whether you’re a beginner or more advanced, the workshop meets you where you are."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long are the sessions and what time do they run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Choose a sunrise session (5:45am–9:45am), a mid-morning session (10:30am–2:30pm), or a full day (5:45am–2:30pm) to shoot both, with a brunch break in between (9:45–10:30, not included). The sunrise session has the softest early light and the wood at its quietest."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What will I learn on the day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "How to work off the automatic modes and use more creative settings, alongside different approaches to photographing bluebells — from wide woodland scenes to macro, backlight and abstract. Above all, how to compose with intention and read soft spring light. For a head start, see my top tips for photographing bluebells."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/bluebell-woods-near-me#webpage",
+      "url": "https://www.alanranger.com/bluebell-woods-near-me",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/bluebell-woods-near-me#primaryimage"
+      },
+      "name": "Bluebell Woods Near Me - Warwickshire Photo Workshops",
+      "headline": "Bluebell Woods Near Me - Warwickshire Photo Workshops",
+      "description": "Looking for bluebell woods near me? Photograph a private Warwickshire bluebell wood near Stratford-upon-Avon. Sunrise or mid-morning, any level, max 6"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/bluebell-woods-near-me#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/623987c06428f30effa6ca18/1647937478849/Bluebell+Woodlands.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/623987c06428f30effa6ca18/1647937478849/Bluebell+Woodlands.jpg?format=1500w",
+      "name": "Bluebell Woods Near Me - Warwickshire Photo Workshops primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/bluebell-woods-near-me#service",
+      "url": "https://www.alanranger.com/bluebell-woods-near-me",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/623987c06428f30effa6ca18/1647937478849/Bluebell+Woodlands.jpg?format=1500w",
+      "name": "Bluebell Woods Near Me - Warwickshire Photo Workshops",
+      "description": "Looking for bluebell woods near me? Photograph a private Warwickshire bluebell wood near Stratford-upon-Avon. Sunrise or mid-morning, any level, max 6"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

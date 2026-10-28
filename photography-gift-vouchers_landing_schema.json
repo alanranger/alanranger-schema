@@ -1,0 +1,250 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photography Gift Vouchers",
+          "item": "https://www.alanranger.com/photography-gift-vouchers"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#product",
+      "name": "Photography Gift Vouchers | Digital eCard | Email Delivery",
+      "sku": "GIFT-VOUCHER",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "url": "https://www.alanranger.com/photography-gift-vouchers",
+      "description": "Instant digital photography gift vouchers delivered by email. Perfect for any photographer — redeemable against any workshop, lesson or service.",
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/53d39321e4b009befdb652c8/59de35f9d7bdce34b0bfb6ce/1762694628474/photography-gift-vouchers.png",
+      "offers": {
+        "@type": "Offer",
+        "price": "5.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photography-gift-vouchers",
+        "priceValidUntil": "2026-11-16",
+        "seller": {
+          "@type": "Organization",
+          "@id": "https://www.alanranger.com/#localbusiness"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": true,
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "deliveryMethod": "https://schema.org/EmailDelivery",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted",
+          "applicableCountry": "GB"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What can the photography gift voucher be used for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can be redeemed against photography courses, workshops and private 1-to-1 lessons. It is not valid against print sales."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the voucher delivered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is delivered digitally by email as an eCard or PDF. There is nothing physical to post, so it can be sent at short notice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I send the voucher to the recipient on a later date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. At checkout choose the \"Email to you\" delivery option, then forward the email or PDF to the recipient whenever you like."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the recipient redeem their voucher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They simply enter the unique code from the voucher at checkout when booking eligible items through the shopping cart."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an order be split between a voucher and a card payment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If the order total is more than the voucher value, the remaining balance can be paid by card at checkout."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do vouchers have an expiry date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Gift cards and eVouchers expire 12 months (1 year) from the date they are purchased."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do the vouchers have an expiry date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expiry dates are needed because of accounting regulations governing how unspent gift vouchers are accounted for. Without one, an unspent voucher would remain a liability on the balance sheet indefinitely, which is not sustainable for a small business."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#webpage",
+      "url": "https://www.alanranger.com/photography-gift-vouchers",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-gift-vouchers#primaryimage"
+      },
+      "name": "Photography Gift Vouchers - Workshops, Lessons & Courses",
+      "headline": "Photography Gift Vouchers - Workshops, Lessons & Courses",
+      "description": "Photography gift vouchers redeemable for workshops, 1-to-1 lessons and courses. Flexible amounts, valid UK-wide and online - a great gift for any photographer"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a213700f2f64d69b39491b0/1780561664280/XMAS.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a213700f2f64d69b39491b0/1780561664280/XMAS.png?format=1500w",
+      "name": "Photography Gift Vouchers - Workshops, Lessons & Courses primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#service",
+      "url": "https://www.alanranger.com/photography-gift-vouchers",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a213700f2f64d69b39491b0/1780561664280/XMAS.png?format=1500w",
+      "name": "Photography Gift Vouchers - Workshops, Lessons & Courses",
+      "description": "Photography gift vouchers redeemable for workshops, 1-to-1 lessons and courses. Flexible amounts, valid UK-wide and online - a great gift for any photographer"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

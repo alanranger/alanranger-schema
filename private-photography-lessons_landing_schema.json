@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/private-photography-lessons#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do I have to take the sessions every week or month?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Take them as and when you want, so you have time to practise and digest each session. Sessions often end with an agreed practice assignment to review and discuss next time. The only limit is to use all four within 12 months of purchase, so you keep your momentum and don’t end up covering old ground."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book my dates after buying the package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Once you’ve purchased the £360 package, Alan emails you a link to his online diary to pick your dates and times. That email also includes a coupon code that bypasses the payment section in the scheduler — your sessions are already paid for."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do the lessons take place?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All lessons are held at Alan’s premises in Coventry (CV4 9HW), where there are plenty of resources on hand — large screens, a printer, and a range of camera equipment to use and demonstrate, plus access to woodland at the end of the garden for practical, on-location tuition as well as theory."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I have lessons in the evening or at weekends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 4-for-3 package is for daytime sessions, 9am–5pm Monday to Friday, as that’s when daytime availability is easiest — evenings are usually small-group classes and weekends are often location workshops. If you’d prefer an evening or weekend, there’s a pay-as-you-go option you can book whenever suits you, though the package discount doesn’t apply to those."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What level are the lessons suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any level. The whole point of 1-2-1 tuition is that it’s bespoke — Alan assesses what you need and teaches accordingly, whether that’s camera technique, editing, lighting, composition, image reviews, or even building a photography business. Beginners and experienced photographers alike get sessions pitched exactly where they are."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What camera do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You’ll need a DSLR or mirrorless camera. Lessons aren’t taught on phones, as the aim is to get you confident with full manual control of a dedicated camera."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I get any notes or materials to take away?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Depending on the subject, you’ll be given printed support notes or books and printed practice assignments. So as well as verbal and practical tuition, you leave each session with documented notes to refer back to and work on."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I try a single session before buying the package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — book a single pay-as-you-go session first if you’d like to try it. Note that a pay-as-you-go session is separate and won’t count as one of the four sessions in the 4-for-3 package."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What’s your cancellation and refund policy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can cancel within 30 days of purchase for a full refund, less a 5% admin charge. Once you’ve attended your first session, or after 30 days, no cancellation or refund is available. In exceptional circumstances — for example, serious illness preventing you from completing within 12 months — Alan may extend the 12-month window at his discretion to support you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens in a typical session?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The first session usually starts with some fact-finding — your background, equipment, the things you’re struggling with and what you want to achieve — to produce an outline for the four sessions. That plan stays flexible: everyone learns at a different pace, so we can speed up, slow down, or add and drop topics as we go."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/private-photography-lessons#webpage",
+      "url": "https://www.alanranger.com/private-photography-lessons",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/private-photography-lessons#primaryimage"
+      },
+      "name": "Private Photography Lessons Coventry - Face-to-Face",
+      "headline": "Private Photography Lessons Coventry - Face-to-Face",
+      "description": "Private photography lessons in Coventry, taught 1-2-1 at your pace by a BIPP-qualified tutor. Beginner or improver — book the 4-for-3 package and save."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/private-photography-lessons#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
+      "name": "Private Photography Lessons Coventry - Face-to-Face primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/private-photography-lessons#service",
+      "url": "https://www.alanranger.com/private-photography-lessons",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
+      "name": "Private Photography Lessons Coventry - Face-to-Face",
+      "description": "Private photography lessons in Coventry, taught 1-2-1 at your pace by a BIPP-qualified tutor. Beginner or improver — book the 4-for-3 package and save."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

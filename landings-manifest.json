@@ -1,0 +1,152 @@
+{
+  "generatedAt": "2026-10-28T17:55:04.949Z",
+  "pages": {
+    "/about-alan-ranger": {
+      "file": "about-alan-ranger_landing_schema.json"
+    },
+    "/academy/login": {
+      "file": "academy-login_landing_schema.json"
+    },
+    "/awards-and-qualifications": {
+      "file": "awards-and-qualifications_landing_schema.json"
+    },
+    "/batsford-arboretum-photography": {
+      "file": "batsford-arboretum-photography_landing_schema.json"
+    },
+    "/beginners-photography-classes": {
+      "file": "beginners-photography-classes_landing_schema.json"
+    },
+    "/beginners-portrait-photography-course": {
+      "file": "beginners-portrait-photography-course_landing_schema.json"
+    },
+    "/bluebell-woods-near-me": {
+      "file": "bluebell-woods-near-me_landing_schema.json"
+    },
+    "/contact-us-alan-ranger-photography": {
+      "file": "contact-us-alan-ranger-photography_landing_schema.json"
+    },
+    "/copyright-policy-alan-ranger": {
+      "file": "copyright-policy-alan-ranger_landing_schema.json"
+    },
+    "/corporate-photography-training": {
+      "file": "corporate-photography-training_landing_schema.json"
+    },
+    "/course-finder-photography-classes-near-me": {
+      "file": "course-finder-photography-classes-near-me_landing_schema.json"
+    },
+    "/data-privacy-policy": {
+      "file": "data-privacy-policy_landing_schema.json"
+    },
+    "/fine-art-prints": {
+      "file": "fine-art-prints_landing_schema.json"
+    },
+    "/free-online-photography-course": {
+      "file": "free-online-photography-course_landing_schema.json"
+    },
+    "/free-photography-tips": {
+      "file": "free-photography-tips_landing_schema.json"
+    },
+    "/gallery-image-portfolios": {
+      "file": "gallery-image-portfolios_landing_schema.json"
+    },
+    "/help-portrait-uk-coventry": {
+      "file": "help-portrait-uk-coventry_landing_schema.json"
+    },
+    "/help-site-map": {
+      "file": "help-site-map_landing_schema.json"
+    },
+    "/hire-a-professional-photographer-in-coventry": {
+      "file": "hire-a-professional-photographer-in-coventry_landing_schema.json"
+    },
+    "/home": {
+      "file": "home_landing_schema.json"
+    },
+    "/": {
+      "file": "home_landing_schema.json"
+    },
+    "/jaguar-land-rover-els": {
+      "file": "jaguar-land-rover-els_landing_schema.json"
+    },
+    "/landscape-photography-workshops": {
+      "file": "landscape-photography-workshops_landing_schema.json"
+    },
+    "/my-ethical-policy": {
+      "file": "my-ethical-policy_landing_schema.json"
+    },
+    "/newsletter-signup-form": {
+      "file": "newsletter-signup-form_landing_schema.json"
+    },
+    "/outdoor-photography-exposure-calculator": {
+      "file": "outdoor-photography-exposure-calculator_landing_schema.json"
+    },
+    "/photo-editing-course-coventry": {
+      "file": "photo-editing-course-coventry_landing_schema.json"
+    },
+    "/photography-courses-coventry": {
+      "file": "photography-courses-coventry_landing_schema.json"
+    },
+    "/photography-equipment-recommendations": {
+      "file": "photography-equipment-recommendations_landing_schema.json"
+    },
+    "/photography-gift-vouchers": {
+      "file": "photography-gift-vouchers_landing_schema.json"
+    },
+    "/photography-lessons-online-121": {
+      "file": "photography-lessons-online-121_landing_schema.json"
+    },
+    "/photography-mentoring-online-assignments": {
+      "file": "photography-mentoring-online-assignments_landing_schema.json"
+    },
+    "/photography-payment-plan": {
+      "file": "photography-payment-plan_landing_schema.json"
+    },
+    "/photography-services-near-me": {
+      "file": "photography-services-near-me_landing_schema.json"
+    },
+    "/photography-special-offers": {
+      "file": "photography-special-offers_landing_schema.json"
+    },
+    "/photography-tuition-services": {
+      "file": "photography-tuition-services_landing_schema.json"
+    },
+    "/photography-workshops": {
+      "file": "photography-workshops_landing_schema.json"
+    },
+    "/photography-workshops-near-me": {
+      "file": "photography-workshops-near-me_landing_schema.json"
+    },
+    "/private-photography-lessons": {
+      "file": "private-photography-lessons_landing_schema.json"
+    },
+    "/professional-commercial-photographer-coventry": {
+      "file": "professional-commercial-photographer-coventry_landing_schema.json"
+    },
+    "/professional-photographer-near-me": {
+      "file": "professional-photographer-near-me_landing_schema.json"
+    },
+    "/property-photographer-coventry": {
+      "file": "property-photographer-coventry_landing_schema.json"
+    },
+    "/rps-courses-mentoring-distinctions": {
+      "file": "rps-courses-mentoring-distinctions_landing_schema.json"
+    },
+    "/schedule-an-appointment": {
+      "file": "schedule-an-appointment_landing_schema.json"
+    },
+    "/terms-and-conditions": {
+      "file": "terms-and-conditions_landing_schema.json"
+    },
+    "/testimonials-customer-reviews": {
+      "file": "testimonials-customer-reviews_landing_schema.json"
+    },
+    "/website-cookie-policy": {
+      "file": "website-cookie-policy_landing_schema.json"
+    },
+    "/website-terms-and-conditions": {
+      "file": "website-terms-and-conditions_landing_schema.json"
+    },
+    "/which-photography-style-is-right-for-you": {
+      "file": "which-photography-style-is-right-for-you_landing_schema.json"
+    }
+  }
+}

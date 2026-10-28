@@ -1,0 +1,359 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I cancel, and am I tied in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There's no tie-in. You can cancel anytime by logging into your account and going to your subscriptions — cancelling simply stops your next monthly payment. There's no minimum term and no cancellation fee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does my monthly review session roll over if I don't use it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Your membership includes one review session per calendar month, and it doesn't carry over to the next month if unused. The monthly rhythm is deliberately designed to keep you making steady progress."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What software and equipment do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A digital camera, a computer with an internet connection, and Dropbox for sharing your images. Sessions are held over Zoom. You don't need to own Lightroom, though it helps if you want to follow the editing side closely."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I send RAW files for review?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — feel free to upload RAW as well as JPEG if you'd like deeper editing guidance. A minimum of 3000px on the long edge is ideal for review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to have done a course first?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not at all. Many members join after a beginners or Lightroom course to keep the momentum going, but Foundation Plus works just as well as a standalone way to keep improving with regular structure and feedback."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the Practice Pack Library work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Once you join, you get access to 30 assignments across three categories — technical, creative and genre-specific. There's no set order: pick whatever you want to strengthen, download the PDF, shoot the tasks, and bring your images to your monthly review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book extra sessions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — additional 1-2-1 sessions can be booked separately anytime, and as a member you get 10% off those and on workshops too."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this suitable if I'm working towards an RPS distinction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Very much so. Working through the assignments builds the varied body of work a Licentiate panel needs, and several members have passed their LRPS using images made for the monthly assignments. For dedicated panel support, see the RPS distinctions mentoring page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are payments refundable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Payments are non-refundable. Once a month's subscription has been taken, it's locked in for that month. You can cancel anytime to stop future payments, and you keep access for the month you've already paid for."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What times can I book my monthly session?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book your 15-minute session any time within your billing month. The scheduler shows times in your local time zone. Alan's usual availability is weekdays 9am–5pm and weekends 10am–1pm (UK time)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#webpage",
+      "url": "https://www.alanranger.com/photography-mentoring-online-assignments",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#primaryimage"
+      },
+      "name": "Photography Mentoring Online — Monthly Support £20/mo",
+      "headline": "Photography Mentoring Online — Monthly Support £20/mo",
+      "description": "Online photography mentoring with monthly assignments, a personal Lightroom review of your images &amp; 30 practice packs. £20/month, cancel anytime. Join today"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1780218921457-WF5FZ3HSKBXX9U6LOM7X/monthly+mentoring+assigments.png?format=1000w",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1780218921457-WF5FZ3HSKBXX9U6LOM7X/monthly+mentoring+assigments.png?format=1000w",
+      "name": "Photography Mentoring Online — Monthly Support £20/mo primary image"
+    },
+    {
+      "@type": [
+        "Service",
+        "Product"
+      ],
+      "@id": "https://www.alanranger.com/photography-mentoring-online-assignments#service",
+      "url": "https://www.alanranger.com/photography-mentoring-online-assignments",
+      "brand": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "uk"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1780218921457-WF5FZ3HSKBXX9U6LOM7X/monthly+mentoring+assigments.png?format=1000w",
+      "offers": {
+        "@type": "Offer",
+        "price": "20.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photography-mentoring-online-assignments"
+      },
+      "name": "Photography Mentoring Online — Monthly Support £20/mo",
+      "description": "Online photography mentoring with monthly assignments, a personal Lightroom review of your images &amp; 30 practice packs. £20/month, cancel anytime. Join today",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "8",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Ellis"
+          },
+          "datePublished": "2025-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan’s advice and help is always invaluable. I’ve been taking part in the monthly mentoring sessions for the past year and I know I can always rely on him for clear and honest feedback and as a result feel I have really improved my photographic skills in a way that I could never have done by simply reading theory and articles."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia Willis"
+          },
+          "datePublished": "2021-11-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very encouraging and supportive. An excellent manner that left me feeling very positive that I could improve my photography."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Flack"
+          },
+          "datePublished": "2020-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brilliant!!! Had several mentoring feedback sessions and all of them have been beneficial. Every session full of useful and relevant information. Assessments and feedback is honest, accurate and delivered in Alan's inimitable style. Always something I look forward to."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jan & Gary Boulter"
+          },
+          "datePublished": "2020-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Update July 2024 - another very successful meeting with Alan. Helped me focus on where I am going with a project and provided quality food for thought on both the technical and composition elements of my photography. Enjoyed as always. Great webinar on editing, really useful advice to achieve your objective for an image. Small group and interactive, with Alan showing you step by step, the various Editing options. Really enjoyed it"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CJ"
+          },
+          "datePublished": "2018-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alan gently guides you into thinking differently about the way you take photos and before you know it you are a better photographer. Thanks for your support.  Chris"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Customer"
+          },
+          "datePublished": "2018-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I’ve been on a few of Alan’s courses as well as 1-2-1 mentoring and weekend away. His knowledge is first class and expertly given and I can see a massive difference. Not just in my images but also in my approach to taking an image, how to critique it and then to process it using a standard workflow. Would recommend Alan who want so improve regardless of what level you are at"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim Davenport"
+          },
+          "datePublished": "2014-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very flexible worthwhile course. Very inspiring style encouraging you to take more photos.   Alongside these courses Alan offers a wide range of services to help improve your photograghy skill set - Workshops in beautiful locations plus 1-2-1 mentoring.  I will certainly be attending more of Alan's worthwhile courses and workshops."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Keating"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I joined Alan Ranger's mentoring programme to improve my photography, get new ideas and work out where I was going wrong. It helped no end, he has the knack of pinpointing exactly where I was going wrong and his criticism is constructive and easy to hear. The only reason I've stopped is because I improved and ended up with too much work. His mentoring is something I would recommend and that I'd go back to if I felt I needed more help in the future"
+        }
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

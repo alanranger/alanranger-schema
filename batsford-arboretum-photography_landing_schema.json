@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What makes Batsford Arboretum ideal for autumn photography?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Its 60 acres hold one of Britain’s finest tree collections, giving an extraordinary range of autumn colour from golden yellows to deep reds. Rolling hills, water features and well-kept paths provide picturesque settings, and the historic planting offers rare, captivating subjects at the season’s peak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why book a workshop rather than visit on my own?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because knowing where to be matters as much as the camera. I’ve photographed Batsford every autumn for fifteen years and guided more than 300 photographers there, so we go straight to the trees and corners that are at their best that day, in the right light, rather than spending the day searching. You get one-to-one help with settings and composition as you shoot, in a group of no more than six."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What experience level is the workshop suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any level, and any digital camera. You’ll receive one-to-one support and guidance throughout as we explore the arboretum at a mindful pace. Whether you’re a beginner or more advanced, the workshop meets you where you are."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the workshop and what time does it run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It’s a guided day from 9:30am to 3pm, paced around the light. We meet in the Batsford café at 9:30am for a breakfast briefing (breakfast and drinks at your own cost), head into the arboretum at 10am, break for lunch at 12:30, then photograph a different part of the arboretum in the afternoon light, aiming to be back at the café by 3pm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is entrance to the arboretum included?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The £150 workshop price includes entrance to Batsford Arboretum. Breakfast, drinks and lunch are available to buy in the café and outdoor snack bar, and there are toilets on site by the reception area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What will I learn on the day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "How to work off the automatic modes and use more creative settings, alongside different approaches to photographing autumn colour, texture and shape — from macro and close-up to abstract and landscape. Above all, how to compose with intention and read light."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Batsford Arboretum and how do I get there?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Batsford is a 60-acre arboretum near Batsford in Gloucestershire, about 1½ miles north-west of Moreton-in-Marsh. The postcode is GL56 9AB. There is parking on site by the reception area."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography#webpage",
+      "url": "https://www.alanranger.com/batsford-arboretum-photography",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/batsford-arboretum-photography#primaryimage"
+      },
+      "name": "Batsford Arboretum Photography Workshops — Autumn in Gloucestershire",
+      "headline": "Batsford Arboretum Photography Workshops — Autumn in Gloucestershire",
+      "description": "Batsford Arboretum photography workshops in autumn: a guided day in 60 acres of colour with Alan Ranger, who has taught 300+ photographers there. Max 6."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d9b7751f360231d9b4a0899/1572155150755/autumn+leaves.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d9b7751f360231d9b4a0899/1572155150755/autumn+leaves.jpg?format=1500w",
+      "name": "Batsford Arboretum Photography Workshops — Autumn in Gloucestershire primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/batsford-arboretum-photography#service",
+      "url": "https://www.alanranger.com/batsford-arboretum-photography",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d9b7751f360231d9b4a0899/1572155150755/autumn+leaves.jpg?format=1500w",
+      "name": "Batsford Arboretum Photography Workshops — Autumn in Gloucestershire",
+      "description": "Batsford Arboretum photography workshops in autumn: a guided day in 60 acres of colour with Alan Ranger, who has taught 300+ photographers there. Max 6."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

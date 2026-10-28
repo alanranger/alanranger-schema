@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/professional-commercial-photographer-coventry#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does product or commercial photography cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shoots start at £150 for a 1-hour session, £350 for 2 hours and £695 for 4 hours, with multi-day projects at £1,520 per day. The right option depends on how many products or images you need — a free 20-minute consultation will give you a clear recommendation and quote."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What areas do you cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Coventry, Warwickshire and the wider West Midlands — including Leamington Spa, Warwick, Kenilworth, Rugby, Nuneaton, Stratford-upon-Avon, Solihull and Birmingham. Travel beyond 15 miles from CV4 is charged at £1 per mile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you shoot for ecommerce, Amazon and Etsy listings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Clean, consistent packshots on white or styled backgrounds, prepared to the standards required for your own website, online shop and marketplace listings such as Amazon and Etsy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you shoot in a studio or on location?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both. Smaller products and packshots can be shot in a controlled setup, while larger items, food, premises and workplace imagery are photographed on location. The best approach is agreed during the brief."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many images will I get, and how soon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The number depends on the brief — enough to show each product or subject well. Images are professionally edited and delivered in web-ready and high-resolution folders. Shorter 1–2 hour shoots are usually delivered within 24 hours; larger 4–8 hour shoots within 48–72 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can one shoot combine products, premises and team photos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — mixed commercial shoots are common. A single commission can cover product shots, workplace and premises imagery and team photos, planned efficiently around your priority images first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book, and what are the payment terms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with a free 20-minute consultation, or book directly using the booking button on this page. Pay directly when you book your date and time, or request an invoice (paid 14 days before the shoot). Cancellations within 14 days of the shoot are 50% non-refundable; within 7 days, 100% non-refundable. Shoots rescheduled for weather or circumstances beyond your control are moved without penalty."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you also offer commercial photography training for teams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Alongside commissions, Alan trains businesses and in-house teams to produce their own product and brand images — see the corporate photography training page."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/professional-commercial-photographer-coventry#webpage",
+      "url": "https://www.alanranger.com/professional-commercial-photographer-coventry",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/professional-commercial-photographer-coventry#primaryimage"
+      },
+      "name": "Commercial Photographer Coventry - Product & Packshot",
+      "headline": "Commercial Photographer Coventry - Product & Packshot",
+      "description": "Commercial photographer in Coventry for product, packshot and brand images across Warwickshire and the West Midlands. Ecommerce, catalogue and advertising."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/professional-commercial-photographer-coventry#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734115825840-34VXN0SKFSHVOEL1A3P3/B1490196-+GATEMATE%C2%AE+PREMIUM+LONG+THROW+LOCK+-+DOUBLE+LOCKING+-+2+3-4-+70MM+STAINLES+SHOOT+02.jpg?format=500w",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734115825840-34VXN0SKFSHVOEL1A3P3/B1490196-+GATEMATE%C2%AE+PREMIUM+LONG+THROW+LOCK+-+DOUBLE+LOCKING+-+2+3-4-+70MM+STAINLES+SHOOT+02.jpg?format=500w",
+      "name": "Commercial Photographer Coventry - Product & Packshot primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/professional-commercial-photographer-coventry#service",
+      "url": "https://www.alanranger.com/professional-commercial-photographer-coventry",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1734115825840-34VXN0SKFSHVOEL1A3P3/B1490196-+GATEMATE%C2%AE+PREMIUM+LONG+THROW+LOCK+-+DOUBLE+LOCKING+-+2+3-4-+70MM+STAINLES+SHOOT+02.jpg?format=500w",
+      "name": "Commercial Photographer Coventry - Product & Packshot",
+      "description": "Commercial photographer in Coventry for product, packshot and brand images across Warwickshire and the West Midlands. Ecommerce, catalogue and advertising."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

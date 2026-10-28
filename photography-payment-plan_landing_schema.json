@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-payment-plan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does the Pick n Mix plan work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You choose a Monthly Payment, Quarterly Payment or Annual Up-Front plan, from £600 for 12 months. Your full plan value is available once your first payment is made. You then book courses, workshops and 1-to-1 lessons as you go using your plan code: your discount is applied and the cost comes off your balance. Alan keeps your personal statement up to date, and every quarter you review your progress together and plan the next steps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's included as well as the discount?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every plan includes 12 months' Photography Academy membership free (normally £79), with 200+ learning resources, 30 exams, 5 accreditation levels and a personal dashboard that tracks your progress and suggests your next lessons. You also get four quarterly 1-2-1 Zoom reviews with Alan, and first refusal on new residential workshop dates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do the quarterly reviews work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every three months Alan will send you a link to book an appointment in his diary. You will then receive a confirmation email with a Zoom link. In each review you look at your progress and recent images together and agree the next courses and workshops to book. Reviews are 30 minutes on plans under £1,000 and 60 minutes on plans of £1,000 or more. If you would like more time, extra 1-hour 1-2-1 Zooms can be booked at your plan discount."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What discounts do the different plans offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Monthly Payment plans get 10% off courses, workshops and 1-to-1s, Quarterly Payment plans 12.5%, and Annual Up-Front 15%. On residential workshops the discount is capped at 10% on every plan, because hotel costs are fixed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can I spend my plan on?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your plan can be used across courses, workshops (including residentials), 1-to-1 lessons, mentoring and support services. You mix and match whatever suits how you want to learn, and book each item when you are ready."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use my plan on bundles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Already-discounted bundles, such as 4 × 1-2-1 lessons for £360 or Zoom bundles, count towards your plan at their bundle price, with no extra plan discount on top."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the payment plan really interest-free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. All Pick n Mix plans are interest-free, whether you pay monthly, quarterly or annually up-front. You are simply spreading the cost of your learning over time at no extra charge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I start booking straight away?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Your full plan value is available once your first payment is made, so you can book straight away. Your first review is the best time to plan the year, but you do not have to wait for it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to commit to a set list of courses in advance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. You do not have to decide everything you will do over the next 12 months. Use the example plans to get an idea, then book as you go. It is a good idea to create an account at checkout so you can see your order history."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I need more, or don't use it all?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you book more than your plan covers, you can top up your balance at any time with a one-off payment. If you have balance left when your 12 months end, you have a further 3 months to use it; after that, any unused balance is forfeited."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cancellation and refund policy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Plans are a commitment to your ongoing improvement and are non-refundable and non-cancellable. If you have any questions before committing, get in touch and Alan will talk you through how the plan works for your situation."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-payment-plan#webpage",
+      "url": "https://www.alanranger.com/photography-payment-plan",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-payment-plan#primaryimage"
+      },
+      "name": "Pick N Mix Photography Payment Plan - Tuition Packages",
+      "headline": "Pick N Mix Photography Payment Plan - Tuition Packages",
+      "description": "Spread the cost of photography courses, workshops and 1-to-1 lessons with an interest-free Pick n Mix payment plan over 12 months. Choose what suits you"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-payment-plan#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca47c1ae6cfab7bbe5ab1/1572155141207/photography-tuition-Package.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca47c1ae6cfab7bbe5ab1/1572155141207/photography-tuition-Package.png?format=1500w",
+      "name": "Pick N Mix Photography Payment Plan - Tuition Packages primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-payment-plan#service",
+      "url": "https://www.alanranger.com/photography-payment-plan",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca47c1ae6cfab7bbe5ab1/1572155141207/photography-tuition-Package.png?format=1500w",
+      "name": "Pick N Mix Photography Payment Plan - Tuition Packages",
+      "description": "Spread the cost of photography courses, workshops and 1-to-1 lessons with an interest-free Pick n Mix payment plan over 12 months. Choose what suits you"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

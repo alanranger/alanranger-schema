@@ -1,0 +1,200 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-tuition-services#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book photography tuition?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Contact Alan to discuss your goals, current skill level, and preferred format. Many people start with a private lesson, then move into a course series or workshops depending on what they want to learn."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I need to cancel or reschedule?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Contact Alan as early as possible if you need to reschedule. Policies vary by format and availability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need any specific skill level to start?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No prerequisites are required. Complete beginners are welcome. Sessions can be matched to your current ability and equipment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I spread the cost of tuition?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Flexible payment plans can be used for selected options. You can also combine formats into a personalised plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long until I see improvement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many students notice measurable improvement within the first few sessions when they receive specific, actionable feedback. Progress depends on practice between sessions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What’s included in the four-session bundle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The bundle includes four private sessions for the price of three, scheduled to fit your availability. Content is fully customisable to your needs (camera settings, composition, editing, or a mix)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is online tuition as effective as in-person lessons?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Online tuition works very well for editing instruction, image review, and technical concepts using screen sharing. In-person tuition is ideal for hands-on camera operation practice and location shooting scenarios."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you help with accreditation pathways?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. See RPS mentoring and distinctions support for structured guidance on portfolio development, assessment criteria, and preparation."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "description": "",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "@id": "https://www.alanranger.com/#searchaction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-tuition-services#webpage",
+      "url": "https://www.alanranger.com/photography-tuition-services",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-tuition-services#primaryimage"
+      },
+      "name": "Photography Tuition Services - Lessons, Courses & Workshops",
+      "headline": "Photography Tuition Services - Lessons, Courses & Workshops",
+      "description": "Photography tuition services across the UK - private lessons, courses, workshops and mentoring for every level. Find the right way to learn with a tutor."
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-tuition-services#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca0734fa51a8a62f5b64c/1572155158371/photography-tuition.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca0734fa51a8a62f5b64c/1572155158371/photography-tuition.png?format=1500w",
+      "name": "Photography Tuition Services - Lessons, Courses & Workshops primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-tuition-services#service",
+      "url": "https://www.alanranger.com/photography-tuition-services",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca0734fa51a8a62f5b64c/1572155158371/photography-tuition.png?format=1500w",
+      "name": "Photography Tuition Services - Lessons, Courses & Workshops",
+      "description": "Photography tuition services across the UK - private lessons, courses, workshops and mentoring for every level. Find the right way to learn with a tutor."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

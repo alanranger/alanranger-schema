@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-courses-coventry#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "I'm a complete beginner — which course should I start with?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Beginners Camera Course is the natural starting point: three weekly evening classes that take you off Auto and teach exposure, focus and composition. Many students then add the Lightroom Editing Course for a complete foundation. If you'd like help choosing, book a free consultation and I'll point you the right way."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a photography course cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Group courses in Coventry start at £150 for a three-week evening class (beginners camera or Lightroom editing). Private 1-2-1 lessons are from £65/hr in person and from £50/hr online (less in bundles), and monthly mentoring starts from £20/mo. There's also a free 60-module online course if you'd like to start at no cost. Each course page shows its exact price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there any free photography courses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The free 60-module online photography course covers camera settings, composition, gear and practical assignments — self-paced, with no obligation. It's a good place to build the basics before deciding on a paid group course, private lessons or mentoring."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your courses in person, online, or both?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both. The group courses (beginners camera, photo editing, portrait, projects) run in person in Coventry. Private 1-2-1 lessons, monthly mentoring and RPS distinction support are available in person or online via Zoom — so you can learn whichever way suits you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need an expensive camera or lenses to start?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Any DSLR, mirrorless or bridge camera is fine to learn on — you don't need expensive lenses or kit. The courses are about understanding and using what you already have. Bring your camera and we'll work with it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between group courses, 1-2-1 lessons and mentoring?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Group courses follow a set syllabus in small classes — ideal for structured learning with others. Private 1-2-1 lessons are built entirely around you and move at your pace. Monthly mentoring gives you ongoing assignments and feedback over time. Many students combine them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a photography course difficult for beginners?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The beginners courses assume no prior knowledge, the groups are small (typically four or fewer), and questions are always welcomed. Everyone starts somewhere — the whole point is to build your confidence step by step in a supportive setting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book, and can I get help choosing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can see upcoming dates on the course finder, or click any course above for full details and booking. If you're unsure which path is right, book a free consultation or call 0781 701 7994 and I'll recommend the best route for your goals."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 781 701 7994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-courses-coventry#webpage",
+      "url": "https://www.alanranger.com/photography-courses-coventry",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-courses-coventry#primaryimage"
+      },
+      "name": "Photography Courses Coventry — Beginners, 1-2-1, RPS",
+      "headline": "Photography Courses Coventry — Beginners, 1-2-1, RPS",
+      "description": "Photography courses in Coventry: beginners, Lightroom editing, private 1-2-1, mentoring &amp; RPS support. In person or online. Compare courses &amp; book today"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-courses-coventry#primaryimage",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960975442-OZ1LOQQUSFCDDLKXC0IR/_-8-2.jpg?format=1000w",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960975442-OZ1LOQQUSFCDDLKXC0IR/_-8-2.jpg?format=1000w",
+      "name": "Photography Courses Coventry — Beginners, 1-2-1, RPS primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-courses-coventry#service",
+      "url": "https://www.alanranger.com/photography-courses-coventry",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960975442-OZ1LOQQUSFCDDLKXC0IR/_-8-2.jpg?format=1000w",
+      "name": "Photography Courses Coventry — Beginners, 1-2-1, RPS",
+      "description": "Photography courses in Coventry: beginners, Lightroom editing, private 1-2-1, mentoring &amp; RPS support. In person or online. Compare courses &amp; book today"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}

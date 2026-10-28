@@ -1,0 +1,390 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.alanranger.com/#person",
+      "name": "Alan Ranger",
+      "url": "https://www.alanranger.com/about",
+      "jobTitle": "Photographer & Tutor",
+      "worksFor": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/photography-special-offers#itemlist",
+      "name": "Photography Special Offers | Tuition Services | Deals",
+      "description": "All the latest photography special offers for photography tuition events \nwith Alan Ranger. Check the latest offers on workshops, courses and other \nservices.",
+      "url": "https://www.alanranger.com/photography-special-offers",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Camera Courses For Beginners Coventry 7breh",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-7breh"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Camera Courses For Beginners Coventry Zbcfe",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-zbcfe"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lake District Photography Workshop Winter",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-winter"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Wales Photography Workshop Vyrnwy Pistyll Rhaeadr",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/wales-photography-workshop-vyrnwy-pistyll-rhaeadr"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Woodland Photography Walk Solihull Hay Woods",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Camera Courses For Beginners Coventry 2n74k",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2n74k",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2n74k"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Camera Courses For Beginners Coventry Bds4t",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-bds4t"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Camera Courses For Beginners Coventry Dfe",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-dfe"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Camera Courses For Beginners Coventry Wk1",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wk1",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wk1"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Camera Courses For Beginners Week 1",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Lightroom Photo Editing Classes Wk1 Kdh5k",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Lightroom Photo Editing Classes Wk1 Xx94r",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-xx94r",
+            "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-xx94r"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Partnership With One Vision Imaging",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging",
+            "url": "https://www.alanranger.com/blog-on-photography/partnership-with-one-vision-imaging"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Dorset Photography Workshop",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/dorset-photography-workshop"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Landscape Photography Wales Gower Peninsular",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/landscape-photography-wales-gower-peninsular"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Secrets Of Woodland Photography Masterclass Winter",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Suffolk Landscape Photography Workshop",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/suffolk-landscape-photography-workshop"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Woodland Photography Walk Coventry Cv4",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-cv4",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-cv4"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Woodland Photography Walk Coventry Tile Hill",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-tile-hill",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-coventry-tile-hill"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Woodland Photography Walk Hay Woods",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+            "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "Camera Sensor Clean",
+          "item": {
+            "@type": "WebPage",
+            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
+            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
+          }
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca25221c67c9788de10e6/1572155181663/special-offers.png?format=1500w"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-special-offers#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Photography Special Offers | Tuition Services | Deals about?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All the latest photography special offers for photography tuition events with Alan Ranger. Check the latest offers on workshops, courses and other services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is this suitable for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get help choosing the right option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.alanranger.com/#website",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.alanranger.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "description": ""
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.alanranger.com/#org",
+      "name": "Alan Ranger Photography",
+      "url": "https://www.alanranger.com/",
+      "telephone": "+44 7817 017994",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+      "legalName": "Alan Ranger Photography",
+      "email": "info@alanranger.com",
+      "sameAs": [
+        "https://www.instagram.com/alanrangerphotography/",
+        "https://www.youtube.com/@alanrangerphotography",
+        "https://www.linkedin.com/in/alanranger",
+        "https://www.facebook.com/alanrangerphotography/",
+        "https://bsky.app/profile/alanranger.bsky.social"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      },
+      "location": {
+        "@id": "https://www.alanranger.com/#place"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.alanranger.com/photography-special-offers#webpage",
+      "url": "https://www.alanranger.com/photography-special-offers",
+      "name": "Photography Special Offers | Tuition Services | Deals",
+      "headline": "Photography Special Offers | Tuition Services | Deals",
+      "description": "All the latest photography special offers for photography tuition events with Alan Ranger. Check the latest offers on workshops, courses and other services.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
+      },
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      },
+      "about": {
+        "@id": "https://www.alanranger.com/#person"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.alanranger.com/photography-special-offers#primaryimage"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.alanranger.com/photography-special-offers#primaryimage",
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca25221c67c9788de10e6/1572155181663/special-offers.png?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca25221c67c9788de10e6/1572155181663/special-offers.png?format=1500w",
+      "name": "Photography Special Offers | Tuition Services | Deals primary image"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-special-offers#service",
+      "name": "Photography Special Offers | Tuition Services | Deals",
+      "description": "All the latest photography special offers for photography tuition events with Alan Ranger. Check the latest offers on workshops, courses and other services.",
+      "url": "https://www.alanranger.com/photography-special-offers",
+      "provider": {
+        "@id": "https://www.alanranger.com/#org",
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com/"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "GB"
+        },
+        {
+          "@id": "https://www.alanranger.com/#place"
+        }
+      ],
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca25221c67c9788de10e6/1572155181663/special-offers.png?format=1500w"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.alanranger.com/#place",
+      "name": "Alan Ranger Photography",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "45 Hathaway Road",
+        "addressLocality": "Coventry",
+        "addressRegion": "West Midlands",
+        "postalCode": "CV4 9HW",
+        "addressCountry": "GB"
+      }
+    }
+  ]
+}
