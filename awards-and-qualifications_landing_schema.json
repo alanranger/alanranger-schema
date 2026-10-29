@@ -19,44 +19,6 @@
       ]
     },
     {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/awards-and-qualifications#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Qualifications and Accreditation about?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alan Ranger photographic qualifications and awards with ABIPP, PAGB, BPE, RPS and FIAP photographic bodies | Professional Photographer Near Me in Coventry"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is this suitable for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get help choosing the right option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
-          }
-        }
-      ]
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",

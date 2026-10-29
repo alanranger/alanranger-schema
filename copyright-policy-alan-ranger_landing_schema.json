@@ -19,44 +19,6 @@
       ]
     },
     {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/copyright-policy-alan-ranger#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Official Copyright Policy for Alan Ranger Photography about?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The Intellectual Property Office publishes copyright notices to help explain specific United Kingdom copyright areas | Alan Ranger Photography Copyright Policy"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is this suitable for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get help choosing the right option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
-          }
-        }
-      ]
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",

@@ -396,44 +396,6 @@
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c4ace4940ec9aed508c5d13/1572155160687/PHOTOGRAPHIC-PRINTS-and-Photos.png?format=1500w"
     },
     {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/gallery-image-portfolios#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Photography Gallery - Image Portfolios By Alan Ranger about?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Photography Gallery and portfolio from landscape locations around the UK are available to purchase as prints or license - Best Landscape Photography Photographs"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is this suitable for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get help choosing the right option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
-          }
-        }
-      ]
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",

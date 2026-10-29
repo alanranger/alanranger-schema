@@ -19,44 +19,6 @@
       ]
     },
     {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/which-photography-style-is-right-for-you#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Which photography style is right for you? -Discover more about?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Which photography style is right for you? -Discover your default photography style and get 3 tips to improve your photography by taking this short quiz"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is this suitable for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get help choosing the right option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
-          }
-        }
-      ]
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "name": "Alan Ranger Photography",

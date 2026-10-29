@@ -239,44 +239,6 @@
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca25221c67c9788de10e6/1572155181663/special-offers.png?format=1500w"
     },
     {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/photography-special-offers#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Photography Special Offers | Tuition Services | Deals about?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "All the latest photography special offers for photography tuition events with Alan Ranger. Check the latest offers on workshops, courses and other services."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is this suitable for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is suitable for photographers at beginner, intermediate, and advanced levels, depending on the option and goals described on this page."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Use the call-to-action on this page to book, enquire, or request guidance on the best next step for your photography goals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get help choosing the right option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You can contact Alan Ranger Photography for advice on the most suitable option based on your experience level, interests, and preferred learning format."
-          }
-        }
-      ]
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "name": "Alan Ranger Photography",
