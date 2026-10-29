@@ -3,6 +3,7 @@
   "@graph": [
     {
       "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
