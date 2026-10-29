@@ -20,6 +20,101 @@
       ]
     },
     {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-gift-vouchers#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What can the photography gift voucher be used for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It can be redeemed against photography courses, workshops and private 1-to-1 lessons sold on this website. It is not valid against print sales, fine art prints, merchandise, or any non-tuition products unless Alan Ranger Photography agrees otherwise in writing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is the voucher delivered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is delivered digitally by email as an eCard or PDF. There is nothing physical to post, so it can be sent at short notice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I send the voucher to the recipient on a later date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. At checkout choose the \"Email to you\" delivery option, then forward the email or PDF to the recipient whenever you like. The 12-month validity period still starts from the date of purchase, not the date you forward it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does the recipient redeem their voucher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They enter the unique voucher code at checkout when booking eligible items through the shopping cart. The redeemed amount is deducted from the voucher balance. Any unused balance remains on the voucher until it expires."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can an order be split between a voucher and a card payment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If the order total is more than the available voucher balance, the remaining amount may be paid by card (or other accepted payment method) at checkout. That top-up is still part of one booking contract with Alan Ranger Photography."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "If I top up a voucher booking with my own card, can I get a cash refund of my card payment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. There is no cash alternative and no cash refund for any booking paid wholly or partly with a gift voucher — including any portion you paid yourself to top up the voucher. If a cancellation or change is allowed under our Tuition Terms & Conditions, any credit due is applied only as voucher/event credit for alternative eligible courses, workshops or private tuition, not as money back to a bank or card."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens to voucher value if a booking is cancelled or moved?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cancellations, postponements, transfers and credits are governed by the Alan Ranger Photography Tuition Terms & Conditions (including non-refundable deposits and the cancellation fee schedule). Where voucher funds were used: (1) There is never a cash refund of voucher value or of any card top-up used with that voucher redemption. (2) If credit is due and the voucher is still within 12 months of the original voucher purchase date, the eligible voucher portion may be restored to the voucher (or issued as equivalent event credit) to be used only for alternative eligible events or services. (3) Any admin/transfer fees set out in the Tuition Terms (including the £50 administration fee where applicable) may still apply and may be deducted from credit. (4) After the voucher’s 12-month expiry, unused or unredeemed voucher value is lost and cannot be refunded, extended or converted to cash, except where Alan Ranger Photography agrees otherwise in writing at its sole discretion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can unused voucher balance be moved to another event?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — within 12 months of the voucher purchase date, remaining voucher balance may be used towards any other eligible course, workshop or private 1-to-1 lesson. It cannot be exchanged for cash, withdrawn, or paid out. Once expired, the balance cannot be used."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do vouchers have an expiry date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Gift cards and eVouchers expire 12 months (1 year) from the date of purchase. The purchase date shown on the voucher/email is definitive. Expiry is not extended because the voucher was forwarded later, held unused, or only partly redeemed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why do the vouchers have an expiry date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expiry dates are required for accounting treatment of unspent gift vouchers. Without an end date, unspent value would remain a liability indefinitely, which is not sustainable for a small business. The same 12-month use window also aligns with our Tuition Terms for undated bookings and Pick N Mix-style credit periods."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do these voucher terms relate to the main Tuition Terms & Conditions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "By purchasing or redeeming a gift voucher you agree to these Gift Voucher FAQs & terms and the full Alan Ranger Photography Tuition Terms & Conditions. Those Terms cover bookings, fees, deposits, participant cancellations, provider postponements/cancellations, transfers, insurance and complaints. Where a booking is made using a voucher (alone or topped up with your own money), the Tuition Terms apply to that booking, and these voucher terms apply to how voucher value and any top-up are treated — in particular: no cash alternative / no cash refund; credit only for alternative eligible events while the voucher remains within its 12-month validity. If there is any conflict on voucher cash refunds, these gift voucher terms prevail."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Product",
       "@id": "https://www.alanranger.com/photography-gift-vouchers#product",
       "name": "Photography Gift Vouchers | Digital eCard | Email Delivery",
@@ -73,68 +168,6 @@
         "https://www.linkedin.com/in/alanranger",
         "https://www.facebook.com/alanrangerphotography/",
         "https://bsky.app/profile/alanranger.bsky.social"
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.alanranger.com/photography-gift-vouchers#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What can the photography gift voucher be used for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It can be redeemed against photography courses, workshops and private 1-to-1 lessons. It is not valid against print sales."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is the voucher delivered?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is delivered digitally by email as an eCard or PDF. There is nothing physical to post, so it can be sent at short notice."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I send the voucher to the recipient on a later date?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. At checkout choose the \"Email to you\" delivery option, then forward the email or PDF to the recipient whenever you like."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the recipient redeem their voucher?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "They simply enter the unique code from the voucher at checkout when booking eligible items through the shopping cart."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can an order be split between a voucher and a card payment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. If the order total is more than the voucher value, the remaining balance can be paid by card at checkout."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do vouchers have an expiry date?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Gift cards and eVouchers expire 12 months (1 year) from the date they are purchased."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why do the vouchers have an expiry date?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Expiry dates are needed because of accounting regulations governing how unspent gift vouchers are accounted for. Without one, an unspent voucher would remain a liability on the balance sheet indefinitely, which is not sustainable for a small business."
-          }
-        }
       ]
     },
     {

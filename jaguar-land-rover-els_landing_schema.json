@@ -19,6 +19,61 @@
       ]
     },
     {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/jaguar-land-rover-els#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Alan Ranger Photography an approved JLR training provider?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Alan Ranger Photography has been an approved Jaguar Land Rover training provider since 2013, listed in the employee learning catalogue now known as Invest In You."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Invest In You, and what was ELS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Invest In You is Jaguar Land Rover's employee learning scheme, which lets staff use learning credits towards approved courses. It was previously known as ELS — the Employee Learning Scheme. Alan Ranger Photography has been a provider through both."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What photography courses can JLR employees book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Everything from short evening workshops and beginners camera courses to private 1-2-1 lessons, multi-day landscape workshops and RPS mentoring — 32 offerings in total, all listed above."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I use my credits to book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Log in to the Invest In You portal, find Alan Ranger Photography in the catalogue, choose your course and date, and book using your available credits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if a course costs more than my credits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You don't have to limit yourself to what your credits cover. If a course or workshop costs more than your available Invest In You credits, you can top up the difference with your own payment and put your credits towards the rest."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many JLR employees has Alan trained?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In 2025 alone, more than 200 Jaguar Land Rover employees attended across 246 bookings and 24 different courses, with around 30% returning for more than one session."
+          }
+        }
+      ]
+    },
+    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",

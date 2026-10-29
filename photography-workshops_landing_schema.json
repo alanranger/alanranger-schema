@@ -2,76 +2,6 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Are photography workshops worth it?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Absolutely! Landscape photography workshops are incredibly valuable, especially for those looking to enhance their skills in capturing the UK's stunning scenery. These workshops offer hands-on experience, expert guidance, and the opportunity to explore breathtaking locations. You'll learn advanced techniques, receive immediate feedback, and network with like-minded photographers. For beginners and seasoned photographers alike, workshops provide a structured environment to rapidly improve your craft and gain insider knowledge that would take years to acquire on your own."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get started in landscape photography?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To begin your journey in landscape photography: 1. Invest in a quality camera and wide-angle lens 2. Master the basics of composition and exposure 3. Learn to use a tripod for stability 4. Practice during the 'golden hours' of sunrise and sunset 5. Experiment with different weather conditions 6. Join a UK-based landscape photography workshop to accelerate your learning. Remember, the best way to improve is through practice and guidance from experienced professionals."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can photographers be self-taught?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, photographers can certainly be self-taught. Many successful landscape photographers have honed their skills through practice, research, and experimentation. However, while self-teaching is possible, attending landscape photography workshops can significantly speed up the learning process. These workshops provide structured learning, expert insights, and hands-on experience that can take years to acquire independently."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where do I start landscape photography?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To start landscape photography: 1. Begin in your local area, exploring nearby parks or scenic spots 2. Practice composition techniques like the rule of thirds 3. Experiment with different times of day and weather conditions 4. Learn to use your camera's manual settings 5. Study the work of renowned UK landscape photographers for inspiration 6. Consider joining a beginner's landscape photography workshop to build a strong foundation. Starting locally allows you to practice frequently and understand how light and weather affect your images before venturing to more exotic locations."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How to get noticed as a landscape photographer?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To gain recognition as a landscape photographer: 1. Develop a unique style that sets your work apart 2. Consistently produce high-quality images 3. Create a professional website and maintain an active social media presence 4. Enter photography competitions and exhibitions 5. Network with other photographers and industry professionals 6. Attend and eventually lead landscape photography workshops 7. Collaborate with local tourism boards or conservation groups. Remember, building a reputation takes time, but persistence and quality work will help you stand out in the UK's competitive landscape photography scene."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can you make money selling landscape photos?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, it's possible to earn money from landscape photography. Here are some avenues to explore: 1. Sell prints online or in galleries 2. License images through stock photography websites 3. Offer landscape photography workshops or tours 4. Create and sell educational content like e-books or online courses 5. Pursue commercial assignments for travel magazines or tourism boards 6. Develop a strong social media following to attract sponsorships. While it can be challenging, with dedication and business acumen, you can turn your passion for landscape photography into a profitable venture."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do landscape photographers edit their photos?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, most professional landscape photographers edit their photos. Post-processing is an integral part of modern digital photography. Editing allows photographers to enhance the natural beauty of a scene, correct for camera limitations, and realise their creative vision. However, ethical landscape photography maintains a balance between enhancement and authenticity. Many UK-based landscape photography workshops include lessons on responsible editing techniques to help you achieve stunning, yet credible results."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the best software for landscape photography?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While there's no one-size-fits-all solution, some popular software options for landscape photography include: 1. Adobe Lightroom: Excellent for organising and basic editing 2. Adobe Photoshop: Powerful for advanced editing and compositing 3. Capture One: Known for superior colour handling 4. DxO PhotoLab: Great for noise reduction and lens corrections 5. ON1 Photo RAW: An all-in-one solution with AI-powered features. The 'best' software depends on your specific needs and workflow. Many UK landscape photography workshops include software tutorials to help you choose and master the right tools for your style."
-          }
-        }
-      ],
-      "@id": "https://www.alanranger.com/photography-workshops#faq"
-    },
-    {
       "@type": "ItemList",
       "name": "__ALL__ Events",
       "itemListElement": [
@@ -412,6 +342,85 @@
         }
       ],
       "@id": "#__all__-events"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/photography-workshops#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What types of photography workshop do you run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Two main types. Landscape day and half-day workshops are on-location sessions across the UK, from two hours to a full day, with no overnight stay. Residential workshops are immersive multi-day trips with accommodation and breakfast included. Both are small-group and led personally by Alan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which workshop is right for me — day, half-day or residential?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you want to learn close to home, try a workshop for the first time, or focus on a specific location or season, a day or half-day landscape workshop is ideal. If you'd like a fuller, immersive experience with more time around the best light, choose a residential workshop. Use the calendar to see what's coming up."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to be experienced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. All levels are welcome, from first-time camera owners to experienced photographers. Groups are small, so you get guidance pitched exactly at your level — we start wherever you are."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What camera and kit do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Any camera you can use in manual or semi-manual mode is fine, including many bridge cameras. A tripod helps; if you don't have one, Alan can lend you a tripod and filters on the day. A full kit list is sent with your joining instructions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How big are the groups?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Small. Day and half-day workshops are usually a maximum of six people, and residential workshops are usually a maximum of four. That keeps plenty of one-to-one time available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where are the workshops held and how will I know where to meet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Workshops run at locations across the UK. You'll get a joining email a few days before with the exact meeting point, parking information and final details, along with the recommended kit list — so you have time to plan your journey."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book, and can I spread the cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book directly through the calendar on this page. If you'd prefer to spread the cost, an interest-free 12-month payment plan is available. Workshops also make great gifts as digital gift vouchers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the cancellation policy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you need to cancel, please let Alan know in writing as early as you can; cancellation charges apply on a sliding scale depending on how close to the date it is. Full details are in the booking terms & conditions (PDF)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I buy a workshop as a gift?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — digital gift vouchers are valid for 12 months and can be used against any workshop, course or one-to-one session."
+          }
+        }
+      ]
     },
     {
       "@type": "Person",

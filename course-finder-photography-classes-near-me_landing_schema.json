@@ -19,6 +19,93 @@
       ]
     },
     {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "@id": "https://www.alanranger.com/course-finder-photography-classes-near-me#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much do photography classes in Coventry cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The three-week Beginners Photography Course in Coventry costs £150, including all tuition across three two-hour evening sessions and a printed course book. Private 1-2-1 tuition is available as a 4 × 2-hour package for £360, and interest-free payment plans can spread the cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best photography class for a complete beginner?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A structured beginners course covering aperture, shutter speed, ISO and composition is the fastest way off Auto mode. The 3-week Beginners Photography Course in Coventry assumes no prior knowledge, runs in small groups of maximum four people, and builds the fundamentals on your own camera with hands-on feedback."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I take photography classes online instead of in person?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If Coventry isn't local to you, the same tuition is available as 1-2-1 photography lessons over Zoom, scheduled around you and personalised to your camera and goals. There's also monthly online mentoring with assignments and feedback, and a free online foundation course to start with."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When do photography classes run in Coventry?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Group classes run as weekly evening sessions, 7–9pm, in three-week blocks throughout the year at Tile Hill, Coventry (CV4 9HW). New start dates are added regularly — use the location, category and month filters on this page to find the next available dates for the beginners camera course and Lightroom editing course."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need any experience or special equipment to join a class?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No experience is needed — the beginners course starts from the very beginning. Any DSLR or mirrorless camera with manual exposure modes is fine, and the kit lens it came with is all you need. For the Lightroom editing course, you'll need a laptop running Lightroom on the Adobe Photography plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are small group photography classes better than large workshops?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For learning camera fundamentals, yes — small groups give you time to ask questions and get individual help on your own camera. These Coventry classes are capped at four people, so every student gets hands-on guidance and feedback rather than a lecture, and there's genuinely no such thing as a silly question."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you run photography classes near Kenilworth, Warwick, Solihull or Birmingham?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The classroom in Tile Hill, Coventry (CV4 9HW) is an easy drive from Kenilworth, Warwick, Leamington Spa, Solihull, Nuneaton, Rugby and south Birmingham, with free parking on site and roadside. If travelling doesn't suit, the same content is available online 1-2-1 over Zoom from anywhere in the UK."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to learn photography basics?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most beginners get off Auto and understand exposure, focus and composition within three weeks of structured teaching plus practice between sessions. From there, a typical path is the Lightroom editing course for consistent results, then RPS mentoring (1–12 months) if you want to build a portfolio or work towards a distinction."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who teaches the photography classes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All classes are taught personally by Alan Ranger, a BIPP-qualified professional photographer (ABIPP) and Associate of the Royal Photographic Society (ARPS) with over 15 years of teaching experience and 800+ verified five-star reviews. His RPS mentoring clients have a 100% distinction pass rate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I gift a photography class or pay in instalments?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Gift vouchers are available for any course, workshop or lesson and make popular birthday and Christmas presents. Interest-free payment plans let you spread the cost of any course or package, and card payments are processed securely at checkout."
+          }
+        }
+      ]
+    },
+    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "name": "Alan Ranger Photography",
