@@ -8,7 +8,7 @@
       "name": "What's the best lens for dog photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For static portraits: 50mm or 85mm prime. For action: 70-200mm or 100-400mm zoom. Avoid wide-angle (below 35mm) which distorts the snout. A 50mm f/1.8 is the best value starter lens for dog photography."
+        "text": "For static portraits: a 50mm or 85mm prime lens. The 85mm gives the most flattering head proportions and good background separation at f/1.8 or f/2.8. For action and running shots: a 70–200mm zoom lets you stay back so the dog isn't distracted by the camera. A 100–400mm is excellent for beach and field action where you can't easily move closer. Avoid wide-angle lenses (anything below 35mm) for dog faces — they distort the snout into a cartoon. If you only have one lens to start with, a 50mm f/1.8 (around £100 for most camera systems) is the best value lens for dog photography that exists."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "What shutter speed for dog photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "1/250 minimum, 1/500 ideal for static portraits — dogs move constantly even when stationary. 1/1000 to 1/2000 for action. 1/60-1/125 for deliberate panning shots."
+        "text": "For a \"still\" head-and-shoulders portrait: 1/250 minimum, 1/500 ideal. Dogs move constantly even when they look stationary — the head moves, the eyes shift, the ears twitch. Anything below 1/250 risks soft eyes that you can't recover in post. For action (running, jumping, splashing): 1/1000 to 1/2000 to genuinely freeze the motion. The exception is panning shots — deliberately following a running dog with the camera at 1/60 to 1/125 to get a sharp dog and motion-blurred background. That's a deliberate technique, not a happy accident."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "How do I get my dog to look at the camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hold a treat at lens height (not above, not to the side). Make the dog's response noise (kissy noise, squeak, treat word) right before triggering. Don't repeat the noise more than 3 times per session. Or frame for the looking-past-camera shot — often stronger."
+        "text": "Hold a treat or favourite toy at lens height — not above the camera (head tilts up unflatteringly), not to the side (eyes go off-camera). Make the noise the dog responds to (a kissy noise, a squeak, the word \"treat\") right before you trigger the shutter, and have the treat ready to release immediately after. Don't repeat the noise more than three times in a session — the dog desensitises and stops responding. The other approach is to not bother making them look at the camera — frame for the side profile, the looking-into-the-distance shot, the looking-at-their-human shot. Dogs looking past the camera at something interesting often makes a stronger photograph than dogs looking straight at it."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "Why are my black dog photos so dark and grainy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Camera meter pushes towards mid-grey, under-exposing black coats. Dial in +1 exposure compensation. Light from behind (backlight) for rim of light around silhouette. Backlit black dogs in golden hour produce the most graphic dog photographs."
+        "text": "The camera's exposure meter pushes everything towards mid-grey, so a black-coated dog tricks it into under-exposing the whole frame. Two fixes. First, dial in +1 exposure compensation in Aperture Priority — this tells the camera to over-expose by one stop, which renders the dog correctly black-with-detail rather than crushed-shadows-with-no-detail. Second, light the dog from behind (backlight) rather than from the front — the rim of light around the silhouette gives shape and stops the dog reading as a black blob. Backlit black dogs in golden hour are some of the most graphic, framed-print-ready dog photographs you can make."
       }
     },
     {
@@ -40,15 +40,15 @@
       "name": "Why are my white dog photos blown out?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Same metering problem in reverse. Dial in -1 exposure compensation. Avoid bright sun — overcast bright or open shade is much friendlier. Front-light not back-light for white dogs in sun. Shoot RAW for highlight recovery."
+        "text": "Same exposure-meter problem in reverse. Dial in -1 exposure compensation. Avoid bright sun completely with white dogs — overcast bright or open shade gives much cleaner detail in the white fur. If you must shoot a white dog in sun, position so the sun is behind the camera (front-lighting), not behind the dog (which produces blown highlights all over the rim of the coat). Shoot in RAW so you can recover any remaining highlight detail in edit."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I use my phone instead of a camera?",
+      "name": "Can I use my phone instead of a \"real\" camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Modern phones (iPhone 13+, Pixel 6+, Samsung S22+) produce A4-printable dog photos. Angle, light, timing matter more than camera. Phone limitation is action freezing in low light. Phone tips: tap eye to focus, drag exposure down slightly, use portrait mode for background blur."
+        "text": "Yes. Modern phones (iPhone 13 onwards, Pixel 6 onwards, Samsung S22 onwards) produce dog photographs that print fine at A4 and look great on social. The angle, light, timing, and relationship advice in this article matters more than the camera. The phone limitation that catches owners out is shutter speed — phones aren't great at freezing fast action, especially in low light, so action shots are harder. For static portraits, a phone at the correct angle in soft light produces frames most \"real cameras\" can't beat for spontaneous moments. Phone tip: tap the dog's eye to focus, drag the exposure slider down slightly to protect highlights, switch to portrait mode for the background blur effect."
       }
     },
     {
@@ -56,7 +56,7 @@
       "name": "What's the best time of day to photograph my dog?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Golden hour (first hour after sunrise, last hour before sunset) for soft warm directional light. Overcast bright days for soft even all-day light. Avoid bright midday sun. Indoor: near north-facing window around midday."
+        "text": "Two windows. The first hour after sunrise and the last hour before sunset — \"golden hour\" — gives soft warm directional light that flatters fur of any colour and produces the most \"magazine-feel\" dog photographs. Overcast bright days are the second-best window, and they last all day instead of one hour — soft even light, no harsh shadows, no squinting, all colours read true. Avoid bright midday sun at all costs unless you have no choice; harsh shadows under the muzzle and blown highlights on white markings ruin most frames. Indoor: an hour either side of midday near a north-facing window gives soft directional light all year round."
       }
     },
     {
@@ -64,7 +64,7 @@
       "name": "How do I photograph my dog without stressing them out?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Leave camera out for several days before sessions. Set up camera before involving dog. Three rounds of 30 seconds beats one 15-minute session. Reward generously with high-value treats. Watch body language (lip licks, whale eye, head turn) and stop at first signal. End sessions positively."
+        "text": "The camera should be a normal, neutral object in the dog's environment. Leave it out for a few days before sessions so the dog gets used to seeing it. Set up the camera before involving the dog. Keep sessions short — three rounds of 30 seconds beats one round of 15 minutes. Reward generously with high-value treats and end sessions while the dog is still enjoying the interaction. Watch body language: lip licks, whale eye, head turn away, raised paw, body shake all mean \"I've had enough\" — stop at the first signal, not the third. Never force a position, never grab the collar to hold a pose, never use the camera as a punishment cue. The goal is a dog who actively enjoys photography sessions because they're short, fun, treat-rewarded, and end on a positive note."
       }
     }
   ]
