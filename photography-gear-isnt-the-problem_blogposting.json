@@ -36,5 +36,46 @@
       "@type": "Thing",
       "name": "Photographic composition"
     }
+  ],
+  "video": [
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#video-youtube-KGZ-253UIH0",
+      "name": "Photography Gear Isn't The Problem — It's Your Composition - Video",
+      "description": "Photography gear won't fix the photographs you're making — the four questions that will, and why the next lens, body or filter kit isn't the honest answer.",
+      "url": "https://www.youtube.com/watch?v=KGZ-253UIH0",
+      "embedUrl": "https://www.youtube.com/embed/KGZ-253UIH0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KGZ-253UIH0/hqdefault.jpg",
+      "uploadDate": "2026-10-14T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#video-youtube-5mt6u8VQLHk",
+      "name": "Photography Gear Isn't The Problem — It's Your Composition - Video",
+      "description": "Photography gear won't fix the photographs you're making — the four questions that will, and why the next lens, body or filter kit isn't the honest answer.",
+      "url": "https://www.youtube.com/watch?v=5mt6u8VQLHk",
+      "embedUrl": "https://www.youtube.com/embed/5mt6u8VQLHk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5mt6u8VQLHk/hqdefault.jpg",
+      "uploadDate": "2026-10-14T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem#video-youtube-AIG_P5A1cSk",
+      "name": "Photography Gear Isn't The Problem — It's Your Composition - Video",
+      "description": "Photography gear won't fix the photographs you're making — the four questions that will, and why the next lens, body or filter kit isn't the honest answer.",
+      "url": "https://www.youtube.com/watch?v=AIG_P5A1cSk",
+      "embedUrl": "https://www.youtube.com/embed/AIG_P5A1cSk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AIG_P5A1cSk/hqdefault.jpg",
+      "uploadDate": "2026-10-14T00:00:00+00:00",
+      "publisher": {
+        "@id": "https://www.alanranger.com/#org"
+      }
+    }
   ]
 }
