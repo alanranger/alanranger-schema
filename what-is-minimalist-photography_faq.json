@@ -5,42 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is a minimalist picture?",
+      "name": "What does minimalist photography entail?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A minimalist picture is a photograph built on simplicity, where a single subject or shape is isolated against a plain background. It reduces distractions, limits the colour palette, and uses negative space to create impact with very few elements."
+        "text": "Minimalist photography involves reducing a subject to its fundamental elegance. It focuses on crafting images that highlight the basics, such as clean lines and open spaces, to eliminate any visual distractions."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I make my photos look minimalist?",
+      "name": "What are the fundamental principles of photography for beginners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "To create minimalist photos, choose one clear subject, keep the background plain, and use negative space to emphasise simplicity. Limit colours, look for clean lines or shapes, and control light to remove distractions. Patience is important—wait for a single gesture such as one wave, cloud or passer-by."
+        "text": "If you're just starting out, it's essential to understand the three core elements of a photograph: the subject, light, and composition. These elements are pivotal in shaping the overall impact of your images."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the minimalist photography effect?",
+      "name": "How can one start practising minimalist photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The minimalist photography effect is achieved by stripping away detail and highlighting only essential elements. It often relies on negative space, simple geometry, and muted or single-accent colours, creating calm, uncluttered images that feel spacious and balanced."
+        "text": "To embark on minimalist photography, consider these strategies"
       }
     },
     {
       "@type": "Question",
-      "name": "What is the opposite of minimalist photography?",
+      "name": "What is meant by a 'minimalist' image?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The opposite of minimalist photography is maximalist photography. Maximalism embraces complexity, abundance and detail, using busy compositions, bold colours and layered textures, which contrasts with the restraint and clarity of minimalist style."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why is minimalist photography effective?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimalist photography is effective because it draws the viewer’s eye directly to the subject without distraction. By removing clutter and focusing on space, shape and tone, it creates stronger emotional impact and visual clarity, making images easier to read and remember."
+        "text": "A 'minimalist' image is characterised by its stark simplicity. This style of photography focuses on minimalism and careful composition, avoiding an excess of colours, patterns, or details, to create a clear and impactful visual statement."
       }
     }
   ]
