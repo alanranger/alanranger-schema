@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#blogposting",
-  "headline": "Black &amp; White Photography: When to Convert and Why 2026",
-  "alternativeHeadline": "Black &amp; White Photography: When to Convert and Why 2026 | Alan Ranger Photography",
+  "headline": "Black & White Photography: When to Convert and Why 2026",
+  "alternativeHeadline": "Black & White Photography: When to Convert and Why 2026 | Alan Ranger Photography",
   "description": "A UK guide to deciding when black and white beats colour: four creative reasons to convert, the scenes that work, and a framework for choosing before you click.",
   "url": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert",
   "datePublished": "2026-04-26T00:00:00.000Z",
@@ -26,5 +26,46 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape photography"
+    },
+    {
+      "@type": "Thing",
+      "name": "Woodland photography"
+    },
+    {
+      "@type": "Thing",
+      "name": "Seascape photography"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adobe Lightroom"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Lightroom"
+    }
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert#video-youtube-yT34iZEsAgQ",
+    "name": "Black & White Photography: When to Convert and Why 2026 - Video",
+    "description": "A UK guide to deciding when black and white beats colour: four creative reasons to convert, the scenes that work, and a framework for choosing before you click.",
+    "url": "https://www.youtube.com/watch?v=yT34iZEsAgQ",
+    "embedUrl": "https://www.youtube.com/embed/yT34iZEsAgQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yT34iZEsAgQ/hqdefault.jpg",
+    "uploadDate": "2026-04-26T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
   }
 }
