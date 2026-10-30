@@ -5,98 +5,74 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the difference between RAW and JPEG?",
+      "name": "What is a JPEG file?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p><strong>RAW</strong> stores sensor data with minimal processing (typically 12/14-bit). <strong>JPEG</strong> is an 8-bit, compressed file with in-camera style, white balance, noise reduction and sharpening baked in.</p>"
+        "text": "Answer: JPEG (Joint Photographic Experts Group) is a commonly used digital image format that compresses image files to reduce their size. This compression can lead to some loss of image quality, but JPEGs are widely supported by software and devices, making them convenient for storage and sharing."
       }
     },
     {
       "@type": "Question",
-      "name": "When should I shoot JPEG vs RAW?",
+      "name": "What is a RAW file?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p><strong>JPEG</strong>: speed, small files, long bursts, consistent light, quick delivery. <strong>RAW</strong>: high dynamic range, mixed light, low light, large prints, colour-critical work. <strong>RAW+JPEG</strong> if you need both speed and a master file.</p>"
+        "text": "Answer: A RAW file is an unprocessed image file that captures all the data from a camera’s sensor without any processing or compression. RAW files contain more image data than JPEGs, allowing for greater flexibility in post-processing."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the advantages of RAW?",
+      "name": "What are the main differences between JPEG and RAW?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Greater highlight/shadow recovery, more tonal and colour depth, flexible white balance in post, and non-destructive editing with better final quality.</p>"
+        "text": "Answer: The main differences between JPEG and RAW include:\n\nFile Size: JPEG files are smaller due to compression, while RAW files are significantly larger.\n\nImage Quality: RAW files maintain higher quality and detail, while JPEGs may lose some quality due to compression.\n\nEditing Flexibility: RAW files provide more latitude for editing, allowing adjustments to exposure, white balance, and more without degrading the image quality.\n\nProcessing: JPEG files are processed in-camera, meaning they are ready to use immediately, while RAW files require post-processing."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the disadvantages of RAW?",
+      "name": "When should I use JPEG instead of RAW?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Larger files, requires post-processing, can reduce burst depth/sustained fps, and needs compatible software.</p>"
+        "text": "Answer: JPEG is ideal when you need smaller file sizes for quick sharing, have limited storage, or require images immediately without the need for extensive post-processing. It’s also suitable for casual photography where maximum quality is less of a concern."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the advantages of JPEG?",
+      "name": "When should I use RAW instead of JPEG?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Small files, ready out of camera, universal compatibility, longer bursts and faster transfers.</p>"
+        "text": "Answer: Use RAW when you want the highest quality images and plan to do extensive editing in post-processing. It’s especially beneficial in professional photography, landscape shots, or situations with challenging lighting conditions where you may need to make significant adjustments."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I convert a JPEG back to RAW?",
+      "name": "Can I convert a RAW file to JPEG?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>No. You can wrap a JPEG in a RAW-like container, but lost highlight detail, bit depth and WB flexibility cannot be restored.</p>"
+        "text": "Answer: Yes, you can convert a RAW file to JPEG using photo editing software like Adobe Lightroom, Photoshop, or even many camera software programs. When converting, you can choose the settings that best fit your needs, but keep in mind that the original RAW file will retain more detail and quality."
       }
     },
     {
       "@type": "Question",
-      "name": "Do Picture Style and White Balance matter when shooting RAW?",
+      "name": "Do all cameras support RAW formats?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Picture Style is not baked into RAW (it affects previews). White Balance is stored as metadata and can be changed in post without quality loss.</p>"
+        "text": "Answer: Not all cameras support RAW formats. Typically, DSLRs and mirrorless cameras provide RAW options, while point-and-shoot cameras and smartphones often save images as JPEG. Always check your camera specifications to see if RAW is supported."
       }
     },
     {
       "@type": "Question",
-      "name": "Does shooting RAW affect buffer and burst rate?",
+      "name": "What are the storage implications of using RAW files?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Usually yes. RAW files are larger and can reduce sustained fps and buffer depth. Compressed RAW or short, timed bursts can help.</p>"
+        "text": "Answer: RAW files take up significantly more space on storage devices compared to JPEGs. Photographers should consider their storage capacity and backup strategies before deciding to shoot in RAW, especially if they plan to capture a large number of images."
       }
     },
     {
       "@type": "Question",
-      "name": "How big are RAW files compared to JPEG?",
+      "name": "Is there any editing software specifically for RAW files?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Typical 24-MP files: JPEG ~7–10&nbsp;MB; RAW ~20–30&nbsp;MB (varies by camera, scene and compression). Plan card and archive space accordingly.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What colour space/export should I use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Export <strong>sRGB JPEG</strong> for web/social. Use <strong>16-bit TIFF</strong> (Adobe RGB or ProPhoto RGB in a managed workflow) for print/retouch.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can smartphones shoot RAW and when should I use it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Many phones offer <strong>DNG (RAW)</strong>. Use it in high-contrast or low-light scenes for better editing latitude; JPEG/HEIF is fine for quick sharing.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I download the JPEG vs RAW checklist?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Get the free 1-page PDF: <a href=\"https://www.alanranger.com/s/JPEG_vs_RAW_Field_Checklist_compact.pdf\">JPEG vs RAW Field Checklist</a>.</p>"
+        "text": "Answer: Yes, many editing software options specialize in RAW processing, such as Adobe Lightroom, Capture One, and Darktable. These programs provide tools designed to handle the unique aspects of RAW files and maximize their editing potential."
       }
     }
   ]
