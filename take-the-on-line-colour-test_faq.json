@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Farnsworth-Munsell 100 Hue Test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It’s a recognised assessment of hue discrimination . You arrange coloured tiles so they transition smoothly from one hue to another. A higher score means better colour perception."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does colour perception matter for photographers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Editing, colour grading and printing all depend on accurate hue recognition. Weak hue perception can lead to subtle but persistent casts (too warm/cool or magenta/green) that look unnatural in skin tones, foliage and prints."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I read my score?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "90–100 = excellent; 75–89 = good; 60–74 = moderate (take extra care with WB/tint); below 60 = limited — use neutral lighting, reference targets and second-pair-of-eyes checks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need special equipment to take the test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a desktop or laptop with a mouse . Mobile devices aren’t supported. View in neutral light and avoid screen night-shift modes to prevent colour bias."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I compensate for weaker colour perception?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes: shoot a grey card, edit under neutral lighting (5000–6500K), use reference images, make small A/B adjustments, calibrate your monitor, and get feedback on tricky colour work."
+      }
+    }
+  ]
+}

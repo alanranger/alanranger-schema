@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/photography-styles-trends-and-tips#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which photography style is most popular in 2025?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Portrait photography remains the largest share of interest (~18%). This is because portraits serve personal, corporate, and creative needs, from headshots to artistic fine art portraits. Landscape (14%) and travel (12%) are also major growth categories thanks to tourism recovery and social media storytelling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is portrait photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Portrait photography focuses on capturing people’s expressions, personalities, and emotions. Sub-genres include family portraits, editorial headshots, and creative fine art portraits. A fast prime lens (50mm/85mm) and good lighting are common essentials."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is landscape photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landscape photography captures expansive natural or urban environments. It often requires wide-angle lenses, tripods, and filters to control light and exposure. It is one of the most practiced genres worldwide, boosted by travel and nature tourism."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is wildlife photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wildlife photography documents animals in their natural habitats. It requires patience, knowledge of animal behaviour, and often telephoto lenses. Interest in 2025 has risen due to conservation projects and citizen science initiatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is macro photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Macro photography magnifies small subjects—like insects, flowers, or textures—often at 1:1 reproduction ratio. A macro lens (90–105mm) or extension tubes are common tools. This genre grew strongly in 2024–25 due to its creative use in social media and fine detail stock imagery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is street photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Street photography captures candid, unposed moments in urban environments. It is often shot with compact cameras or primes in the 28–50mm range. It surged in popularity in 2024 (+30%) as more photographers explored cities post-pandemic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is architectural photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Architectural photography focuses on buildings and structures. It highlights design, geometry, and light. Tilt-shift or ultra-wide lenses are often used. Demand comes from property, retail, and heritage documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is fashion or lifestyle photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fashion and lifestyle photography showcase clothing, accessories, or aspirational living. It often appears in magazines, e-commerce, and influencer campaigns. Budgets for creator-led campaigns in 2025 are rising steadily, supporting this style."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is sports photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sports photography captures live events and action. It demands fast shutter speeds, long lenses, and anticipation of peak moments. Interest in 2025 spiked thanks to global sports events and increased amateur coverage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is food photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Food photography presents meals in an appetising way for cookbooks, menus, or social media. Lighting and styling are critical. It remains strong due to Instagram, TikTok, and brand-driven content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is product photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product photography highlights items for sale, usually in e-commerce. Clean lighting setups, infinity backgrounds, and focus-stacking are common. It continues to grow with online retail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is travel photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Travel photography documents landscapes, cultures, and people from around the world. It’s both documentary and artistic, often blending landscape and street styles. Rising tourism in 2025 has driven renewed interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is fine art photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fine art photography expresses an artistic concept, emotion, or message rather than documenting reality. It is often symbolic and created for exhibitions or collectors. The market is smaller (2% share) but highly specialised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is astrophotography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Astrophotography captures celestial objects and night skies. It requires long exposures, tracking mounts, and dark-sky locations. Interest is rising with astro-tourism and affordable star-tracking gear."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is underwater photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Underwater photography captures marine life and seascapes, requiring housings, strobes, and diving equipment. Though niche, it is growing again with dive-tourism recovery."
+      }
+    }
+  ]
+}

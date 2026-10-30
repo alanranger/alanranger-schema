@@ -5,6 +5,14 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "What is exposure in photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In this beginner-friendly photography lesson, you'll learn exactly how exposure works and how aperture, shutter speed, and ISO work together to control the brightness and creative look of your photographs."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "What does the exposure process in photography entail?",
       "acceptedAnswer": {
         "@type": "Answer",
