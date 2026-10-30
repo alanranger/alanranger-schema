@@ -8,55 +8,63 @@
       "name": "What is long exposure photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Long exposure photography uses a slow shutter speed so moving elements blur or streak while static elements stay sharp. It’s ideal for silky water, cloud trails and night light trails."
+        "text": "Long exposure photography is a technique that involves using a longer shutter speed to allow more light to hit the camera sensor. This can create effects such as smooth water, light trails from moving vehicles, or blurred motion of clouds."
       }
     },
     {
       "@type": "Question",
-      "name": "What gear do I need for long exposure?",
+      "name": "What equipment do I need for long exposure photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Essential gear: solid tripod, remote release or 2-second timer, ND filters (3–10 stop), spare batteries, microfibre cloth and, for DSLRs, a viewfinder cover to prevent light leaks."
+        "text": "Basic equipment includes:\n\nA camera (DSLR, mirrorless, or any camera with manual settings)\n\nA sturdy tripod to prevent any movement\n\nA remote shutter release or timer to minimize camera shake\n\nND (Neutral Density) filters, if you want to take long exposures during the daytime."
       }
     },
     {
       "@type": "Question",
-      "name": "What shutter speeds should I use?",
+      "name": "What settings should I use for long exposure photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Typical ranges: smooth water 20–120 s; cloud streaks 30–180 s (watch wind direction); light trails 5–20 s; minimalist seascapes 60–180 s. Adjust to taste and review the histogram."
+        "text": "The settings can vary based on the scene, but typically:\n\nSet the camera to manual mode\n\nUse a low ISO (100-200) to minimize noise\n\nAdjust the aperture (f/8 to f/16) to control depth of field and ensure sharpness\n\nUse a slow shutter speed (1 second or longer), adjusting it based on the lighting conditions and desired effect."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I calculate shutter speed with an ND filter?",
+      "name": "How do I avoid overexposure in bright conditions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Take a sharp test shot without ND to find a base shutter, then multiply the time by 2^stops. Example: 1/15 s with a 6-stop ND ≈ 4 s (1/15 × 64). 1/8 s with a 10-stop ND ≈ 128 s (~2m 8s). Use a timing app for accuracy."
+        "text": "In bright conditions, you can avoid overexposure by:\n\nUsing ND filters to reduce the amount of light entering the lens\n\nChoosing a smaller aperture (higher f-stop number)\n\nShortening the exposure time while still achieving the desired effect."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I keep long exposure shots sharp?",
+      "name": "How can I create smooth water effects in my long exposure photographs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Level and weight the tripod, keep the centre column down, use a remote or 2-s timer, turn IBIS off on a tripod, use mirror lock-up on DSLRs, focus before adding ND then switch to manual focus, and cover the viewfinder to stop leaks."
+        "text": "To achieve a smooth water effect:\n\nFind a location with water, such as a lake or ocean\n\nSet up your camera on a tripod\n\nUse a slow shutter speed (1/2 second to several seconds) to blur the motion of the water\n\nUse a neutral density filter if it's bright outside."
       }
     },
     {
       "@type": "Question",
-      "name": "When should I use Bulb mode?",
+      "name": "Are there any specific times of day that are better for long exposure photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use Bulb when the required exposure exceeds 30 seconds. Trigger with a remote that has a timer or an app so you can run 1–5 minute exposures without touching the camera."
+        "text": "While long exposure can be used at any time, many photographers prefer \"golden hour\" (just after sunrise or before sunset) for softer light. Nighttime is also great for capturing light trails from cars or star trails."
       }
     },
     {
       "@type": "Question",
-      "name": "What are common long exposure mistakes?",
+      "name": "What are light trails and how can I capture them?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Touching the camera during exposure, raising the centre column in wind, using poor-quality or multiple stacked filters, ignoring light leaks, and over-sharpening silky water or skies. Stabilise, cover the viewfinder and keep the look smooth."
+        "text": "Light trails are streaks of light produced by moving light sources, such as car headlights or stars. To capture them:\n\nSet your camera on a tripod\n\nUse a slow shutter speed (several seconds to minutes, depending on the effect desired)\n\nAim your camera at a scene with moving lights and press the shutter release."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I take long exposure photos with a smartphone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many smartphones have a \"long exposure\" mode or apps available that allow you to control the shutter speed. Use a tripod or stabilize the phone to minimize shakiness, and experiment with different settings."
       }
     }
   ]
