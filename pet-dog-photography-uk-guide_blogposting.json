@@ -26,5 +26,36 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Aperture (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Shutter speed"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    }
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide#video-youtube-5QVf_2hA8xE",
+    "name": "Dog Photography for Owners: A Practical UK Guide 2026 - Video",
+    "description": "Practical UK dog photography for owners: settings, natural light, the five everyday scenarios, and a workflow that gets keepers without stressing the dog.",
+    "url": "https://www.youtube.com/watch?v=5QVf_2hA8xE",
+    "embedUrl": "https://www.youtube.com/embed/5QVf_2hA8xE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5QVf_2hA8xE/hqdefault.jpg",
+    "uploadDate": "2026-04-26T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
   }
 }
