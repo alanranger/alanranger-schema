@@ -5,34 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is better mirrorless or DSLR camera?",
+      "name": "Do mirrorless cameras capture superior images compared to DSLRs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Mirrorless cameras are generally considered better than DSLRs for video due to their advanced features and greater versatility. They offer benefits like faster autofocus, electronic viewfinders, and lighter bodies, making them a preferred choice for many videographers.</p>"
+        "text": "Both types of cameras can achieve high shutter speeds and capture multiple images rapidly. However, mirrorless cameras generally have an advantage, especially when compared to most DSLRs, as their design without a mirror allows for quicker successive shooting."
       }
     },
     {
       "@type": "Question",
-      "name": "What are the disadvantages of a mirrorless camera?",
+      "name": "What are the drawbacks of using a mirrorless camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Mirrorless cameras have disadvantages like shorter battery life, limited lens selection, and higher price points compared to DSLRs. While they excel in portability and video capabilities, these drawbacks can be significant depending on a photographer's needs.</p>"
+        "text": "The main disadvantage of mirrorless cameras is their shorter battery life. This is due to the high power consumption of their electronic viewfinders and LCD screens, which can be a significant issue during extended shooting sessions."
       }
     },
     {
       "@type": "Question",
-      "name": "Do professional photographers use DSLR or mirrorless?",
+      "name": "Which is more suitable for underwater photography, a DSLR or a mirrorless camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Professional photographers now prefer mirrorless cameras, with 63% using them, compared to 36% who use DSLR cameras. Only 1% of professionals use both types. Mirrorless cameras offer advanced features and portability, driving their popularity among professionals.</p>"
+        "text": "For underwater photography, full-frame mirrorless cameras are currently the preferred choice. They offer superior dynamic range, low-light performance, autofocus, and overall image quality. Additionally, they provide a shallower depth of field compared to cameras with smaller sensors."
       }
     },
     {
       "@type": "Question",
-      "name": "What is a major benefit of a mirrorless camera over a DSLR camera?",
+      "name": "Why do some photographers favour mirrorless cameras over DSLRs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>A major benefit of a mirrorless camera over a DSLR is that mirrorless cameras are generally lighter, more compact, and faster. They also excel in video performance and offer modern, fast lenses. Despite fewer accessories and lenses, mirrorless systems provide sufficient choices for most users.</p>"
+        "text": "Mirrorless cameras are generally more compact than DSLRs as they lack the bulky mirror box. This not only makes them lighter and easier to handle but also allows the lens to be closer to the sensor, potentially enhancing image quality."
       }
     }
   ]
