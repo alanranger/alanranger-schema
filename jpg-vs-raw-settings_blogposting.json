@@ -10,8 +10,8 @@
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "JPG vs Raw Settings - 1 Page Checklist Photography Guide 1-page field checklistsAlan Ranger 2 January 2026 camera settings guide",
-  "wordCount": 20,
+  "articleBody": "JPG vs Raw Settings - 1 Page Checklist Photography Guide. 1-page field checklist PDF.",
+  "wordCount": 14,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/jpg-vs-raw-settings#primaryimage"
   },
@@ -26,11 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/jpg-vs-raw-settings#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Photography"
-    }
-  ]
+  }
 }
