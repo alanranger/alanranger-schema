@@ -5,34 +5,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is K&F Concept a Chinese company?",
+      "name": "Can I use the K&F Concept Square Filter System Pro Kit on any lens?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, K&F Concept is a Chinese company. It was founded in 2011 and is known for its photography accessories, including filters, tripods, and camera bags."
+        "text": "Yes, the kit includes adapter rings for 67mm, 72mm, 77mm, and 82mm lens threads. For other sizes, you can use step-up or step-down rings."
       }
     },
     {
       "@type": "Question",
-      "name": "Can you stack K&F Concept filters?",
+      "name": "Will these filters affect image quality?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, you can stack K&F Concept filters. Their filter systems, including the Square System Pro Kit, allow users to stack multiple filters, enhancing creative effects like combining ND filters with a CPL."
+        "text": "The filters are made from high-quality Japanese AGC glass, which maintains sharpness and clarity without introducing colour casts or distortion."
       }
     },
     {
       "@type": "Question",
-      "name": "Where does K&F Concept ship from?",
+      "name": "Do these filters cause vignetting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "K&F Concept ships from China and has warehouses in the United States, United Kingdom, Germany, and other locations to facilitate faster delivery depending on the region."
+        "text": "No, the slim profile of the filters and the holder prevents vignetting, even when using ultra-wide-angle lenses."
       }
     },
     {
       "@type": "Question",
-      "name": "Where is K&F Concept based?",
+      "name": "What is the difference between the ND8, ND64, and ND1000 filters?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "K&F Concept is headquartered in Shenzhen, China. The company focuses on designing and manufacturing innovative photography and video equipment."
+        "text": "The ND8 reduces light by 3 stops, the ND64 by 6 stops, and the ND1000 by 10 stops. The higher the number, the more light is reduced, allowing for longer exposure times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I stack filters in this system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Kent Faith Concept Square Filter System allows you to stack up to three filters, such as combining the CPL with the ND1000 for creative effects.\n\nWith a combination of affordability, versatility, and build quality, the K&F Concept Square Filter System Pro Kit is undoubtedly one of the best entry-level or budget filter kits for landscape photography . However, while it delivers solid performance for the price, its usability—particularly around attaching the filter holder and changing filters—could be improved. Additionally, the large size of the filters and their leather pouch may require more space in your camera bag compared to more compact systems like the Kase Revolution. The plastic trim around the filters adds a welcome layer of protection and ease of handling. For budget-conscious photographers, it's an excellent option, though it doesn’t match the premium quality and ease of use offered by higher-end brands like Kase and Lee Filters.\n\n0 Likes\n\nPrevious\n\nSelecting the Ideal Product Photographer for Your Business\n\ncommercial photography Alan Ranger 30 October 2024\n\nNext\n\nDo You Know Your Camera Filters? | Professional Guide\n\nphotography-tips, recommended-products Alan Ranger 16 October 2024 filters, lee-filters, recommended-products, uv-filters, NIK\n\nNewsletter Block\n\nThis newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab.\n\nGet Access to Free Online Course\n\nSign up with your email address to access the Academy 101 Foundation Photography Course"
       }
     }
   ]
