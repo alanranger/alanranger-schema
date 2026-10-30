@@ -32,7 +32,7 @@
       "name": "How do I choose half-day vs one-day vs multi-day?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Half-day is ideal for targeted improvement, one-day is best for an immersive learning day, and multi-day is the deepest experience if you’re travelling. Start here: half-day, one-day, multi-day."
+        "text": "Half-day is ideal for targeted improvement, one-day is best for an immersive learning day, and multi-day is the deepest experience if you’re travelling.\n\nStart here: half-day , one-day , multi-day ."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "Can I buy a gift voucher for a workshop?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — vouchers are available and the recipient can choose a suitable date and location. See: photography gift vouchers."
+        "text": "Yes — vouchers are available and the recipient can choose a suitable date and location. See: photography gift vouchers ."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "What happens after I book?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You’ll receive confirmation plus the meeting point, timing, and what to bring. If you’re comparing options first, start with the main workshops hub."
+        "text": "You’ll receive confirmation plus the meeting point, timing, and what to bring. If you’re comparing options first, start with the main workshops hub ."
       }
     }
   ]

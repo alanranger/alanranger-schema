@@ -5,54 +5,6 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1 BEFORE — would I want this frame taken of me?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The single most useful first filter. If the answer is no — the subject is in distress, the frame mocks them, the moment is humiliating, the frame would feel intrusive in a way you wouldn't accept yourself — don't take it. The legal layer says you can; this filter is asking whether you should. Most photographers find that this single test eliminates the frames that would later feel uncomfortable in their portfolio. The frames that pass this test are the ones you can publish without hesitation later."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2 BEFORE — am I photographing a person, or photographing a category through a person?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A useful diagnostic. If the frame works because of who the person is — their gesture, their relationship to the scene, the moment — you're photographing a person. If the frame works because of what they are — their religious dress, their disability, their ethnicity, their poverty, their being a tourist as a \"type\" — you're using them as a visual prop for a category. The first is generally fine; the second is generally not. Test: would the frame work if the category marker were absent? If yes, it's about the person; if no, you're trading on their identity for visual interest."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3 BEFORE — am I in a place where I'm allowed to be?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The legal check, settled in the background. Public street, public square, public park — fine. Private but publicly accessible space (Canary Wharf, Covent Garden Piazza, More London, most shopping centres) — fine until asked to stop. Inside private property without invitation — not fine. This decision is usually straightforward; once you've made it for the location you're working in, it doesn't need re-asking for every frame. Settling it in the background frees you to focus on the ethical decisions instead."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "4 AFTER — was the subject aware?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Once the frame is captured, take stock. Did the subject see you? Did they react? If yes, did they object — and if so, are they still nearby? Genuine candid work usually means the subject didn't notice (the strongest results) or noticed too late to react (acceptable). If they noticed during the capture and looked uncomfortable, you have a choice: engage now and explain, or move on. Engaging is usually better — the conversation often defuses the situation, sometimes produces a better second frame with consent, and prevents the kind of low-level guilt that erodes a photographer's relationship with the genre over time."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "5 AFTER — if challenged, what's the right response?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stay calm. Be honest. \"I'm a street photographer working on personal photographs of public life.\" Show the frame on the back of the camera if asked. If they ask you to delete it, delete it — even though the law says you don't have to. The memory of an unpleasant confrontation lasts longer than the absence of any single frame, and most photographers who've done this for years would rather lose a thousand mediocre images than carry around the residue of a difficult encounter. Lying about what you're doing makes everything worse. Trying to assert your legal rights aggressively makes everything worse. Calm, honest, brief, accommodating works far more often than people expect."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "6 AFTER — if I publish this, who else might see it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A separate decision from capture. The subject didn't object on the day; that doesn't mean they wouldn't object to seeing the frame on Instagram a year later when an algorithm serves it back to their workplace. Modern social media has changed the publication question in ways the genre hasn't fully caught up with. A useful test: would I be comfortable if this person found this image and contacted me about it? Frames that pass this test are publication-ready; frames that don't are personal work for your own archive. Many strong street photographers keep a clear line between \"frames I made\" and \"frames I publish\" — and the publication line is usually higher than the capture line."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Is street photography legal in the UK?",
       "acceptedAnswer": {
         "@type": "Answer",

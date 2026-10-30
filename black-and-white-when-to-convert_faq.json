@@ -5,30 +5,6 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1 Does removing colour add power?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Imagine the photograph desaturated. Does the subject become more dominant? Does the contrast become more dramatic? Does the texture become more apparent? Does the composition become more graphic? If the answer is genuinely yes — meaning the desaturated version isn't just different but actively stronger — the frame is a candidate for conversion. If the desaturated version looks like the colour version with the colour switched off, conversion isn't adding power; it's just removing information."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "2 Is colour actively fighting the photograph?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for clashing hues from mixed light sources, distractingly bright colour elements you couldn't compose out, colour casts from indoor or shaded light, saturated backgrounds pulling attention away from the subject. If colour is genuinely working against the frame's intent — not just neutral but actively undermining the photograph — conversion is solving a real problem. Use this answer carefully though: if \"fighting the photograph\" is your only reason for converting, you're using B&W as a rescue. Strong B&W work usually has reason 1 (adding power) plus reason 2, not reason 2 alone."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "3 Would the photograph still mean what it means without hue?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This is the test that catches the autumn foliage / bluebell wood / sunset cases. Ask yourself what the photograph is *about* — its meaning, its reason for existing. If that meaning lives in tone, light, shape, line, texture, gesture, or atmospheric quality, monochrome preserves it. If the meaning lives in the colour itself — the orange of the leaf, the blue of the bluebell, the gold of the sunset — converting removes the meaning along with the colour. The photograph still exists technically but it's no longer the photograph you wanted to make."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Should I shoot in monochrome mode in-camera?",
       "acceptedAnswer": {
         "@type": "Answer",

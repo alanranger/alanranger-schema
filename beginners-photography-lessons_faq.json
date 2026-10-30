@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/beginners-photography-lessons#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who are they aimed at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners photography lessons are for anyone from a complete novice or starter to those who want to learn photography and get to grips with all the settings on the camera and improve how they frame their shots.\n\nYou will need a DSLR or Mirrorless camera to attend the 5 weeks beginners course and a laptop for the Lightroom Photo Editing Course\n\nWe also provide photography classes for those who already have a basic understanding of camera operation and want to learn or improve their photo editing or gain a qualification in photography."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do they cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All beginners photography lessons are costed based on time, group size and materials provided on the course.\n\nEach category of beginners photography lesson will show the cost for that course once you click on the event. We also offer an interest free payment plan to help spread the cost of education over 12 months."
+      }
+    }
+  ]
+}
