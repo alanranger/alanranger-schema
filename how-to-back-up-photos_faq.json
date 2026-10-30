@@ -5,34 +5,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the best way to backup your photos?",
+      "name": "What is the 3-2-1 backup rule for photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>The best way to backup your photos is to use multiple storage locations. Combine cloud storage services, USB flash drives, and dual flash drives to ensure your photos are safe from permanent loss. This multi-location strategy provides an additional layer of protection for your valuable memories.</p>"
+        "text": "The 3-2-1 backup rule is a well-established strategy for protecting your data. It involves keeping 3 copies of your data, storing these on 2 different types of media , and ensuring 1 copy is stored offsite . This method minimises the risk of data loss from hardware failure, theft, or natural disasters."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I backup my gallery photos?",
+      "name": "Can I rely solely on cloud storage for backing up my photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>To backup gallery photos on Android, open the Google Photos app, sign in with your Google account, tap the Menu icon, and select “Settings.” Then choose “Back up & sync” and toggle it on. This ensures your gallery photos are automatically backed up to Google Photos.</p>"
+        "text": "While cloud storage is a great option for offsite backups, it's advisable not to rely on just one method. Using the 3-2-1 rule, you should combine cloud storage with a local backup, such as an external hard drive. This ensures redundancy in case the cloud service experiences issues or if you lose internet access."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the best way to store thousands of photos?",
+      "name": "What’s the best cloud storage service for photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>The best way to store thousands of photos is to use cloud storage solutions like Google Photos, Dropbox, or iCloud. These services offer large storage capacities, automatic backups, and easy access from multiple devices, ensuring your photos are safe and accessible anytime.</p>"
+        "text": "Amazon Prime offers unlimited photo storage , making it an excellent option for photographers, especially those working with RAW files. Other good choices include Google Drive and iCloud, though these come with storage limits depending on your subscription plan."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I backup my photos forever?",
+      "name": "How often should I back up my photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>To back up your photos forever, use a combination of cloud storage services like Google Photos or iCloud and external hard drives. Regularly update your backups and consider using a digital photo frame for extra security. This method ensures your photos are safe and accessible long-term.</p>"
+        "text": "It’s recommended to back up your photos as soon as possible after adding new images to your collection. If you’re a professional or hobbyist photographer, creating an automatic or scheduled backup routine using tools like GoodSync can ensure your data is always up to date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the difference between synchronisation and a backup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Synchronisation ensures files across different devices are always up to date, meaning changes on one device are reflected on others. However, it may not provide full protection, as deletions or errors may sync across devices. A backup, on the other hand, creates a separate copy of your data, protecting it from loss even if the original is deleted or corrupted."
       }
     }
   ]
