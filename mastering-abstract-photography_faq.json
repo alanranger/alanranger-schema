@@ -5,34 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How do you take good abstract photos?",
+      "name": "What methods can be employed to produce abstract photographs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>To take good abstract photos, focus on shapes, colors, and patterns. Experiment with different angles and lighting. Close-ups can highlight textures, while long exposures can create unique effects. Editing tools can enhance your images, giving them added depth and interest. Practice and experiment to refine your abstract photography skills.</p>"
+        "text": "To capture exceptional abstract images, one effective method is to move your camera during the exposure. This requires using a slower shutter speed than usual. Typically, shutter speeds are around 1/200 seconds, but for capturing motion </motion blur> in abstract photography, you might use speeds as slow as 1/10 of a second or even slower."
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings are needed for abstract photography?",
+      "name": "How can one introduce beginners to abstract photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>For abstract photography, set your camera to Shutter Priority (Tv) mode with a slow shutter speed like 1/15 sec. Use ISO100 to start, adjusting it based on ambient light. Experiment with different settings to achieve creative effects and exposure levels.</p>"
+        "text": "Here are some foundational tips for teaching abstract photography to novices: Start by focusing on everyday objects. Utilise design elements to enhance your images. Explore macro photography. Try shooting through various objects. Experiment with capturing motion. Learn the art of subtraction to simplify scenes. Adjust your lighting for different effects, and try out various shooting techniques."
       }
     },
     {
       "@type": "Question",
-      "name": "What shutter speed is needed for abstract photography?",
+      "name": "What are the key elements of abstract photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>For abstract photography, use shutter speeds between 1/30 and 1/2 a second. This range is ideal as it is just beyond the limit of hand-holdability but not too long to completely smooth out the subject. Adjust accordingly based on the artistic effect you desire.</p>"
+        "text": "The three primary elements that define abstract photography are form, colour, and texture. Form refers to the shapes within the image, which play a similar role to composition in traditional photography and are considered the central aspect of the image."
       }
     },
     {
       "@type": "Question",
-      "name": "How can a photograph be abstract?",
+      "name": "What is the ideal shutter speed for abstract photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Abstract photography creates images that do not have an immediate association with the physical world by using techniques like perspective, movement, and light. Photographers transform ordinary scenes into unexpected, often unrecognizable forms, making viewers see the world differently.</p>"
+        "text": "For abstract and artistic effects, shutter speeds typically range from 1/30 to 1/2 a second, and sometimes even longer. These speeds are just beyond the capacity for hand-held shooting, yet not so long that the subject becomes entirely blurred."
       }
     }
   ]
