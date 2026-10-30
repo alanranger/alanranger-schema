@@ -5,34 +5,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Do I need a tripod for product photography?",
+      "name": "Can this tripod handle heavy professional cameras?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, a tripod is essential for product photography as it ensures stability, eliminates camera shake, and allows for precise framing, especially when shooting overhead or in low-light conditions."
+        "text": "Yes, the tripod supports up to 10kg (22lbs), while the geared head accommodates up to 6kg (13.2lbs)."
       }
     },
     {
       "@type": "Question",
-      "name": "What equipment is used in product photography?",
+      "name": "Is it suitable for outdoor use?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Common equipment for product photography includes a DSLR or mirrorless camera, a tripod with a horizontal centre column, lighting gear (softboxes, LED lights), reflectors, and a clean backdrop. Lenses with macro or prime capabilities are also popular."
+        "text": "While primarily designed for studio use, the tripod’s aluminium build and detachable monopod make it versatile for outdoor shoots."
       }
     },
     {
       "@type": "Question",
-      "name": "Is a tripod good for photography?",
+      "name": "Does the horizontal centre column affect stability?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, tripods are excellent for photography. They provide stability, improve sharpness by preventing motion blur, and enable consistent framing for long exposure, low-light, and studio shots."
+        "text": "No, the locking mechanism ensures the column remains stable even when fully extended."
       }
     },
     {
       "@type": "Question",
-      "name": "How to take overhead photos with a tripod?",
+      "name": "What are the maintenance requirements?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "To take overhead photos with a tripod, use a tripod with a horizontal centre column. Extend and pivot the column horizontally, secure it with a counterweight, and adjust your camera using a 3-way geared head for precise alignment."
+        "text": "Regular cleaning of joints and ensuring all locks are tightened will keep the tripod and head functioning smoothly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes a geared head better for product photography?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geared heads allow for precise adjustments on three axes, ensuring perfect alignment for overhead and close-up shots."
       }
     }
   ]
