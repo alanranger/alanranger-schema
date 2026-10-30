@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.alanranger.com/photographic-workshops-near-me#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far do people travel for photographic workshops near me (UK)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many photographers travel for the right location and tuition. Use the workshops hub to find dates that suit your travel radius."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are workshops suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — workshops can suit beginners through to advanced photographers. The key is choosing the right duration and pace (half-day, one-day, or multi-day)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if the weather is poor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "UK conditions change quickly. Workshops are planned to work with available light and conditions where possible. Your event page will confirm any location/timing details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose half-day vs one-day vs multi-day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Half-day is ideal for targeted improvement, one-day is best for an immersive learning day, and multi-day is the deepest experience if you’re travelling. Start here: half-day, one-day, multi-day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I buy a gift voucher for a workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — vouchers are available and the recipient can choose a suitable date and location. See: photography gift vouchers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens after I book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll receive confirmation plus the meeting point, timing, and what to bring. If you’re comparing options first, start with the main workshops hub."
+      }
+    }
+  ]
+}
