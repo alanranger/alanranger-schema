@@ -5,34 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What do camera lens filters do?",
+      "name": "Are lens filters essential for cameras?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Camera lens filters protect the lens from dust, scratches, and moisture. Additionally, they can enhance image quality by reducing glare, reflections, and improving color saturation. While UV filters were once essential for blocking ultraviolet light, modern lenses are less affected by UV rays.</p>"
+        "text": "Lens filters are particularly important when using expensive lenses in environments like deserts where sand and dust could damage the lens. However, in a studio or indoor setting, they might not be necessary."
       }
     },
     {
       "@type": "Question",
-      "name": "Are camera lens filters worth it?",
+      "name": "Can lens filters impact the quality of photos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Yes, camera lens filters are worth it as they protect your lens from dust, scratches, and damage. Additionally, UV filters can enhance image quality by reducing haze and minimizing the blue color cast caused by ultraviolet light, especially in outdoor photography.</p>"
+        "text": "The quality of the filter can influence the quality of your images. Low-quality filters can introduce colour casts, while high-quality filters like those from Kase or Lee generally do not affect image quality adversely. Additionally, how well you maintain your lens filter can also impact photo quality."
       }
     },
     {
       "@type": "Question",
-      "name": "Do professional photographers use lens filters?",
+      "name": "What is the purpose of using camera filters?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Yes, professional photographers use lens filters to enhance image quality, manage light, and achieve specific effects. Filters like UV, ND, and polarizers are commonly used to protect lenses, control exposure, and reduce reflections, making them essential tools in both digital and film photography.</p>"
+        "text": "Camera filters protect lenses from scratches and damage. They can also enhance images in unique ways that cannot be replicated through other means. Typically, when purchasing a new lens or camera, you might be asked if you want to add a UV filter. My advice is to not use a UV filter."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I get different filters on my camera?",
+      "name": "Do professional photographers still use lens filters?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>To get different filters on your camera, open the Camera app, scroll to the left at the bottom menu, and tap \"Filters.\" Select the desired filter for your photos. This provides you with a variety of effects to enhance your images.</p>"
+        "text": "Even though lens filters are less critical in digital photography compared to film photography, many photographers continue to use filters to adjust their images at the time of shooting. Professionals rely on filters and other specialised options to achieve specific creative effects."
       }
     }
   ]
