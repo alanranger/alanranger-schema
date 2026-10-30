@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography#blogposting",
-  "headline": "What is PORTRAIT PHOTOGRAPHY:  Essential Tips for Beginners",
-  "alternativeHeadline": "What is PORTRAIT PHOTOGRAPHY:  Essential Tips for Beginners | Alan Ranger Photography",
+  "headline": "What is PORTRAIT PHOTOGRAPHY: Essential Tips for Beginners",
+  "alternativeHeadline": "What is PORTRAIT PHOTOGRAPHY: Essential Tips for Beginners | Alan Ranger Photography",
   "description": "What is Portrait Photography captures personality and story with light, composition and connection. Download a free 1-page checklist to refine your portraits.",
   "url": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography",
   "datePublished": "2026-01-02T00:00:00.000Z",
@@ -26,5 +26,36 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Aperture (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Shutter speed"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    }
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography#video-youtube-hsAO0DEytFo",
+    "name": "What is PORTRAIT PHOTOGRAPHY: Essential Tips for Beginners - Video",
+    "description": "What is Portrait Photography captures personality and story with light, composition and connection. Download a free 1-page checklist to refine your portraits.",
+    "url": "https://www.youtube.com/watch?v=hsAO0DEytFo",
+    "embedUrl": "https://www.youtube.com/embed/hsAO0DEytFo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hsAO0DEytFo/hqdefault.jpg",
+    "uploadDate": "2026-01-02T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
   }
 }
