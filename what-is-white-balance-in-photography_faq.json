@@ -8,95 +8,63 @@
       "name": "What is white balance in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>White balance (WB) tells the camera how to interpret the colour of light so whites look neutral and skin tones look natural. It uses <strong>Temperature</strong> (Kelvin) and <strong>Tint</strong> (green ↔ magenta) to correct colour casts from different light sources.</p>"
+        "text": "White balance (WB) is a camera setting that adjusts the colours in your photos to make them appear as natural and accurate as possible. It compensates for the colour temperature of the light source, ensuring that white objects appear white in the final image and that colours remain true to life."
       }
     },
     {
       "@type": "Question",
-      "name": "Should I use Auto White Balance or set Kelvin/presets?",
+      "name": "Why is white balance important?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p><strong>AWB</strong> is fine for changing daylight but can drift in mixed or strongly coloured light. For consistent results, use a <strong>Preset</strong> (Daylight/Cloudy/Shade/Tungsten/Fluoro/Flash), dial a <strong>Kelvin</strong> value, or create a <strong>Custom WB</strong> with a grey card/ExpoDisc.</p>"
+        "text": "White balance is crucial because different lighting conditions (like daylight, tungsten, or fluorescent light) can cast different colour tints (warm or cool) in photographs. Proper white balance helps maintain colour consistency and can greatly enhance the aesthetic quality of images."
       }
     },
     {
       "@type": "Question",
-      "name": "What Kelvin values match common light sources?",
+      "name": "How does colour temperature relate to white balance?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<ul><li><strong>Daylight:</strong> ~5200–5600 K</li><li><strong>Cloudy:</strong> ~6000–6500 K</li><li><strong>Shade:</strong> ~7000–8000 K</li><li><strong>Tungsten/Incandescent:</strong> ~2800–3200 K</li><li><strong>Fluorescent:</strong> ~3800–4500 K (often needs +magenta Tint)</li><li><strong>Electronic flash:</strong> ~5500–6000 K</li></ul>"
+        "text": "Colour temperature, measured in Kelvin (K), describes the hue of light emitted by a source. Lower Kelvin values (like 2500K) are associated with warmer, more yellow lights, while higher values (like 8000K) represent cooler, bluer lights. White balance settings help correct these temperature discrepancies to achieve natural-looking colours."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I set a Custom White Balance with a grey card?",
+      "name": "How can I adjust the white balance in my camera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<ol><li>Place the grey card in the <em>key light</em> hitting your subject.</li><li>Fill the frame with the card and capture a reference.</li><li>Run <strong>Custom WB</strong> in the camera menu and register that frame.</li><li>Use that setting for all shots under the same light.</li></ol>"
+        "text": "Most digital cameras have several ways to adjust white balance"
       }
     },
     {
       "@type": "Question",
-      "name": "How do I fix white balance in editing?",
+      "name": "Can I adjust white balance in post-processing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Shoot <strong>RAW</strong> and use the WB <em>eyedropper</em> on a neutral tone, then fine-tune <strong>Temperature</strong> and <strong>Tint</strong>. For scenes with multiple light sources, apply <strong>local WB</strong> adjustments (subject mask for skin vs background) rather than one global slider.</p>"
+        "text": "Yes, you can adjust white balance in post-processing software like Adobe Lightroom or Photoshop. Many programs offer sliders to cool or warm the image, allowing photographers to achieve the desired colour temperature and correct any white balance issues that may have occurred during shooting."
       }
     },
     {
       "@type": "Question",
-      "name": "What is Tint and why does my image look green or magenta?",
+      "name": "What are the common white balance presets, and when should I use them?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p><strong>Tint</strong> corrects the green–magenta shift that Kelvin alone can’t fix. Fluorescent and some LEDs can add green; push Tint toward magenta. If a scene looks purplish, nudge Tint toward green. Always check both Temp and Tint.</p>"
+        "text": "Common white balance presets include"
       }
     },
     {
       "@type": "Question",
-      "name": "How should I handle mixed lighting (daylight + tungsten/LED)?",
+      "name": "What happens if the white balance is set incorrectly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Balance for the <strong>key light</strong> illuminating your subject, then control the rest: switch off unwanted sources, <strong>gel your flash</strong> to match ambient, or correct areas separately in post with local masks.</p>"
+        "text": "If the white balance is set incorrectly, it can cause colour casts in the images. For example, an image taken under tungsten light with a daylight white balance might appear overly blue, while daylight settings used under fluorescent lighting could result in a greenish tint. This can affect the realism and overall appeal of the photo."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the best white balance for skin tones?",
+      "name": "How can I learn more about white balance in photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Use a <strong>Custom WB</strong> in the subject’s key light for accuracy, or set Kelvin and refine Tint by eye. In post, sample a known neutral and then judge by skin—avoid green or magenta bias; aim for natural warmth without orange clipping.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why are my indoor photos orange or blue?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>They’re typically shot under tungsten (too warm/orange) or shade/daylight mismatch (too cool/blue). Choose the matching preset/Kelvin (e.g., 3000 K for tungsten, 7000–8000 K for shade) or set a <strong>Custom WB</strong> in-camera.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is JPEG or RAW better for white balance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p><strong>RAW</strong> offers maximum latitude—WB isn’t baked in. <strong>JPEG</strong> needs accurate in-camera WB; large corrections later can degrade colour. For critical colour work, prefer RAW and shoot a grey-card reference when light changes.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can gels help when mixing flash and ambient light?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Yes. Fit a <strong>CTO/CTB gel</strong> to your flash to match the room light (e.g., CTO for tungsten), then set Kelvin/Custom WB to that balance. This keeps skin tones consistent and reduces colour casts in the background.</p>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where can I download the White Balance checklist?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "<p>Get the free 1-page PDF here: <a href=\"https://www.alanranger.com/s/White_Balance_Field_Checklist.pdf\">White Balance Field Checklist</a>.</p>"
+        "text": "To learn more about white balance, consider reading photography books, watching online tutorials, or taking photography classes . Experimenting with white balance settings on your camera in various lighting conditions will also help you understand its effects on your images."
       }
     }
   ]
