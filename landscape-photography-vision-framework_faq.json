@@ -8,7 +8,7 @@
       "name": "What's the difference between recording a place and making a photograph?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A recording answers 'what was here.' A photograph answers 'what did it feel like to be here, and why did that matter.' Recording is automatic; making a photograph requires deliberate decisions about light, subject, composition, atmosphere, and timing."
+        "text": "A recording answers \"what was here.\" A photograph answers \"what did it feel like to be here, and why did that matter.\" The two activities use the same camera and often happen at the same location, but the resulting images are fundamentally different objects. Recording is what your camera does by default; making a photograph requires deliberate decisions about light, subject, composition, atmosphere, and timing. Most amateur landscape work is recording dressed up as photography. The shift to image-making happens when you start making conscious choices instead of taking what's offered."
       }
     },
     {
@@ -16,7 +16,7 @@
       "name": "Why is observation given more weight than shooting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because seeing is where intention begins. Modern cameras have made the technical phase close to automatic. The differentiator is decisions made before the shutter — where to stand, what to exclude, what light to wait for. Photographers who spend 30 minutes seeing and 10 minutes shooting outperform those who reverse it."
+        "text": "Because seeing is where intention begins, and intention is what separates a strong frame from an accidental one. Modern cameras have made the technical phase (exposure, focus, sharpness) close to automatic — a baseline rather than a differentiator. The differentiator is the decisions you make before the shutter releases: where you stand, what you exclude, what light you wait for, what the photograph is actually about. Those decisions all happen during See and Design — and that's why those phases get eighty percent of the effort. The photographer who spends thirty minutes seeing and ten minutes shooting consistently outperforms the photographer who reverses those proportions."
       }
     },
     {
@@ -24,7 +24,7 @@
       "name": "Is the rule of thirds a rule or a guideline?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A useful starting point, not a destination. Strong photographers ask 'does this frame feel balanced?' rather than 'does it follow the rule?' Balance is felt judgement; the rule of thirds is one approximation of it. Once you can feel balance directly, you'll break the rule for good reasons."
+        "text": "A useful starting point, not a destination. The rule of thirds is one of several compositional structures that produce balanced frames more often than not, and it's a sensible default when you're learning to think compositionally. But strong photographers don't ask \"does this follow the rule?\" — they ask \"does this frame feel balanced and is the visual weight where it needs to be?\" Balance is the felt judgement; the rule of thirds is one approximation of it. Once you can feel balance directly, you'll routinely break the rule for good reasons. Treating it as a fixed law produces work that follows the rule but feels lifeless because the rule was a substitute for actually looking."
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "How do I develop a photographic style?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Through repetition, not preset packs. Style is the accumulation of consistent decisions over years — same kinds of subjects, same compositional habits, same restraint in post. Stop trying to develop a style. Photograph what you're drawn to, consistently. Style emerges from the work."
+        "text": "Through repetition, not through preset packs or signature processing looks. Style is the visible accumulation of consistent decisions — the same kinds of subjects, the same compositional habits, the same restraint or boldness in post, made over years. The photographers whose work is recognisable across locations and seasons got that recognisability through doing similar things many times, not through finding a magic formula. Stop trying to develop a style. Start photographing what you're genuinely drawn to, consistently, over a long period. The style will emerge from the work whether you're trying or not — and it'll be more authentic than anything you could have constructed deliberately."
       }
     },
     {
@@ -40,7 +40,7 @@
       "name": "How long should I spend at one location?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Longer than you think. Most strong landscape work comes from sessions of an hour or more at a single location. The keeper is rarely the first frame — it's usually the result of 15-20 minutes of observing before committing. Some of my best images came from 5 frames over 30 minutes."
+        "text": "Longer than you think. Most amateur landscape sessions last twenty minutes; most strong landscape work comes from sessions of an hour or more at a single location. The photographer who arrives, takes three frames, and leaves consistently underperforms the photographer who arrives, walks the location, refines the frame, waits for the light to do something, and only commits when the conditions match the image they had in mind. Some of my strongest images came from sessions where I made five frames over thirty minutes. The first frame was rarely the keeper; the keeper was the result of fifteen to twenty minutes of just observing."
       }
     },
     {
@@ -48,7 +48,7 @@
       "name": "Should I edit my photographs heavily or lightly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lightly, with restraint. Heavy processing usually means the original frame wasn't strong enough. Strong post-processing is mostly invisible — tonal balance, subtle dodging and burning, careful colour control. Photographs that age well are almost always those with the lightest, most considered processing."
+        "text": "Lightly, with restraint, and in service of the original capture rather than as compensation for it. Heavy processing tends to be a sign that the original frame wasn't strong enough — over-saturated colour, crushed shadows, blown highlights, manufactured drama, all are usually trying to manufacture in post what wasn't there at capture. Strong landscape post-processing is mostly invisible: tonal balance, subtle dodging and burning, careful colour control, restraint with clarity and saturation. If a viewer can tell the photograph has been processed at a glance, the processing is probably too heavy. Ten years of judging Photocrowd competitions has taught me that the photographs that age well are almost always the ones with the lightest, most considered post-processing."
       }
     },
     {
@@ -56,15 +56,15 @@
       "name": "Will buying a better camera improve my photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Almost certainly not, after a basic technical floor. The constraint isn't the camera; it's the decisions in front of it. Photographers who improve fastest stop reading gear reviews and shoot more with what they own. Spend the gear-upgrade budget on travel, time, mentoring, or printing instead."
+        "text": "Almost certainly not, after a basic technical floor. Modern cameras from any major manufacturer are capable of producing photographs that exceed what was technically possible thirty years ago. The constraint on most amateur landscape work isn't the camera; it's the decisions made in front of the camera. New gear introduces decision fatigue, learning-curve interruption, and the false belief that the purchase has unlocked something. The photographers I've mentored who improve fastest are the ones who stop reading gear reviews and start photographing more often with what they already own. Spend the gear-upgrade budget on travel, time, mentoring, or printing your own work instead — those investments produce visible improvements in your photography in a way that camera upgrades rarely do."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I know when an image is ready or finished?",
+      "name": "How do I know when an image is \"ready\" or finished?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Two tests. Can you state in one sentence what the photograph is about? Leave the edit for a week and return with fresh eyes. Frames that still feel right after a week are ready; frames that suddenly look over-processed are telling you what you couldn't see when too close to them."
+        "text": "Two practical tests. First, can you state in one sentence what the photograph is about? If you can't, the image isn't ready — either at capture or in edit. Second, leave the edited file for a week and return to it with fresh eyes. The frames that still feel right after a week's distance are usually the ones that are ready; the frames that suddenly look over-processed or compositionally weak are telling you what you couldn't see when you were too close to them. Most of my own keepers go through this seven-day test before they leave the laptop. The test costs nothing, takes no extra time, and consistently improves the quality of what gets shown publicly."
       }
     }
   ]
