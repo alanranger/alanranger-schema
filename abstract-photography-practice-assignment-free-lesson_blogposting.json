@@ -26,5 +26,23 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/abstract-photography-practice-assignment-free-lesson#webpage"
-  }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Aperture (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape photography"
+    }
+  ]
 }
