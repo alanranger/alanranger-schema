@@ -5,10 +5,58 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "1 BEFORE — would I want this frame taken of me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The single most useful first filter. If the answer is no — the subject is in distress, the frame mocks them, the moment is humiliating, the frame would feel intrusive in a way you wouldn't accept yourself — don't take it. The legal layer says you can; this filter is asking whether you should. Most photographers find that this single test eliminates the frames that would later feel uncomfortable in their portfolio. The frames that pass this test are the ones you can publish without hesitation later."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "2 BEFORE — am I photographing a person, or photographing a category through a person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A useful diagnostic. If the frame works because of who the person is — their gesture, their relationship to the scene, the moment — you're photographing a person. If the frame works because of what they are — their religious dress, their disability, their ethnicity, their poverty, their being a tourist as a \"type\" — you're using them as a visual prop for a category. The first is generally fine; the second is generally not. Test: would the frame work if the category marker were absent? If yes, it's about the person; if no, you're trading on their identity for visual interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3 BEFORE — am I in a place where I'm allowed to be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The legal check, settled in the background. Public street, public square, public park — fine. Private but publicly accessible space (Canary Wharf, Covent Garden Piazza, More London, most shopping centres) — fine until asked to stop. Inside private property without invitation — not fine. This decision is usually straightforward; once you've made it for the location you're working in, it doesn't need re-asking for every frame. Settling it in the background frees you to focus on the ethical decisions instead."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "4 AFTER — was the subject aware?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once the frame is captured, take stock. Did the subject see you? Did they react? If yes, did they object — and if so, are they still nearby? Genuine candid work usually means the subject didn't notice (the strongest results) or noticed too late to react (acceptable). If they noticed during the capture and looked uncomfortable, you have a choice: engage now and explain, or move on. Engaging is usually better — the conversation often defuses the situation, sometimes produces a better second frame with consent, and prevents the kind of low-level guilt that erodes a photographer's relationship with the genre over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "5 AFTER — if challenged, what's the right response?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stay calm. Be honest. \"I'm a street photographer working on personal photographs of public life.\" Show the frame on the back of the camera if asked. If they ask you to delete it, delete it — even though the law says you don't have to. The memory of an unpleasant confrontation lasts longer than the absence of any single frame, and most photographers who've done this for years would rather lose a thousand mediocre images than carry around the residue of a difficult encounter. Lying about what you're doing makes everything worse. Trying to assert your legal rights aggressively makes everything worse. Calm, honest, brief, accommodating works far more often than people expect."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "6 AFTER — if I publish this, who else might see it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A separate decision from capture. The subject didn't object on the day; that doesn't mean they wouldn't object to seeing the frame on Instagram a year later when an algorithm serves it back to their workplace. Modern social media has changed the publication question in ways the genre hasn't fully caught up with. A useful test: would I be comfortable if this person found this image and contacted me about it? Frames that pass this test are publication-ready; frames that don't are personal work for your own archive. Many strong street photographers keep a clear line between \"frames I made\" and \"frames I publish\" — and the publication line is usually higher than the capture line."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Is street photography legal in the UK?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. England, Scotland, Wales and Northern Ireland — photographing people in public places is lawful, no consent or model release required for editorial, artistic, or personal use. UK is one of the more permissive jurisdictions globally. France, Germany, Hungary stricter."
+        "text": "Yes. In England, Scotland, Wales and Northern Ireland, photographing people in public places is lawful and no consent or model release is required for editorial, artistic, or personal use. The UK is one of the more permissive jurisdictions globally for street photography — France, Germany, and Hungary have stricter consent rules. The legal floor is well above what most photographers assume; the more useful question is the ethical one. See Alan's photographers' rights guide for the full legal detail."
       }
     },
     {
@@ -16,7 +64,7 @@
       "name": "Do I need permission to photograph strangers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Legally no in UK public spaces for editorial/artistic/personal use. Commercial use (advertising, brand) typically requires model releases. Ethically more nuanced. Many street photographers ask after the fact rather than before, especially for portrait-style frames."
+        "text": "Legally no, in UK public spaces. No consent, no signed release, no spoken permission required for editorial, artistic, or personal use. Commercial use of identifiable people (advertising, brand promotion) is different — model releases are recommended for commercial work, and most stock libraries require them. Ethically the answer is more nuanced — see the can-vs-should framework above. Many strong street photographers ask after the fact rather than before, particularly for portrait-style frames where they want to send the subject a copy."
       }
     },
     {
@@ -24,7 +72,7 @@
       "name": "What if someone tells me to delete the photo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Legally no-one can compel deletion without court order. Practically, deleting is usually the right answer — memory of confrontation lasts longer than absence of a frame. Stay calm, be honest, show the frame, delete if requested, move on."
+        "text": "Legally no-one can compel you to delete photographs without a court order — including the police. Practically, the right answer is usually to delete anyway. The memory of a difficult confrontation lasts longer than the absence of any single frame, and most experienced street photographers would rather lose a thousand mediocre images than carry the residue of an unpleasant encounter. Stay calm, be honest, show the frame if asked, and delete if requested. Move on — there are more frames waiting on the next street."
       }
     },
     {
@@ -32,7 +80,7 @@
       "name": "Is it OK to photograph children in public?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Legally yes; ethically charged. Position most thoughtful street photographers take: never as identifiable subjects, never alone in frame as focus. Children appear only as part of wider scenes — silhouettes, blurred motion, incidental. If parent objects, delete and explain."
+        "text": "Legally yes in public spaces; ethically charged. The position most thoughtful UK street photographers take: never as identifiable subjects, never alone in frame as the focus. Children appear in strong street work only as part of a wider scene where they're not the identifiable subject — silhouettes, blurred motion within a busy scene, incidental to a frame whose actual subject is elsewhere. If a parent or carer notices and asks what you're doing, be honest and calm, show the frame, and delete if asked. Don't argue the legal point; the law isn't the issue."
       }
     },
     {
@@ -40,7 +88,7 @@
       "name": "What's the best lens for UK street photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "28mm or 35mm prime. 35mm is canonical Cartier-Bresson focal length — wide enough for context, tight enough for intimacy. 28mm pushes closer for more contextual frames. Avoid telephoto for street — 70-200mm from across road is rarely strongest work and often less honest."
+        "text": "A 28mm or 35mm prime, depending on style. 35mm is the canonical \"decisive moment\" focal length used by Cartier-Bresson and most of the genre's strongest practitioners — wide enough for context, tight enough for intimacy. 28mm pushes you closer and produces more contextual frames; some photographers find it more honest because it forces engagement with the scene. Avoid telephoto for street work — a 70-200mm shooting people from across the road is rarely the strongest work and is often less honest than close engagement at 35mm."
       }
     },
     {
@@ -48,7 +96,7 @@
       "name": "Can I publish street photos of identifiable people on Instagram?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Legally yes for editorial/artistic/personal use. Commercial use greyer — may need model release. Modern social media has shifted ethics — frame subject didn't object to may come back to them years later via algorithm. Test: would I be comfortable if they found and contacted me?"
+        "text": "Legally yes for editorial, artistic, or personal use. Commercial use (selling prints, brand collaborations, sponsored content with the image) is greyer and may require a model release for identifiable subjects. The ethical question is separate from the legal one. Modern social media has shifted the calculus — a frame the subject didn't object to on the day might come back to them via algorithmic discovery years later. A useful internal test: would I be comfortable if this person found this image and contacted me about it? Frames that pass that test are publication-ready; frames that don't are personal archive work."
       }
     },
     {
@@ -56,7 +104,7 @@
       "name": "Where can I photograph in central London?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Public streets, squares, parks, Thames riverside. Private-but-publicly-accessible spaces (Canary Wharf, Covent Garden, More London, South Bank near RFH, shopping centres) allow photography until asked to stop. Trafalgar tripod work needs permit. Calm explanation usually resolves challenges."
+        "text": "Public streets, public squares (Trafalgar Square is fine for non-tripod handheld street work, though tripod use requires a permit), public parks, and the Thames riverside paths. Private but publicly accessible spaces that look public but aren't — Canary Wharf, Covent Garden Piazza, More London (the area around City Hall), parts of South Bank near the Royal Festival Hall, most shopping centres — allow photography until asked to stop, at which point you should comply. Inside transport stations is usually fine for handheld photography but tripod use is generally restricted. The British Transport Police occasionally challenge photographers; calm, brief explanation usually resolves it quickly."
       }
     },
     {
@@ -64,7 +112,7 @@
       "name": "How do I overcome the fear of photographing strangers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three approaches: start in busy tourist areas (Covent Garden, Borough Market, South Bank); work urban-geometry first to get camera out without people as central subject; settle ethical framework before going out. Fear usually evaporates within 3-4 sessions once code is worked out."
+        "text": "Three approaches help. First, start in busy tourist areas where photographers are visually unremarkable — Covent Garden, Borough Market, the South Bank, Trafalgar Square. Second, work the urban-geometry-and-architecture shot type first; people will appear incidentally and you'll get used to the camera being out in public without the people being the central subject. Third, settle your ethical framework before you go out — knowing what you will and won't photograph, and why, removes the constant background anxiety of \"is this OK?\" Most photographers find the fear evaporates within three or four sessions once they've worked out their own code. The fear is usually about the legal and ethical layer; once that's settled, the camera comes out naturally."
       }
     }
   ]
