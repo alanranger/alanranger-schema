@@ -10,8 +10,8 @@
   "dateModified": "2026-01-02T00:00:00.000Z",
   "dateCreated": "2026-01-02T00:00:00.000Z",
   "inLanguage": "en-GB",
-  "articleBody": "Lens Focal Length Checklist Photography Guide - 1 Page 1-page field checklistsAlan Ranger 2 January 2026 camera settings guide",
-  "wordCount": 19,
+  "articleBody": "Lens Focal Length Checklist Photography Guide - 1 Page. 1-page field checklist PDF.",
+  "wordCount": 13,
   "image": {
     "@id": "https://www.alanranger.com/blog-on-photography/lens-focal-length#primaryimage"
   },
@@ -26,11 +26,5 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/lens-focal-length#webpage"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Photography"
-    }
-  ]
+  }
 }
