@@ -26,5 +26,44 @@
   },
   "mainEntityOfPage": {
     "@id": "https://www.alanranger.com/blog-on-photography/uk-bluebell-photography-guide#webpage"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Aperture (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Shutter speed"
+    },
+    {
+      "@type": "Thing",
+      "name": "Photographic composition"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape photography"
+    },
+    {
+      "@type": "Thing",
+      "name": "Woodland photography"
+    }
+  ],
+  "video": {
+    "@type": "VideoObject",
+    "@id": "https://www.alanranger.com/blog-on-photography/uk-bluebell-photography-guide#video-youtube-K64xwddvGPQ",
+    "name": "Bluebell Photography in the UK: A Practical Field Guide - Video",
+    "description": "A practical UK field guide to bluebell photography: when to go, where to find the best woodlands, the kit and settings that work, and the compositions that win.",
+    "url": "https://www.youtube.com/watch?v=K64xwddvGPQ",
+    "embedUrl": "https://www.youtube.com/embed/K64xwddvGPQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/K64xwddvGPQ/hqdefault.jpg",
+    "uploadDate": "2026-04-24T00:00:00+00:00",
+    "publisher": {
+      "@id": "https://www.alanranger.com/#org"
+    }
   }
 }
