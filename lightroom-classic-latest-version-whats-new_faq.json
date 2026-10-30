@@ -5,34 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the latest edition of Lightroom Classic?",
+      "name": "What is the most recent release of Adobe Lightroom Classic?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>The latest edition of Lightroom Classic is the May 2024 release, featuring Generative Remove for distraction elimination, Lens Blur for aesthetic effects, Tethered Capture with Sony, Exported Images filter, and support for new cameras and lenses, along with other enhancements.</p>"
+        "text": "The latest version of Adobe Lightroom Classic is version 13, released in 2024."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I update Lightroom Classic to the latest version?",
+      "name": "What are the new features in Adobe Lightroom Classic 2024?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>To update Lightroom Classic to the latest version, open the application, go to Help > Updates. Follow the prompts to install the newest updates. For more details, visit the Creative Cloud apps update page.</p>"
+        "text": "Adobe Lightroom Classic 2024 introduces an AI-based depth Blur feature that enhances your creative options. This tool allows photographers to create a realistic depth-of-field effect by generating an artificial depth map for the image. The map is then used to apply a corresponding blur, making Lightroom editing even more versatile."
       }
     },
     {
       "@type": "Question",
-      "name": "Which Lightroom Classic version is best?",
+      "name": "Which version of Lightroom is recommended for professional photographers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>Lightroom Classic is ideal for users needing offline capabilities and familiar features from older versions. It operates independently from the Cloud, making it perfect for those who prefer not to sync data online. Overall, the latest Lightroom Classic version is best for comprehensive editing and offline work.</p>"
+        "text": "Lightroom Classic is recommended for professional and advanced photographers. It includes specialised tools such as Smart Collections, Import options, Range Masking, and Soft Proofing that cater to more experienced users. For those looking to master these features, Lightroom Classic tutorials can be incredibly beneficial."
       }
     },
     {
       "@type": "Question",
-      "name": "Will Adobe discontinue Lightroom Classic?",
+      "name": "How can I update Adobe Lightroom Classic to the latest version?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "<p>No, Adobe will not discontinue Lightroom Classic. They have announced that they are continuing to invest in Lightroom Classic, ensuring ongoing updates and enhancements for photographers who prefer the desktop-based software.</p>"
+        "text": "To update Adobe Lightroom Classic to the latest version, open Lightroom and navigate to Help > Updates. If you would like more detailed instructions, you can refer to the 'Update Creative Cloud apps' section on Adobe's website. Following these Lightroom update instructions ensures you have access to the latest features and improvements."
       }
     }
   ]
