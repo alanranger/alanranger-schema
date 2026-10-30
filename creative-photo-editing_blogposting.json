@@ -30,6 +30,10 @@
   "about": [
     {
       "@type": "Thing",
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
       "name": "Photographic composition"
     },
     {
