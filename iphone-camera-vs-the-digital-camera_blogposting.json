@@ -30,7 +30,17 @@
   "about": [
     {
       "@type": "Thing",
-      "name": "Photography"
+      "name": "Exposure (photography)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adobe Lightroom"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Lightroom"
     }
   ]
 }
