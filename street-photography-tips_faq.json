@@ -5,58 +5,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How do I get better at Street Photography?",
+      "name": "Q: How can I improve my skills in street photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pre-set exposure and zone focus, keep the camera ready, work good light and backgrounds, and wait for a gesture or interaction. Blend in, be patient, and shoot sets—not single frames."
+        "text": "A: Here are some useful tips for photography to enhance your street photography"
       }
     },
     {
       "@type": "Question",
-      "name": "What’s the number one rule of Street Photography?",
+      "name": "Q: What is the most important rule in street photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Respect people. Prioritise ethics and safety, de-escalate if challenged, and avoid photographing vulnerable subjects. Great street work balances candid honesty with empathy."
+        "text": "A: The paramount rule in street photography is to ensure all photos are candid. This means you should not interact with your subjects before, capturing the photo. Additionally, remember to say thank you and share the photo with the subject if they notice you taking it."
       }
     },
     {
       "@type": "Question",
-      "name": "Is Street Photography legal in the UK?",
+      "name": "Q: How can you capture stunning street photographs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Generally yes from public places, but be respectful and follow site rules on private property or sensitive locations. For commercial use, consider model/property releases where appropriate."
+        "text": "A: To take beautiful street photographs, consider these tips"
       }
     },
     {
       "@type": "Question",
-      "name": "What camera settings work well for Street Photography?",
+      "name": "Q: What should you avoid in travel photography?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use 1/250–1/500s, Auto ISO with a sensible cap, and f/8–f/11 for zone focus. Shoot RAW, enable exposure compensation, and protect highlights in high-contrast light."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is zone focusing and why use it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Zone focus pre-sets distance and aperture so a depth-of-field ‘zone’ is sharp. It removes AF lag and lets you shoot spontaneous moments fast and discreetly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I handle confrontation when shooting on the street?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stay calm, explain your intent, and offer to move on. If needed, delete the frame to defuse tension. Your safety and respect for subjects come first."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I tell a story in Street Photography?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Build mini-series around a theme—light, routine, commuters, or reflections. Use context (signage, architecture) and timing (gestures, glances) to connect people with place."
+        "text": "A: When engaging in travel photography, consider these dos and don'ts"
       }
     }
   ]
