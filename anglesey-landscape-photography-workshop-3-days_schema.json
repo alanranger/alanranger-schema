@@ -193,42 +193,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Cameron"
-          },
-          "reviewBody": "I recently went on a workshop to Glencoe for 3 days. I had excellent tuition and advice on how to visualise and capture images. I've since had a 1-2-1 where we've been through half a dozen images from Glencoe. Where Alan has provided some best practices, tips and tricks on how to edit photos, to my style - not too over processed and natural looking.  I wholeheartedly recommend Alan Ranger Photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Con McHugh"
-          },
-          "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedback on the locations as well as getting feedback on the photos we had taken during the day if wanted. It was a great group with lots of energy throughout the weekend.I have since booked a 121 to get feedback on my post processing the photos I took.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Ian Blake"
           },
           "reviewBody": "Had a great weekend, saw some fantastic locations. The midday light was quite harsh but Alan planned it well to make the most of locations according to light and tide. I like having the weekend off driving, it was nice to be able to relax and be ferried between locations! Top picture from Llanddwyn Island.",
@@ -246,8 +210,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.75",
-        "reviewCount": 8,
+        "ratingValue": "4.67",
+        "reviewCount": 6,
         "bestRating": "5",
         "worstRating": "1"
       },
