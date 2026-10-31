@@ -124,9 +124,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Matt G"
+            "name": "Josh"
           },
-          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
+          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -143,9 +143,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Josh"
+            "name": "Matt G"
           },
-          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
+          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -171,45 +171,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2020-04-02",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Lesley Starkey"
-          },
-          "reviewBody": "Couldn’t help me use my bridge camera and not enough practical work",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "2",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-12-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Barbara Skeet"
-          },
-          "reviewBody": "Mr Ranger took my camera off me athe beginning of my paid session and altered all my settings, even my view finder was altered to his eye.  It took me several weeks to reset my camera to my settings! The session itself was of little benefit to me, as he was more interested in three other members of the group who obviously were impressed with his constant name dropping of where his photographs had appeared.  He told us at the beginning of the day long session it was up to us to go and take photographs and then he would circulate and look at our results.  He then proceeded to wander off with his own camera and click away to his own benefit.  Yes he did come over to me once all day and went through my photos.  I found his comments unhelpful, but I guess by this time I had realised that this course and tutor was not for me.  The day could not end soon enough for me.  I would not recommend Alan Ranger as you will be wasting your money.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "2",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-12-04",
+          "datePublished": "2020-02-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -228,6 +190,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2020-01-28",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -246,6 +209,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2020-01-28",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -264,6 +228,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2020-01-28",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -282,6 +247,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -300,6 +266,45 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2018-04-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lesley Starkey"
+          },
+          "reviewBody": "Couldn’t help me use my bridge camera and not enough practical work",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-04-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara Skeet"
+          },
+          "reviewBody": "Mr Ranger took my camera off me athe beginning of my paid session and altered all my settings, even my view finder was altered to his eye.  It took me several weeks to reset my camera to my settings! The session itself was of little benefit to me, as he was more interested in three other members of the group who obviously were impressed with his constant name dropping of where his photographs had appeared.  He told us at the beginning of the day long session it was up to us to go and take photographs and then he would circulate and look at our results.  He then proceeded to wander off with his own camera and click away to his own benefit.  Yes he did come over to me once all day and went through my photos.  I found his comments unhelpful, but I guess by this time I had realised that this course and tutor was not for me.  The day could not end soon enough for me.  I would not recommend Alan Ranger as you will be wasting your money.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -318,6 +323,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2017-10-26",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

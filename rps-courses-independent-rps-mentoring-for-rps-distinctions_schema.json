@@ -607,6 +607,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Jacki"
+          },
+          "reviewBody": "I have done quite a few workshops and courses with Alan over the years, most recently the RPS course. Alan has been very supportive throughout and I have valued both his advice and very honest critique. I wouldn't hesitate to recommend Alan to anyone who wants to improve their photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-10-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Anne Watkinson"
           },
           "reviewBody": "I have recently completed a mentoring course with Alan. This was to help me prepare for a submission of a panel of work to gain my LRPS. I learned a huge amount in terms of composition, processing, technique and presentation and I am pleased to say I was successful in gaining my LRPS.",
@@ -616,7 +635,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-08-07",
+          "datePublished": "2019-07-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -635,7 +654,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-07",
+          "datePublished": "2019-07-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -658,24 +677,6 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jacki"
-          },
-          "reviewBody": "I have done quite a few workshops and courses with Alan over the years, most recently the RPS course. Alan has been very supportive throughout and I have valued both his advice and very honest critique. I wouldn't hesitate to recommend Alan to anyone who wants to improve their photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
           }
         }
       ],

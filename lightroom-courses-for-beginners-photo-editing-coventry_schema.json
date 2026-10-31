@@ -221,9 +221,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mahmood Esmail"
+            "name": "Sue Green"
           },
-          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -240,9 +240,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sue Green"
+            "name": "Mahmood Esmail"
           },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -468,25 +468,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "ARTHUR"
-          },
-          "reviewBody": "Alan is a realy nice guy learnt a lot. Very informative loads of information /  handouts for  future reference. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-08-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Chris Johnson"
           },
           "reviewBody": "Always come away from one of Alan’s courses feeling invigorated and keen to practice what was taught",
@@ -506,6 +487,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "ARTHUR"
+          },
+          "reviewBody": "Alan is a realy nice guy learnt a lot. Very informative loads of information /  handouts for  future reference. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Nuria Alonso"
           },
           "reviewBody": "The Lightroom course provided by Alan is a brilliant course covering quite a lot but giving enough practical exercises to take away. Excellent content and Alan is a very knowledgeable trainer. Small group means you can learn so much more.",
@@ -515,7 +515,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-10-11",
+          "datePublished": "2019-11-10",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -525,35 +525,111 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Geoff"
+            "name": "Ann"
           },
-          "reviewBody": "Alan provided informed and very valuable advice when I attend his Lightroom tuition. Well worth it and well explained",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-12-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Aidan"
-          },
-          "reviewBody": "Great choice of courses available for amateur to professional levels. The courses and classes have a great level of content and Q&A is always welcome from Alan. Courses are both detailed yet easily accessible and understandable. The speed and content can be tailored to the group at the time, and if there is anything specific that is requested in more detail, Alan is happy to investigate and help explain further for the benefit of those interested. I booked one course with Alan Ranger, then promptly booked another. Thoroughly recommended.",
+          "reviewBody": "As usual a very full and interesting course.  Lightroom is a complicated programme to get to grips with and Alan explained the various aspects well.  Review, practise and study in between classes is essential to understanding what you have done and are going to do.  Thoroughly enjoyed the course.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-12-04",
+          "datePublished": "2018-12-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert Hull"
+          },
+          "reviewBody": "An excellent course covering all the basic elements of lightroom. Has definitely improved my understanding of photo editing and photography in general.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-12-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John  Grant"
+          },
+          "reviewBody": "Some great notes and tuition on how to use Lightroom. I am confident this has been of benefit and will consolidate the learning and join the intermediate course to move my own photography on to another level. The level of detail is well above expectations",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-12-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mr Paul Kilford"
+          },
+          "reviewBody": "Alan is very knowledgeable and enthusiastic. He covers a great deal in his courses of which I have done two. My reason for choosing Alan was that there is really very little on offer for Adult Education in Warwickshire. I'm not a car owner so I was extremely grateful that Alan was putting his courses on here in Kenilworth.  I really got everything I was looking for with Alan. He gives it his all and you certainly get value for money",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martin"
+          },
+          "reviewBody": "A lot of information and detail clearly presented with practical examples and work throughout.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan Thomas"
+          },
+          "reviewBody": "Really enjoyed the Lightroom course, it gave an excellent grounding of all the 'tools in the box' with enough explanation of what they are and how to use them with a great workflow process to get the best of your pictures. I would recommend the course to know how to edit photo's.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-18",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -572,83 +648,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-08-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Customer"
-          },
-          "reviewBody": "I can't explain how much Alan has improved my photography, my images of today are miles away from what I used to take. I've been on a few of Alan's different offerings from 1-2-1 tuition in Lightroom, weekends away and mentoring sessions. I would recommend all of them.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-07-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewBody": "I joined one of Alan's groups as a complete beginner, not even knowing I could take my camera off auto settings. Over the last 2 years I have attended many of Alan's workshops both technical and field based and have enjoyed every single one and met some great people.  I have learned so much from how to use the settings on my camera and the technical aspects of photography to photo composition and processing in Lightroom. I would recommend Alan to any level of photographer, he really does have something to offer everyone who wants to learn more.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-07-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Len Sutton"
-          },
-          "reviewBody": "The several courses I have done with Alan i.e.  a photography masterclass, Adobe Lightroom have all been educational, informational, and above all fun and enjoyable.  Alan goes beyond just the teaching of all aspects of photography but provides advice and support at whatever level of experience you are at.  I highly recommend any course with Alan and look forward to taking another course with him to improve, enhance my knowledge and ability on how to take a ' good photo' Len Sutton -  Birmingham - 06/04/18",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-06-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "John"
-          },
-          "reviewBody": "Alan is very knowledgeable, skilled, friendly and helpful. He sets up some excellent workshops and explains any technical aspects of photography in a clear, concise and easy to understand way. I would recommend his workshops to anyone who wants to improve their level of skill in photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-06-01",
+          "datePublished": "2018-05-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -667,7 +667,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-05",
+          "datePublished": "2018-05-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -686,7 +686,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-04-05",
+          "datePublished": "2018-05-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

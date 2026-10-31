@@ -101,25 +101,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clinton Rindfuss"
-          },
-          "reviewBody": "I wanted to learn some of the basics of photography in terms of the technicalities. I came away with much more than that.... We got a good appreciation for photography as an art form too.   Highly recommend.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-09-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Jill Groves"
           },
           "reviewBody": "A great course that makes having a DSLR camera worthwhile. Without the knowledge I learnt on Alan's course I might as well own just a compact point and shoot camera. Even though I was trying to use my camera effectively, I now have the understanding and confidence to select settings to hopefully get the photos I want to achieve! Looking forward to putting the theory into practice now! Thank you",
@@ -129,6 +110,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-01-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clinton Rindfuss"
+          },
+          "reviewBody": "I wanted to learn some of the basics of photography in terms of the technicalities. I came away with much more than that.... We got a good appreciation for photography as an art form too.   Highly recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-01-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -182,25 +182,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Jo Heath"
-          },
-          "reviewBody": "Very good tuition with excellent results",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-12-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Ian Blake"
           },
           "reviewBody": "Never been to this location before but it's a little gem. The heavy rain lead to losts of foam and muddy water, but Alan helped us avoid these spoiling the shots",
@@ -210,6 +191,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-08-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Heath"
+          },
+          "reviewBody": "Very good tuition with excellent results",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-08-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

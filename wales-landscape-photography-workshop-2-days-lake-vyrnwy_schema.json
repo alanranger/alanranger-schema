@@ -139,25 +139,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Serena Nicholls"
-          },
-          "reviewBody": "Ignited my creative side..... lesson was informative and fun but very intensive as well to get across all the information required. Looking forward to the next course",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-11-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Harriet"
           },
           "reviewBody": "I have just come back from a weekend workshop with Alan Ranger - great experience and well planned to make the most of the light and conditions. Good size group (5) so there were others to learn from but with plenty of dedicated time from Alan when requested. Will definitely go on another workshop and would highly recommend to other photographers",
@@ -167,6 +148,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-11-30",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -185,6 +167,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-11-15",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Serena Nicholls"
+          },
+          "reviewBody": "Ignited my creative side..... lesson was informative and fun but very intensive as well to get across all the information required. Looking forward to the next course",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2016-09-11",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

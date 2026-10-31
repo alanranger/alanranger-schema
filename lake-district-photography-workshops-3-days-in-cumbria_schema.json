@@ -380,44 +380,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Cameron"
-          },
-          "reviewBody": "I had another great weekend with Alan in the Lake District where we went to a number of different locations. They great thing that Alan brought was the assistance and direction in visualisation.  I whole heartedly recommend Alan Ranger photography",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-06-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Karen Barber"
-          },
-          "reviewBody": "Wonderful experience no matter what you ability. Excellent grounding in the basics. Enabling understanding of your camera.  It hooves you the chance to try different aspects. Skills and ideas to get your creative juices flowing.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-06-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "D Jeffrey"
           },
           "reviewBody": "Just returned from an excellent workshop in the Lake District.  Alan took us to brilliant locations and made sure everyone was comfortable with both the creative aspect of 'seeing the shot' and then attempting to execute it but fortunately stopped short of taking the shot for us to ensure we really learned from the experience. The evening feedback sessions reviewing our shots enabled us to modify technique on the subsequent days to improve the quality of our images.  He also helped me use Christmas presents like Expodisc to great effect and navigate the menus of my new Sony camera.  The domestic arrangements were also very good with friendly staff who were not fazed by a group of photopapers with muddy boots.",
@@ -427,6 +389,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-11-16",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -445,6 +408,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-11-14",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -463,6 +427,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-11-14",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -481,6 +446,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-03-19",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -499,6 +465,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-03-19",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -517,6 +484,45 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2018-11-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Cameron"
+          },
+          "reviewBody": "I had another great weekend with Alan in the Lake District where we went to a number of different locations. They great thing that Alan brought was the assistance and direction in visualisation.  I whole heartedly recommend Alan Ranger photography",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-06",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen Barber"
+          },
+          "reviewBody": "Wonderful experience no matter what you ability. Excellent grounding in the basics. Enabling understanding of your camera.  It hooves you the chance to try different aspects. Skills and ideas to get your creative juices flowing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-01-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -535,6 +541,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-03-13",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -553,6 +560,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2014-11-19",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

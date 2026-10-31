@@ -240,25 +240,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Martin McArthur"
-          },
-          "reviewBody": "Hi Alan  Had a great class. Really enjoyed the experience. Made me look at my DSLR in a completely different angle. I wish I have done this course years ago.     Strongly recommend this course to everyone before you buy a camera!!!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-06-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Toyosi Ajimoko"
           },
           "reviewBody": "Really enjoyed the workshop. It was pitched at the right level for beginners and made me want to pick up my camera and start experimenting!",
@@ -268,6 +249,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-03-17",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -286,6 +268,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-01-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martin McArthur"
+          },
+          "reviewBody": "Hi Alan  Had a great class. Really enjoyed the experience. Made me look at my DSLR in a completely different angle. I wish I have done this course years ago.     Strongly recommend this course to everyone before you buy a camera!!!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-01-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -391,6 +391,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Dave Smith"
+          },
+          "reviewBody": "Alan Ranger provided a very comprehensive and concise theory and practical training package for our group. I was able to take what I learned away from the course and make immediate improvements to my own macro photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-08-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Doug Goddard"
           },
           "reviewBody": "An enjoyable day with some good technical advice. I would have liked more time on the practical in the field and this would have allowed more one-to-one guidance.",
@@ -400,7 +419,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-06-08",
+          "datePublished": "2019-08-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -419,7 +438,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-04-08",
+          "datePublished": "2019-08-04",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -438,7 +457,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-02-08",
+          "datePublished": "2019-08-02",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -457,7 +476,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-02-08",
+          "datePublished": "2019-08-02",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -476,7 +495,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-02-08",
+          "datePublished": "2019-08-02",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -495,7 +514,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-01-08",
+          "datePublished": "2019-08-01",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -514,25 +533,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Dave Smith"
-          },
-          "reviewBody": "Alan Ranger provided a very comprehensive and concise theory and practical training package for our group. I was able to take what I learned away from the course and make immediate improvements to my own macro photography.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
+          "datePublished": "2018-04-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-07-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Allison T"
           },
           "reviewBody": "Excellent guidance and advice. Good briefings pre and post shoot. Clear joining instructions Would have appreciated more time one on one as when you get it it’s worthwhile. Acknowledge that’s hard in a group though.",
@@ -148,6 +129,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-08-23",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -166,6 +148,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-08-21",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -184,6 +167,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-08-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice Jordan"
+          },
+          "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-07",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -202,6 +205,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2018-07-15",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

@@ -221,25 +221,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Tre Buck"
-          },
-          "reviewBody": "I used to shoot everything on auto settings. Aperture and shutter speeds were a mystery to me. I was always disappointed when I tried to capture pretty Christmas lights. Pinpoints of light in a sea of black, not what I was after at all. Then I took some classes. My camera no longer sits unloved and unused. Settings are unlocked, a whole new world of photography opened up. Definitely courses well worth doing",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-09-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Kim Moorman"
           },
           "reviewBody": "It was a good introductory course but I found it a bit too technical. I only have a pretty basic camera and would have liked to hear more about the design element of photography (which I appreciate is covered on the 4 week course). Alan is nice but can sometimes be a bit too opinionated!",
@@ -249,6 +230,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-02-27",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -267,6 +249,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-01-17",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tre Buck"
+          },
+          "reviewBody": "I used to shoot everything on auto settings. Aperture and shutter speeds were a mystery to me. I was always disappointed when I tried to capture pretty Christmas lights. Pinpoints of light in a sea of black, not what I was after at all. Then I took some classes. My camera no longer sits unloved and unused. Settings are unlocked, a whole new world of photography opened up. Definitely courses well worth doing",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-11-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

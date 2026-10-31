@@ -372,16 +372,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Inderjeet Boora"
+            "name": "Fay Arrundale"
           },
-          "reviewBody": "The course was detailed with Alan having very good technique of teaching. He made me want to learn more. Thanks Alan",
+          "reviewBody": "The introductory course was well structured and gave a great overview of photography.  It had a broad focus, so not just about the technical camera settings, but more about the planning and design of what you're trying to achieve.  Alan was clearly very passionate about photography, seeing it as an art form and expression of yourself.  Enjoyed the three hours and gave me exactly the introduction I was looking for.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2015-08-04",
+          "datePublished": "2016-07-25",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -400,7 +400,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2015-05-09",
+          "datePublished": "2015-09-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -410,15 +410,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Fay Arrundale"
+            "name": "Inderjeet Boora"
           },
-          "reviewBody": "The introductory course was well structured and gave a great overview of photography.  It had a broad focus, so not just about the technical camera settings, but more about the planning and design of what you're trying to achieve.  Alan was clearly very passionate about photography, seeing it as an art form and expression of yourself.  Enjoyed the three hours and gave me exactly the introduction I was looking for.",
+          "reviewBody": "The course was detailed with Alan having very good technique of teaching. He made me want to learn more. Thanks Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-04-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -437,6 +438,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2014-10-17",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

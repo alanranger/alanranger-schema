@@ -303,7 +303,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-12-04",
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -322,7 +322,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-12-04",
+          "datePublished": "2018-04-12",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -341,7 +341,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-04",
+          "datePublished": "2018-04-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -379,45 +379,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2017-06-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jenny Kirton"
-          },
-          "reviewBody": "Alan was great at taking away the mystery of photography and making me realise that I will be able to take a \"proper\" photograph.  His delivery was enthusiastic but well gauged with adequate use of slides.  The refreshments and breaks were well timed.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-02-07",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Woody"
-          },
-          "reviewBody": "Alan's workshop on the Kenilworth Castle Fireworks display was most enjoyable. Learnt quite a few new things to allow me to improve my own photography. Obviously a 1-1 session would give you more directed tutor time but fellow 'students' were all lovely and very happy to help each other. The session gave me confidence to go out next year and aim to get better and better shots, so thanks, Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-09-11",
+          "datePublished": "2017-11-06",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -436,6 +398,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2017-01-14",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -454,6 +417,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-04-21",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -472,6 +436,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2016-01-15",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -490,6 +455,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-09-25",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -508,6 +474,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-08-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny Kirton"
+          },
+          "reviewBody": "Alan was great at taking away the mystery of photography and making me realise that I will be able to take a \"proper\" photograph.  His delivery was enthusiastic but well gauged with adequate use of slides.  The refreshments and breaks were well timed.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2015-07-02",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -526,6 +512,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-01-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Woody"
+          },
+          "reviewBody": "Alan's workshop on the Kenilworth Castle Fireworks display was most enjoyable. Learnt quite a few new things to allow me to improve my own photography. Obviously a 1-1 session would give you more directed tutor time but fellow 'students' were all lovely and very happy to help each other. The session gave me confidence to go out next year and aim to get better and better shots, so thanks, Alan!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-11-09",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -544,6 +550,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2014-10-16",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

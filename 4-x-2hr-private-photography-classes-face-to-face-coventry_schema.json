@@ -182,9 +182,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Barbara Bett"
+            "name": "John Grubb"
           },
-          "reviewBody": "Recently two of us  had a  morning’s practical tuition with Alan at an outside location with the aim of improving our landscape photography. I appreciated that Alan pitched the level exactly as we had requested with challenges to make  the best possible image from the terrain in front of us, and suggestions on how to better our results. He answered our many questions with specific and considered replies.",
+          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -201,9 +201,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Grubb"
+            "name": "Barbara Bett"
           },
-          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
+          "reviewBody": "Recently two of us  had a  morning’s practical tuition with Alan at an outside location with the aim of improving our landscape photography. I appreciated that Alan pitched the level exactly as we had requested with challenges to make  the best possible image from the terrain in front of us, and suggestions on how to better our results. He answered our many questions with specific and considered replies.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -315,82 +315,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mosie"
-          },
-          "reviewBody": "A great one to one session some helpful feedback on photos. I have come away with a much clearer understanding of the theory behind the practice.  Personalising my settings was really helpful. Would recommend to all.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-03-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Con McHugh"
-          },
-          "reviewBody": "I did a 121 with Alan as part of my Intentions Course that I am doing on the Homeless. I got what I need from the session and enjoyed it. I Also found his passion with Photography inspiring.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-01-05",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Claire Townend"
-          },
-          "reviewBody": "Alan’s teaching was thorough and clear, he used great analogies to explain the more complex technical parts. He gave loads of tips on composition and helped me set my camera up just how I want it. His critique of my photos felt a bit brutal at times, but was all true and he has given me a lot of pointers on how to improve.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-08-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Lynseylp"
-          },
-          "reviewBody": "I initially enrolled on an introductory course with Alan through living social deals. His engaging delivery, course materials and open, honest and supportive approach encouraged me to enroll on further workshops and 1-2-1 feedback.   As a service provider the company provides relevant, up to date and comprehensive information relating not just to technical elements of photography but also tips on defeloping personal style and creative intention. The range of classes and workshops is diverse and suits a range of experience. Seasonal and locational workshops are also added often to suit varying interests. These are publicised via website, facebook and email.  I feel that with Alans expert support I am now making the transition from enthusiastic snapper to informed and inspired photographer!   Thank you",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-11-10",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Emma Moxon"
           },
           "reviewBody": "We attended our first 2 hour session and also first session for premium Mentoring on Sunday and it was so helpful.  Throughout the session I was assigned tasks to do to improve my photography, detailed scoring and analysis of past photos I had taken, a practice session in the garden and a mountain of invaluable advise as well as handouts to take away and things to work on.  Alan has already proven himself to be invaluable to our progress and we look forward to continuing to work with him. If you are seeking someone who is professional, personable and extremely knowledgeable in the photography field then I would definitely recommend Alan. Thanks for all of your help so far!",
@@ -400,6 +324,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-07-22",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -418,6 +343,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-05-25",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -436,6 +362,64 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2019-05-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mosie"
+          },
+          "reviewBody": "A great one to one session some helpful feedback on photos. I have come away with a much clearer understanding of the theory behind the practice.  Personalising my settings was really helpful. Would recommend to all.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-05-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewBody": "I did a 121 with Alan as part of my Intentions Course that I am doing on the Homeless. I got what I need from the session and enjoyed it. I Also found his passion with Photography inspiring.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire Townend"
+          },
+          "reviewBody": "Alan’s teaching was thorough and clear, he used great analogies to explain the more complex technical parts. He gave loads of tips on composition and helped me set my camera up just how I want it. His critique of my photos felt a bit brutal at times, but was all true and he has given me a lot of pointers on how to improve.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-11-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -454,6 +438,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2018-06-22",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -472,6 +457,26 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2018-06-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynseylp"
+          },
+          "reviewBody": "I initially enrolled on an introductory course with Alan through living social deals. His engaging delivery, course materials and open, honest and supportive approach encouraged me to enroll on further workshops and 1-2-1 feedback.   As a service provider the company provides relevant, up to date and comprehensive information relating not just to technical elements of photography but also tips on defeloping personal style and creative intention. The range of classes and workshops is diverse and suits a range of experience. Seasonal and locational workshops are also added often to suit varying interests. These are publicised via website, facebook and email.  I feel that with Alans expert support I am now making the transition from enthusiastic snapper to informed and inspired photographer!   Thank you",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2014-10-11",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

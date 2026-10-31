@@ -269,6 +269,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-09-23",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -287,6 +288,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-04-14",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -305,6 +307,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
+          "datePublished": "2015-03-17",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"

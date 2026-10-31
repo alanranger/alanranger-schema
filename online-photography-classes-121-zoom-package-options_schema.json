@@ -702,6 +702,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Emma Moxon"
+          },
+          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-07-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Rosamund Sheppard"
           },
           "reviewBody": "Alan Ranger is an extremely talented artistic photographer.  His enthusiastic approach to photography makes him an excellent photography tutor that I can highly recommend.",
@@ -711,7 +730,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -730,7 +749,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -749,7 +768,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -768,7 +787,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -787,7 +806,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -806,7 +825,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -825,7 +844,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -844,7 +863,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -863,7 +882,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2018-05-01",
+          "datePublished": "2018-01-05",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -882,25 +901,7 @@
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2016-08-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Emma Moxon"
-          },
-          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
+          "datePublished": "2016-01-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
