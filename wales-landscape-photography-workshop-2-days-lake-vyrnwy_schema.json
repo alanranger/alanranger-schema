@@ -101,6 +101,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Harsha Patel"
+          },
+          "reviewBody": "I very much enjoyed Alan Ranger’s residential photography weekend in North Wales, having picked up my camera again after a gap of around 20 years! Alan adapts his teaching style to suit my level of knowledge, making the experience both enjoyable and incredibly informative. I learnt a great deal and came away with a new appreciation of photography as a creative art form, rather than simply taking pictures.  The weekend was engaging, inspiring and full of learning opportunities, with Alan’s great sense of humour an added bonus. I would highly recommend Alan to everyone, from complete beginners to experienced photographers. A fantastic experience!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Graham Ibbetson"
           },
           "reviewBody": "As always great experience with a great teacher. Alan is very patient and really helps you learn. Learned a great deal on this course both in camera and post processing",
@@ -175,7 +194,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 4,
+        "reviewCount": 5,
         "bestRating": "5",
         "worstRating": "1"
       },

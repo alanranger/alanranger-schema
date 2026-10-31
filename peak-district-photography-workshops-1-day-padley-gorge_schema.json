@@ -237,6 +237,63 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Cherie Lewis"
+          },
+          "reviewBody": "We had a fabulous day of photography in Padley Gorge and Boleshill Quarry. Alan was a great tutor - incredibly patient and informative. I learnt a lot in a short space of time and it was great to be able to put that learning into practice in a stunning location. Alan had a brilliant knowledge of the area and helped us to ‘see’ the opportunities first and foremost before looking at the technical. A brilliant day -,Alan looked after us from beginning to end and made sure we each got the most out of the session. Thank you!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda Hillary"
+          },
+          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-17",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adam Riman"
+          },
+          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-17",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Colin Whittaker"
           },
           "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
@@ -443,8 +500,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.91",
-        "reviewCount": 11,
+        "ratingValue": "4.93",
+        "reviewCount": 14,
         "bestRating": "5",
         "worstRating": "1"
       },

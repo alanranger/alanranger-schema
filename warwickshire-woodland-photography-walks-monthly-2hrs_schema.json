@@ -755,9 +755,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Norman"
+            "name": "Jeremy Troth"
           },
-          "reviewBody": "Excellent tuition and location",
+          "reviewBody": "As ever, Alan went out of his way to encourage me and help with both my composition and the technical side of my photography. I would definitely use him again and would thoroughly recommend him.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -773,8 +773,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.83",
-        "reviewCount": 35,
+        "ratingValue": "4.82",
+        "reviewCount": 34,
         "bestRating": "5",
         "worstRating": "1"
       },

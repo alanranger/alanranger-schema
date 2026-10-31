@@ -106,6 +106,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Rhia Sutherland"
+          },
+          "reviewBody": "Had a 1-1 session, found it very informative and tailored to my needs. Alan went through the fundamentals to get me off to a good start",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda Clegg"
+          },
+          "reviewBody": "Very knowledgeable. Clear explanation for someone who knows absolutely nothing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Ian McHardy"
           },
           "reviewBody": "I spent a very informative and enlightening morning with Alan where he gave me a greater understanding of my Sony Alpha camera . He has challenged me to take my photography away from automatic mode and take it to the next level. Alan’s tuition was clear and well presented. Many thanks Alan .",
@@ -442,8 +480,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.94",
-        "reviewCount": 18,
+        "ratingValue": "4.95",
+        "reviewCount": 20,
         "bestRating": "5",
         "worstRating": "1"
       },
