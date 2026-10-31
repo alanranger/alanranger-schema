@@ -4,58 +4,66 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What dates are currently listed for NORFOLK Landscape Photography Workshop - 3 Days near Cromer?",
+      "name": "Do I need to be experienced?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Current listed dates include 20 Nov 2026, 5 Feb 2027, 2 Apr 2027, plus additional listed dates."
+        "text": "Not at all. These workshops suit everyone from complete beginners to advanced photographers, and because the tuition is genuinely one-to-one, it's tailored to wherever you are. If you'd like extra support, I also offer private lessons and mentoring ."
       }
     },
     {
       "@type": "Question",
-      "name": "How many participants are in each session of NORFOLK Landscape Photography Workshop - 3 Days near Cromer?",
+      "name": "What if the weather's bad?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The page indicates a maximum of 4 participants."
+        "text": "There are two situations. If the forecast before the workshop shows torrential or prolonged rain across the days, I may postpone and reschedule — though it's rare to get multiple days of those conditions. During the workshop itself, bad weather is rarely a problem: I'll switch the itinerary to find the driest areas and best chances, and for longer spells of rain we can run indoor tutoring, image reviews and editing sessions, so your time is always well spent."
       }
     },
     {
       "@type": "Question",
-      "name": "What experience level is NORFOLK Landscape Photography Workshop - 3 Days near Cromer aimed at?",
+      "name": "How fit do I need to be?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is described as suitable for Beginners photographers."
+        "text": "Every workshop carries a fitness rating (Easy, Moderate or Hard), shown in the summary details, so you can pick one that suits you. If you're unsure whether a particular workshop is right, just ask before booking and I'll talk you through what to expect."
       }
     },
     {
       "@type": "Question",
-      "name": "Is NORFOLK Landscape Photography Workshop - 3 Days near Cromer online or in person?",
+      "name": "Can my partner come along if they're not photographing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "NORFOLK Landscape Photography Workshop - 3 Days near Cromer is presented as an in-person format."
+        "text": "They're welcome to join us for breakfast and the evening meals if they'd like to, but they can't come out to the locations with the group while we're shooting — so they'll need to make their own arrangements during the day while we're out on location."
       }
     },
     {
       "@type": "Question",
-      "name": "Is NORFOLK Landscape Photography Workshop - 3 Days near Cromer suitable for beginners?",
+      "name": "Is accommodation included, and will I have my own room?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Get Access to Free Online Course Sign up with your email address to access the Academy 101 Foundation Photography Course First Name Last Name Email Address Join today We respect your privacy."
+        "text": "Yes — your stay is included on a bed & breakfast basis, in a private room on single occupancy, with no single supplement to pay."
       }
     },
     {
       "@type": "Question",
-      "name": "What price options are shown for NORFOLK Landscape Photography Workshop - 3 Days near Cromer?",
+      "name": "What camera and kit do I need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Current listed prices start from £1 / £125.00 / £50.00, with options visible at checkout."
+        "text": "A DSLR or mirrorless camera and any lenses you have. A tripod is essential, but I can lend you one (and a set of filters) if you let me know in advance. There's a full kit list in the Equipment section above, and my recommended equipment page goes into more detail."
       }
     },
     {
       "@type": "Question",
-      "name": "What is included in NORFOLK Landscape Photography Workshop - 3 Days near Cromer?",
+      "name": "Can I pay in instalments, or buy this as a gift?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "NORFOLK Landscape Photography Workshop - 3 Days near Cromer is listed with prices from £1 / £125.00, a 3 days format, an in-person delivery format."
+        "text": "Yes to both — there's an interest-free payment plan , and every workshop is available as a gift voucher ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You make your own way to the start point, and we travel together between locations once the workshop begins. Full details, including the limited pickup option, are in the Accommodation & Travel section above. If you've any questions, just get in touch ."
       }
     }
   ],
