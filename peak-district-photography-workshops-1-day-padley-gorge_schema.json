@@ -65,8 +65,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -108,8 +108,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -151,8 +151,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Padley and Bolehill Sat 22nd May 2027 - 09:30 - 16:00",
           "priceSpecification": {
             "price": "150.00",
@@ -194,8 +194,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Padley and Bolehill Sat 16th Oct  2027 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -237,9 +237,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
+            "name": "Colin Whittaker"
           },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -256,9 +256,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Colin Whittaker"
+            "name": "Alex McDonald"
           },
-          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

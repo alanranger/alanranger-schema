@@ -65,8 +65,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Fri 13 Nov - 15 Nov - 3 Days 2026",
           "priceSpecification": {
             "price": "1075.00",
@@ -108,8 +108,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Fri 22 Jan - 24 Jan - 3 Days 2027",
           "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop#offer2",
@@ -147,8 +147,8 @@
           "price": "1075.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-25",
-          "priceValidUntil": "2027-10-27",
+          "validFrom": "2026-10-31",
+          "priceValidUntil": "2027-10-31",
           "name": "Fri 24 Sep - 26 Sep - 3 Days 2027",
           "priceSpecification": {
             "price": "1075.00",
@@ -219,25 +219,6 @@
             "worstRating": "1"
           },
           "datePublished": "2024-12-15",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Shelly Soo"
-          },
-          "reviewBody": "I have thoroughly enjoyed the Lake District photography workshop with a lovely small group.  We were blessed with excellent weather those few days.  Alan drove us to areas of Lake District that I have never been. I have learnt simple basic stuff (setting up of tripods) to using of ND filters (borrowed from Alan) to Lightroom editing whenever opportunities arose. Alan is a good teacher with very clear mindset of how to take a good photograph.  He however, did leave us to try and compose our own photos ... I have enjoyed and learnt much from the feedback session. Thank you Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-09-26",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -581,7 +562,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.95",
-        "reviewCount": 21,
+        "reviewCount": 20,
         "bestRating": "5",
         "worstRating": "1"
       },

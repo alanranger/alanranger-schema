@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:19:19.945Z",
+  "generatedAt": "2026-10-31T10:53:28.471Z",
   "totalProducts": 38,
   "entries": [
-    {
-      "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
-      "pathKey": "/photography-services-near-me/photography-gift-vouchers",
-      "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
-      "faqFileName": ""
-    },
     {
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "pathKey": "/photo-workshops-uk/abstract-and-macro-photography-workshops",
@@ -228,6 +222,12 @@
       "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "pathKey": "/photo-workshops-uk/yorkshire-dales-photography-workshops",
       "schemaFileName": "yorkshire-dales-landscape-photography-workshop-3-days_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photography-services-near-me/photography-gift-vouchers",
+      "pathKey": "/photography-services-near-me/photography-gift-vouchers",
+      "schemaFileName": "photography-gift-vouchers-digital-ecard-email-delivery_schema.json",
       "faqFileName": ""
     }
   ]

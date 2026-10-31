@@ -64,8 +64,8 @@
         "price": "975.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-27",
+        "validFrom": "2026-10-31",
+        "priceValidUntil": "2027-10-31",
         "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey",
         "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey#offer",
         "seller": {
@@ -120,25 +120,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mattia Tosi"
-          },
-          "reviewBody": "I would recommend Alan to everyone! I've done the Beginner's Photography course, the Lightroom course and two workshops and thanks to these and Alan's coaching and honest feedback, my photography improved significantly. Thanks Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-09-13",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Janice Jordan"
           },
           "reviewBody": "Just back from a other workshop in Wales with Alan.  As usual it was packed with a range of locations with a chance to practice different photographic styles, all with Alan on hand to answer questions and give advice. I would recommend anyone at any level to give it a go.",
@@ -152,25 +133,6 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Joyce James"
-          },
-          "reviewBody": "Just back from an excellent 3 day workshop in Northumbria. Alan really made the most of the wild and windy conditions and chose great locations to provide opportunities to learn more about fairly advanced techniques such as long exposures, bracketing and taking more than one shot to subsequently 'mask' in photoshop. A fantastic learning experience and great fun! Thanks Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-10-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
           }
         },
         {
@@ -216,6 +178,42 @@
             "name": "Jeremy Troth"
           },
           "reviewBody": "Alan's support, knowledge and attention to detail is fantastic. His patience knows no bounds. I would thoroughly recommend him to anyone trying to improve their photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Cameron"
+          },
+          "reviewBody": "I recently went on a workshop to Glencoe for 3 days. I had excellent tuition and advice on how to visualise and capture images. I've since had a 1-2-1 where we've been through half a dozen images from Glencoe. Where Alan has provided some best practices, tips and tricks on how to edit photos, to my style - not too over processed and natural looking.  I wholeheartedly recommend Alan Ranger Photography.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewBody": "I have recently completed a 3 day weekend workshop in Glencoe with Alan and 3 others. It was a great location and Alan had clearly well prepared in the choice of locations. On location the assistance with composition and camera settings was very helpful. In the evenings we received / gave feedback on the locations as well as getting feedback on the photos we had taken during the day if wanted. It was a great group with lots of energy throughout the weekend.I have since booked a 121 to get feedback on my post processing the photos I took.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

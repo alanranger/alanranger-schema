@@ -64,8 +64,8 @@
         "price": "895.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-27",
+        "validFrom": "2026-10-31",
+        "priceValidUntil": "2027-10-31",
         "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops",
         "@id": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops#offer",
         "seller": {
@@ -101,25 +101,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sofiagzagdo"
-          },
-          "reviewBody": "This is a great photography course! I had very little knowledge about photography and a lot of questions… Alan is super knowledgeable, patient and takes the time to answer and explain all your doubts. The main focus of the session concentrated on composition which I throughly enjoyed and wished to learn. I can’t wait to take another of Alan’s courses and continue learning more especially his Lightroom knowledge. Extremely well thought out course and great teacher.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-02",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Chris Stamp"
           },
           "reviewBody": "Great Workshop in the Yorkshire Dales. Alan clearly knows his stuff and his experience was evident in his professional guidance. His comments in the photo review sessions were  brutally honest but his dry sense of humour helped soften the blows!",
@@ -133,25 +114,6 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Cameron"
-          },
-          "reviewBody": "Alan is relatively not that well known and it is only time until he is. My advice to everyone reading this, is to book a session and approach it with an open mind and you will get tonnes of value from the time spent with him.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-12-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
           }
         },
         {
@@ -177,25 +139,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Danielle Daley"
-          },
-          "reviewBody": "The content of the course was excellent and has definitely inspired me to think more about the photos I'm taking and how to get the result I want.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-10-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Martin Chidgey"
           },
           "reviewBody": "Alan's obvious enthusiasm and creativity made for a really interesting and informative evening.  The session was well timed with well spaced breaks. The information covered was presented in an interesting way with lots of examples to illustrate the points made.  I felt enthused to go out and take more photos but in a more considered and thoughtful way. I certainly want to learn more about how I can make better use of my camera.",
@@ -206,62 +149,6 @@
             "worstRating": "1"
           },
           "datePublished": "2016-08-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Pom"
-          },
-          "reviewBody": "Covers the basics of both technical and composition - ideal for beginner with just a bit of knowledge. Recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-06-04",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Christopher Walton"
-          },
-          "reviewBody": "Really good course for introducing basic photography techniques that really makes you think about the process behind taking a photo. Would reccomend it for those just getting into photography or those thinking of getting into it.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-05-02",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Denise Campbell"
-          },
-          "reviewBody": "Excellent content delivered within a 3hour slot which flew by. Alan was both engaging and inspirational and definitely motivated me to go and experiment and improve my photography skills. Thank you!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -325,7 +212,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 12,
+        "reviewCount": 6,
         "bestRating": "5",
         "worstRating": "1"
       },

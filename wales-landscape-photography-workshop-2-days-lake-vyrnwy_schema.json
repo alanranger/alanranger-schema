@@ -64,8 +64,8 @@
         "price": "695.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-27",
+        "validFrom": "2026-10-31",
+        "priceValidUntil": "2027-10-31",
         "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr",
         "@id": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr#offer",
         "seller": {
@@ -101,25 +101,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "lonnie morris"
-          },
-          "reviewBody": "I love Alan's workshops.  I've been to 2 3day workshops. Alan is helpful when you need it but let's you get on with it at other times. I have learnt a lot from his sessions and enjoyed them. His feedback is valuable. He's well organised and thorough. His work before the workshops makes for a really good experience.  He chooses nice places to stay and the social aspect is good too. I'd recommend the workshops although the Gower in June is going to be a challenge because of the time of year. Although it's nicer to stand outdoors in the summer, workshops in autumn and winter would be my preference. Anyway, if you're thinking of booking or buying a gift for someone.....do it!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-02-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Graham Ibbetson"
           },
           "reviewBody": "As always great experience with a great teacher. Alan is very patient and really helps you learn. Learned a great deal on this course both in camera and post processing",
@@ -133,44 +114,6 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Janice Jordan"
-          },
-          "reviewBody": "A very pleasant evening in the Sunflower field.  Although the group got quite spread out doing their own thing, Alan ensured he found each of us over the course of the evening to give some composition feedback and ideas.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-06-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon Hill"
-          },
-          "reviewBody": "Great location. Struggled with the composition and settings but did receive some help and managed to come away with some reasonable images.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-04-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
           }
         },
         {
@@ -231,8 +174,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.86",
-        "reviewCount": 7,
+        "ratingValue": "5.0",
+        "reviewCount": 4,
         "bestRating": "5",
         "worstRating": "1"
       },

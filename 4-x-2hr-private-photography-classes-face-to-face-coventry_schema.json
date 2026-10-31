@@ -64,8 +64,8 @@
         "price": "360.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-27",
+        "validFrom": "2026-10-31",
+        "priceValidUntil": "2027-10-31",
         "name": "4 x 2hr sessions - weekday daytime",
         "priceSpecification": {
           "price": "360.00",
@@ -277,25 +277,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "KP"
-          },
-          "reviewBody": "Great workshop with 1-2-1 help when required taking into account the experience of each photographer. Lovely evening, many thanks",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2019-04-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Mosie"
           },
           "reviewBody": "A great one to one session some helpful feedback on photos. I have come away with a much clearer understanding of the theory behind the practice.  Personalising my settings was really helpful. Would recommend to all.",
@@ -461,8 +442,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 19,
+        "ratingValue": "4.94",
+        "reviewCount": 18,
         "bestRating": "5",
         "worstRating": "1"
       },

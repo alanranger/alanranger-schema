@@ -64,8 +64,8 @@
         "price": "30.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-25",
-        "priceValidUntil": "2027-10-27",
+        "validFrom": "2026-10-31",
+        "priceValidUntil": "2027-10-31",
         "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean",
         "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean#offer",
         "seller": {
@@ -177,6 +177,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Michael Rowley"
+          },
+          "reviewBody": "I contacted Alan as I needed a quick turn around on a sensor clean before holiday. Alan sorted it out within a short time frame for a sensible price. Highly recommended.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-29",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Sutton"
+          },
+          "reviewBody": "Excellent service and would recommend highly. Helped my son out at the last minute and now his camera is dust free. One happy lad. Thanks Alan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-08-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Tessa Fletcher"
           },
           "reviewBody": "Very useful course, I wish I had gone on it before.",
@@ -231,7 +269,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 7,
+        "reviewCount": 9,
         "bestRating": "5",
         "worstRating": "1"
       },
