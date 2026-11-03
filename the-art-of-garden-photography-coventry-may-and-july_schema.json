@@ -65,8 +65,8 @@
           "price": "45.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2021-08-29",
+          "priceValidUntil": "2027-12-31",
           "name": "Sun May 23rd 2027 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer1",
@@ -104,8 +104,8 @@
           "price": "45.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2021-08-29",
+          "priceValidUntil": "2027-12-31",
           "name": "Sun Jul 11th 2027 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
           "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
@@ -162,25 +162,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kate Tait"
-          },
-          "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. You would think that 3 hours of listening and trying to understand the very basics of photography would drag,  but actually the time went fast. Alan was knowledgeable, keen to impart that knowledge,  and all 11 of us in the room made some small or large contribution to the evening. I have come away knowing a lot more than I knew when I started, and am looking forward to recharging those camera batteries to take photographs  (not snaps!) that have been created, not snapped with hopefulness!  As a stand alone evening this was a great start. There is the opportunity to continue on the 5 week course at a discounted rate if booked on the evening, however my personal feeling was that I would prefer to start practicing with my Bridge camera before committing a further  £175 (£200 if booked after the easy photography evening). Thanks Alan for teaching the basics.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-01-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Deborah Griffiths"
           },
           "reviewBody": "A good theory base but a few practical exercises would have broken up the evening  - even if it was just handling our own camera and trying different settings under guidance. Will now work on the practical exercises in the class notes.  Would have liked to have been shown examples of the Pocket Guide Series.",
@@ -195,31 +176,12 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tricia Entwistle"
-          },
-          "reviewBody": "As a complete beginner I booked my workshop at Batford Arboretum with considerable aprehension. I needn't have worried.  Alan was very patient and explained the rudiments of manual photography in a very non technical way. I went on to have a very enjoyable and relaxing afternoon taking some lovely photos.  I have gained greatly in both knowledge and confidence.  Thank you Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.5",
-        "reviewCount": 4,
+        "reviewCount": 2,
         "bestRating": "5",
         "worstRating": "1"
       },

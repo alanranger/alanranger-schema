@@ -65,8 +65,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2018-09-19",
+          "priceValidUntil": "2027-10-23",
           "name": "Sat 23 Oct 2027 - 9:30 - 15:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer1",
@@ -104,8 +104,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2018-09-19",
+          "priceValidUntil": "2027-10-24",
           "name": "Sun 24 Oct 2027 - 9:30 - 15:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer2",
@@ -143,8 +143,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2018-09-19",
+          "priceValidUntil": "2027-10-30",
           "name": "Sat 30 Oct 2027 - 9:30 - 15:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops#offer3",
@@ -182,7 +182,7 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
+          "validFrom": "2018-09-19",
           "priceValidUntil": "2027-10-31",
           "name": "Sun 31 Oct 2027 - 9:30 - 15:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops",
@@ -297,25 +297,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ross HK"
-          },
-          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-25",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Neil W"
           },
           "reviewBody": "Recently I attended a photography workshop with Alan at Batsford Arboretum.  The focus of the session concentrated on composition, aiming to make you think about the photograph you have in mind.  Alan has a wealth of knowledge and has the knack of being able to explain topics in an easy to understand way pitching at the right level - he’s very happy to take questions and encourages engagement.  A very positive experience, I enjoyed my afternoon taking on board the hints and tips that Alan provided.  Thank you.",
@@ -335,16 +316,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "jezjerome"
+            "name": "Ross HK"
           },
-          "reviewBody": "Outstanding instructor wise a very easy going approach I can highly recommend",
+          "reviewBody": "Great Workshop at Batsford. Really helped with understanding composition and a great landscape to work in. Thanks Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-10-24",
+          "datePublished": "2025-10-25",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -373,16 +354,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dr. Yumna I S"
+            "name": "jezjerome"
           },
-          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
+          "reviewBody": "Outstanding instructor wise a very easy going approach I can highly recommend",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-10-20",
+          "datePublished": "2025-10-24",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -392,9 +373,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dianne Morgan"
+            "name": "Dr. Yumna I S"
           },
-          "reviewBody": "Excellent interactive workshops to get to grips with the basics.",
+          "reviewBody": "Very informative and a great way to start as a beginner. Learnt alot and got good feedback on assignments. Definitely recommend. 👍",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -544,25 +525,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Linda Newbery"
-          },
-          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Ian Hardwick"
           },
           "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
@@ -585,6 +547,25 @@
             "name": "Clifford Porter"
           },
           "reviewBody": "Autumn Photo workshop at Batsford Arboretum on Wednesday 27 October 2021.  A great day with Alan and another 3 in the group.  Very relaxed style of tuition.  Loved the panning trees technique as motorsport photography is my 1st priority!  Thank you. The Lake District events look good.  Maybe next year.  Thank you Alan, I learned so much. Even the visitors enjoyed the Redwood trees.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-10-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda Newbery"
+          },
+          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -691,12 +672,31 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zoe"
+          },
+          "reviewBody": "Alan has lots of knowledge and was a very patient Tutor. I learned a lot about some features on my Nikon that had never used such as the Histogram to set apertures when photo if over exposed and using the exposure compensation. I also got to learn about not just the big shot to look for smaller and interesting shots. very worthwhile afternoon around Batsford Arboretum",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-10-30",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },

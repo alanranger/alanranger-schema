@@ -55,7 +55,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sat 17 th Oct 2026 - 09:30 - 16:00 Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 7 th Nov 2026 - 09:30 - 16:00 Sat 22 nd May 2027 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: This Peak District photography...",
+      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 7 th Nov 2026 - 09:30 - 16:00 Sat 22 nd May 2027 - 09:30 - 16:00 Sat 16 th Oct 2027 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: This Peak District photography...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/f6bd9c81-8d71-40ff-8af4-680c9b2b5874/Bolehill+Oct+2025+-+%2301.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
       "offers": [
@@ -65,8 +65,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-06-28",
+          "priceValidUntil": "2027-12-31",
           "name": "Padley and Bolehill Sun 1st Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -108,8 +108,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-06-28",
+          "priceValidUntil": "2026-11-07",
           "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -151,8 +151,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-06-28",
+          "priceValidUntil": "2027-05-22",
           "name": "Padley and Bolehill Sat 22nd May 2027 - 09:30 - 16:00",
           "priceSpecification": {
             "price": "150.00",
@@ -194,8 +194,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-06-28",
+          "priceValidUntil": "2027-10-16",
           "name": "Padley and Bolehill Sat 16th Oct  2027 09:30am - 4:00pm",
           "priceSpecification": {
             "price": "150.00",
@@ -233,6 +233,25 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony McKenna"
+          },
+          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long been back.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -294,9 +313,66 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
+            "name": "Paul Farrington"
           },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Vincent"
+          },
+          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Clarke"
+          },
+          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon McDonald"
+          },
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -332,6 +408,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Alex McDonald"
+          },
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Philip Hart"
           },
           "reviewBody": "I had a day with Alan in the Peak district. We went to two locations that gave  varied types of subject. It helped me with understanding some of the technical aspects to consider when taking photos and the importance of composition. I came away with a more critical view of my own work which I feel is a good thing.",
@@ -351,16 +446,35 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Joanne Tapp"
+            "name": "Neil Barford"
           },
-          "reviewBody": "A great Workshop - I now have the confidence to move from using Auto to Manual with clear straightforward guidance from Alan, plus a new way of looking at composition",
+          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-08-29",
+          "datePublished": "2025-10-20",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Hoar"
+          },
+          "reviewBody": "Excellent, fun and informative day workshop.  Alan has great experience and is keen to share it to help and encourage our own photographic journeys.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-30",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -389,6 +503,44 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Shahida Badiani"
+          },
+          "reviewBody": "Great photography workshop with Alan. He was informative and gave 1 to 1 attention to all on the course. Learnt more with him that I did on my own in years!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Bayley"
+          },
+          "reviewBody": "After booking the workshop with Alan Ranger for a local spot near me.  i found Alan to be very approachable and willing to help with any questions that i had.  The day i spent with Alan was great fun and i took a lot from the course to help better my hobby.  i would recommend any one of Alan's courses to any budding togger as i feel you would learn a lot no matter your skill set.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-11-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Garry Mumford"
           },
           "reviewBody": "I attended a one day workshop run by Alan in the Peak District. I found him very approachable and he offered up great ideas about composition and suggested using a polarising filter in situations I’d never thought of before. He was selfless in his support of all the participants and had a great sense of humour too. I thoroughly enjoyed the workshop, learned a few things (always good) and would recommend his workshops to photographers of all levels.",
@@ -408,19 +560,19 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Janice Jordan"
+            "name": "Trevor Davis"
           },
-          "reviewBody": "Just back from Hartland Quay workshop with Alan Ranger.  I have done a few workshops with Alan over the last couple of years but this one topped them all.  If you like dramatic seascapes with a little excitement thrown in with an incoming tide, this workshop is for you. I found this workshop particularly helpful as there was plenty of opportunity to practice longer exposure techniques whilst dealing with a contrasting bright sky, white frothy sea and dark rocks.",
+          "reviewBody": "I enjoyed a very informative day with Alan at Padley Gorge and Bolehill Quarry, picking up some fresh ideas that will help improve my photography. The workshop was very well organised.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2019-09-06",
+          "datePublished": "2021-10-18",
           "publisher": {
             "@type": "Organization",
-            "name": "Trustpilot"
+            "name": "Google"
           }
         },
         {
@@ -502,8 +654,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.93",
-        "reviewCount": 14,
+        "ratingValue": "4.95",
+        "reviewCount": 22,
         "bestRating": "5",
         "worstRating": "1"
       },

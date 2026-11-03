@@ -64,8 +64,8 @@
         "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-31",
-        "priceValidUntil": "2027-10-31",
+        "validFrom": "2020-01-21",
+        "priceValidUntil": "2027-12-31",
         "priceSpecification": {
           "price": "50.00",
           "priceCurrency": "GBP"
@@ -124,9 +124,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Josh"
+            "name": "Matt G"
           },
-          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
+          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -143,9 +143,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Matt G"
+            "name": "Josh"
           },
-          "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
+          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

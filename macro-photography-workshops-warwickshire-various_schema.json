@@ -65,8 +65,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-11-12",
+          "priceValidUntil": "2027-12-31",
           "name": "Sun Nov 28th 2026 - 10:30am - 1:30pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer1",
@@ -104,8 +104,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-11-12",
+          "priceValidUntil": "2027-12-31",
           "name": "Sat May 1st 2027 - 11am - 2pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer2",
@@ -143,8 +143,8 @@
           "price": "75.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2019-11-12",
+          "priceValidUntil": "2027-12-31",
           "name": "Sun Sep 29th 2027 - 2:00pm - 5:00pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer3",
@@ -296,25 +296,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paula Greenlees"
-          },
-          "reviewBody": "I learnt so much from the 'Get Off Auto' course. The sessions were well explained with visual examples, along with a printed guide to everything that was covered. Each week's homework challenged my skills and I will use these to continue to improve my photography. I think I am now looking at composition in a more complex way and hope to join some of the workshops in the field.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2023-02-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "David Pitt"
           },
           "reviewBody": "Great session on macro photography. Alan was very helpful in his explanations and advice. To be recommended.",
@@ -344,25 +325,6 @@
             "worstRating": "1"
           },
           "datePublished": "2023-02-21",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Linda Smith"
-          },
-          "reviewBody": "Excellent 'Get off Auto' class. Has given me the confidence to have a go.  Clear and easy to understand presentation and friendly manner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-19",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -524,6 +486,63 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Caroline Key"
+          },
+          "reviewBody": "It was a very informative and enjoyable course. I came away feeling confident and inspired. Excellent",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ina"
+          },
+          "reviewBody": "Nice, relaxed evening, learned a lot!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-03-07",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mr John Hayes"
+          },
+          "reviewBody": "This event concentrated on macro photography. Alan spent time explaining all about macro. We then took our own photos with help from Alan. He produced an excellent handout which I find very useful",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Joyce James"
           },
           "reviewBody": "Another great workshop!  I have been mentored by Alan for more than 5 years now and the fact that I have just subscribed for another year's tuition speaks volumes about the quality of the support I receive. Last night's macro workshop was fun, informative and had just the right level of challenge. I cannot recommend him highly enough!",
@@ -538,12 +557,31 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Con McHugh"
+          },
+          "reviewBody": "Another inspiring workshop by Alan. The topic was macro photography. I’ve already bought the slider and can’t wait to get out and use it. This along with the backend processing using photoshop should make a big difference to my results. Thankyou.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2018-02-13",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.89",
-        "reviewCount": 19,
+        "ratingValue": "4.9",
+        "reviewCount": 21,
         "bestRating": "5",
         "worstRating": "1"
       },

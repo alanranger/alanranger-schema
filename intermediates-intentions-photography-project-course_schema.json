@@ -64,8 +64,8 @@
         "price": "400.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-31",
-        "priceValidUntil": "2027-10-31",
+        "validFrom": "2019-04-09",
+        "priceValidUntil": "2027-12-31",
         "priceSpecification": {
           "price": "400.00",
           "priceCurrency": "GBP"
@@ -105,25 +105,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Michael Simm"
-          },
-          "reviewBody": "I can’t recommend this course enough. It really does cover everything in a very comprehensive and easily digestible way. I’ve played around with photography for a lot of my life but this course gave me the opportunity to learn about the theory and also practical elements of the discipline. I’d definitely recommend purchasing the .pdf download. It’s much easier to navigate than the online course and I felt it was a good way to donate for this great resource.  Thank you Alan!!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-08-24",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "peter martin"
           },
           "reviewBody": "Informative demonstration regarding bracketing and stacking. I also received very useful observations and advice upon many of my photos.",
@@ -137,25 +118,6 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Penny  Simpson"
-          },
-          "reviewBody": "A very friendly evening, well presented and informative with powerpoint presentation but plenty of time to ask questions and explain any points of interest.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2018-11-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
           }
         },
         {
@@ -238,7 +200,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 7,
+        "reviewCount": 5,
         "bestRating": "5",
         "worstRating": "1"
       },

@@ -64,8 +64,8 @@
         "price": "360.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-31",
-        "priceValidUntil": "2027-10-31",
+        "validFrom": "2018-09-18",
+        "priceValidUntil": "2027-12-31",
         "name": "4 x 2hr sessions - weekday daytime",
         "priceSpecification": {
           "price": "360.00",
@@ -163,6 +163,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Tony Yeaman"
+          },
+          "reviewBody": "Fantastic first session. Looking forward on the next one.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-12-12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Andrew Morris"
           },
           "reviewBody": "Would highly recommend if you're thinking about taking up photography as either a hobby or profession.",
@@ -182,16 +201,16 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Grubb"
+            "name": "Gerard Daykin"
           },
-          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
+          "reviewBody": "I had a great session. Found out more about my cameras and moving away from the \"auto\" setting. Seemed geared towards what was useful to me- with where I am with photography, not a \"standard\" pitch. Very much appreciated.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2025-05-01",
+          "datePublished": "2025-07-03",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -220,6 +239,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "John Grubb"
+          },
+          "reviewBody": "Great experience, I came away very satisfied that Alan had achieved his brief and I am more confident taking good landscape photographs.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-05-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Ian Burns"
           },
           "reviewBody": "Alan has a passion for photography and his explanation of the subject was easy to follow as a less experienced person. Can't wait for next session with him to take my level of understanding up a level.",
@@ -230,6 +268,25 @@
             "worstRating": "1"
           },
           "datePublished": "2025-03-21",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kirsty Lilley"
+          },
+          "reviewBody": "Alan is an intuitive, knowledgeable and thoughtful tutor. I have just completed 4 sessions as a beginner and can already see improvements in my photography skills.  I thoroughly enjoyed each session. They were all paced well and planned according to my levels and needs. There has been plenty of opportunities to ask questions and feedback was given at the start of each lesson on the previous weeks homework assignments. It has given me a new passion in photography and I look forward to continuing my journey. I would thoroughly recommend to anyone interested in developing their photography interest!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-08-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -296,6 +353,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Nicholas Barber"
+          },
+          "reviewBody": "I had a 2h f2f mentoring session with Alan. I thought I was pretty knowledgeable about photography however I was amazed how much I learned in that time. I feel I have been given insight into a deeper level of craft and skill and am looking forward to putting this into practice and developing it in follow up sessions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-08-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Ash Routen"
           },
           "reviewBody": "I booked a one-to-one tutorial session with Alan at a local National Trust property. Alan was very personable and explained key concepts in an understandable manner. I took away one good piece of learning related to the technical side, and a number related to composition. Below are some of the pics that came from the session with Alan. I would recommend Alan.",
@@ -318,6 +394,25 @@
             "name": "Emma Moxon"
           },
           "reviewBody": "We attended our first 2 hour session and also first session for premium Mentoring on Sunday and it was so helpful.  Throughout the session I was assigned tasks to do to improve my photography, detailed scoring and analysis of past photos I had taken, a practice session in the garden and a mountain of invaluable advise as well as handouts to take away and things to work on.  Alan has already proven himself to be invaluable to our progress and we look forward to continuing to work with him. If you are seeking someone who is professional, personable and extremely knowledgeable in the photography field then I would definitely recommend Alan. Thanks for all of your help so far!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2019-07-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emma Moxon"
+          },
+          "reviewBody": "I found Alan online and got in touch as his style of photography and tuition looked  exactly like what we were looking for. Alan responded quickly and was very professional and we went along for a 2 hour session.  In the session he was informative and knowledgeable and we learnt a lot. He explained what he could offer as well as advising on things we were not sure on and from this we decided to book his premium mentoring and also 12 121 sessions to take throughout the year. Highly recommend if you are seeking someone to give you guidance on knowledge on photography!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -485,8 +580,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 20,
+        "ratingValue": "4.96",
+        "reviewCount": 25,
         "bestRating": "5",
         "worstRating": "1"
       },

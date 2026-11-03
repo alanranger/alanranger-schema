@@ -65,8 +65,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-12-31",
           "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
@@ -104,8 +104,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2026-11-12",
           "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
@@ -143,8 +143,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-01-12",
           "name": "Coventry 3 wks - Tue 12 Jan - 26 Jan 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
@@ -182,8 +182,8 @@
           "price": "150.00",
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-10-31",
-          "priceValidUntil": "2027-10-31",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-05-06",
           "name": "Coventry 3 wks - Thu 6 May - 20 May 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
@@ -221,9 +221,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sue Green"
+            "name": "Mahmood Esmail"
           },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -240,9 +240,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mahmood Esmail"
+            "name": "Sue Green"
           },
-          "reviewBody": "Lightroom Course with Alan Great 3 session course to really get to understand how to use Lightroom Classic effectively.",
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
