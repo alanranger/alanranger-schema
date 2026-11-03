@@ -27,15 +27,15 @@
           "name": "What do I need to bring, and what software do I need?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bring your own laptop with Adobe Lightroom Classic installed and an active subscription. Please install it and sign in before the first session so we can get straight into editing. You don't need any other software."
+            "text": "Bring your own laptop with Adobe Lightroom Classic installed and an active subscription. Please install it and sign in before the first session. Alan provides a training Lightroom library of images to work from, so you can follow every tool hands-on — you don’t need to bring your own photos to start."
           }
         },
         {
           "@type": "Question",
-          "name": "I've never edited before — will I keep up?",
+          "name": "I’ve never edited before — will I keep up?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. The course assumes no prior editing experience and starts from the very beginning — importing and organising — before moving on to adjustments. With only three people per class, there's plenty of time for individual help."
+            "text": "Yes. The course assumes no prior editing experience and starts from the very beginning — importing and organising before we touch any develop tools. With a maximum of three people there’s time for questions and individual help on your own screen."
           }
         },
         {
@@ -43,7 +43,7 @@
           "name": "Do I need to shoot in RAW?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No — the course works whether you shoot RAW or JPG. That said, editing is where RAW files really come into their own, so you'll learn how to get the most from RAW if and when you start using it."
+            "text": "No — the workflow applies to both RAW and JPG files. That said, RAW is where editing makes the biggest difference, and the course covers exactly why, so you’ll get the most from it if you start shooting RAW afterwards."
           }
         },
         {
@@ -51,7 +51,7 @@
           "name": "Lightroom Classic or the cloud version — which do I need?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "This course uses Adobe Lightroom Classic (the desktop catalogue-based version), so please make sure that's the one installed. If you're unsure which you have or which plan to choose, get in touch before booking and Alan will point you the right way."
+            "text": "This course teaches Lightroom Classic (the desktop, catalogue-based version), which is what most enthusiasts and professionals use. If you only have the cloud-based Lightroom, get in touch before booking and Alan will advise."
           }
         },
         {
@@ -59,7 +59,7 @@
           "name": "Why only three people per class?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Editing software is more technical to teach, and everyone needs space for an open laptop and hands-on help when they hit a problem. Capping the class at three (smaller than the beginners camera course) means Alan can support each person individually on their own machine."
+            "text": "Editing is best taught looking over your shoulder at your own screen. A maximum of three keeps it genuinely hands-on, so when you hit a problem Alan can see exactly what’s happening and help there and then."
           }
         },
         {
@@ -67,7 +67,7 @@
           "name": "Is there parking at the venue?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes — there's space for two to three cars on the premises, plus free roadside parking on the cul-de-sac."
+            "text": "Yes — there’s space for two to three cars on the premises, plus free roadside parking on the cul-de-sac."
           }
         },
         {
@@ -75,7 +75,7 @@
           "name": "What if I miss one of the three weeks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The course runs as a fixed three-week block, so a missed session can't be repeated within it. You'll still receive the full course material for that week, and if you'd like to cover it properly you can book a one-to-one private lesson (1–2 hours) with Alan to go through what you missed."
+            "text": "The course runs as a fixed three-week block, so a missed session can’t be repeated within it. You’ll still receive the full course notes for that week, and if you’d like to cover it properly you can book a one-to-one private lesson with Alan to go through what you missed."
           }
         },
         {
@@ -99,7 +99,7 @@
           "name": "What can I do after the course?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Many students go on to monthly mentoring for ongoing feedback, or 1-2-1 lessons to focus on their own work. If you started here, the beginners camera course pairs perfectly to strengthen your shooting too."
+            "text": "Most people pair editing with the beginners camera course to strengthen their shooting, or continue with monthly mentoring or 1-2-1 lessons. If you’re aiming higher, there’s also RPS distinction support."
           }
         }
       ]
@@ -107,8 +107,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -117,7 +117,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -127,7 +128,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -151,9 +152,13 @@
       }
     },
     {
-      "@type": "WebPage",
       "@id": "https://www.alanranger.com/photo-editing-course-coventry#webpage",
+      "@type": "WebPage",
+      "dateModified": "2026-05-30",
       "url": "https://www.alanranger.com/photo-editing-course-coventry",
+      "name": "Lightroom Photo Editing Course Coventry - 3-Week Course",
+      "headline": "Lightroom Photo Editing Course Coventry - 3-Week Course",
+      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -166,17 +171,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/photo-editing-course-coventry#primaryimage"
-      },
-      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course",
-      "headline": "Lightroom Photo Editing Course Coventry — 3-Week Course",
-      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/photo-editing-course-coventry#primaryimage",
       "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
       "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course primary image"
+      "name": "Lightroom Photo Editing Course Coventry - 3-Week Course primary image"
     },
     {
       "@type": "Service",
@@ -191,22 +193,173 @@
       "areaServed": [
         {
           "@type": "Country",
-          "name": "Coventry"
+          "name": "GB"
         },
         {
           "@id": "https://www.alanranger.com/#place"
         }
       ],
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d11e9666cbeaf00010ccd8f/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "offers": {
-        "@type": "Offer",
-        "price": "150.00",
-        "priceCurrency": "GBP",
-        "availability": "https://schema.org/InStock",
-        "url": "https://www.alanranger.com/photo-editing-course-coventry"
-      },
-      "name": "Lightroom Photo Editing Course Coventry — 3-Week Course",
-      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now."
+      "name": "Lightroom Photo Editing Course Coventry - 3-Week Course",
+      "description": "Lightroom photo editing course in Coventry — 3-week evening class covering organising, editing &amp; workflow in Lightroom Classic. Group size 3. Book now.",
+      "offers": [
+        {
+          "@type": "Offer",
+          "sku": "SQ7526725",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/OutOfStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-12-31",
+          "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6831161",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2026-11-12",
+          "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ1021857",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-01-12",
+          "name": "Coventry 3 wks - Tue 12 Jan - 26 Jan 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ3349262",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-05-06",
+          "name": "Coventry 3 wks - Thu 6 May - 20 May 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        }
+      ]
     },
     {
       "@type": "Place",
@@ -220,6 +373,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photo-editing-course-coventry#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Beginners Lightroom Course",
+          "item": "https://www.alanranger.com/photo-editing-course-coventry"
+        }
+      ]
     }
   ]
 }

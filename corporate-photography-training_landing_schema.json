@@ -91,8 +91,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -101,7 +101,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -111,7 +112,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -138,6 +139,10 @@
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/corporate-photography-training#webpage",
       "url": "https://www.alanranger.com/corporate-photography-training",
+      "dateModified": "2026-06-01",
+      "name": "Corporate Photography Training in Coventry & Warwickshire",
+      "headline": "Corporate Photography Training in Coventry & Warwickshire",
+      "description": "Corporate photography training for teams across Coventry, Warwickshire and the West Midlands. Practical in-house staff training in product and business images",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -150,10 +155,7 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/corporate-photography-training#primaryimage"
-      },
-      "name": "Corporate Photography Training in Coventry & Warwickshire",
-      "headline": "Corporate Photography Training in Coventry & Warwickshire",
-      "description": "Corporate photography training for teams across Coventry, Warwickshire and the West Midlands. Practical in-house staff training in product and business images"
+      }
     },
     {
       "@type": "ImageObject",
@@ -197,6 +199,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/corporate-photography-training#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Staff Training on Photography",
+          "item": "https://www.alanranger.com/corporate-photography-training"
+        }
+      ]
     }
   ]
 }

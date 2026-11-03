@@ -19,36 +19,6 @@
       ]
     },
     {
-      "@type": "ItemList",
-      "@id": "https://www.alanranger.com/testimonials-customer-reviews#itemlist",
-      "name": "Customer Reviews - What clients say about Alan Ranger",
-      "description": "Read the customer reviews and testimonials from my clients about their \nphotography tuition experience with Alan Ranger Photography. | Customer \nFeedback |",
-      "url": "https://www.alanranger.com/testimonials-customer-reviews",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Camera Sensor Clean",
-          "item": {
-            "@type": "WebPage",
-            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
-            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Certificate.Pdf",
-          "item": {
-            "@type": "WebPage",
-            "@id": "https://www.alanranger.com/s/certificate.pdf",
-            "url": "https://www.alanranger.com/s/certificate.pdf"
-          }
-        }
-      ],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",
@@ -61,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -118,15 +89,13 @@
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/testimonials-customer-reviews#primaryimage",
-      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
-      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/f8288fcd-46cb-4a34-982b-e540c8999c74/Customer+Reviews.png",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/f8288fcd-46cb-4a34-982b-e540c8999c74/Customer+Reviews.png",
       "name": "Customer Reviews - What clients say about Alan Ranger primary image"
     },
     {
       "@type": "Service",
       "@id": "https://www.alanranger.com/testimonials-customer-reviews#service",
-      "name": "Customer Reviews - What clients say about Alan Ranger",
-      "description": "Read the customer reviews and testimonials from my clients about their photography tuition experience with Alan Ranger Photography. | Customer Feedback |",
       "url": "https://www.alanranger.com/testimonials-customer-reviews",
       "provider": {
         "@id": "https://www.alanranger.com/#org",
@@ -143,7 +112,9 @@
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/f8288fcd-46cb-4a34-982b-e540c8999c74/Customer+Reviews.png",
+      "name": "Customer Reviews - What clients say about Alan Ranger",
+      "description": "Read the customer reviews and testimonials from my clients about their photography tuition experience with Alan Ranger Photography. | Customer Feedback |"
     },
     {
       "@type": "Place",
@@ -157,6 +128,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/testimonials-customer-reviews#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "My Testimonials",
+          "item": "https://www.alanranger.com/testimonials-customer-reviews"
+        }
+      ]
     }
   ]
 }

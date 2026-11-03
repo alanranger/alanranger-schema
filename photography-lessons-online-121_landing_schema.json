@@ -107,8 +107,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -117,7 +117,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -127,7 +128,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -151,9 +152,13 @@
       }
     },
     {
-      "@type": "WebPage",
       "@id": "https://www.alanranger.com/photography-lessons-online-121#webpage",
+      "@type": "WebPage",
+      "dateModified": "2026-05-30",
       "url": "https://www.alanranger.com/photography-lessons-online-121",
+      "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
+      "headline": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
+      "description": "One-to-one photography lessons online over Zoom — Lightroom, editing, camera settings and honest critique, tailored to you. From £50. Rated 4.8 from 800+ reviews.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -166,10 +171,7 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/photography-lessons-online-121#primaryimage"
-      },
-      "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
-      "headline": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
-      "description": "Online photography lessons 1-2-1 on Zoom: fix Lightroom, learn to edit, honest photo critique and camera help. Book a single session or save with a bundle."
+      }
     },
     {
       "@type": "ImageObject",
@@ -199,7 +201,7 @@
       ],
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/653a64ae5f869956e020061d/1698325682331/photography-lessons-online.png?format=1500w",
       "name": "Photography Lessons Online - 1-2-1 Zoom with Alan Ranger",
-      "description": "Online photography lessons 1-2-1 on Zoom: fix Lightroom, learn to edit, honest photo critique and camera help. Book a single session or save with a bundle."
+      "description": "One-to-one photography lessons online over Zoom — Lightroom, editing, camera settings and honest critique, tailored to you. From £50. Rated 4.8 from 800+ reviews."
     },
     {
       "@type": "Place",
@@ -213,6 +215,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photography-lessons-online-121#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Online Photography Lessons 1-2-1",
+          "item": "https://www.alanranger.com/photography-lessons-online-121"
+        }
+      ]
     }
   ]
 }

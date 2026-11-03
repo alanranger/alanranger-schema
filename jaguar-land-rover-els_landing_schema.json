@@ -19,7 +19,6 @@
       ]
     },
     {
-      "@context": "https://schema.org",
       "@type": "FAQPage",
       "@id": "https://www.alanranger.com/jaguar-land-rover-els#faq",
       "mainEntity": [
@@ -86,7 +85,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -96,7 +96,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -123,6 +123,9 @@
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/jaguar-land-rover-els#webpage",
       "url": "https://www.alanranger.com/jaguar-land-rover-els",
+      "name": "Jaguar Land Rover Photography Training - Invest In You",
+      "headline": "Jaguar Land Rover Photography Training - Invest In You",
+      "description": "Approved Jaguar Land Rover training provider since 2013. Photography courses, workshops &amp; 1-2-1 tuition for JLR employees through the Invest In You scheme.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -135,17 +138,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/jaguar-land-rover-els#primaryimage"
-      },
-      "name": "JLR Photography Training | Invest In You Provider Since 2013",
-      "headline": "JLR Photography Training | Invest In You Provider Since 2013",
-      "description": "Approved Jaguar Land Rover training provider since 2013. Photography courses, workshops &amp; 1-2-1 tuition for JLR employees through the Invest In You scheme."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/jaguar-land-rover-els#primaryimage",
       "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
       "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "JLR Photography Training | Invest In You Provider Since 2013 primary image"
+      "name": "Jaguar Land Rover Photography Training - Invest In You primary image"
     },
     {
       "@type": "Service",
@@ -167,7 +167,7 @@
         }
       ],
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d122431dc40b90001421844/1561391859336/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "JLR Photography Training | Invest In You Provider Since 2013",
+      "name": "Jaguar Land Rover Photography Training - Invest In You",
       "description": "Approved Jaguar Land Rover training provider since 2013. Photography courses, workshops &amp; 1-2-1 tuition for JLR employees through the Invest In You scheme."
     },
     {
@@ -182,6 +182,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/jaguar-land-rover-els#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JLR Invest In You",
+          "item": "https://www.alanranger.com/jaguar-land-rover-els"
+        }
+      ]
     }
   ]
 }

@@ -83,8 +83,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -93,7 +93,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -103,7 +104,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -129,7 +130,11 @@
     {
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/photography-workshops-near-me#webpage",
+      "dateModified": "2026-06-03T09:00:00+01:00",
       "url": "https://www.alanranger.com/photography-workshops-near-me",
+      "name": "Residential Photography Workshops and Retreats Across the UK",
+      "headline": "Residential Photography Workshops and Retreats Across the UK",
+      "description": "Residential photography workshops and photography retreats across the UK — small-group, tuition-led weekend and multi-day breaks. Max 4, all levels. BIPP qualified",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -142,10 +147,7 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/photography-workshops-near-me#primaryimage"
-      },
-      "name": "Residential Photography Workshops and Retreats Across the UK",
-      "headline": "Residential Photography Workshops and Retreats Across the UK",
-      "description": "Residential photography workshops and photography retreats across the UK — small-group, tuition-led weekend and multi-day breaks. Max 4, all levels. BIPP qualified"
+      }
     },
     {
       "@type": "ImageObject",
@@ -189,6 +191,86 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photography-workshops-near-me#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Residential Workshops",
+          "item": "https://www.alanranger.com/photography-workshops-near-me"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/photography-workshops-near-me#itemlist",
+      "name": "Residential Photography Workshops and Retreats Across the UK",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ANGLESEY Landscape Photography Workshop - 3 days",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshops-anglesey"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "DARTMOOR Photography Workshop - Landscapes - 3 days",
+          "url": "https://www.alanranger.com/photo-workshops-uk/dartmoor-photography-landscape-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DEVON Landscape Photography Workshop - 4 Days Hartland Quay",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-devon-hartland-quay"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "DORSET Landscape Photography Workshop Purbeck 3 days",
+          "url": "https://www.alanranger.com/photo-workshops-uk/dorset-landscape-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "LAKE DISTRICT Photography Workshops - 3 Days in Cumbria",
+          "url": "https://www.alanranger.com/photo-workshops-uk/lake-district-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "NORFOLK Landscape Photography Workshop - 3 Days near Cromer",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-photography-workshop-norfolk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "SUFFOLK Landscape Photography Workshops - 3 days",
+          "url": "https://www.alanranger.com/photo-workshops-uk/suffolk-landscape-photography-workshops"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "WALES Landscape Photography Workshop - 2 Days Lake Vyrnwy",
+          "url": "https://www.alanranger.com/photo-workshops-uk/wales-photography-workshop-pistyll-rhaeadr"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "YORKSHIRE DALES Landscape Photography Workshop - 3 Days",
+          "url": "https://www.alanranger.com/photo-workshops-uk/yorkshire-dales-photography-workshops"
+        }
+      ]
     }
   ]
 }

@@ -107,8 +107,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -117,7 +117,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -127,7 +128,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -151,9 +152,13 @@
       }
     },
     {
-      "@type": "WebPage",
       "@id": "https://www.alanranger.com/private-photography-lessons#webpage",
+      "@type": "WebPage",
+      "dateModified": "2026-05-29",
       "url": "https://www.alanranger.com/private-photography-lessons",
+      "name": "Private Photography Tuition Coventry - 1-2-1 Lessons",
+      "headline": "Private Photography Tuition Coventry - 1-2-1 Lessons",
+      "description": "Private photography tuition in Coventry — face-to-face 1-2-1 lessons with a BIPP-qualified tutor. Your pace, beginner or improver. Book the 4-for-3 package.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -166,17 +171,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/private-photography-lessons#primaryimage"
-      },
-      "name": "Private Photography Lessons Coventry - Face-to-Face",
-      "headline": "Private Photography Lessons Coventry - Face-to-Face",
-      "description": "Private photography lessons in Coventry, taught 1-2-1 at your pace by a BIPP-qualified tutor. Beginner or improver — book the 4-for-3 package and save."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/private-photography-lessons#primaryimage",
       "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
       "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
-      "name": "Private Photography Lessons Coventry - Face-to-Face primary image"
+      "name": "Private Photography Tuition Coventry - 1-2-1 Lessons primary image"
     },
     {
       "@type": "Service",
@@ -198,8 +200,8 @@
         }
       ],
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/5e93728a-cc9f-4365-aa05-67dc4148c6bc/face+to+face+private+photography+classes.png",
-      "name": "Private Photography Lessons Coventry - Face-to-Face",
-      "description": "Private photography lessons in Coventry, taught 1-2-1 at your pace by a BIPP-qualified tutor. Beginner or improver — book the 4-for-3 package and save."
+      "name": "Private Photography Tuition Coventry - 1-2-1 Lessons",
+      "description": "Private photography tuition in Coventry — face-to-face 1-2-1 lessons with a BIPP-qualified tutor. Your pace, beginner or improver. Book the 4-for-3 package."
     },
     {
       "@type": "Place",
@@ -213,6 +215,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/private-photography-lessons#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Private 1-2-1 Lessons Face to Face",
+          "item": "https://www.alanranger.com/private-photography-lessons"
+        }
+      ]
     }
   ]
 }

@@ -31,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -68,9 +69,6 @@
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/newsletter-signup-form#webpage",
       "url": "https://www.alanranger.com/newsletter-signup-form",
-      "name": "Newsletter Signup - Don't miss an update from Alan Ranger",
-      "headline": "Newsletter Signup - Don't miss an update from Alan Ranger",
-      "description": "If you don't want to miss any of my news, special offers, tips, or latest event information, you should register for my free newsletter | newsletter signup",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -84,6 +82,9 @@
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/newsletter-signup-form#primaryimage"
       },
+      "name": "Newsletter Signup - Don't miss an update from Alan Ranger",
+      "headline": "Newsletter Signup - Don't miss an update from Alan Ranger",
+      "description": "If you don't want to miss any of my news, special offers, tips, or latest event information, you should register for my free newsletter - signup now",
       "about": {
         "@id": "https://www.alanranger.com/#person"
       }
@@ -97,6 +98,7 @@
     },
     {
       "@type": "Service",
+      "@id": "https://www.alanranger.com/newsletter-signup-form#service",
       "serviceType": [
         "Photography Workshops",
         "Private Lessons",
@@ -120,9 +122,8 @@
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "@id": "https://www.alanranger.com/newsletter-signup-form#service",
       "name": "Newsletter Signup - Don't miss an update from Alan Ranger",
-      "description": "If you don't want to miss any of my news, special offers, tips, or latest event information, you should register for my free newsletter | newsletter signup",
+      "description": "If you don't want to miss any of my news, special offers, tips, or latest event information, you should register for my free newsletter - signup now",
       "url": "https://www.alanranger.com/newsletter-signup-form",
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca523352f536239f2476c/1572155189830/photography-events.png?format=1500w"
     },
@@ -138,6 +139,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/newsletter-signup-form#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Newsletter Signup - Don't miss an update from Alan Ranger",
+          "item": "https://www.alanranger.com/newsletter-signup-form"
+        }
+      ]
     }
   ]
 }

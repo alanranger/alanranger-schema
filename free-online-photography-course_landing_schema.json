@@ -133,7 +133,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -143,7 +144,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -170,6 +171,9 @@
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/free-online-photography-course#webpage",
       "url": "https://www.alanranger.com/free-online-photography-course",
+      "name": "Online Photography Course for Beginners | 14-Day Free Trial",
+      "headline": "Online Photography Course for Beginners | 14-Day Free Trial",
+      "description": "Online photography course for beginners and improvers, taught by UK pro Alan Ranger. 60 modules, 30 exams, 5 levels. Start a 14-day free trial, no card needed.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -183,9 +187,6 @@
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/free-online-photography-course#primaryimage"
       },
-      "name": "Online Photography Course for Beginners | 14-Day Free Trial",
-      "headline": "Online Photography Course for Beginners | 14-Day Free Trial",
-      "description": "Online photography course for beginners and improvers, taught by UK pro Alan Ranger. 60 modules, 30 exams, 5 levels. Start a 14-day free trial, no card needed.",
       "mainEntity": {
         "@id": "https://www.alanranger.com/free-online-photography-course#course"
       }
@@ -252,8 +253,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": "3",
+        "ratingValue": "5",
+        "reviewCount": 4,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -264,14 +265,18 @@
             "@type": "Person",
             "name": "Catalina Christensen"
           },
-          "datePublished": "2025-08-25",
+          "reviewBody": "A fantastic free resource to learn about photography!!! Very good explanations off all the necessary concepts to get familiar with photography.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "A fantastic free resource to learn about photography!!! Very good explanations off all the necessary concepts to get familiar with photography."
+          "datePublished": "2025-08-25",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         },
         {
           "@type": "Review",
@@ -279,14 +284,18 @@
             "@type": "Person",
             "name": "Bruce Radebaugh"
           },
-          "datePublished": "2025-08-24",
+          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds .",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds ."
+          "datePublished": "2025-08-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         },
         {
           "@type": "Review",
@@ -294,14 +303,37 @@
             "@type": "Person",
             "name": "Andrew Blaxhall"
           },
-          "datePublished": "2025-08-24",
+          "reviewBody": "Great helpful material, great presentation and ideas",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "reviewBody": "Great helpful material, great presentation and ideas"
+          "datePublished": "2025-08-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Simm"
+          },
+          "reviewBody": "I can’t recommend this course enough. It really does cover everything in a very comprehensive and easily digestible way. I’ve played around with photography for a lot of my life but this course gave me the opportunity to learn about the theory and also practical elements of the discipline. I’d definitely recommend purchasing the .pdf download. It’s much easier to navigate than the online course and I felt it was a good way to donate for this great resource.  Thank you Alan!!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
         }
       ]
     },
@@ -317,6 +349,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/free-online-photography-course#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Free Online Photography Course",
+          "item": "https://www.alanranger.com/free-online-photography-course"
+        }
+      ]
     }
   ]
 }

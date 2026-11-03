@@ -19,40 +19,10 @@
       ]
     },
     {
-      "@type": "ItemList",
-      "@id": "https://www.alanranger.com/photography-equipment-recommendations#itemlist",
-      "name": "Photography Equipment - Recommended products on Amazon",
-      "description": "Photography equipment recommendations by Alan Ranger on Amazon.  Get my \nadvice on tripods, camera bags, filters and all the photographic \naccessories you need",
-      "url": "https://www.alanranger.com/photography-equipment-recommendations",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Camera Sensor Clean",
-          "item": {
-            "@type": "WebPage",
-            "@id": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/",
-            "url": "https://www.alanranger.com/photography-services-near-me/camera-sensor-clean/"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Certificate.Pdf",
-          "item": {
-            "@type": "WebPage",
-            "@id": "https://www.alanranger.com/s/certificate.pdf",
-            "url": "https://www.alanranger.com/s/certificate.pdf"
-          }
-        }
-      ],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca5b8cd836609e5e6c09d/1572155198994/photography-support-Services-1.png?format=1500w"
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -61,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -97,31 +68,23 @@
     {
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/photography-equipment-recommendations#webpage",
-      "headline": "Photography Equipment - Recommended products on Amazon",
-      "description": "Photography equipment recommendations by Alan Ranger on Amazon. Get my advice on tripods, camera bags, filters and all the photographic accessories you need",
       "url": "https://www.alanranger.com/photography-equipment-recommendations",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photography-equipment-recommendations"
+      "inLanguage": "en-GB",
+      "isPartOf": {
+        "@id": "https://www.alanranger.com/#website"
       },
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
       "author": {
-        "@id": "https://www.alanranger.com/#org",
-        "@type": "Organization",
-        "name": "Alan Ranger Photography"
+        "@id": "https://www.alanranger.com/#org"
       },
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca5b8cd836609e5e6c09d/1572155198994/photography-support-Services-1.png?format=1500w",
       "primaryImageOfPage": {
-        "@type": "ImageObject",
-        "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca5b8cd836609e5e6c09d/1572155198994/photography-support-Services-1.png?format=1500w"
+        "@id": "https://www.alanranger.com/photography-equipment-recommendations#primaryimage"
       },
       "name": "Photography Equipment - Recommended products on Amazon",
-      "inLanguage": "en-GB",
-      "isPartOf": {
-        "@id": "https://www.alanranger.com/#website"
-      },
+      "headline": "Photography Equipment - Recommended products on Amazon",
+      "description": "Photography equipment recommendations by Alan Ranger on Amazon. Get my advice on tripods, camera bags, filters and all the photographic accessories you need",
       "about": {
         "@id": "https://www.alanranger.com/#person"
       }
@@ -135,6 +98,7 @@
     },
     {
       "@type": "Service",
+      "@id": "https://www.alanranger.com/photography-equipment-recommendations#service",
       "serviceType": [
         "Photography Workshops",
         "Private Lessons",
@@ -158,7 +122,6 @@
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "@id": "https://www.alanranger.com/photography-equipment-recommendations#service",
       "name": "Photography Equipment - Recommended products on Amazon",
       "description": "Photography equipment recommendations by Alan Ranger on Amazon. Get my advice on tripods, camera bags, filters and all the photographic accessories you need",
       "url": "https://www.alanranger.com/photography-equipment-recommendations",
@@ -176,6 +139,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photography-equipment-recommendations#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Recommended Products",
+          "item": "https://www.alanranger.com/photography-equipment-recommendations"
+        }
+      ]
     }
   ]
 }

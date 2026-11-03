@@ -19,15 +19,6 @@
       ]
     },
     {
-      "@type": "ItemList",
-      "@id": "https://www.alanranger.com/website-cookie-policy#itemlist",
-      "name": "Computer Browser Cookie Policy",
-      "description": "Website Cookie Policy - This website uses cookies when you visit the site. \nThis prevents you from having to log in to your account each time you visit \na page.",
-      "url": "https://www.alanranger.com/website-cookie-policy",
-      "itemListElement": [],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",
@@ -40,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -97,20 +89,14 @@
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/website-cookie-policy#primaryimage",
-      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
-      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/9167d65b-f8ba-4e42-a21b-0335704f4f8b/Cookie+Policy",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/9167d65b-f8ba-4e42-a21b-0335704f4f8b/Cookie+Policy",
       "name": "Computer Browser Cookie Policy primary image"
     },
     {
       "@type": "Service",
-      "serviceType": [
-        "Photography Workshops",
-        "Private Lessons",
-        "Photography Courses",
-        "Mentoring",
-        "Commercial Photography",
-        "Online Courses"
-      ],
+      "@id": "https://www.alanranger.com/website-cookie-policy#service",
+      "url": "https://www.alanranger.com/website-cookie-policy",
       "provider": {
         "@id": "https://www.alanranger.com/#org",
         "@type": "Organization",
@@ -119,18 +105,16 @@
       },
       "areaServed": [
         {
-          "@type": "Place",
-          "name": "United Kingdom"
+          "@type": "Country",
+          "name": "GB"
         },
         {
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "@id": "https://www.alanranger.com/website-cookie-policy#service",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/9167d65b-f8ba-4e42-a21b-0335704f4f8b/Cookie+Policy",
       "name": "Computer Browser Cookie Policy",
-      "description": "Website Cookie Policy - This website uses cookies when you visit the site. This prevents you from having to log in to your account each time you visit a page.",
-      "url": "https://www.alanranger.com/website-cookie-policy",
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+      "description": "Website Cookie Policy - This website uses cookies when you visit the site. This prevents you from having to log in to your account each time you visit a page."
     },
     {
       "@type": "Place",
@@ -144,6 +128,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/website-cookie-policy#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Computer Browser Cookie Policy",
+          "item": "https://www.alanranger.com/website-cookie-policy"
+        }
+      ]
     }
   ]
 }

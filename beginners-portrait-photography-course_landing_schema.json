@@ -27,7 +27,7 @@
           "name": "Do I need an expensive camera or lens?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Any DSLR or mirrorless camera with manual exposure modes is perfect — it doesn't need to be new or expensive. Ideally bring a zoom (50mm+) or a 50mm prime, but the kit lens you already have is a fine place to start."
+            "text": "No. Any DSLR or mirrorless camera with manual exposure modes is perfect — it doesn’t need to be new or expensive. Ideally bring a zoom (50mm+) or a 50mm prime, but the kit lens you already have is a fine place to start."
           }
         },
         {
@@ -40,10 +40,10 @@
         },
         {
           "@type": "Question",
-          "name": "I'm a complete beginner — will I be out of my depth?",
+          "name": "I’m a complete beginner — will I be out of my depth?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Not at all. The course assumes only a basic understanding of exposure and builds from there. With a maximum of four people there's time for questions and individual help, and there's genuinely no such thing as a silly question here."
+            "text": "Not at all. The course assumes only a basic understanding of exposure and builds from there. With a maximum of four people there’s time for questions and individual help, and there’s genuinely no such thing as a silly question here."
           }
         },
         {
@@ -51,7 +51,7 @@
           "name": "How long is the course?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It's a full day, roughly 9am to 5pm, with about an hour for lunch. You'll cover lighting, settings, composition and posing, with a hands-on practical session photographing a model."
+            "text": "It’s a full day, roughly 9am to 5pm, with about an hour for lunch. You’ll cover lighting, settings, composition and posing, with a hands-on practical session photographing a model."
           }
         },
         {
@@ -67,7 +67,7 @@
           "name": "Can a friend or partner come along to watch?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Places are limited to four participants to keep the day personal, so it's for booked participants only rather than observers. If a friend or partner would also like to learn, they're very welcome to book their own place."
+            "text": "Places are limited to four participants to keep the day personal, so it’s for booked participants only rather than observers. If a friend or partner would also like to learn, they’re very welcome to book their own place."
           }
         },
         {
@@ -91,7 +91,7 @@
           "name": "What if no dates are listed right now?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If you don't see a date to book, dates for the next course haven't been scheduled yet. The quickest option is Alan's private 1-2-1 package, which covers the same material around your own schedule — or get in touch to be told when the next date is set."
+            "text": "If you don’t see a date to book, dates for the next course haven’t been scheduled yet. The quickest option is Alan’s private 1-2-1 package, which covers the same material around your own schedule — or get in touch to be told when the next date is set."
           }
         },
         {
@@ -99,15 +99,15 @@
           "name": "What can I do after the portrait course?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most people add the Lightroom photo editing course to develop their images, or continue with monthly mentoring or 1-2-1 lessons. If you're aiming higher, there's also RPS distinction support."
+            "text": "Most people add the Lightroom photo editing course to develop their images, or continue with monthly mentoring or 1-2-1 lessons. If you’re aiming higher, there’s also RPS distinction support."
           }
         },
         {
           "@type": "Question",
-          "name": "What happens if a course can't run?",
+          "name": "What happens if a course can’t run?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On the rare occasion a course can't go ahead, you'll be offered an alternative date or a credit."
+            "text": "On the rare occasion a course can’t go ahead, you’ll be offered an alternative date or a credit."
           }
         }
       ]
@@ -125,7 +125,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -135,7 +136,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -160,8 +161,12 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#webpage",
       "url": "https://www.alanranger.com/beginners-portrait-photography-course",
+      "dateModified": "2026-06-23",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#webpage",
+      "name": "Beginners Portrait Photography Course | 1 Day | Coventry",
+      "headline": "Beginners Portrait Photography Course | 1 Day | Coventry",
+      "description": "A one-day beginners portrait photography course in our Coventry studio. Lighting, settings, posing and composition, max 4, models provided. From £195.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -174,10 +179,7 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/beginners-portrait-photography-course#primaryimage"
-      },
-      "name": "Beginners Portrait Photography Course | 1 Day | Coventry",
-      "headline": "Beginners Portrait Photography Course | 1 Day | Coventry",
-      "description": "A one-day beginners portrait photography course in our Coventry studio. Lighting, settings, posing and composition, max 4, models provided. From £195."
+      }
     },
     {
       "@type": "ImageObject",
@@ -221,6 +223,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/beginners-portrait-photography-course#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Beginners Portrait Course",
+          "item": "https://www.alanranger.com/beginners-portrait-photography-course"
+        }
+      ]
     }
   ]
 }

@@ -99,8 +99,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -109,7 +109,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -119,7 +120,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -143,9 +144,13 @@
       }
     },
     {
-      "@type": "WebPage",
       "@id": "https://www.alanranger.com/beginners-photography-classes#webpage",
+      "@type": "WebPage",
+      "dateModified": "2026-07-20",
       "url": "https://www.alanranger.com/beginners-photography-classes",
+      "name": "Beginners Photography Evening Classes Coventry Camera Course",
+      "headline": "Beginners Photography Evening Classes Coventry Camera Course",
+      "description": "Beginners photography evening classes in Coventry — a friendly 3-week camera course to get you off Auto and shooting confidently in manual. Small groups, book now",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -158,17 +163,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/beginners-photography-classes#primaryimage"
-      },
-      "name": "Beginners Photography Classes Coventry — 3-Week Course",
-      "headline": "Beginners Photography Classes Coventry — 3-Week Course",
-      "description": "Beginners photography classes in Coventry — a friendly 3-week evening course to get you off Auto and confident in manual. Small groups, max 4. Book your place."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/beginners-photography-classes#primaryimage",
       "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
       "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "Beginners Photography Classes Coventry — 3-Week Course primary image"
+      "name": "Beginners Photography Evening Classes Coventry Camera Course primary image"
     },
     {
       "@type": "Service",
@@ -190,8 +192,8 @@
         }
       ],
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d10f2f303d59400019eba98/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "Beginners Photography Classes Coventry — 3-Week Course",
-      "description": "Beginners photography classes in Coventry — a friendly 3-week evening course to get you off Auto and confident in manual. Small groups, max 4. Book your place."
+      "name": "Beginners Photography Evening Classes Coventry Camera Course",
+      "description": "Beginners photography evening classes in Coventry — a friendly 3-week camera course to get you off Auto and shooting confidently in manual. Small groups, book now"
     },
     {
       "@type": "Place",
@@ -205,6 +207,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/beginners-photography-classes#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Beginners Photography Course",
+          "item": "https://www.alanranger.com/beginners-photography-classes"
+        }
+      ]
     }
   ]
 }

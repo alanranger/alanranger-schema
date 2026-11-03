@@ -35,7 +35,7 @@
           "name": "What camera and kit do I need?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Any camera you can use in manual or semi-manual mode is fine, including many bridge cameras. A tripod helps for landscapes; if you don't have one, Alan can lend you a tripod and filters on the day. A full kit list is sent with your joining instructions."
+            "text": "Any camera you can use in manual or semi-manual mode is fine, including many bridge cameras. A tripod helps for landscapes; if you don't have one, I can lend you a tripod and filters on the day. A full kit list is sent with your joining instructions."
           }
         },
         {
@@ -43,7 +43,7 @@
           "name": "How long are the workshops?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "They range from short two-hour woodland walks to full days at the coast or in the hills. The length is shown on each workshop so you can pick what suits you."
+            "text": "They range from short two-hour woodland walks to full days at the coast or in the hills. The length is shown on each workshop below so you can pick what suits you."
           }
         },
         {
@@ -59,7 +59,7 @@
           "name": "What happens if the weather's bad?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "We work with the conditions — some of the best landscape images come from dramatic weather. Workshops run in most conditions; if anything makes a location unsafe or unworkable, Alan will offer a new date or a credit."
+            "text": "We work with the conditions — some of the best landscape images come from dramatic weather. Workshops run in most conditions; if anything makes a location unsafe or unworkable, I'll offer a new date or a credit."
           }
         },
         {
@@ -67,7 +67,7 @@
           "name": "What's included, and what isn't?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Included: expert on-location tuition, a small group, image review and feedback, loan of filters and a tripod if needed, and joining instructions in advance. Not included: travel to and from the location, and lunch or refreshments — bring a packed lunch, or use a cafe or pub at the break on full days."
+            "text": "Included: expert on-location tuition, a small group, image review and feedback, loan of filters and a tripod if needed, and joining instructions in advance. Not included: travel to and from the location, and lunch or refreshments — bring a packed lunch, or use a café or pub at the break on full days."
           }
         },
         {
@@ -83,7 +83,7 @@
           "name": "How do I book, and can I spread the cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Book directly through the website or the workshop calendar. If you'd prefer to spread the cost, an interest-free 12-month payment plan is available. Workshops also make great gifts as digital gift vouchers."
+            "text": "Book directly through this page or the workshop calendar. If you'd prefer to spread the cost, an interest-free 12-month payment plan is available. Workshops also make great gifts — see gift vouchers."
           }
         },
         {
@@ -91,7 +91,7 @@
           "name": "What's the cancellation policy?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If you need to cancel, please let Alan know in writing as early as you can; cancellation charges apply on a sliding scale depending on how close to the date it is. Full details are in the booking terms and conditions."
+            "text": "If you need to cancel, please let me know in writing as early as you can; cancellation charges apply on a sliding scale depending on how close to the date it is. Full details are in the booking terms & conditions (PDF)."
           }
         },
         {
@@ -107,7 +107,7 @@
           "name": "Can I bring a friend or partner?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If they'd like to take part and there's a place available, yes — just book a place for each of you, and call or message Alan first to check availability. Workshops are hands-on sessions built around each participant, so they're not set up for a non-photographing guest to come along and watch."
+            "text": "If they'd like to take part and there's a place available, yes — just book a place for each of you, and call or message me first if you'd like to check availability. Workshops are hands-on sessions built around each participant, so they're not set up for a non-photographing guest to come along and watch."
           }
         }
       ]
@@ -115,8 +115,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -125,7 +125,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -135,7 +136,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -162,6 +163,9 @@
       "@type": "WebPage",
       "@id": "https://www.alanranger.com/landscape-photography-workshops#webpage",
       "url": "https://www.alanranger.com/landscape-photography-workshops",
+      "name": "Landscape Photography Workshops Across the UK | Alan Ranger",
+      "headline": "Landscape Photography Workshops Across the UK | Alan Ranger",
+      "description": "Small-group landscape photography workshops across the UK, led by a BIPP-qualified pro. All levels, usually max 6, with hands-on tuition in the field. Book now.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -174,17 +178,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/landscape-photography-workshops#primaryimage"
-      },
-      "name": "Half and One-Day Landscape Photography Workshops UK 2026 -2027",
-      "headline": "Half and One-Day Landscape Photography Workshops UK 2026 -2027",
-      "description": "Small-group landscape photography workshops across the UK, led by a BIPP-qualified pro. All levels, usually max 6, with hands-on tuition in the field. Book now."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/landscape-photography-workshops#primaryimage",
-      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960992597-44OAWYR2JKMJ6HTMW0L6/_-13-2.jpg?format=750w",
-      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960992597-44OAWYR2JKMJ6HTMW0L6/_-13-2.jpg?format=750w",
-      "name": "Half and One-Day Landscape Photography Workshops UK 2026 -2027 primary image"
+      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a20639ddbedb812c31fa4e2/1780507549289/a+date+with+Abigail.jpg?format=1500w",
+      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a20639ddbedb812c31fa4e2/1780507549289/a+date+with+Abigail.jpg?format=1500w",
+      "name": "Landscape Photography Workshops Across the UK | Alan Ranger primary image"
     },
     {
       "@type": "Service",
@@ -205,8 +206,8 @@
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1743960992597-44OAWYR2JKMJ6HTMW0L6/_-13-2.jpg?format=750w",
-      "name": "Half and One-Day Landscape Photography Workshops UK 2026 -2027",
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/6a20639ddbedb812c31fa4e2/1780507549289/a+date+with+Abigail.jpg?format=1500w",
+      "name": "Landscape Photography Workshops Across the UK | Alan Ranger",
       "description": "Small-group landscape photography workshops across the UK, led by a BIPP-qualified pro. All levels, usually max 6, with hands-on tuition in the field. Book now."
     },
     {
@@ -221,6 +222,116 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/landscape-photography-workshops#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Half and One-Day Workshops",
+          "item": "https://www.alanranger.com/landscape-photography-workshops"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.alanranger.com/landscape-photography-workshops#itemlist",
+      "name": "Landscape Photography Workshops Across the UK | Alan Ranger",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BATSFORD Arboretum Autumn Photography Workshops 23 - 31 Oct",
+          "url": "https://www.alanranger.com/photo-workshops-uk/batsford-arboretum-photography-workshops"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "BLUEBELL WOODLANDS Photography - Warks - 20 Apr - 29 Apr",
+          "url": "https://www.alanranger.com/photo-workshops-uk/bluebell-woodlands-photography-workshops"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BURNHAM ON SEA Long Exposure Photography Workshop 8 May",
+          "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshops-burnham"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CHESTERTON WINDMILL Photography Workshops - Warwickshire",
+          "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "FAIRY GLEN and Fairy Falls Long Exposure Photography",
+          "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-workshop-fairy-glen"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "KENILWORTH Sunset Long Exposure Photography Workshop",
+          "url": "https://www.alanranger.com/photo-workshops-uk/long-exposure-photography-kenilworth"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "LAVENDER FIELD Photography Workshop - Glouc or Warks July",
+          "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-lavender-fields"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "MACRO Photography Workshops Warwickshire - Various",
+          "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "PEAK DISTRICT Photography Workshops - 1 Day Padley Gorge",
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "PEAK DISTRICT HEATHER Photography Workshops - 14-15 Aug",
+          "url": "https://www.alanranger.com/photo-workshops-uk/peak-district-heather-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "The Secret of WOODLAND PHOTOGRAPHY- 1-Day Jan, Apr, Aug, Oct",
+          "url": "https://www.alanranger.com/photo-workshops-uk/secrets-of-woodland-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "The Art of GARDEN PHOTOGRAPHY - Coventry - May and July",
+          "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "URBAN ARCHITECTURE Photography Workshops - Coventry Sep",
+          "url": "https://www.alanranger.com/photo-workshops-uk/urban-architecture-photography-workshops-coventry"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs",
+          "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
+        }
+      ]
     }
   ]
 }

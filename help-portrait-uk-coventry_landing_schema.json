@@ -2,80 +2,6 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "VideoObject",
-      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#video-promo",
-      "url": "https://www.alanranger.com/help-portrait-uk-coventry",
-      "name": "Help-Portrait Promo Video",
-      "description": "Promotional video for the Help-Portrait movement, showing photographers using their time and skills to give portraits to people in need.",
-      "thumbnailUrl": [
-        "https://img.youtube.com/vi/I3BFwgf1f2I/hqdefault.jpg"
-      ],
-      "uploadDate": "2009-01-01T00:00:00+00:00",
-      "duration": "PT2M25S",
-      "inLanguage": "en-GB",
-      "embedUrl": "https://www.youtube.com/embed/I3BFwgf1f2I",
-      "contentUrl": "https://www.youtube.com/watch?v=I3BFwgf1f2I",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w"
-        }
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Alan Ranger",
-        "url": "https://www.alanranger.com/about"
-      },
-      "isFamilyFriendly": true,
-      "potentialAction": {
-        "@type": "WatchAction",
-        "target": [
-          "https://www.alanranger.com/help-portrait-uk-coventry",
-          "https://www.youtube.com/watch?v=I3BFwgf1f2I"
-        ]
-      }
-    },
-    {
-      "@type": "VideoObject",
-      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#video-coventry",
-      "url": "https://www.alanranger.com/help-portrait-uk-coventry",
-      "name": "Help Portrait UK Coventry",
-      "description": "Short audio-visual capturing some of the great moments and volunteers who made this a special event for the homeless in Coventry on 2nd Dec 2017.",
-      "thumbnailUrl": [
-        "https://img.youtube.com/vi/dZcygU48Sbc/hqdefault.jpg"
-      ],
-      "uploadDate": "2017-12-02T00:00:00+00:00",
-      "duration": "PT3M44S",
-      "inLanguage": "en-GB",
-      "embedUrl": "https://www.youtube.com/embed/dZcygU48Sbc",
-      "contentUrl": "https://www.youtube.com/watch?v=dZcygU48Sbc",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w"
-        }
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Alan Ranger",
-        "url": "https://www.alanranger.com/about"
-      },
-      "isFamilyFriendly": true,
-      "potentialAction": {
-        "@type": "WatchAction",
-        "target": [
-          "https://www.alanranger.com/help-portrait-uk-coventry",
-          "https://www.youtube.com/watch?v=dZcygU48Sbc"
-        ]
-      }
-    },
-    {
       "@type": "Person",
       "@id": "https://www.alanranger.com/#person",
       "name": "Alan Ranger",
@@ -93,15 +19,6 @@
       ]
     },
     {
-      "@type": "ItemList",
-      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#itemlist",
-      "name": "Help Portrait-UK-Coventry - Crisis | Giving Photos",
-      "description": "Help Portrait-UK-Coventry is a movement of photographers, hairstylists and \nmakeup artists using their time, tools and expertise to give back to those \nin need.",
-      "url": "https://www.alanranger.com/help-portrait-uk-coventry",
-      "itemListElement": [],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
-    },
-    {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
       "url": "https://www.alanranger.com/",
@@ -114,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -171,20 +89,14 @@
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/help-portrait-uk-coventry#primaryimage",
-      "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
-      "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w",
+      "url": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1489927705423-J40PP8TOUSCWJZOT7JPX/Help-Portrait-UK-Coventry-Alan-Ranger",
+      "contentUrl": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1489927705423-J40PP8TOUSCWJZOT7JPX/Help-Portrait-UK-Coventry-Alan-Ranger",
       "name": "Help Portrait-UK-Coventry - Crisis | Giving Photos primary image"
     },
     {
       "@type": "Service",
-      "serviceType": [
-        "Photography Workshops",
-        "Private Lessons",
-        "Photography Courses",
-        "Mentoring",
-        "Commercial Photography",
-        "Online Courses"
-      ],
+      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#service",
+      "url": "https://www.alanranger.com/help-portrait-uk-coventry",
       "provider": {
         "@id": "https://www.alanranger.com/#org",
         "@type": "Organization",
@@ -193,18 +105,16 @@
       },
       "areaServed": [
         {
-          "@type": "Place",
-          "name": "United Kingdom"
+          "@type": "Country",
+          "name": "GB"
         },
         {
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#service",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1489927705423-J40PP8TOUSCWJZOT7JPX/Help-Portrait-UK-Coventry-Alan-Ranger",
       "name": "Help Portrait-UK-Coventry - Crisis | Giving Photos",
-      "description": "Help Portrait-UK-Coventry is a movement of photographers, hairstylists and makeup artists using their time, tools and expertise to give back to those in need.",
-      "url": "https://www.alanranger.com/help-portrait-uk-coventry",
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5981d5d5d7bdcec550817a7b/1501681110344/ALAN+RANGER+ICON-1.png?format=1500w"
+      "description": "Help Portrait-UK-Coventry is a movement of photographers, hairstylists and makeup artists using their time, tools and expertise to give back to those in need."
     },
     {
       "@type": "Place",
@@ -217,6 +127,64 @@
         "addressRegion": "West Midlands",
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Help Portrait-UK-Coventry - Crisis | Giving Photos",
+          "item": "https://www.alanranger.com/help-portrait-uk-coventry"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#video-I3BFwgf1f2I",
+      "name": "Help-Portrait Promo Video",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/I3BFwgf1f2I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBAW-kKLHexmUy3AAXpqpKZG0RcLw"
+      ],
+      "uploadDate": "2009-11-04T12:04:47-08:00",
+      "embedUrl": "https://www.youtube.com/embed/I3BFwgf1f2I",
+      "contentUrl": "https://www.youtube.com/watch?v=I3BFwgf1f2I",
+      "description": "Help-Portrait is a collection of photographers around the world using their time, equipment and expertise to give back to those who are less fortunate. Pleas...",
+      "duration": "PT2M26S",
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": [
+          "https://www.alanranger.com/help-portrait-uk-coventry",
+          "https://www.youtube.com/watch?v=I3BFwgf1f2I"
+        ]
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.alanranger.com/help-portrait-uk-coventry#video-dZcygU48Sbc",
+      "name": "Help Portrait UK Coventry",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/dZcygU48Sbc/maxresdefault.jpg"
+      ],
+      "uploadDate": "2017-12-16T04:01:03-08:00",
+      "embedUrl": "https://www.youtube.com/embed/dZcygU48Sbc",
+      "contentUrl": "https://www.youtube.com/watch?v=dZcygU48Sbc",
+      "description": "Thank you to all those who contributed to this perfect day.  Everyone involved commented on how wonderful and inspiring it was to be involved.This is a short...",
+      "duration": "PT3M45S",
+      "potentialAction": {
+        "@type": "WatchAction",
+        "target": [
+          "https://www.alanranger.com/help-portrait-uk-coventry",
+          "https://www.youtube.com/watch?v=dZcygU48Sbc"
+        ]
       }
     }
   ]

@@ -31,7 +31,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -95,8 +96,6 @@
     {
       "@type": "Service",
       "@id": "https://www.alanranger.com/schedule-an-appointment#service",
-      "name": "Schedule an appointment with Alan Ranger Photography",
-      "description": "If you would like to discuss your photography tuition or photography requirements with me, please schedule an appointment with me , free by phone or Zoom",
       "url": "https://www.alanranger.com/schedule-an-appointment",
       "provider": {
         "@id": "https://www.alanranger.com/#org",
@@ -113,7 +112,9 @@
           "@id": "https://www.alanranger.com/#place"
         }
       ],
-      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca504562fa77f398a8d38/1572155153853/photography-events.png?format=1500w"
+      "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5c1ca504562fa77f398a8d38/1572155153853/photography-events.png?format=1500w",
+      "name": "Schedule an appointment with Alan Ranger Photography",
+      "description": "If you would like to discuss your photography tuition or photography requirements with me, please schedule an appointment with me , free by phone or Zoom"
     },
     {
       "@type": "Place",
@@ -127,6 +128,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/schedule-an-appointment#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Schedule an appointment with Alan Ranger Photography",
+          "item": "https://www.alanranger.com/schedule-an-appointment"
+        }
+      ]
     }
   ]
 }

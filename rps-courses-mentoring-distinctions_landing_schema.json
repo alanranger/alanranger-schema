@@ -27,7 +27,7 @@
           "name": "Is this mentoring officially accredited by the RPS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. This is independent, private mentoring based on Alan's own experience holding both the LRPS and ARPS and guiding others through the process. It isn't officially accredited by the Royal Photographic Society, and it works well alongside the Society's own Advisory Days and One2One reviews."
+            "text": "No. This is independent, private mentoring based on Alan’s own experience holding both the LRPS and ARPS and guiding others through the process. It isn’t officially accredited by the Royal Photographic Society, and it works well alongside the Society’s own Advisory Days and One2One reviews."
           }
         },
         {
@@ -35,7 +35,7 @@
           "name": "How many sessions will I need?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It depends on where you're starting. Most photographers beginning a panel from scratch take a block of around six one-hour sessions across their twelve months. Those revising a panel that didn't pass often need just three or four. You can always add more single sessions as you go."
+            "text": "It depends on where you’re starting. Most photographers beginning a panel from scratch take a block of around six one-hour sessions across their twelve months. Those revising a panel that didn’t pass often need just three or four. You can always add more single sessions as you go."
           }
         },
         {
@@ -43,7 +43,7 @@
           "name": "I failed my panel — can you help me revise and resubmit?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, and it's very common. We work from the assessors' feedback to rebuild the panel — reviewing what to keep, what to drop, the sequencing and the Statement of Intent. The case study on this page is exactly that: a failed ARPS panel rebuilt into a pass."
+            "text": "Yes, and it’s very common. We work from the assessors’ feedback to rebuild the panel — reviewing what to keep, what to drop, the sequencing and the Statement of Intent. The case study on this page is exactly that: a failed ARPS panel rebuilt into a pass."
           }
         },
         {
@@ -56,7 +56,7 @@
         },
         {
           "@type": "Question",
-          "name": "What's your pass rate?",
+          "name": "What’s your pass rate?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "To date, 100% — across more than 20 Licentiate and 4 Associate candidates mentored to a successful distinction. No mentor can guarantee a result, but the planning-led approach is built around what assessors actually look for."
@@ -67,7 +67,7 @@
           "name": "What software and equipment do I need?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Just Zoom for the sessions and Dropbox for sharing your images and updated panels between meetings. Both are free to use, and Alan will explain how to set them up if you're not familiar with them."
+            "text": "Just Zoom for the sessions and Dropbox for sharing your images and updated panels between meetings. Both are free to use, and Alan will explain how to set them up if you’re not familiar with them."
           }
         },
         {
@@ -91,12 +91,12 @@
           "name": "Do I need to be an RPS member?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You don't need to be a member to start mentoring, but you will need to be a member of the Royal Photographic Society to apply for a distinction with them. It's worth joining early so you have access to their own resources too."
+            "text": "You don’t need to be a member to start mentoring, but you will need to be a member of the Royal Photographic Society to apply for a distinction with them. It’s worth joining early so you have access to their own resources too."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you guarantee I'll pass?",
+          "name": "Do you guarantee I’ll pass?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "No honest mentor can guarantee an assessment result — the decision rests with the RPS assessors. What the mentoring does is prepare your panel as thoroughly as possible against the published criteria, and the track record to date is a 100% pass rate."
@@ -107,8 +107,8 @@
     {
       "@type": "WebSite",
       "@id": "https://www.alanranger.com/#website",
-      "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
+      "name": "Alan Ranger Photography",
       "publisher": {
         "@id": "https://www.alanranger.com/#org"
       },
@@ -117,7 +117,8 @@
         "target": "https://www.alanranger.com/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       },
-      "description": ""
+      "description": "UK Landscape Photography Workshops, Beginners Courses and Private Lessons - Enhance your skill with Alan Ranger Photography - Qualified Tutor and Professional Photographer",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png"
     },
     {
       "@type": [
@@ -127,7 +128,7 @@
       "@id": "https://www.alanranger.com/#org",
       "name": "Alan Ranger Photography",
       "url": "https://www.alanranger.com/",
-      "telephone": "+44 781 701 7994",
+      "telephone": "+44 7817 017994",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
       "legalName": "Alan Ranger Photography",
       "email": "info@alanranger.com",
@@ -151,9 +152,13 @@
       }
     },
     {
-      "@type": "WebPage",
       "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#webpage",
+      "@type": "WebPage",
+      "dateModified": "2026-05-30",
       "url": "https://www.alanranger.com/rps-courses-mentoring-distinctions",
+      "name": "RPS Courses Distinctions Mentoring - LRPS & ARPS Help",
+      "headline": "RPS Courses Distinctions Mentoring - LRPS & ARPS Help",
+      "description": "Independent RPS Courses distinctions mentoring for your LRPS or ARPS. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime.",
       "inLanguage": "en-GB",
       "isPartOf": {
         "@id": "https://www.alanranger.com/#website"
@@ -166,17 +171,14 @@
       },
       "primaryImageOfPage": {
         "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#primaryimage"
-      },
-      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
-      "headline": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
-      "description": "Independent RPS distinctions mentoring for your LRPS or ARPS panel. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime."
+      }
     },
     {
       "@type": "ImageObject",
       "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#primaryimage",
       "url": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
       "contentUrl": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help primary image"
+      "name": "RPS Courses Distinctions Mentoring - LRPS & ARPS Help primary image"
     },
     {
       "@type": "Service",
@@ -198,8 +200,8 @@
         }
       ],
       "image": "https://static1.squarespace.com/static/5013f4b2c4aaa4752ac69b17/t/5d1211f2ccd6b10001108136/1561390386209/photography-courses-Alan-Ranger-Photography.jpg?format=1500w",
-      "name": "RPS Distinctions Mentoring — LRPS & ARPS Panel Help",
-      "description": "Independent RPS distinctions mentoring for your LRPS or ARPS panel. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime."
+      "name": "RPS Courses Distinctions Mentoring - LRPS & ARPS Help",
+      "description": "Independent RPS Courses distinctions mentoring for your LRPS or ARPS. Online Zoom sessions, plan &amp; build a panel that passes. 100% pass rate. Enrol anytime."
     },
     {
       "@type": "Place",
@@ -213,6 +215,24 @@
         "postalCode": "CV4 9HW",
         "addressCountry": "GB"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/rps-courses-mentoring-distinctions#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "RPS Mentoring",
+          "item": "https://www.alanranger.com/rps-courses-mentoring-distinctions"
+        }
+      ]
     }
   ]
 }
