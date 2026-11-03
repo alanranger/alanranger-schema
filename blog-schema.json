@@ -17,10 +17,10 @@
       },
       "blogPost": [
         {
-          "@id": "https://www.alanranger.com/blog-on-photography/student-photo-essay#blogposting"
+          "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition#blogposting"
         },
         {
-          "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#blogposting"
+          "@id": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style#blogposting"
         },
         {
           "@id": "https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography#blogposting"
@@ -428,9 +428,6 @@
           "@id": "https://www.alanranger.com/blog-on-photography/product-photography-setup#blogposting"
         },
         {
-          "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition#blogposting"
-        },
-        {
           "@id": "https://www.alanranger.com/blog-on-photography/are-camera-uv-filters-worth-it#blogposting"
         },
         {
@@ -605,9 +602,6 @@
           "@id": "https://www.alanranger.com/blog-on-photography/photography-styles-trends-and-tips#blogposting"
         },
         {
-          "@id": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style#blogposting"
-        },
-        {
           "@id": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide#blogposting"
         },
         {
@@ -648,6 +642,12 @@
         },
         {
           "@id": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need#blogposting"
+        },
+        {
+          "@id": "https://www.alanranger.com/blog-on-photography/student-photo-essay#blogposting"
+        },
+        {
+          "@id": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio#blogposting"
         },
         {
           "@id": "https://www.alanranger.com/blog-on-photography/how-much-do-photographers-earn#blogposting"
@@ -992,12 +992,12 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "url": "https://www.alanranger.com/blog-on-photography/student-photo-essay"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "url": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style"
         },
         {
           "@type": "ListItem",
@@ -1677,372 +1677,372 @@
         {
           "@type": "ListItem",
           "position": 138,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition"
-        },
-        {
-          "@type": "ListItem",
-          "position": 139,
           "url": "https://www.alanranger.com/blog-on-photography/are-camera-uv-filters-worth-it"
         },
         {
           "@type": "ListItem",
-          "position": 140,
+          "position": 139,
           "url": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography"
         },
         {
           "@type": "ListItem",
-          "position": 141,
+          "position": 140,
           "url": "https://www.alanranger.com/blog-on-photography/how-to-take-long-exposure-photos"
         },
         {
           "@type": "ListItem",
-          "position": 142,
+          "position": 141,
           "url": "https://www.alanranger.com/blog-on-photography/7-essential-camera-accessories"
         },
         {
           "@type": "ListItem",
-          "position": 143,
+          "position": 142,
           "url": "https://www.alanranger.com/blog-on-photography/are-mirrorless-cameras-better-than-dslrs"
         },
         {
           "@type": "ListItem",
-          "position": 144,
+          "position": 143,
           "url": "https://www.alanranger.com/blog-on-photography/how-to-back-up-photos"
         },
         {
           "@type": "ListItem",
-          "position": 145,
+          "position": 144,
           "url": "https://www.alanranger.com/blog-on-photography/beyond-a-point-and-shoot-camera"
         },
         {
           "@type": "ListItem",
-          "position": 146,
+          "position": 145,
           "url": "https://www.alanranger.com/blog-on-photography/photo-editing-software"
         },
         {
           "@type": "ListItem",
-          "position": 147,
+          "position": 146,
           "url": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs"
         },
         {
           "@type": "ListItem",
-          "position": 148,
+          "position": 147,
           "url": "https://www.alanranger.com/blog-on-photography/photographers-rights-in-the-uk"
         },
         {
           "@type": "ListItem",
-          "position": 149,
+          "position": 148,
           "url": "https://www.alanranger.com/blog-on-photography/creative-photography-workshops-unlocking-your-potential"
         },
         {
           "@type": "ListItem",
-          "position": 150,
+          "position": 149,
           "url": "https://www.alanranger.com/blog-on-photography/wildlife-photography-practice-assignment-free-lesson"
         },
         {
           "@type": "ListItem",
-          "position": 151,
+          "position": 150,
           "url": "https://www.alanranger.com/blog-on-photography/triptych-project-photography-assignment-free-lesson"
         },
         {
           "@type": "ListItem",
-          "position": 152,
+          "position": 151,
           "url": "https://www.alanranger.com/blog-on-photography/landscapes-photography-practise-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 153,
+          "position": 152,
           "url": "https://www.alanranger.com/blog-on-photography/closeup-macro-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 154,
+          "position": 153,
           "url": "https://www.alanranger.com/blog-on-photography/seasons-nature-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 155,
+          "position": 154,
           "url": "https://www.alanranger.com/blog-on-photography/architecture-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 156,
+          "position": 155,
           "url": "https://www.alanranger.com/blog-on-photography/still-life-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 157,
+          "position": 156,
           "url": "https://www.alanranger.com/blog-on-photography/street-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 158,
+          "position": 157,
           "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 159,
+          "position": 158,
           "url": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-practise-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 160,
+          "position": 159,
           "url": "https://www.alanranger.com/blog-on-photography/movement-and-intentional-blur-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 161,
+          "position": 160,
           "url": "https://www.alanranger.com/blog-on-photography/dice-roll-serendipity-awareness-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 162,
+          "position": 161,
           "url": "https://www.alanranger.com/blog-on-photography/lines-shapes-and-geometry-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 163,
+          "position": 162,
           "url": "https://www.alanranger.com/blog-on-photography/patterns-rhythm-and-repetition-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 164,
+          "position": 163,
           "url": "https://www.alanranger.com/blog-on-photography/colour-theory-in-photography-practise-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 165,
+          "position": 164,
           "url": "https://www.alanranger.com/blog-on-photography/storytelling-narrative-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 166,
+          "position": 165,
           "url": "https://www.alanranger.com/blog-on-photography/shadows-and-contrast-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 167,
+          "position": 166,
           "url": "https://www.alanranger.com/blog-on-photography/abstract-photography-practice-assignment-free-lesson"
         },
         {
           "@type": "ListItem",
-          "position": 168,
+          "position": 167,
           "url": "https://www.alanranger.com/blog-on-photography/minimalism-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 169,
+          "position": 168,
           "url": "https://www.alanranger.com/blog-on-photography/visual-weight-and-flow-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 170,
+          "position": 169,
           "url": "https://www.alanranger.com/blog-on-photography/handheld-vs-tripod-stability-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 171,
+          "position": 170,
           "url": "https://www.alanranger.com/blog-on-photography/filters-mastery-nd-gnd-photography"
         },
         {
           "@type": "ListItem",
-          "position": 172,
+          "position": 171,
           "url": "https://www.alanranger.com/blog-on-photography/histogram-and-exposure-review"
         },
         {
           "@type": "ListItem",
-          "position": 173,
+          "position": 172,
           "url": "https://www.alanranger.com/blog-on-photography/white-balance-and-colour-photography"
         },
         {
           "@type": "ListItem",
-          "position": 174,
+          "position": 173,
           "url": "https://www.alanranger.com/blog-on-photography/focus-modes-and-tracking"
         },
         {
           "@type": "ListItem",
-          "position": 175,
+          "position": 174,
           "url": "https://www.alanranger.com/blog-on-photography/light-metering-modes-practice-photography-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 176,
+          "position": 175,
           "url": "https://www.alanranger.com/blog-on-photography/iso-and-noise-control-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 177,
+          "position": 176,
           "url": "https://www.alanranger.com/blog-on-photography/shutter-speed-and-motion-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 178,
+          "position": 177,
           "url": "https://www.alanranger.com/blog-on-photography/aperture-and-depth-of-field-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 179,
+          "position": 178,
           "url": "https://www.alanranger.com/blog-on-photography/exposure-triangle-mastery-photography-practice-assignment"
         },
         {
           "@type": "ListItem",
-          "position": 180,
+          "position": 179,
           "url": "https://www.alanranger.com/blog-on-photography/best-tripod-for-landscape-photography"
         },
         {
           "@type": "ListItem",
-          "position": 181,
+          "position": 180,
           "url": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-seasonal-photography"
         },
         {
           "@type": "ListItem",
-          "position": 182,
+          "position": 181,
           "url": "https://www.alanranger.com/blog-on-photography/camera-lenses-hire-or-buy"
         },
         {
           "@type": "ListItem",
-          "position": 183,
+          "position": 182,
           "url": "https://www.alanranger.com/blog-on-photography/peter-orton-rps-distinctions"
         },
         {
           "@type": "ListItem",
-          "position": 184,
+          "position": 183,
           "url": "https://www.alanranger.com/blog-on-photography/john-simpson-rps-distinctions"
         },
         {
           "@type": "ListItem",
-          "position": 185,
+          "position": 184,
           "url": "https://www.alanranger.com/blog-on-photography/five-creative-autumn-photography-projects"
         },
         {
           "@type": "ListItem",
-          "position": 186,
+          "position": 185,
           "url": "https://www.alanranger.com/blog-on-photography/autumn-photography-tips"
         },
         {
           "@type": "ListItem",
-          "position": 187,
+          "position": 186,
           "url": "https://www.alanranger.com/blog-on-photography/photographing-autumn-uk-landscape-photography-guide"
         },
         {
           "@type": "ListItem",
-          "position": 188,
+          "position": 187,
           "url": "https://www.alanranger.com/blog-on-photography/composition-curiousness-part-1"
         },
         {
           "@type": "ListItem",
-          "position": 189,
+          "position": 188,
           "url": "https://www.alanranger.com/blog-on-photography/what-are-camera-drive-modes"
         },
         {
           "@type": "ListItem",
-          "position": 190,
+          "position": 189,
           "url": "https://www.alanranger.com/blog-on-photography/composition-curiousness-part-2"
         },
         {
           "@type": "ListItem",
-          "position": 191,
+          "position": 190,
           "url": "https://www.alanranger.com/blog-on-photography/jpeg-vs-raw-the-key-differences"
         },
         {
           "@type": "ListItem",
-          "position": 192,
+          "position": 191,
           "url": "https://www.alanranger.com/blog-on-photography/photo-print-sizes-resize-photos"
         },
         {
           "@type": "ListItem",
-          "position": 193,
+          "position": 192,
           "url": "https://www.alanranger.com/blog-on-photography/composition-in-photography"
         },
         {
           "@type": "ListItem",
-          "position": 194,
+          "position": 193,
           "url": "https://www.alanranger.com/blog-on-photography/mastering-the-art-of-shadow-photography"
         },
         {
           "@type": "ListItem",
-          "position": 195,
+          "position": 194,
           "url": "https://www.alanranger.com/blog-on-photography/free-outdoor-photography-exposure-calculator"
         },
         {
           "@type": "ListItem",
-          "position": 196,
+          "position": 195,
           "url": "https://www.alanranger.com/blog-on-photography/photography-styles-trends-and-tips"
         },
         {
           "@type": "ListItem",
-          "position": 197,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style"
-        },
-        {
-          "@type": "ListItem",
-          "position": 198,
+          "position": 196,
           "url": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide"
         },
         {
           "@type": "ListItem",
-          "position": 199,
+          "position": 197,
           "url": "https://www.alanranger.com/blog-on-photography/master-photography-with-a-photography-tutor"
         },
         {
           "@type": "ListItem",
-          "position": 200,
+          "position": 198,
           "url": "https://www.alanranger.com/blog-on-photography/street-photography-tips"
         },
         {
           "@type": "ListItem",
-          "position": 201,
+          "position": 199,
           "url": "https://www.alanranger.com/blog-on-photography/best-camera-bags-for-different-trips"
         },
         {
           "@type": "ListItem",
-          "position": 202,
+          "position": 200,
           "url": "https://www.alanranger.com/blog-on-photography/how-to-take-professional-photos"
         },
         {
           "@type": "ListItem",
-          "position": 203,
+          "position": 201,
           "url": "https://www.alanranger.com/blog-on-photography/camera-sensor-cleaning-guide"
         },
         {
           "@type": "ListItem",
-          "position": 204,
+          "position": 202,
           "url": "https://www.alanranger.com/blog-on-photography/mastering-landscape-photography-tips-and-techniques"
         },
         {
           "@type": "ListItem",
-          "position": 205,
+          "position": 203,
           "url": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-for-beginners"
         },
         {
           "@type": "ListItem",
-          "position": 206,
+          "position": 204,
           "url": "https://www.alanranger.com/blog-on-photography/how-photography-and-data-analysis-work"
         },
         {
           "@type": "ListItem",
-          "position": 207,
+          "position": 205,
           "url": "https://www.alanranger.com/blog-on-photography/the-studies-to-become-a-professional-photographer"
         },
         {
           "@type": "ListItem",
-          "position": 208,
+          "position": 206,
           "url": "https://www.alanranger.com/blog-on-photography/photography-english-talk-with-confidence"
         },
         {
           "@type": "ListItem",
-          "position": 209,
+          "position": 207,
           "url": "https://www.alanranger.com/blog-on-photography/become-a-photographer-on-campus"
         },
         {
           "@type": "ListItem",
-          "position": 210,
+          "position": 208,
           "url": "https://www.alanranger.com/blog-on-photography/learn-photography-online-photography-classes"
         },
         {
           "@type": "ListItem",
-          "position": 211,
+          "position": 209,
           "url": "https://www.alanranger.com/blog-on-photography/technical-skills-photography-students-need"
+        },
+        {
+          "@type": "ListItem",
+          "position": 210,
+          "url": "https://www.alanranger.com/blog-on-photography/student-photo-essay"
+        },
+        {
+          "@type": "ListItem",
+          "position": 211,
+          "url": "https://www.alanranger.com/blog-on-photography/organise-a-photography-portfolio"
         },
         {
           "@type": "ListItem",
