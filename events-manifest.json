@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T13:58:07.308Z",
-  "totalEvents": 85,
+  "generatedAt": "2026-11-03T14:52:21.621Z",
+  "totalEvents": 84,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
@@ -264,14 +264,6 @@
       "group": "lessons",
       "slug": "camera-courses-for-beginners-coventry-3yj3h",
       "schemaFileName": "camera-courses-for-beginners-coventry-3yj3h_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn",
-      "pathKey": "/photographic-workshops-near-me/peak-district-photography-workshops-autumn",
-      "group": "workshops",
-      "slug": "peak-district-photography-workshops-autumn",
-      "schemaFileName": "peak-district-photography-workshops-autumn_event_schema.json",
       "faqFileName": ""
     },
     {
