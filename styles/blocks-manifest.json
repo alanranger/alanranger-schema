@@ -1,0 +1,44 @@
+{
+ "content": "2177b22fa1",
+ "scope": "risk",
+ "pages_read": 478,
+ "styled_blocks_on_site": 3007,
+ "blocks_in_file": 358,
+ "unique_groups": 285,
+ "pages_in_file": 65,
+ "damaged_fixed": [
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition|block-yui_3_17_2_1_1791021845835_30569|0",
+   "source": "snapshot 2026-11-03T17:30"
+  },
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition|block-yui_3_17_2_1_1791032855207_696281|0",
+   "source": "snapshot 2026-11-03T17:30"
+  },
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition|block-yui_3_17_2_1_1791024190612_70600|0",
+   "source": "snapshot 2026-11-03T17:30"
+  },
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition|block-yui_3_17_2_1_1791032855207_664524|0",
+   "source": "snapshot 2026-11-03T17:30"
+  },
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography|block-yui_3_17_2_1_1786299751637_24364|0",
+   "source": "paste Blog Posts/faq-check-2026-10-30/architecture-photography-guide.html"
+  },
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/how-to-photograph-a-solar-eclipse-uk|block-yui_3_17_2_1_1786520657873_194658|0",
+   "source": "paste Blog Posts/how-to-photograph-a-solar-eclipse-uk/02-intro-and-styles.html"
+  }
+ ],
+ "unconfirmed": [
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/the-history-of-photography|block-yui_3_17_2_1_1792075988977_23917|0",
+   "stripped": 1
+  }
+ ],
+ "notes": [
+  "https://www.alanranger.com/home|block-yui_3_17_2_1_1782144021530_48809|0: dropped @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap')"
+ ]
+}
