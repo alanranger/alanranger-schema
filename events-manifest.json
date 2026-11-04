@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:52:21.621Z",
+  "generatedAt": "2026-11-04T16:56:03.273Z",
   "totalEvents": 84,
   "entries": [
     {
@@ -272,14 +272,6 @@
       "group": "workshops",
       "slug": "woodland-photography-walk-kenilworth-crackley-woods",
       "schemaFileName": "woodland-photography-walk-kenilworth-crackley-woods_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
-      "pathKey": "/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
-      "group": "workshops",
-      "slug": "peak-district-photography-workshops-autumn-2",
-      "schemaFileName": "peak-district-photography-workshops-autumn-2_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -664,6 +656,14 @@
       "group": "workshops",
       "slug": "batsford-arboretum-autumn-photography-3nov",
       "schemaFileName": "batsford-arboretum-autumn-photography-3nov_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
+      "pathKey": "/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
+      "group": "workshops",
+      "slug": "peak-district-photography-workshops-autumn-2",
+      "schemaFileName": "peak-district-photography-workshops-autumn-2_event_schema.json",
       "faqFileName": ""
     },
     {

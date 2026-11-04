@@ -13,22 +13,22 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "url": "https://www.alanranger.com/photographic-workshops-near-me/norfolk-photography-workshop"
         },
         {
           "@type": "ListItem",
-          "position": 4,
+          "position": 3,
           "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry"
         },
         {
           "@type": "ListItem",
-          "position": 5,
+          "position": 4,
           "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
         },
         {
           "@type": "ListItem",
@@ -258,6 +258,11 @@
         {
           "@type": "ListItem",
           "position": 51,
+          "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
           "url": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn"
         }
       ]
@@ -283,30 +288,6 @@
           "position": 3,
           "name": "Woodland Photography Walk | Kenilworth | Crackley Woods",
           "item": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods"
-        }
-      ]
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#breadcrumbs",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://www.alanranger.com"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Photo Workshops UK",
-          "item": "https://www.alanranger.com/photo-workshops-uk"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
-          "item": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
         }
       ]
     },
@@ -379,6 +360,30 @@
           "position": 3,
           "name": "Woodland Photography Walk | Solihull | Hay Woods - Winter",
           "item": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Woodland Photography Walk - Solihull - Hay Woods - Winter",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
         }
       ]
     },
@@ -1464,6 +1469,30 @@
     },
     {
       "@type": "BreadcrumbList",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.alanranger.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
       "@id": "https://www.alanranger.com/photographic-workshops-near-me/lake-district-photography-workshop-autumn#breadcrumbs",
       "itemListElement": [
         {
@@ -1572,7 +1601,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ1654264",
+        "sku": "SQ1288994",
         "availabilityStarts": "2026-11-06T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -1590,7 +1619,7 @@
           }
         }
       },
-      "sku": "SQ1654264",
+      "sku": "SQ1288994",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -1706,234 +1735,6 @@
       "subjectOf": {
         "@type": "WebPage",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods"
-      }
-    },
-    {
-      "@type": [
-        "Product",
-        "Event"
-      ],
-      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#event",
-      "identifier": "peak-district-photography-workshops-autumn-2",
-      "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
-      "description": "07/11/2026 Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1699522410481-3RW7I6IHD1I8ZVWQDSZ0/photographing-autumn.jpg",
-      "startDate": "2026-11-07T09:30:00",
-      "endDate": "2026-11-07T16:00:00",
-      "duration": "PT390M",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": false,
-      "inLanguage": "en-GB",
-      "organizer": {
-        "@type": "Organization",
-        "name": "Alan Ranger Photography",
-        "url": "https://www.alanranger.com",
-        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
-          "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
-          "addressCountry": "GB"
-        },
-        "sameAs": [
-          "https://www.instagram.com/alanrangerphoto",
-          "https://www.facebook.com/alanrangerphotography",
-          "https://www.linkedin.com/in/alanranger"
-        ]
-      },
-      "location": {
-        "@type": "Place",
-        "name": "Peak District",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Upper Padley",
-          "addressLocality": "Grindleford",
-          "addressRegion": "East Midlands",
-          "postalCode": "S32 2JA",
-          "addressCountry": "GB"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 53.343,
-          "longitude": -1.777
-        }
-      },
-      "about": "Photography education and training",
-      "keywords": "autumn, photography course, photography workshop, 1-day, Peak District",
-      "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
-        "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire"
-      ],
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
-      },
-      "performer": {
-        "@type": "Person",
-        "name": "Alan Ranger",
-        "sameAs": [
-          "https://www.linkedin.com/in/alanranger",
-          "https://www.youtube.com/@alanrangerphotography",
-          "https://www.alanranger.com/about-alan-ranger"
-        ]
-      },
-      "offers": {
-        "@type": "Offer",
-        "price": "150.00",
-        "priceCurrency": "GBP",
-        "availability": "https://schema.org/InStock",
-        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
-        "validFrom": "2025-11-11 12:31:11",
-        "priceValidUntil": "2026-11-07",
-        "seller": {
-          "@id": "https://www.alanranger.com/#org"
-        },
-        "shippingDetails": {
-          "@type": "OfferShippingDetails",
-          "doesNotShip": true,
-          "shippingDestination": {
-            "@type": "DefinedRegion",
-            "addressCountry": "GB"
-          }
-        },
-        "sku": "SQ8457424",
-        "availabilityStarts": "2026-11-07T09:30:00.000Z",
-        "itemCondition": "https://schema.org/NewCondition",
-        "hasMerchantReturnPolicy": {
-          "@type": "MerchantReturnPolicy",
-          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-          "merchantReturnDays": 28,
-          "refundType": "http://schema.org/FullRefund",
-          "applicableCountry": "GB",
-          "returnMethod": "http://schema.org/ReturnByMail",
-          "returnFees": "https://schema.org/ReturnShippingFees",
-          "returnShippingFeesAmount": {
-            "@type": "MonetaryAmount",
-            "value": "50.00",
-            "currency": "GBP"
-          }
-        }
-      },
-      "sku": "SQ8457424",
-      "brand": {
-        "@type": "Brand",
-        "name": "Alan Ranger Photography"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 22,
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tony McKenna"
-          },
-          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-11-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Cherie Lewis"
-          },
-          "reviewBody": "We had a fabulous day of photography in Padley Gorge and Boleshill Quarry. Alan was a great tutor - incredibly patient and informative. I learnt a lot in a short space of time and it was great to be able to put that learning into practice in a stunning location. Alan had a brilliant knowledge of ...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Amanda Hillary"
-          },
-          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Adam Riman"
-          },
-          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Farrington"
-          },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-19",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        }
-      ],
-      "potentialAction": {
-        "@type": "RegisterAction",
-        "target": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
-      },
-      "subjectOf": {
-        "@type": "WebPage",
-        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
       }
     },
     {
@@ -2460,7 +2261,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ1654264",
+        "sku": "SQ1288994",
         "availabilityStarts": "2026-12-04T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2478,7 +2279,7 @@
           }
         }
       },
-      "sku": "SQ1654264",
+      "sku": "SQ1288994",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2594,6 +2395,118 @@
       "subjectOf": {
         "@type": "WebPage",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-solihull-hay-woods"
+      }
+    },
+    {
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods#event",
+      "identifier": "woodland-photography-walk-hay-woods",
+      "name": "Woodland Photography Walk - Solihull - Hay Woods - Winter",
+      "description": "02/01/2027 Woodland Photography Walk - Enjoy and learn in a 2hr informal walk through a woodland with a camera under the support of a professional photographer",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709978483227-AGNBKSFNJEJ0VP2ERGWQ/Down+Under.jpg",
+      "startDate": "2027-01-02T09:30:00",
+      "endDate": "2027-01-02T11:30:00",
+      "duration": "PT120M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": true,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Solihull",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Haywood Ln",
+          "addressLocality": "Rowington",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV35 7JQ",
+          "addressCountry": "GB"
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Solihull",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+        "validFrom": "2026-11-04 15:17:37",
+        "priceValidUntil": "2027-01-02",
+        "seller": {
+          "@id": "https://www.alanranger.com/#org"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": true,
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "availabilityStarts": "2027-01-02T09:30:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
       }
     },
     {
@@ -5335,9 +5248,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -5354,9 +5267,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -5567,9 +5480,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -5586,9 +5499,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -5799,9 +5712,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -5818,9 +5731,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6031,9 +5944,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6050,9 +5963,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6263,9 +6176,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6282,9 +6195,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6495,9 +6408,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6514,9 +6427,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6954,9 +6867,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
+            "name": "Mike McMahon"
           },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
+          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -6973,9 +6886,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mike McMahon"
+            "name": "Sarah Joyce"
           },
-          "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, ...",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -8155,12 +8068,50 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 22,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -8203,25 +8154,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Amanda Hillary"
-          },
-          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Adam Riman"
           },
           "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
@@ -8232,25 +8164,6 @@
             "worstRating": "1"
           },
           "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Farrington"
-          },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-19",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -11018,12 +10931,50 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 22,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -11066,25 +11017,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Amanda Hillary"
-          },
-          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Adam Riman"
           },
           "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
@@ -11095,25 +11027,6 @@
             "worstRating": "1"
           },
           "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Farrington"
-          },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-19",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
@@ -11522,9 +11435,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
+            "name": "supriya s m"
           },
-          "reviewBody": "Learned a lot",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -11541,9 +11454,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "James Collins"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Learned a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -11754,9 +11667,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
+            "name": "supriya s m"
           },
-          "reviewBody": "Learned a lot",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -11773,9 +11686,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "James Collins"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Learned a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -11986,9 +11899,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
+            "name": "supriya s m"
           },
-          "reviewBody": "Learned a lot",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -12005,9 +11918,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "James Collins"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Learned a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -12218,9 +12131,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "James Collins"
+            "name": "supriya s m"
           },
-          "reviewBody": "Learned a lot",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -12237,9 +12150,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "James Collins"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Learned a lot",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -12283,6 +12196,234 @@
       "superEvent": {
         "@type": "EventSeries",
         "@id": "https://www.alanranger.com#series-batsford-arboretum-autumn-photography-workshop"
+      }
+    },
+    {
+      "@type": [
+        "Product",
+        "Event"
+      ],
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2#event",
+      "identifier": "peak-district-photography-workshops-autumn-2",
+      "name": "Peak District Photography - Autumn Workshop - Padley Gorge",
+      "description": "07/11/2027 Peak District Autumn Photography Workshops - Padley Gorge - a narrow, tree-lined gorge with a river which provides ample opportunity for autumn shots",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1699522410481-3RW7I6IHD1I8ZVWQDSZ0/photographing-autumn.jpg",
+      "startDate": "2027-11-07T09:30:00",
+      "endDate": "2027-11-07T16:00:00",
+      "duration": "PT390M",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": false,
+      "inLanguage": "en-GB",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Alan Ranger Photography",
+        "url": "https://www.alanranger.com",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/b859ad2b-1442-4595-b9a4-410c32299bf8/ALAN+RANGER+photography+LOGO+BLACK.+switched+small.png?format=1500w",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "45 Hathaway Road",
+          "addressLocality": "Coventry",
+          "addressRegion": "West Midlands",
+          "postalCode": "CV4 9HW",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.instagram.com/alanrangerphoto",
+          "https://www.facebook.com/alanrangerphotography",
+          "https://www.linkedin.com/in/alanranger"
+        ]
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Peak District",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Upper Padley",
+          "addressLocality": "Grindleford",
+          "addressRegion": "East Midlands",
+          "postalCode": "S32 2JA",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.343,
+          "longitude": -1.777
+        }
+      },
+      "about": "Photography education and training",
+      "keywords": "autumn, photography course, photography workshop, 1-day, Peak District",
+      "sameAs": [
+        "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
+        "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Alan Ranger",
+        "sameAs": [
+          "https://www.linkedin.com/in/alanranger",
+          "https://www.youtube.com/@alanrangerphotography",
+          "https://www.alanranger.com/about-alan-ranger"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "150.00",
+        "priceCurrency": "GBP",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2",
+        "validFrom": "2026-11-04 10:25:27",
+        "priceValidUntil": "2027-11-07",
+        "seller": {
+          "@id": "https://www.alanranger.com/#org"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "doesNotShip": true,
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "GB"
+          }
+        },
+        "sku": "SQ8457424",
+        "availabilityStarts": "2027-11-07T09:30:00.000Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 28,
+          "refundType": "http://schema.org/FullRefund",
+          "applicableCountry": "GB",
+          "returnMethod": "http://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees",
+          "returnShippingFeesAmount": {
+            "@type": "MonetaryAmount",
+            "value": "50.00",
+            "currency": "GBP"
+          }
+        }
+      },
+      "sku": "SQ8457424",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.96",
+        "reviewCount": 24,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony McKenna"
+          },
+          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cherie Lewis"
+          },
+          "reviewBody": "We had a fabulous day of photography in Padley Gorge and Boleshill Quarry. Alan was a great tutor - incredibly patient and informative. I learnt a lot in a short space of time and it was great to be able to put that learning into practice in a stunning location. Alan had a brilliant knowledge of ...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adam Riman"
+          },
+          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-17",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        }
+      ],
+      "potentialAction": {
+        "@type": "RegisterAction",
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
+      },
+      "subjectOf": {
+        "@type": "WebPage",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/peak-district-photography-workshops-autumn-2"
       }
     },
     {
