@@ -64,7 +64,7 @@
           "sku": "SQ5616379",
           "price": "150.00",
           "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "validFrom": "2019-04-09",
           "priceValidUntil": "2027-12-31",
           "name": "3wks Mondays - Nov 9 - Nov 23 Coventry",
@@ -396,9 +396,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Kiyara"
+            "name": "Toby (Druid, Keeper Of Cookies)"
           },
-          "reviewBody": "I completed the three week Beginners Camera Course and it really helped me start to understand the different settings on my camera. Alan is a great teacher!",
+          "reviewBody": "Excellent knowledge, and explained simply. Gave out small booklets every week with incredibly useful notes and referable information, so you can easily use them for future reference. Course includes YouTube videos accessible online for more reference where wanted Beginners Camera Course, had a small group of 3 taught by Alan using a PowerPoint. Gave time to ask questions",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -415,9 +415,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Toby (Druid, Keeper Of Cookies)"
+            "name": "Kiyara"
           },
-          "reviewBody": "Excellent knowledge, and explained simply. Gave out small booklets every week with incredibly useful notes and referable information, so you can easily use them for future reference. Course includes YouTube videos accessible online for more reference where wanted Beginners Camera Course, had a small group of 3 taught by Alan using a PowerPoint. Gave time to ask questions",
+          "reviewBody": "I completed the three week Beginners Camera Course and it really helped me start to understand the different settings on my camera. Alan is a great teacher!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -814,9 +814,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Britt van zeeland"
+            "name": "Clifford Katsande"
           },
-          "reviewBody": "Joined for the 3 week beginner course. Alan is super knowledgeable, I find the resources given most valuable as it allows me to revisit and expand my learning beyond what we covered in class. Could have done with the longer course I feel. Thank you",
+          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -833,9 +833,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Clifford Katsande"
+            "name": "KrishnaKumar Kuttan"
           },
-          "reviewBody": "Alan provided Very Good overall experience i picked up on a lot of information on how the camera works and why we take pictures. the amount of information i have gained in the last 3 weeks alone has been surprising but very helpful i would highly recommend anyone looking to improve their photography and actually figure out why they want to take pictures spend some time with Alan",
+          "reviewBody": "Sessions on Beginner’s course from Alan is very impressive in understanding on technical aspects on how camera works. Enjoyed the sessions and hopefully improve my camera skills.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

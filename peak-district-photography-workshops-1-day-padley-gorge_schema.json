@@ -55,7 +55,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 7 th Nov 2026 - 09:30 - 16:00 Sat 22 nd May 2027 - 09:30 - 16:00 Sat 16 th Oct 2027 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: This Peak District photography...",
+      "description": "Join me in the Peak District in Hope Valley. Padley Gorge and Bolehill Quarry throughout the year on Peak District photography workshops | All levels welcome Summary Location: Peak District - Derbyshire Dates: Sun 1 st Nov 2026 - 09:30 - 16:00 Sat 22 nd May 2027 - 09:30 - 16:00 Sat 16 th Oct 2027 - 09:30 - 16:00 Sat 7 th Nov 2027 - 09:30 - 16:00 Participants: Max 6 Fitness: 3. Moderate Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details: Padley Gorge And Bolehill Quarry Description: This Peak District photography...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/f6bd9c81-8d71-40ff-8af4-680c9b2b5874/Bolehill+Oct+2025+-+%2301.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
       "offers": [
@@ -104,49 +104,6 @@
         },
         {
           "@type": "Offer",
-          "sku": "SQ9037810",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2019-06-28",
-          "priceValidUntil": "2026-11-07",
-          "name": "Padley and Bolehill Sat 7th Nov  2026 09:30am - 4:00pm",
-          "priceSpecification": {
-            "price": "150.00",
-            "priceCurrency": "GBP"
-          },
-          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
           "sku": "SQ2363666",
           "price": "150.00",
           "priceCurrency": "GBP",
@@ -159,7 +116,7 @@
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#offer3",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#offer2",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -202,6 +159,49 @@
             "priceCurrency": "GBP"
           },
           "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ9037810",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2019-06-28",
+          "priceValidUntil": "2027-11-07",
+          "name": "Padley and Bolehill Sat 7th Nov  2027 09:30am - 4:00pm",
+          "priceSpecification": {
+            "price": "150.00",
+            "priceCurrency": "GBP"
+          },
+          "url": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire",
           "@id": "https://www.alanranger.com/photo-workshops-uk/landscape-peak-district-photography-workshops-derbyshire#offer4",
           "seller": {
             "@type": "Organization",
@@ -233,6 +233,44 @@
         }
       ],
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Alan is incredibly knowledgeable and was able to tailor his teaching to everyone’s individual level, which I was very grateful for.  I am really pleased with the photos I managed to capture on the day. Thank you Alan for a fantastic day and sharing your photography knowledge.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help, then leaving me to put it into practice. Great day with the group and would recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -275,9 +313,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Amanda Hillary"
+            "name": "Adam Riman"
           },
-          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
+          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -294,9 +332,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Adam Riman"
+            "name": "Amanda Hillary"
           },
-          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
+          "reviewBody": "Great day on the Peaks photography workshop. Alan was brilliant, took time to work with us all individually and so pleased with the skills and shots I came away with. The smaller group size was a huge bonus too. Highly recommend!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -389,9 +427,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Colin Whittaker"
+            "name": "Alex McDonald"
           },
-          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -408,9 +446,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
+            "name": "Colin Whittaker"
           },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -654,8 +692,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.95",
-        "reviewCount": 22,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
