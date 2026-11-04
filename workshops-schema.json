@@ -2413,7 +2413,7 @@
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "inLanguage": "en-GB",
       "organizer": {
         "@type": "Organization",
@@ -2449,7 +2449,8 @@
       "about": "Photography education and training",
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Solihull",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"
+        "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+        "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -2466,7 +2467,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "0.00",
+        "price": "15.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
@@ -2483,6 +2484,7 @@
             "addressCountry": "GB"
           }
         },
+        "sku": "SQ1288994",
         "availabilityStarts": "2027-01-02T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2500,6 +2502,115 @@
           }
         }
       },
+      "sku": "SQ1288994",
+      "brand": {
+        "@type": "Brand",
+        "name": "Alan Ranger Photography"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.82",
+        "reviewCount": 39,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Indianna"
+          },
+          "reviewBody": "Had a great time, really informative. Learned a great deal with my Cannon camera. Would 100% go out on a photography walk with Alan again!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-01-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pravin Pawar"
+          },
+          "reviewBody": "I had an incredible experience training with Alan. His passion for photography is truly infectious, and his ability to break down complex techniques into easy-to-understand lessons made learning both fun and effective. Whether you're a complete beginner or looking to refine your skills, he tailor...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly Pownall"
+          },
+          "reviewBody": "Went on a woodland walk session which was enjoyable and informative.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-04-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Harrop"
+          },
+          "reviewBody": "The woodland walks that I have been on have been interesting and well worth it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy Troth"
+          },
+          "reviewBody": "This is one of many Woodland Photo Walks I have now been on with Alan. They are extremely enjoyable. Alan is always there to help with both the technical side of photography as well as photo composition. He offers excellent technical advice as well as constructive criticism. I would thoroughly re...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-02-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Trustpilot"
+          }
+        }
+      ],
       "potentialAction": {
         "@type": "RegisterAction",
         "target": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods"

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T16:56:03.273Z",
-  "totalEvents": 84,
+  "generatedAt": "2026-11-04T19:45:17.023Z",
+  "totalEvents": 85,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
@@ -296,6 +296,14 @@
       "group": "workshops",
       "slug": "woodland-photography-walk-solihull-hay-woods",
       "schemaFileName": "woodland-photography-walk-solihull-hay-woods_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+      "pathKey": "/photographic-workshops-near-me/woodland-photography-walk-hay-woods",
+      "group": "workshops",
+      "slug": "woodland-photography-walk-hay-woods",
+      "schemaFileName": "woodland-photography-walk-hay-woods_event_schema.json",
       "faqFileName": ""
     },
     {
