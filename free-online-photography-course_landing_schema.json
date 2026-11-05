@@ -282,6 +282,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Bruce Radebaugh"
+          },
+          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds .",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-08-24",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Andrew Blaxhall"
           },
           "reviewBody": "Great helpful material, great presentation and ideas",
@@ -304,25 +323,6 @@
             "name": "Michael Simm"
           },
           "reviewBody": "I can’t recommend this course enough. It really does cover everything in a very comprehensive and easily digestible way. I’ve played around with photography for a lot of my life but this course gave me the opportunity to learn about the theory and also practical elements of the discipline. I’d definitely recommend purchasing the .pdf download. It’s much easier to navigate than the online course and I felt it was a good way to donate for this great resource.  Thank you Alan!!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-08-24",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Bruce Radebaugh"
-          },
-          "reviewBody": "Alan's lessons are clear, concise and maybe the best on helping with excellent tips to take better photos and attract more birds .",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
