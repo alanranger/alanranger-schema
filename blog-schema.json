@@ -17,6 +17,9 @@
       },
       "blogPost": [
         {
+          "@id": "https://www.alanranger.com/blog-on-photography/photo-editing-software#blogposting"
+        },
+        {
           "@id": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition#blogposting"
         },
         {
@@ -447,9 +450,6 @@
         },
         {
           "@id": "https://www.alanranger.com/blog-on-photography/beyond-a-point-and-shoot-camera#blogposting"
-        },
-        {
-          "@id": "https://www.alanranger.com/blog-on-photography/photo-editing-software#blogposting"
         },
         {
           "@id": "https://www.alanranger.com/blog-on-photography/photographers-copyright-digital-images-photographs#blogposting"
@@ -971,727 +971,727 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition"
+          "url": "https://www.alanranger.com/blog-on-photography/photo-editing-software"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "url": "https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-find-your-photography-style"
         },
         {
           "@type": "ListItem",
           "position": 4,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-is-an-art-of-observation"
+          "url": "https://www.alanranger.com/blog-on-photography/the-art-of-storytelling-photography"
         },
         {
           "@type": "ListItem",
           "position": 5,
-          "url": "https://www.alanranger.com/blog-on-photography/the-history-of-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-is-an-art-of-observation"
         },
         {
           "@type": "ListItem",
           "position": 6,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem"
+          "url": "https://www.alanranger.com/blog-on-photography/the-history-of-photography"
         },
         {
           "@type": "ListItem",
           "position": 7,
-          "url": "https://www.alanranger.com/blog-on-photography/what-a-good-photograph-looks-like"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-gear-isnt-the-problem"
         },
         {
           "@type": "ListItem",
           "position": 8,
-          "url": "https://www.alanranger.com/blog-on-photography/the-art-of-slow-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-a-good-photograph-looks-like"
         },
         {
           "@type": "ListItem",
           "position": 9,
-          "url": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition"
+          "url": "https://www.alanranger.com/blog-on-photography/the-art-of-slow-photography"
         },
         {
           "@type": "ListItem",
           "position": 10,
-          "url": "https://www.alanranger.com/blog-on-photography/youtube-photography-cant-replace-teaching"
+          "url": "https://www.alanranger.com/blog-on-photography/simplifying-your-photography-composition"
         },
         {
           "@type": "ListItem",
           "position": 11,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-teaching-has-it-backwards"
+          "url": "https://www.alanranger.com/blog-on-photography/youtube-photography-cant-replace-teaching"
         },
         {
           "@type": "ListItem",
           "position": 12,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-teaching-has-it-backwards"
         },
         {
           "@type": "ListItem",
           "position": 13,
-          "url": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-contrast-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 14,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/finding-your-compositional-balance"
         },
         {
           "@type": "ListItem",
           "position": 15,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-negative-space-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 16,
-          "url": "https://www.alanranger.com/blog-on-photography/mastering-photography-composition-rules"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-framing-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 17,
-          "url": "https://www.alanranger.com/blog-on-photography/what-are-leading-lines-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/mastering-photography-composition-rules"
         },
         {
           "@type": "ListItem",
           "position": 18,
-          "url": "https://www.alanranger.com/blog-on-photography/the-way-of-wu-wei-philosophy"
+          "url": "https://www.alanranger.com/blog-on-photography/what-are-leading-lines-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 19,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-framework"
+          "url": "https://www.alanranger.com/blog-on-photography/the-way-of-wu-wei-philosophy"
         },
         {
           "@type": "ListItem",
           "position": 20,
-          "url": "https://www.alanranger.com/blog-on-photography/full-frame-vs-cropped-sensor"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-framework"
         },
         {
           "@type": "ListItem",
           "position": 21,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/full-frame-vs-cropped-sensor"
         },
         {
           "@type": "ListItem",
           "position": 22,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-white-balance-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 23,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-metering-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-dynamic-range-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 24,
-          "url": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-a-guide-for-photographers"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-metering-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 25,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-iso-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-a-guide-for-photographers"
         },
         {
           "@type": "ListItem",
           "position": 26,
-          "url": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-iso-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 27,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/art-of-macro-photography"
         },
         {
           "@type": "ListItem",
           "position": 28,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-focus-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 29,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-shutter-speed"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-manual-exposure-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 30,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-focal-length-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-shutter-speed"
         },
         {
           "@type": "ListItem",
           "position": 31,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-depth-of-field"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-focal-length-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 32,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-aperture-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-depth-of-field"
         },
         {
           "@type": "ListItem",
           "position": 33,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-exposure-in-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-aperture-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 34,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-a-solar-eclipse-uk"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-exposure-in-photography"
         },
         {
           "@type": "ListItem",
           "position": 35,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-lessons-for-beginners"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-a-solar-eclipse-uk"
         },
         {
           "@type": "ListItem",
           "position": 36,
-          "url": "https://www.alanranger.com/blog-on-photography/best-free-online-photography-courses"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-lessons-for-beginners"
         },
         {
           "@type": "ListItem",
           "position": 37,
-          "url": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel"
+          "url": "https://www.alanranger.com/blog-on-photography/best-free-online-photography-courses"
         },
         {
           "@type": "ListItem",
           "position": 38,
-          "url": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training"
+          "url": "https://www.alanranger.com/blog-on-photography/richard-johnson-lrps-rps-distinctions-panel"
         },
         {
           "@type": "ListItem",
           "position": 39,
-          "url": "https://www.alanranger.com/blog-on-photography/transfer-photos-iphone-to-windows"
+          "url": "https://www.alanranger.com/blog-on-photography/partner-to-jaguar-land-rover-training"
         },
         {
           "@type": "ListItem",
           "position": 40,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel"
+          "url": "https://www.alanranger.com/blog-on-photography/transfer-photos-iphone-to-windows"
         },
         {
           "@type": "ListItem",
           "position": 41,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-arps-panel"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-lrps-panel"
         },
         {
           "@type": "ListItem",
           "position": 42,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-plan-an-arps-panel"
         },
         {
           "@type": "ListItem",
           "position": 43,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-photography-editing-workflow-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-sports-action-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 44,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-woodland-photography-year-round-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-photography-editing-workflow-guide"
         },
         {
           "@type": "ListItem",
           "position": 45,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-street-photography-ethics-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-woodland-photography-year-round-guide"
         },
         {
           "@type": "ListItem",
           "position": 46,
-          "url": "https://www.alanranger.com/blog-on-photography/garden-wildlife-photography-uk-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-street-photography-ethics-guide"
         },
         {
           "@type": "ListItem",
           "position": 47,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/garden-wildlife-photography-uk-guide"
         },
         {
           "@type": "ListItem",
           "position": 48,
-          "url": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-architectural-exterior-photography"
         },
         {
           "@type": "ListItem",
           "position": 49,
-          "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework"
+          "url": "https://www.alanranger.com/blog-on-photography/building-rps-panel-case-study"
         },
         {
           "@type": "ListItem",
           "position": 50,
-          "url": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-vision-framework"
         },
         {
           "@type": "ListItem",
           "position": 51,
-          "url": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert"
+          "url": "https://www.alanranger.com/blog-on-photography/autumn-arboretum-photography-uk-guide"
         },
         {
           "@type": "ListItem",
           "position": 52,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-waterfall-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/black-and-white-when-to-convert"
         },
         {
           "@type": "ListItem",
           "position": 53,
-          "url": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-waterfall-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 54,
-          "url": "https://www.alanranger.com/blog-on-photography/long-exposure-seascapes-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/pet-dog-photography-uk-guide"
         },
         {
           "@type": "ListItem",
           "position": 55,
-          "url": "https://www.alanranger.com/blog-on-photography/uk-bluebell-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/long-exposure-seascapes-guide"
         },
         {
           "@type": "ListItem",
           "position": 56,
-          "url": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/uk-bluebell-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 57,
-          "url": "https://www.alanranger.com/blog-on-photography/bird-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/travel-photography-beginners-guide"
         },
         {
           "@type": "ListItem",
           "position": 58,
-          "url": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners"
+          "url": "https://www.alanranger.com/blog-on-photography/bird-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 59,
-          "url": "https://www.alanranger.com/blog-on-photography/food-photography-at-home"
+          "url": "https://www.alanranger.com/blog-on-photography/macro-photography-beginners"
         },
         {
           "@type": "ListItem",
           "position": 60,
-          "url": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/food-photography-at-home"
         },
         {
           "@type": "ListItem",
           "position": 61,
-          "url": "https://www.alanranger.com/blog-on-photography/etsy-product-photography-rules"
+          "url": "https://www.alanranger.com/blog-on-photography/airbnb-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 62,
-          "url": "https://www.alanranger.com/blog-on-photography/headshots-at-home-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/etsy-product-photography-rules"
         },
         {
           "@type": "ListItem",
           "position": 63,
-          "url": "https://www.alanranger.com/blog-on-photography/portrait-lighting-techniques"
+          "url": "https://www.alanranger.com/blog-on-photography/headshots-at-home-guide"
         },
         {
           "@type": "ListItem",
           "position": 64,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-northern-lights"
+          "url": "https://www.alanranger.com/blog-on-photography/portrait-lighting-techniques"
         },
         {
           "@type": "ListItem",
           "position": 65,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-northern-lights"
         },
         {
           "@type": "ListItem",
           "position": 66,
-          "url": "https://www.alanranger.com/blog-on-photography/corporate-photography-training-coventry"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-gift-vouchers-ideas"
         },
         {
           "@type": "ListItem",
           "position": 67,
-          "url": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire"
+          "url": "https://www.alanranger.com/blog-on-photography/corporate-photography-training-coventry"
         },
         {
           "@type": "ListItem",
           "position": 68,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-fireworks"
+          "url": "https://www.alanranger.com/blog-on-photography/product-photography-warwickshire"
         },
         {
           "@type": "ListItem",
           "position": 69,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-product-photos-with-iphone"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-fireworks"
         },
         {
           "@type": "ListItem",
           "position": 70,
-          "url": "https://www.alanranger.com/blog-on-photography/real-estate-photography-tips"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-product-photos-with-iphone"
         },
         {
           "@type": "ListItem",
           "position": 71,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-artwork"
+          "url": "https://www.alanranger.com/blog-on-photography/real-estate-photography-tips"
         },
         {
           "@type": "ListItem",
           "position": 72,
-          "url": "https://www.alanranger.com/blog-on-photography/product-photography-lighting"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-artwork"
         },
         {
           "@type": "ListItem",
           "position": 73,
-          "url": "https://www.alanranger.com/blog-on-photography/diy-product-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/product-photography-lighting"
         },
         {
           "@type": "ListItem",
           "position": 74,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-jewelry"
+          "url": "https://www.alanranger.com/blog-on-photography/diy-product-photography"
         },
         {
           "@type": "ListItem",
           "position": 75,
-          "url": "https://www.alanranger.com/blog-on-photography/natural-light-photography-tips"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-photograph-jewelry"
         },
         {
           "@type": "ListItem",
           "position": 76,
-          "url": "https://www.alanranger.com/blog-on-photography/product-photography-ideas"
+          "url": "https://www.alanranger.com/blog-on-photography/natural-light-photography-tips"
         },
         {
           "@type": "ListItem",
           "position": 77,
-          "url": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/product-photography-ideas"
         },
         {
           "@type": "ListItem",
           "position": 78,
-          "url": "https://www.alanranger.com/blog-on-photography/night-photography-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/corporate-headshot-photography"
         },
         {
           "@type": "ListItem",
           "position": 79,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-real-estate-photos"
+          "url": "https://www.alanranger.com/blog-on-photography/night-photography-settings"
         },
         {
           "@type": "ListItem",
           "position": 80,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-care-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-real-estate-photos"
         },
         {
           "@type": "ListItem",
           "position": 81,
-          "url": "https://www.alanranger.com/blog-on-photography/food-photography-tips"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-care-guide"
         },
         {
           "@type": "ListItem",
           "position": 82,
-          "url": "https://www.alanranger.com/blog-on-photography/learn-photography-online"
+          "url": "https://www.alanranger.com/blog-on-photography/food-photography-tips"
         },
         {
           "@type": "ListItem",
           "position": 83,
-          "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-tips"
+          "url": "https://www.alanranger.com/blog-on-photography/learn-photography-online"
         },
         {
           "@type": "ListItem",
           "position": 84,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners"
+          "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-tips"
         },
         {
           "@type": "ListItem",
           "position": 85,
-          "url": "https://www.alanranger.com/blog-on-photography/professional-headshots-for-linkedin"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-concepts-for-beginners"
         },
         {
           "@type": "ListItem",
           "position": 86,
-          "url": "https://www.alanranger.com/blog-on-photography/top-tips-for-photographing-bluebells"
+          "url": "https://www.alanranger.com/blog-on-photography/professional-headshots-for-linkedin"
         },
         {
           "@type": "ListItem",
           "position": 87,
-          "url": "https://www.alanranger.com/blog-on-photography/top-bluebell-woodland-tips"
+          "url": "https://www.alanranger.com/blog-on-photography/top-tips-for-photographing-bluebells"
         },
         {
           "@type": "ListItem",
           "position": 88,
-          "url": "https://www.alanranger.com/blog-on-photography/best-way-to-learn-photography-2026"
+          "url": "https://www.alanranger.com/blog-on-photography/top-bluebell-woodland-tips"
         },
         {
           "@type": "ListItem",
           "position": 89,
-          "url": "https://www.alanranger.com/blog-on-photography/patricia-pearl-lrps-rps-distinctions-panel"
+          "url": "https://www.alanranger.com/blog-on-photography/best-way-to-learn-photography-2026"
         },
         {
           "@type": "ListItem",
           "position": 90,
-          "url": "https://www.alanranger.com/blog-on-photography/7-most-common-camera-exposure-mistakes"
+          "url": "https://www.alanranger.com/blog-on-photography/patricia-pearl-lrps-rps-distinctions-panel"
         },
         {
           "@type": "ListItem",
           "position": 91,
-          "url": "https://www.alanranger.com/blog-on-photography/mary-hamilton-rps-distinctions-panel"
+          "url": "https://www.alanranger.com/blog-on-photography/7-most-common-camera-exposure-mistakes"
         },
         {
           "@type": "ListItem",
           "position": 92,
-          "url": "https://www.alanranger.com/blog-on-photography/10-basic-camera-settings-for-camera"
+          "url": "https://www.alanranger.com/blog-on-photography/mary-hamilton-rps-distinctions-panel"
         },
         {
           "@type": "ListItem",
           "position": 93,
-          "url": "https://www.alanranger.com/blog-on-photography/best-cameras-for-beginners"
+          "url": "https://www.alanranger.com/blog-on-photography/10-basic-camera-settings-for-camera"
         },
         {
           "@type": "ListItem",
           "position": 94,
-          "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"
+          "url": "https://www.alanranger.com/blog-on-photography/best-cameras-for-beginners"
         },
         {
           "@type": "ListItem",
           "position": 95,
-          "url": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom"
+          "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"
         },
         {
           "@type": "ListItem",
           "position": 96,
-          "url": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test"
+          "url": "https://www.alanranger.com/blog-on-photography/delete-duplicate-photos-in-lightroom"
         },
         {
           "@type": "ListItem",
           "position": 97,
-          "url": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do"
+          "url": "https://www.alanranger.com/blog-on-photography/take-the-on-line-colour-test"
         },
         {
           "@type": "ListItem",
           "position": 98,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/what-do-camera-lens-filters-do"
         },
         {
           "@type": "ListItem",
           "position": 99,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-shutter-speed-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-white-balance-settings"
         },
         {
           "@type": "ListItem",
           "position": 100,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-metering-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-shutter-speed-settings"
         },
         {
           "@type": "ListItem",
           "position": 101,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-metering-settings"
         },
         {
           "@type": "ListItem",
           "position": 102,
-          "url": "https://www.alanranger.com/blog-on-photography/jpg-vs-raw-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-manual-exposure-settings"
         },
         {
           "@type": "ListItem",
           "position": 103,
-          "url": "https://www.alanranger.com/blog-on-photography/iso-camera-settings"
+          "url": "https://www.alanranger.com/blog-on-photography/jpg-vs-raw-settings"
         },
         {
           "@type": "ListItem",
           "position": 104,
-          "url": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor"
+          "url": "https://www.alanranger.com/blog-on-photography/iso-camera-settings"
         },
         {
           "@type": "ListItem",
           "position": 105,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-focus-plane"
+          "url": "https://www.alanranger.com/blog-on-photography/full-frame-or-crop-sensor"
         },
         {
           "@type": "ListItem",
           "position": 106,
-          "url": "https://www.alanranger.com/blog-on-photography/lens-focal-length"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-focus-plane"
         },
         {
           "@type": "ListItem",
           "position": 107,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-exposure-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/lens-focal-length"
         },
         {
           "@type": "ListItem",
           "position": 108,
-          "url": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-exposure-checklist"
         },
         {
           "@type": "ListItem",
           "position": 109,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-dynamic-range"
+          "url": "https://www.alanranger.com/blog-on-photography/exposure-bracketing-checklist"
         },
         {
           "@type": "ListItem",
           "position": 110,
-          "url": "https://www.alanranger.com/blog-on-photography/camera-drive-modes-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-dynamic-range"
         },
         {
           "@type": "ListItem",
           "position": 111,
-          "url": "https://www.alanranger.com/blog-on-photography/depth-of-field-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/camera-drive-modes-checklist"
         },
         {
           "@type": "ListItem",
           "position": 112,
-          "url": "https://www.alanranger.com/blog-on-photography/aperture-field-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/depth-of-field-checklist"
         },
         {
           "@type": "ListItem",
           "position": 113,
-          "url": "https://www.alanranger.com/blog-on-photography/street-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/aperture-field-checklist"
         },
         {
           "@type": "ListItem",
           "position": 114,
-          "url": "https://www.alanranger.com/blog-on-photography/still-life-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/street-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 115,
-          "url": "https://www.alanranger.com/blog-on-photography/product-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/still-life-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 116,
-          "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/product-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 117,
-          "url": "https://www.alanranger.com/blog-on-photography/minimalist-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/portrait-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 118,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/minimalist-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 119,
-          "url": "https://www.alanranger.com/blog-on-photography/macro-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-portrait-photography"
         },
         {
           "@type": "ListItem",
           "position": 120,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-still-life-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/macro-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 121,
-          "url": "https://www.alanranger.com/blog-on-photography/long-exposure-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-still-life-photography"
         },
         {
           "@type": "ListItem",
           "position": 122,
-          "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/long-exposure-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 123,
-          "url": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/landscape-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 124,
-          "url": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide-checklist"
+          "url": "https://www.alanranger.com/blog-on-photography/black-and-white-photography-guide"
         },
         {
           "@type": "ListItem",
           "position": 125,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-storytelling-composition"
+          "url": "https://www.alanranger.com/blog-on-photography/architecture-photography-guide-checklist"
         },
         {
           "@type": "ListItem",
           "position": 126,
-          "url": "https://www.alanranger.com/blog-on-photography/composition-photography-style"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-storytelling-composition"
         },
         {
           "@type": "ListItem",
           "position": 127,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-observation"
+          "url": "https://www.alanranger.com/blog-on-photography/composition-photography-style"
         },
         {
           "@type": "ListItem",
           "position": 128,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-observation"
         },
         {
           "@type": "ListItem",
           "position": 129,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-leading-lines"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-negative-spacee"
         },
         {
           "@type": "ListItem",
           "position": 130,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-framing"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-leading-lines"
         },
         {
           "@type": "ListItem",
           "position": 131,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-framing"
         },
         {
           "@type": "ListItem",
           "position": 132,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-compositional-balance"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-contrast-composition"
         },
         {
           "@type": "ListItem",
           "position": 133,
-          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-rules"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-compositional-balance"
         },
         {
           "@type": "ListItem",
           "position": 134,
-          "url": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition"
+          "url": "https://www.alanranger.com/blog-on-photography/photography-composition-rules"
         },
         {
           "@type": "ListItem",
           "position": 135,
-          "url": "https://www.alanranger.com/blog-on-photography/tripod-for-cameras-essential-guide"
+          "url": "https://www.alanranger.com/blog-on-photography/15-principles-to-improve-composition"
         },
         {
           "@type": "ListItem",
           "position": 136,
-          "url": "https://www.alanranger.com/blog-on-photography/mastering-abstract-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/tripod-for-cameras-essential-guide"
         },
         {
           "@type": "ListItem",
           "position": 137,
-          "url": "https://www.alanranger.com/blog-on-photography/product-photography-setup"
+          "url": "https://www.alanranger.com/blog-on-photography/mastering-abstract-photography"
         },
         {
           "@type": "ListItem",
           "position": 138,
-          "url": "https://www.alanranger.com/blog-on-photography/are-camera-uv-filters-worth-it"
+          "url": "https://www.alanranger.com/blog-on-photography/product-photography-setup"
         },
         {
           "@type": "ListItem",
           "position": 139,
-          "url": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography"
+          "url": "https://www.alanranger.com/blog-on-photography/are-camera-uv-filters-worth-it"
         },
         {
           "@type": "ListItem",
           "position": 140,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-long-exposure-photos"
+          "url": "https://www.alanranger.com/blog-on-photography/what-is-minimalist-photography"
         },
         {
           "@type": "ListItem",
           "position": 141,
-          "url": "https://www.alanranger.com/blog-on-photography/7-essential-camera-accessories"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-take-long-exposure-photos"
         },
         {
           "@type": "ListItem",
           "position": 142,
-          "url": "https://www.alanranger.com/blog-on-photography/are-mirrorless-cameras-better-than-dslrs"
+          "url": "https://www.alanranger.com/blog-on-photography/7-essential-camera-accessories"
         },
         {
           "@type": "ListItem",
           "position": 143,
-          "url": "https://www.alanranger.com/blog-on-photography/how-to-back-up-photos"
+          "url": "https://www.alanranger.com/blog-on-photography/are-mirrorless-cameras-better-than-dslrs"
         },
         {
           "@type": "ListItem",
           "position": 144,
-          "url": "https://www.alanranger.com/blog-on-photography/beyond-a-point-and-shoot-camera"
+          "url": "https://www.alanranger.com/blog-on-photography/how-to-back-up-photos"
         },
         {
           "@type": "ListItem",
           "position": 145,
-          "url": "https://www.alanranger.com/blog-on-photography/photo-editing-software"
+          "url": "https://www.alanranger.com/blog-on-photography/beyond-a-point-and-shoot-camera"
         },
         {
           "@type": "ListItem",

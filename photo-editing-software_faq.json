@@ -5,34 +5,58 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the top photo editing software for 2024?",
+      "name": "What is the best photo editing software for 2027?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The best overall photo editing software for 2024 is Adobe Lightroom. For those on a budget, GIMP is highly recommended as a free photo editing software, while Google Photos is ideal for beginners and casual users as an online photo editor. Adobe Photoshop is the top choice for graphic design and illustration. Adobe Lightroom Mobile excels in mobile photo editing, Adobe Photoshop Elements is great for hobbyists, and Apple Photos is best suited for beginner Apple users."
+        "text": "For a desktop library and RAW workflow, my starting recommendation is Lightroom Classic. Lightroom suits editing across devices; Capture One suits studio work; Affinity and Photoshop suit detailed image editing. The best choice depends on the work you need to do."
       }
     },
     {
       "@type": "Question",
-      "name": "Which software is preferred by professionals for editing photos?",
+      "name": "Are Lightroom and Lightroom Classic the same?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For professional photo editing software, Adobe Photoshop is the top choice. Adobe Lightroom and Lightroom Classic are excellent for workflow management, and Adobe Express is ideal for hobbyists. DxO Photolab is also recommended for its superior noise reduction and camera profile corrections."
+        "text": "No. They share many editing capabilities, but they are separate applications. Classic centres on a desktop catalogue and files on your drives. Lightroom offers cloud access across desktop, mobile and web, with local file editing also available on desktop."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the leading photo editing app globally?",
+      "name": "Can I edit RAW files without a subscription?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Adobe Photoshop Lightroom is recognised as the premier photo editing app worldwide, available across various platforms including iOS and Android."
+        "text": "Yes. Options include DxO PhotoLab, ON1 Photo RAW and Capture One's perpetual desktop licence. Affinity's core app is free. Check camera compatibility, edition differences and whether major upgrades cost extra."
       }
     },
     {
       "@type": "Question",
-      "name": "What does the future hold for photo editing?",
+      "name": "Is Affinity Photo still a paid app?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The future of photo editing is set to be revolutionised by artificial intelligence (AI). This advancement means that computers will not only perform standard adjustments like brightness and contrast but will also understand the essence of the photos, opening up new and exciting creative possibilities."
+        "text": "The current unified Affinity app includes free core photo editing tools with a Canva account. Older Affinity Photo licences belong to an earlier product offering. Premium Canva AI features in the current app require a qualifying paid plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Luminar a replacement for Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can be an alternative main editor if its RAW and creative tools meet your needs. Photographers who rely heavily on keywording, cataloguing and a large desktop archive should compare its library tools carefully with Lightroom Classic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need Photoshop as well as Lightroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not for every photograph. Lightroom can handle much everyday RAW development and selective editing. Photoshop is useful when you need detailed retouching, complex selections or compositing that goes beyond that workflow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I buy a separate noise reduction app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Test the noise reduction in your main editor first. A specialist tool such as Topaz Photo may help with particular files, but compare results on your own images before adding another subscription."
       }
     }
   ]
