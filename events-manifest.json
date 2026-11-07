@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T19:45:17.023Z",
-  "totalEvents": 85,
+  "generatedAt": "2026-11-07T11:54:20.501Z",
+  "totalEvents": 84,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
@@ -264,14 +264,6 @@
       "group": "lessons",
       "slug": "camera-courses-for-beginners-coventry-3yj3h",
       "schemaFileName": "camera-courses-for-beginners-coventry-3yj3h_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods",
-      "pathKey": "/photographic-workshops-near-me/woodland-photography-walk-kenilworth-crackley-woods",
-      "group": "workshops",
-      "slug": "woodland-photography-walk-kenilworth-crackley-woods",
-      "schemaFileName": "woodland-photography-walk-kenilworth-crackley-woods_event_schema.json",
       "faqFileName": ""
     },
     {
