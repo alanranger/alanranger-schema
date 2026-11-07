@@ -1,12 +1,16 @@
 {
- "content": "b303156538",
+ "content": "f9523ac142",
  "scope": "risk",
  "pages_read": 471,
- "styled_blocks_on_site": 3005,
+ "styled_blocks_on_site": 3006,
  "blocks_in_file": 359,
  "unique_groups": 287,
  "pages_in_file": 67,
  "damaged_fixed": [
+  {
+   "key": "https://www.alanranger.com/blog-on-photography/photo-editing-software|block-arpeditors2027styles|0",
+   "source": "live (intact)"
+  },
   {
    "key": "https://www.alanranger.com/blog-on-photography/how-to-improve-your-photography-composition|block-yui_3_17_2_1_1791021845835_30569|0",
    "source": "snapshot 2026-11-03T17:30"
