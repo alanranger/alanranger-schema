@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T11:54:20.501Z",
-  "totalEvents": 84,
+  "generatedAt": "2026-11-08T20:31:40.372Z",
+  "totalEvents": 81,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
@@ -120,30 +120,6 @@
       "group": "lessons",
       "slug": "camera-courses-for-beginners-week-1",
       "schemaFileName": "camera-courses-for-beginners-week-1_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2k99k",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-2k99k",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-2k99k",
-      "schemaFileName": "camera-courses-for-beginners-coventry-2k99k_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-wk2",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-wk2",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-wk2",
-      "schemaFileName": "camera-courses-for-beginners-wk2_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-3",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-week-3",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-week-3",
-      "schemaFileName": "camera-courses-for-beginners-week-3_event_schema.json",
       "faqFileName": ""
     },
     {

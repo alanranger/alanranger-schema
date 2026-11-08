@@ -9,7 +9,7 @@
       ],
       "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1#event",
       "identifier": "camera-courses-for-beginners-week-1",
-      "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 27-1",
+      "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 27-1",
       "description": "11/06/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1739790053633-OK80ELPCAKC96CKJLXA3/beginners-photography-courses.jpg",
@@ -81,7 +81,7 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1",
-        "validFrom": "2026-06-29 12:21:52",
+        "validFrom": "2026-11-08 18:14:22",
         "priceValidUntil": "2027-01-27",
         "seller": {
           "@id": "https://www.alanranger.com/#org"
@@ -127,7 +127,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 27-1",
+          "name": "Camera Courses For Beginners - Week 3 of 3 - Coventry 27-1",
           "item": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1"
         }
       ]
