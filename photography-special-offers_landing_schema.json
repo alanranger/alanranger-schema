@@ -152,7 +152,7 @@
       "@type": "ItemList",
       "@id": "https://www.alanranger.com/photography-special-offers#itemlist",
       "name": "Photography Special Offers Coventry — Deals & Discounts",
-      "numberOfItems": 27,
+      "numberOfItems": 25,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -277,42 +277,30 @@
         {
           "@type": "ListItem",
           "position": 21,
-          "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 27-1",
-          "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-week-1"
-        },
-        {
-          "@type": "ListItem",
-          "position": 22,
-          "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 28-1",
-          "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2k99k"
-        },
-        {
-          "@type": "ListItem",
-          "position": 23,
           "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 2-3",
           "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-2n74k"
         },
         {
           "@type": "ListItem",
-          "position": 24,
+          "position": 22,
           "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 1-4",
           "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-wk1"
         },
         {
           "@type": "ListItem",
-          "position": 25,
+          "position": 23,
           "name": "Lightroom Classic Photo Editing Classes - Week 1 of 3 - 6-5",
           "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-rrkhn"
         },
         {
           "@type": "ListItem",
-          "position": 26,
+          "position": 24,
           "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 12-5",
           "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-8ar5x"
         },
         {
           "@type": "ListItem",
-          "position": 27,
+          "position": 25,
           "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 7-6",
           "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-w5nkt"
         }
