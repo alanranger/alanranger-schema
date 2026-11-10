@@ -205,84 +205,6 @@
       "offers": [
         {
           "@type": "Offer",
-          "sku": "SQ7526725",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2014-07-26",
-          "priceValidUntil": "2027-12-31",
-          "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ6831161",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2014-07-26",
-          "priceValidUntil": "2026-11-12",
-          "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
           "sku": "SQ1021857",
           "price": "150.00",
           "priceCurrency": "GBP",
@@ -291,7 +213,7 @@
           "priceValidUntil": "2027-01-12",
           "name": "Coventry 3 wks - Tue 12 Jan - 26 Jan 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -329,6 +251,84 @@
           "validFrom": "2014-07-26",
           "priceValidUntil": "2027-05-06",
           "name": "Coventry 3 wks - Thu 6 May - 20 May 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7526725",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-09-01",
+          "name": "Coventry 3 wks - Wed 1 Sep - 15 Sep 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6831161",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-11-08",
+          "name": "Coventry 3 wks - Thu 8 Nov - 22 Nov 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
           "seller": {
