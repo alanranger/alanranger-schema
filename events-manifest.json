@@ -1,23 +1,7 @@
 {
-  "generatedAt": "2026-11-08T20:31:40.372Z",
-  "totalEvents": 81,
+  "generatedAt": "2026-11-10T10:16:00.147Z",
+  "totalEvents": 83,
   "entries": [
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-      "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-      "group": "lessons",
-      "slug": "camera-courses-for-beginners-coventry-oct1",
-      "schemaFileName": "camera-courses-for-beginners-coventry-oct1_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
-      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
-      "group": "lessons",
-      "slug": "lightroom-photo-editing-classes-wk1-kdh5k",
-      "schemaFileName": "lightroom-photo-editing-classes-wk1-kdh5k_event_schema.json",
-      "faqFileName": ""
-    },
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
       "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -27,27 +11,11 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l",
-      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l",
-      "group": "lessons",
-      "slug": "lightroom-photo-editing-classes-wk2-n8l4l",
-      "schemaFileName": "lightroom-photo-editing-classes-wk2-n8l4l_event_schema.json",
-      "faqFileName": ""
-    },
-    {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct3",
       "pathKey": "/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct3",
       "group": "lessons",
       "slug": "camera-courses-for-beginners-coventry-oct3",
       "schemaFileName": "camera-courses-for-beginners-coventry-oct3_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
-      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
-      "group": "lessons",
-      "slug": "lightroom-photo-editing-classes-wk3-7cd64",
-      "schemaFileName": "lightroom-photo-editing-classes-wk3-7cd64_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -240,6 +208,54 @@
       "group": "lessons",
       "slug": "camera-courses-for-beginners-coventry-3yj3h",
       "schemaFileName": "camera-courses-for-beginners-coventry-3yj3h_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk1",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk1",
+      "schemaFileName": "lightroom-photo-editing-classes-wk1_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk2",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk2",
+      "schemaFileName": "lightroom-photo-editing-classes-wk2_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk3",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk3",
+      "schemaFileName": "lightroom-photo-editing-classes-wk3_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk1-kdh5k",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk1-kdh5k",
+      "schemaFileName": "lightroom-photo-editing-classes-wk1-kdh5k_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk2-n8l4l",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk2-n8l4l",
+      "schemaFileName": "lightroom-photo-editing-classes-wk2-n8l4l_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
+      "pathKey": "/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
+      "group": "lessons",
+      "slug": "lightroom-photo-editing-classes-wk3-7cd64",
+      "schemaFileName": "lightroom-photo-editing-classes-wk3-7cd64_event_schema.json",
       "faqFileName": ""
     },
     {

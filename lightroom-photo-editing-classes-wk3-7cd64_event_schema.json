@@ -9,12 +9,12 @@
       ],
       "@id": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64#event",
       "identifier": "lightroom-photo-editing-classes-wk3-7cd64",
-      "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 -26-11",
-      "description": "26/11/2026 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
+      "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 -22-11",
+      "description": "22/11/2027 Coventry - Lightroom photo editing classes - Learn how to use Lightroom Classic on this 3-week course. From the organisation and workflow to editing",
       "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1675589565448-JHL9406XQ7598QHPOLW5/-LIGHTROOM+COURSE+BLACK.png",
-      "startDate": "2026-11-26T19:00:00",
-      "endDate": "2026-11-26T21:00:00",
+      "startDate": "2027-11-22T19:00:00",
+      "endDate": "2027-11-22T21:00:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -81,8 +81,8 @@
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64",
-        "validFrom": "2026-01-12 14:53:40",
-        "priceValidUntil": "2026-11-26",
+        "validFrom": "2026-11-09 18:29:24",
+        "priceValidUntil": "2027-11-22",
         "seller": {
           "@id": "https://www.alanranger.com/#org"
         },
@@ -127,7 +127,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 -26-11",
+          "name": "Lightroom Classic Photo Editing Classes - Week 3 of 3 -22-11",
           "item": "https://www.alanranger.com/beginners-photography-lessons/lightroom-photo-editing-classes-wk3-7cd64"
         }
       ]

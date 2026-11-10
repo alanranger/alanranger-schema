@@ -1683,6 +1683,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Andy, was a pleasure to meet you and have the weekend facing all the challenges with a can-do approach.  Hope to see you back again at some point."
           }
         }
       ],
@@ -1812,8 +1820,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.89",
-        "reviewCount": 19,
+        "ratingValue": "4.9",
+        "reviewCount": 21,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -1835,6 +1843,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated and I hope this will help you take your macro photography to the next level"
           }
         },
         {
@@ -1854,6 +1870,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kim, hope you'll join us again soon"
           }
         },
         {
@@ -1873,25 +1897,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Louise Manning"
           },
-          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-06-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, now make photography a habit again and you will find your groove in no time again"
           }
         },
         {
@@ -1911,6 +1924,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks and hope to see you again soon"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Manning"
+          },
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-06-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         }
       ],
@@ -2010,7 +2058,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ1654264",
+        "sku": "SQ1288994",
         "availabilityStarts": "2026-12-04T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2028,7 +2076,7 @@
           }
         }
       },
-      "sku": "SQ1654264",
+      "sku": "SQ1288994",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2036,11 +2084,111 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.82",
-        "reviewCount": 34,
+        "reviewCount": 39,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Indianna"
+          },
+          "reviewBody": "Had a great time, really informative. Learned a great deal with my Cannon camera. Would 100% go out on a photography walk with Alan again!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-01-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Indianna, appreciated"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pravin Pawar"
+          },
+          "reviewBody": "I had an incredible experience training with Alan. His passion for photography is truly infectious, and his ability to break down complex techniques into easy-to-understand lessons made learning both fun and effective. Whether you're a complete beginner or looking to refine your skills, he tailor...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thank you so much for the review and kind words"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly Pownall"
+          },
+          "reviewBody": "Went on a woodland walk session which was enjoyable and informative.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-04-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Holly"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Harrop"
+          },
+          "reviewBody": "The woodland walks that I have been on have been interesting and well worth it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -2055,82 +2203,6 @@
             "worstRating": "1"
           },
           "datePublished": "2020-02-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jean Dance"
-          },
-          "reviewBody": "Inspirational, instructive and interesting",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-02-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mr J Parker"
-          },
-          "reviewBody": "Although the light was not at its best, the locations Alan had chosen a walk that had plenty of interest, and Alan gave clear, simple explanations which helped me to take the auto off my camera - and to not put it back on since. Alan is very personable and pitch advance at the level needed. It wa...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "Another enjoyable outing with Alan. His approach to teaching photography revolves around a really positive and encouraging attitude. He always gives maximum help whilst allowing one to make their own progress. An excellent outing with much learned.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gabrielle  Smith"
-          },
-          "reviewBody": "Alan Ian clear about what is included, makes the whole experience relaxed and non-threatening and encourages everyone to achieve what they set out to do.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -2233,7 +2305,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ1654264",
+        "sku": "SQ1288994",
         "availabilityStarts": "2027-01-02T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2251,7 +2323,7 @@
           }
         }
       },
-      "sku": "SQ1654264",
+      "sku": "SQ1288994",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2259,11 +2331,111 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.82",
-        "reviewCount": 34,
+        "reviewCount": 39,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Indianna"
+          },
+          "reviewBody": "Had a great time, really informative. Learned a great deal with my Cannon camera. Would 100% go out on a photography walk with Alan again!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-01-02",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Indianna, appreciated"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pravin Pawar"
+          },
+          "reviewBody": "I had an incredible experience training with Alan. His passion for photography is truly infectious, and his ability to break down complex techniques into easy-to-understand lessons made learning both fun and effective. Whether you're a complete beginner or looking to refine your skills, he tailor...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-07-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thank you so much for the review and kind words"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly Pownall"
+          },
+          "reviewBody": "Went on a woodland walk session which was enjoyable and informative.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-04-14",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Holly"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian Harrop"
+          },
+          "reviewBody": "The woodland walks that I have been on have been interesting and well worth it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2020-03-10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -2278,82 +2450,6 @@
             "worstRating": "1"
           },
           "datePublished": "2020-02-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jean Dance"
-          },
-          "reviewBody": "Inspirational, instructive and interesting",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-02-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Mr J Parker"
-          },
-          "reviewBody": "Although the light was not at its best, the locations Alan had chosen a walk that had plenty of interest, and Alan gave clear, simple explanations which helped me to take the auto off my camera - and to not put it back on since. Alan is very personable and pitch advance at the level needed. It wa...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-12",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Jeremy Troth"
-          },
-          "reviewBody": "Another enjoyable outing with Alan. His approach to teaching photography revolves around a really positive and encouraging attitude. He always gives maximum help whilst allowing one to make their own progress. An excellent outing with much learned.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gabrielle  Smith"
-          },
-          "reviewBody": "Alan Ian clear about what is included, makes the whole experience relaxed and non-threatening and encourages everyone to achieve what they set out to do.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2020-01-08",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -2486,8 +2582,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.94",
-        "reviewCount": 32,
+        "ratingValue": "5.0",
+        "reviewCount": 22,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -2509,6 +2605,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alvin, glad you found it beneficial and was able to put it into practise quickly at Weston during the week too."
           }
         },
         {
@@ -2528,63 +2632,95 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jason, appreciated"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Martin Morris"
+            "name": "Paul Keating"
           },
-          "reviewBody": "Beginners camera course, was an excellent introduction into using the camera and getting off automatic mode. Highly recommend Alan.",
+          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-21",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Brain Smith Dsouza"
+            "name": "Miles Huckle"
           },
-          "reviewBody": "Before joining the course i thought i knew the camera basics..But really a eye opener. Glad that i joined. Also helped me to think in a more creative way than just clicking photos. Enjoyed it a lot!",
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-19",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Miles"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ruth Martin"
+            "name": "Martin Millington"
           },
-          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
+          "reviewBody": "Friendly chap, patient and very informative!  Shame the weather was a bit rubbish. Definitely recommend!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-27",
+          "datePublished": "2026-01-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Martin and next time we meet lets hope for better light."
           }
         }
       ],
@@ -2689,7 +2825,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ5158309",
+        "sku": "SQ9016326",
         "availabilityStarts": "2027-01-22T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2707,7 +2843,7 @@
           }
         }
       },
-      "sku": "SQ5158309",
+      "sku": "SQ9016326",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2737,6 +2873,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, despite the rain i think we made the most of it"
           }
         },
         {
@@ -2775,6 +2919,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alex, appreciated and it was a pleasure to have you participating and enjoying the excursions and company."
           }
         },
         {
@@ -2794,6 +2946,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you, Margaret, my pleasure"
           }
         },
         {
@@ -2813,6 +2973,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Paul appreciate it.  I look forward to seeing you again on an excursion"
           }
         }
       ],
@@ -2965,6 +3133,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thank you though I am slightly concerned at the thought of you in minimalist shorts😂"
           }
         },
         {
@@ -2984,6 +3160,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Pam, lovely photos too"
           }
         },
         {
@@ -3171,7 +3355,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 9,
+        "reviewCount": 10,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -3193,6 +3377,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Penny, was lovely to meet you and spend a few days with you and the group discussing all elements of photography and opinions.  Hope you can make it to another one at some point."
           }
         },
         {
@@ -3212,6 +3404,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Dave, appreciated and it was a great weekend of photography and discussions.   Hope to see you again soon"
           }
         },
         {
@@ -3231,6 +3431,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Bassam, a lovely review and appreciated.  Hope you can join another adventure sometime soon."
           }
         },
         {
@@ -3250,6 +3458,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Derek, appreciated"
           }
         },
         {
@@ -3269,6 +3485,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Phil, appreciated.  Hope to see you again soon on another weekend workshop"
           }
         }
       ],
@@ -3592,6 +3816,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Harsha, really appreciate your kind comments and feedback and i look forward to you joining another workshop event sometime soon."
           }
         },
         {
@@ -3611,6 +3843,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Graham appreciate it"
           }
         },
         {
@@ -3792,8 +4032,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.76",
-        "reviewCount": 17,
+        "ratingValue": "4.93",
+        "reviewCount": 14,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -3815,6 +4055,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sam appreciated.  Look forward to seeing you on another event"
           }
         },
         {
@@ -3834,6 +4082,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, glad you enjoyed the evening and would be delighted if you returned for more tuition."
           }
         },
         {
@@ -3853,6 +4109,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kerries, appreciated"
           }
         },
         {
@@ -3872,6 +4136,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Colin"
           }
         },
         {
@@ -3891,6 +4163,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jennifer, much appreciated"
           }
         }
       ],
@@ -4214,6 +4494,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you John appreciated"
           }
         },
         {
@@ -4233,6 +4521,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gill, appreciated"
           }
         },
         {
@@ -4252,6 +4548,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jennifer, am always happy to support your development"
           }
         },
         {
@@ -4271,6 +4575,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Derek, much appreciated"
           }
         }
       ],
@@ -4623,8 +4935,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.76",
-        "reviewCount": 17,
+        "ratingValue": "4.93",
+        "reviewCount": 14,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -4646,6 +4958,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sam appreciated.  Look forward to seeing you on another event"
           }
         },
         {
@@ -4665,6 +4985,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, glad you enjoyed the evening and would be delighted if you returned for more tuition."
           }
         },
         {
@@ -4684,6 +5012,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kerries, appreciated"
           }
         },
         {
@@ -4703,6 +5039,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Colin"
           }
         },
         {
@@ -4722,6 +5066,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jennifer, much appreciated"
           }
         }
       ],
@@ -4852,7 +5204,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 7,
+        "reviewCount": 6,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -4874,6 +5226,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sofia, dont leave it too long before following up so you can see the potential in the shots you took with some basic LR training."
           }
         },
         {
@@ -4893,6 +5253,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, much appreciated and all your endurance over the weekend too."
           }
         },
         {
@@ -5079,8 +5447,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -5102,6 +5470,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -5121,6 +5497,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -5140,6 +5524,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -5159,25 +5551,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -5311,8 +5719,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -5334,6 +5742,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -5353,6 +5769,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -5372,6 +5796,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -5391,25 +5823,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -5543,8 +5991,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -5566,6 +6014,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -5585,6 +6041,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -5604,6 +6068,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -5623,25 +6095,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -5775,8 +6263,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -5798,6 +6286,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -5817,6 +6313,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -5836,6 +6340,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -5855,25 +6367,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -6007,8 +6535,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -6030,6 +6558,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -6049,6 +6585,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -6068,6 +6612,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -6087,25 +6639,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -6239,8 +6807,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -6262,6 +6830,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -6281,6 +6857,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -6300,6 +6884,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -6319,25 +6911,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -6470,8 +7078,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.89",
-        "reviewCount": 19,
+        "ratingValue": "4.9",
+        "reviewCount": 21,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -6493,6 +7101,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated and I hope this will help you take your macro photography to the next level"
           }
         },
         {
@@ -6512,6 +7128,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kim, hope you'll join us again soon"
           }
         },
         {
@@ -6531,25 +7155,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Louise Manning"
           },
-          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-06-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, now make photography a habit again and you will find your groove in no time again"
           }
         },
         {
@@ -6569,6 +7182,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks and hope to see you again soon"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Manning"
+          },
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-06-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         }
       ],
@@ -6698,8 +7346,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.85",
-        "reviewCount": 65,
+        "ratingValue": "4.84",
+        "reviewCount": 64,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -6721,6 +7369,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -6740,6 +7396,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -6759,6 +7423,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mike, appreciated and hope we cross paths again"
           }
         },
         {
@@ -6778,25 +7450,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Mihail, not the best light on the day but hope you still learned some new approaches and got some decent images too"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "V Webb"
+            "name": "Ruth Martin"
           },
-          "reviewBody": "Fantastic bluebell photography workshop. Incredible location and brilliant stewardship through the woodland itself and best shots/camera setup. Thank you!",
+          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-26",
+          "datePublished": "2026-04-27",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ruth, apppreciated."
           }
         }
       ],
@@ -6921,8 +7609,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.76",
-        "reviewCount": 17,
+        "ratingValue": "4.93",
+        "reviewCount": 14,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -6944,6 +7632,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sam appreciated.  Look forward to seeing you on another event"
           }
         },
         {
@@ -6963,6 +7659,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, glad you enjoyed the evening and would be delighted if you returned for more tuition."
           }
         },
         {
@@ -6982,6 +7686,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kerries, appreciated"
           }
         },
         {
@@ -7001,6 +7713,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Colin"
           }
         },
         {
@@ -7020,6 +7740,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jennifer, much appreciated"
           }
         }
       ],
@@ -7723,6 +8451,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you, this is really kind. What you've said about photography being \"an art mediated by technology, but nonetheless an art\" is exactly how I think about it — and the bit about watching daybreak on the beach being worth the price of admission is the bit most workshop reviews never mention. The local Anglesey confirmation made me laugh, and is a relief; you can never quite be sure you've picked the right locations until someone from the place tells you you have. Best to you and your wife — and if you're ever back in the UK with the camera, you know where to find me."
           }
         },
         {
@@ -7928,12 +8664,93 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.93",
-        "reviewCount": 14,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated. I know you had some from great images from what i saw on your camera so remember the mantra about intention first and settings and technique second to deliver the intention"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sophie, much appreciated and i know you loved the mushrooms (too much lol)  was a pleasure to have you ain the group on the day and i hope you will continue to visit both locations again with new insights and improved visual observation and camera skills"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony McKenna"
+          },
+          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Tony, finally we got the right day and i will never forget you running around in your hat and maverick passion getting excited over discovering things you would normally not create time to look at,  i look forward to the next event with you"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -7951,6 +8768,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Cheri, really appreciated and glad i was able to provide what you should expect from any landscape workshop, thanks again look forward to seeing you on the next one."
           }
         },
         {
@@ -7970,63 +8795,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Adam Riman"
           },
-          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Colin Whittaker"
-          },
-          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Amanda, really appreciated and glas you saw the difference between our group size and the way I led it and worked with you verses you know who large group!"
           }
         }
       ],
@@ -8157,7 +8933,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.5",
-        "reviewCount": 4,
+        "reviewCount": 2,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -8179,25 +8955,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kate Tait"
           },
-          "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. Yo...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-01-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Caroline, appreciated and hope to see you again on another workshop or photography class"
           }
         },
         {
@@ -8214,25 +8979,6 @@
             "worstRating": "1"
           },
           "datePublished": "2015-12-14",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tricia Entwistle"
-          },
-          "reviewBody": "As a complete beginner I booked my workshop at Batford Arboretum with considerable aprehension. I needn't have worried.  Alan was very patient and explained the rudiments of manual photography in a very non technical way. I went on to have a very enjoyable and relaxing afternoon taking some lovel...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-10-20",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -8365,8 +9111,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.71",
-        "reviewCount": 7,
+        "ratingValue": "4.67",
+        "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -8388,6 +9134,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Adrian, glad you enjoyed the Lavender Fields Photo Workshop and I look forward to seeing you again soon"
           }
         },
         {
@@ -8407,6 +9161,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you appreciated"
           }
         },
         {
@@ -8426,44 +9188,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "David Simpson"
           },
-          "reviewBody": "Being an absolute novice to photography, since buying a entry level dlsr I've become more curious about the science around photography techniques.    Alan's introduction session was both informative and mind provoking - to the extent that I have enrolled on the follow up four week course.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-01-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Austin"
-          },
-          "reviewBody": "Alan provided an informative and interesting session which my 15 year old son enjoyed He provided him with a basic understanding of photography and Alan's enthusiastic delivery captured his imagination.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-01-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jo, always a pleasure to support and encourage you on your photographic journey"
           }
         }
       ],
@@ -8593,8 +9325,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.71",
-        "reviewCount": 7,
+        "ratingValue": "4.67",
+        "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -8616,6 +9348,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Adrian, glad you enjoyed the Lavender Fields Photo Workshop and I look forward to seeing you again soon"
           }
         },
         {
@@ -8635,6 +9375,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you appreciated"
           }
         },
         {
@@ -8654,44 +9402,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "David Simpson"
           },
-          "reviewBody": "Being an absolute novice to photography, since buying a entry level dlsr I've become more curious about the science around photography techniques.    Alan's introduction session was both informative and mind provoking - to the extent that I have enrolled on the follow up four week course.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-01-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Paul Austin"
-          },
-          "reviewBody": "Alan provided an informative and interesting session which my 15 year old son enjoyed He provided him with a basic understanding of photography and Alan's enthusiastic delivery captured his imagination.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-01-18",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jo, always a pleasure to support and encourage you on your photographic journey"
           }
         }
       ],
@@ -8822,7 +9540,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.5",
-        "reviewCount": 4,
+        "reviewCount": 2,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -8844,25 +9562,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kate Tait"
           },
-          "reviewBody": "\"3 hours of beginners photography\", my husband said was my Christmas present. So, with not much preparation other than the informative email from Alan, off I drove to the Kenilworth session, not knowing quite what to expect. The venue was good, parking well lit and room was more than adequate. Yo...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2016-01-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Caroline, appreciated and hope to see you again on another workshop or photography class"
           }
         },
         {
@@ -8879,25 +9586,6 @@
             "worstRating": "1"
           },
           "datePublished": "2015-12-14",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Tricia Entwistle"
-          },
-          "reviewBody": "As a complete beginner I booked my workshop at Batford Arboretum with considerable aprehension. I needn't have worried.  Alan was very patient and explained the rudiments of manual photography in a very non technical way. I went on to have a very enjoyable and relaxing afternoon taking some lovel...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2015-10-20",
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
@@ -9030,8 +9718,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.94",
-        "reviewCount": 32,
+        "ratingValue": "5.0",
+        "reviewCount": 22,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -9053,6 +9741,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alvin, glad you found it beneficial and was able to put it into practise quickly at Weston during the week too."
           }
         },
         {
@@ -9072,63 +9768,95 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jason, appreciated"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Martin Morris"
+            "name": "Paul Keating"
           },
-          "reviewBody": "Beginners camera course, was an excellent introduction into using the camera and getting off automatic mode. Highly recommend Alan.",
+          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-21",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Brain Smith Dsouza"
+            "name": "Miles Huckle"
           },
-          "reviewBody": "Before joining the course i thought i knew the camera basics..But really a eye opener. Glad that i joined. Also helped me to think in a more creative way than just clicking photos. Enjoyed it a lot!",
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-19",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Miles"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ruth Martin"
+            "name": "Martin Millington"
           },
-          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
+          "reviewBody": "Friendly chap, patient and very informative!  Shame the weather was a bit rubbish. Definitely recommend!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-27",
+          "datePublished": "2026-01-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Martin and next time we meet lets hope for better light."
           }
         }
       ],
@@ -9259,7 +9987,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 14,
+        "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -9268,95 +9996,81 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Farrington"
+            "name": "Joanne Tapp"
           },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
+          "reviewBody": "A great Workshop - I now have the confidence to move from using Auto to Manual with clear straightforward guidance from Alan, plus a new way of looking at composition",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-19",
+          "datePublished": "2025-08-29",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Joanne."
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Lisa Vincent"
+            "name": "Iglo Losa"
           },
-          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
+          "reviewBody": "Alan was very welcoming. He sent the group landscape tips before we arrived for the workshop. On the day he gave us a print out, to reiterate the essential points, and he was very instructive, supportive and spent dedicated time with each client.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-18",
+          "datePublished": "2025-08-19",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Iggy, look forward to seeing you again on the next one"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Clarke"
+            "name": "Bill"
           },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "reviewBody": "Technically competent and shared this and his experience freely. Offered professional advice and guidance with a light touch to help me, a complete novice, feel sufficiently at ease to move off Auto. I can now to start making progress and will be back for more, because it was money well spent",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-16",
+          "datePublished": "2025-08-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon McDonald"
           },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Neil Barford"
-          },
-          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Bill, it was a pleasure to meet you and hope your Safari goes well"
           }
         }
       ],
@@ -9487,7 +10201,7 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
-        "reviewCount": 14,
+        "reviewCount": 3,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -9496,95 +10210,81 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Paul Farrington"
+            "name": "Joanne Tapp"
           },
-          "reviewBody": "Enjoyable & informative day. Two interesting locations visited",
+          "reviewBody": "A great Workshop - I now have the confidence to move from using Auto to Manual with clear straightforward guidance from Alan, plus a new way of looking at composition",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-19",
+          "datePublished": "2025-08-29",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Joanne."
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Lisa Vincent"
+            "name": "Iglo Losa"
           },
-          "reviewBody": "A fantastic day out to a truly magical place.  Alan was great throughout the whole day giving out lots of one to one advice and guidance which was appreciated and made me see things differently.  I would definitely recommend and would book again.",
+          "reviewBody": "Alan was very welcoming. He sent the group landscape tips before we arrived for the workshop. On the day he gave us a print out, to reiterate the essential points, and he was very instructive, supportive and spent dedicated time with each client.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-18",
+          "datePublished": "2025-08-19",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Iggy, look forward to seeing you again on the next one"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Dave Clarke"
+            "name": "Bill"
           },
-          "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
+          "reviewBody": "Technically competent and shared this and his experience freely. Offered professional advice and guidance with a light touch to help me, a complete novice, feel sufficiently at ease to move off Auto. I can now to start making progress and will be back for more, because it was money well spent",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-16",
+          "datePublished": "2025-08-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon McDonald"
           },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Neil Barford"
-          },
-          "reviewBody": "Alan has a great teaching approach , allowing you to develop your own style and offers alternatives , and different techniques. This allows you to think more deeply about your photography and seek out the best positions at a location, rather than just parking you at the ideal spot.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-20",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Bill, it was a pleasure to meet you and hope your Safari goes well"
           }
         }
       ],
@@ -9713,8 +10413,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.89",
-        "reviewCount": 19,
+        "ratingValue": "4.9",
+        "reviewCount": 21,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -9736,6 +10436,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated and I hope this will help you take your macro photography to the next level"
           }
         },
         {
@@ -9755,6 +10463,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kim, hope you'll join us again soon"
           }
         },
         {
@@ -9774,25 +10490,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Louise Manning"
           },
-          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-06-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, now make photography a habit again and you will find your groove in no time again"
           }
         },
         {
@@ -9812,6 +10517,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks and hope to see you again soon"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Manning"
+          },
+          "reviewBody": "I really enjoyed the recent Abstract and Macro Photography course held by Alan Ranger. I received emails prior to the event with a list of equipment and directions to the course.  It was a small group, a relaxed atmosphere. Alan gave a small teaching session prior to starting the workshop. He exp...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-06-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         }
       ],
@@ -10192,6 +10932,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jo, great to see you again and hopefully you will consider the Lightroom Course for November"
           }
         },
         {
@@ -10211,6 +10959,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Josh, great to have you on this workshop and on one tonight at Chesterton too.  You seem to be learning quickly and open to new ideas and deepening your understanding of photography"
           }
         },
         {
@@ -10230,6 +10986,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Matt, good to see you getting motivated with your photography and was a pleasure having you along on the workshop"
           }
         },
         {
@@ -10392,8 +11156,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.76",
-        "reviewCount": 17,
+        "ratingValue": "4.93",
+        "reviewCount": 14,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -10415,6 +11179,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sam appreciated.  Look forward to seeing you on another event"
           }
         },
         {
@@ -10434,6 +11206,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, glad you enjoyed the evening and would be delighted if you returned for more tuition."
           }
         },
         {
@@ -10453,6 +11233,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kerries, appreciated"
           }
         },
         {
@@ -10472,6 +11260,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Colin"
           }
         },
         {
@@ -10491,6 +11287,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jennifer, much appreciated"
           }
         }
       ],
@@ -10595,7 +11399,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ5158309",
+        "sku": "SQ9016326",
         "availabilityStarts": "2027-09-24T08:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -10613,7 +11417,7 @@
           }
         }
       },
-      "sku": "SQ5158309",
+      "sku": "SQ9016326",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -10643,6 +11447,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, despite the rain i think we made the most of it"
           }
         },
         {
@@ -10681,6 +11493,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alex, appreciated and it was a pleasure to have you participating and enjoying the excursions and company."
           }
         },
         {
@@ -10700,6 +11520,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you, Margaret, my pleasure"
           }
         },
         {
@@ -10719,6 +11547,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Paul appreciate it.  I look forward to seeing you again on an excursion"
           }
         }
       ],
@@ -11019,12 +11855,93 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.93",
-        "reviewCount": 14,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated. I know you had some from great images from what i saw on your camera so remember the mantra about intention first and settings and technique second to deliver the intention"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sophie, much appreciated and i know you loved the mushrooms (too much lol)  was a pleasure to have you ain the group on the day and i hope you will continue to visit both locations again with new insights and improved visual observation and camera skills"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony McKenna"
+          },
+          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Tony, finally we got the right day and i will never forget you running around in your hat and maverick passion getting excited over discovering things you would normally not create time to look at,  i look forward to the next event with you"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -11042,6 +11959,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Cheri, really appreciated and glad i was able to provide what you should expect from any landscape workshop, thanks again look forward to seeing you on the next one."
           }
         },
         {
@@ -11061,63 +11986,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Adam Riman"
           },
-          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Colin Whittaker"
-          },
-          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Amanda, really appreciated and glas you saw the difference between our group size and the way I led it and worked with you verses you know who large group!"
           }
         }
       ],
@@ -11247,8 +12123,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.94",
-        "reviewCount": 32,
+        "ratingValue": "5.0",
+        "reviewCount": 22,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -11270,6 +12146,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alvin, glad you found it beneficial and was able to put it into practise quickly at Weston during the week too."
           }
         },
         {
@@ -11289,63 +12173,95 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jason, appreciated"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Martin Morris"
+            "name": "Paul Keating"
           },
-          "reviewBody": "Beginners camera course, was an excellent introduction into using the camera and getting off automatic mode. Highly recommend Alan.",
+          "reviewBody": "Great instructions and explanations. Brilliant to be able to have a photo walk with a pro by your side!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-21",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Brain Smith Dsouza"
+            "name": "Miles Huckle"
           },
-          "reviewBody": "Before joining the course i thought i knew the camera basics..But really a eye opener. Glad that i joined. Also helped me to think in a more creative way than just clicking photos. Enjoyed it a lot!",
+          "reviewBody": "An excellent day! Learned loads. Many thanks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-05-19",
+          "datePublished": "2026-04-18",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Miles"
           }
         },
         {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ruth Martin"
+            "name": "Martin Millington"
           },
-          "reviewBody": "Professionally arranged photoshoot with good reference materials provided prior to the shoot.  Excellent location with time to take photos on your own or with support from Alan",
+          "reviewBody": "Friendly chap, patient and very informative!  Shame the weather was a bit rubbish. Definitely recommend!",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
             "bestRating": "5",
             "worstRating": "1"
           },
-          "datePublished": "2026-04-27",
+          "datePublished": "2026-01-11",
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Martin and next time we meet lets hope for better light."
           }
         }
       ],
@@ -11475,8 +12391,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -11498,44 +12414,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Orr Shachar"
           },
-          "reviewBody": "Great guidance and expertise - highly recommended",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewBody": "Learned a lot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, i have many talents but unfortunately weather control is not one of them :)"
           }
         },
         {
@@ -11555,6 +12441,68 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Supriya"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Collins"
+          },
+          "reviewBody": "Learned a lot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks James.  Get that lens fixed!"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Orr Shachar"
+          },
+          "reviewBody": "Great guidance and expertise - highly recommended",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Orr, appreciated"
           }
         },
         {
@@ -11574,6 +12522,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ross, appreciated"
           }
         }
       ],
@@ -11707,8 +12663,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -11730,44 +12686,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Orr Shachar"
           },
-          "reviewBody": "Great guidance and expertise - highly recommended",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewBody": "Learned a lot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, i have many talents but unfortunately weather control is not one of them :)"
           }
         },
         {
@@ -11787,6 +12713,68 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Supriya"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Collins"
+          },
+          "reviewBody": "Learned a lot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks James.  Get that lens fixed!"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Orr Shachar"
+          },
+          "reviewBody": "Great guidance and expertise - highly recommended",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Orr, appreciated"
           }
         },
         {
@@ -11806,6 +12794,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ross, appreciated"
           }
         }
       ],
@@ -11939,8 +12935,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -11962,44 +12958,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Orr Shachar"
           },
-          "reviewBody": "Great guidance and expertise - highly recommended",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewBody": "Learned a lot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, i have many talents but unfortunately weather control is not one of them :)"
           }
         },
         {
@@ -12019,6 +12985,68 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Supriya"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Collins"
+          },
+          "reviewBody": "Learned a lot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks James.  Get that lens fixed!"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Orr Shachar"
+          },
+          "reviewBody": "Great guidance and expertise - highly recommended",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Orr, appreciated"
           }
         },
         {
@@ -12038,6 +13066,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ross, appreciated"
           }
         }
       ],
@@ -12171,8 +13207,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.87",
-        "reviewCount": 89,
+        "ratingValue": "4.86",
+        "reviewCount": 88,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -12194,44 +13230,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Orr Shachar"
           },
-          "reviewBody": "Great guidance and expertise - highly recommended",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "James Collins"
-          },
-          "reviewBody": "Learned a lot",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2025-10-26",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Simon, i have many talents but unfortunately weather control is not one of them :)"
           }
         },
         {
@@ -12251,6 +13257,68 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Supriya"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James Collins"
+          },
+          "reviewBody": "Learned a lot",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks James.  Get that lens fixed!"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Orr Shachar"
+          },
+          "reviewBody": "Great guidance and expertise - highly recommended",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2025-10-26",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Orr, appreciated"
           }
         },
         {
@@ -12270,6 +13338,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Ross, appreciated"
           }
         }
       ],
@@ -12403,12 +13479,93 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.93",
-        "reviewCount": 14,
+        "ratingValue": "4.96",
+        "reviewCount": 24,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help,...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated. I know you had some from great images from what i saw on your camera so remember the mantra about intention first and settings and technique second to deliver the intention"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sofih16"
+          },
+          "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Al...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sophie, much appreciated and i know you loved the mushrooms (too much lol)  was a pleasure to have you ain the group on the day and i hope you will continue to visit both locations again with new insights and improved visual observation and camera skills"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony McKenna"
+          },
+          "reviewBody": "Full day photography course at Padley Gorge. Forest and landscape. Excellent location, well managed timescale and massively informative throughout. Alan’s a thoroughly nice guy who knows his stuff. Worth every single penny and every minute of your time!  JPG’s  only uploaded because have not long...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Tony, finally we got the right day and i will never forget you running around in your hat and maverick passion getting excited over discovering things you would normally not create time to look at,  i look forward to the next event with you"
+          }
+        },
         {
           "@type": "Review",
           "author": {
@@ -12426,6 +13583,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Cheri, really appreciated and glad i was able to provide what you should expect from any landscape workshop, thanks again look forward to seeing you on the next one."
           }
         },
         {
@@ -12445,63 +13610,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Adam Riman"
           },
-          "reviewBody": "Fantastic photography workshop in the Peaks today. Came away with a lot more creative vision and understanding.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-17",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Colin Whittaker"
-          },
-          "reviewBody": "Really enjoyed the Peak District photography workshop run by Alan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Amanda, really appreciated and glas you saw the difference between our group size and the way I led it and worked with you verses you know who large group!"
           }
         }
       ],
@@ -12606,7 +13722,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ5158309",
+        "sku": "SQ9016326",
         "availabilityStarts": "2027-11-12T09:30:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -12624,7 +13740,7 @@
           }
         }
       },
-      "sku": "SQ5158309",
+      "sku": "SQ9016326",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -12654,6 +13770,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, despite the rain i think we made the most of it"
           }
         },
         {
@@ -12692,6 +13816,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alex, appreciated and it was a pleasure to have you participating and enjoying the excursions and company."
           }
         },
         {
@@ -12711,6 +13843,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you, Margaret, my pleasure"
           }
         },
         {
@@ -12730,6 +13870,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Paul appreciate it.  I look forward to seeing you again on an excursion"
           }
         }
       ],
