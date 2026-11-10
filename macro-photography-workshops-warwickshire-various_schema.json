@@ -55,7 +55,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Sun Nov 28 th 2026 - 10:30 am - 1:30 pm Macro Photography - Sat May 1 st 2027 - 11 am - 2 pm Macro Photography - Sun Sep 29 th 2027 - 2:00 pm - 5:00 pm Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro Photography Workshop Event Details: Macro Photography and...",
+      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Sat Nov 28 th 2026 - 10:30 am - 1:30 pm Macro Photography - Sat May 1 st 2027 - 11 am - 2 pm Macro Photography - Sun Sep 29 th 2027 - 2:00 pm - 5:00 pm Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro Photography Workshop Event Details: Macro Photography and...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/25c550a3-a242-4303-a11b-367dd7055dbe/Abstract%2Band%2BMacro%2BPhotography%2BWorkshops%2B%25282%2529.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "offers": [
@@ -67,7 +67,7 @@
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-11-12",
           "priceValidUntil": "2027-12-31",
-          "name": "Sun Nov 28th 2026 - 10:30am - 1:30pm",
+          "name": "Sat Nov 28th 2026 - 10:30am - 1:30pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
           "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer1",
           "seller": {
@@ -195,6 +195,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated and I hope this will help you take your macro photography to the next level"
           }
         },
         {
@@ -214,6 +222,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kim, hope you'll join us again soon"
           }
         },
         {
@@ -233,6 +249,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, now make photography a habit again and you will find your groove in no time again"
           }
         },
         {
@@ -252,6 +276,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks and hope to see you again soon"
           }
         },
         {
@@ -271,6 +303,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Louise, appreciated"
           }
         },
         {
@@ -290,6 +330,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks"
           }
         },
         {
@@ -309,6 +357,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks David"
           }
         },
         {
@@ -328,6 +384,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Patrick."
           }
         },
         {
@@ -347,6 +411,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jim, look forward to seeing you next time.  I'll send details of Batsford etc"
           }
         },
         {
@@ -556,6 +628,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Joyce, always fun supporting you on your endeavours and journey in photography"
           }
         },
         {
@@ -575,6 +655,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Con, looking forward to seeing your new macro shots"
           }
         }
       ],

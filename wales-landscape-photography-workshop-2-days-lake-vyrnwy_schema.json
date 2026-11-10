@@ -114,6 +114,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Harsha, really appreciate your kind comments and feedback and i look forward to you joining another workshop event sometime soon."
           }
         },
         {
@@ -133,6 +141,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Graham appreciate it"
           }
         },
         {

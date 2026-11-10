@@ -156,6 +156,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Adrian, glad you enjoyed the Lavender Fields Photo Workshop and I look forward to seeing you again soon"
           }
         },
         {
@@ -175,6 +183,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you appreciated"
           }
         },
         {
@@ -194,6 +210,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jo, always a pleasure to support and encourage you on your photographic journey"
           }
         }
       ],

@@ -234,6 +234,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Grace, was a pleasure helping you and I am sure you will continue to grow as a successful artist"
           }
         },
         {

@@ -50,93 +50,15 @@
     {
       "@type": "Product",
       "name": "Lightroom Courses for Beginners Photo Editing - Coventry",
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Location: 45 Hathaway Road, Coventry, CV4 9HW Duration: 3 × 2 hr evening classes (19:00–21:00)Participants: Max 3 Start Dates:Lightroom Editing Course Coventry 3 wks - Mon 7 Sep - 21 Sep 2026 Coventry 3 wks - Thu 12 Nov - 26 Nov 2026 Coventry 3 wks - Tue 12 Jan - 26 Jan 2027 Coventry 3 wks - Thu 6 May - 20 May 2027 Level: Beginners Description: A practical three-week evening...",
+      "description": "For those who want to implement the best workflow for image management and all the dos and don'ts of post-production with these Photo Editing Classes with Lightroom Adobe Lightroom Classic Courses for Beginners - Coventry Location: 45 Hathaway Road, Coventry, CV4 9HW Duration: 3 × 2 hr evening classes (19:00–21:00)Participants: Max 3 Start Dates:Lightroom Editing Course Coventry 3 wks - Tue 12 Jan - 26 Jan 2027 Coventry 3 wks - Thu 6 May - 20 May 2027 Coventry 3 wks - Wed 1 Sep - 15 Sep 2027 Coventry 3 wks - Mon 8 Nov - 22 Nov 2027 Level: Beginners Description: A practical three-week evening...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/fe40a5e1-7fa2-4057-982e-555479b97022/Lightroom+courses+-+photo+editing+course.png",
       "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
       "offers": [
-        {
-          "@type": "Offer",
-          "sku": "SQ7526725",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/OutOfStock",
-          "validFrom": "2014-07-26",
-          "priceValidUntil": "2027-12-31",
-          "name": "Coventry 3 wks - Mon 7 Sep - 21 Sep 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
-        {
-          "@type": "Offer",
-          "sku": "SQ6831161",
-          "price": "150.00",
-          "priceCurrency": "GBP",
-          "availability": "https://schema.org/InStock",
-          "validFrom": "2014-07-26",
-          "priceValidUntil": "2026-11-12",
-          "name": "Coventry 3 wks - Thu 12 Nov - 26 Nov 2026",
-          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
-          "seller": {
-            "@type": "Organization",
-            "name": "Alan Ranger Photography",
-            "url": "https://www.alanranger.com"
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "doesNotShip": true,
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": "GB"
-            }
-          },
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 28,
-            "refundType": "http://schema.org/FullRefund",
-            "applicableCountry": "GB",
-            "returnMethod": "http://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/ReturnShippingFees",
-            "returnShippingFeesAmount": {
-              "@type": "MonetaryAmount",
-              "value": "50.00",
-              "currency": "GBP"
-            }
-          }
-        },
         {
           "@type": "Offer",
           "sku": "SQ1021857",
@@ -147,7 +69,7 @@
           "priceValidUntil": "2027-01-12",
           "name": "Coventry 3 wks - Tue 12 Jan - 26 Jan 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
-          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer1",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -185,6 +107,84 @@
           "validFrom": "2014-07-26",
           "priceValidUntil": "2027-05-06",
           "name": "Coventry 3 wks - Thu 6 May - 20 May 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ7526725",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-09-01",
+          "name": "Coventry 3 wks - Wed 1 Sep - 15 Sep 2027",
+          "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
+          "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer3",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "sku": "SQ6831161",
+          "price": "150.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2014-07-26",
+          "priceValidUntil": "2027-11-08",
+          "name": "Coventry 3 wks - Thu 8 Nov - 22 Nov 2027",
           "url": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry",
           "@id": "https://www.alanranger.com/photography-services-near-me/lightroom-courses-for-beginners-coventry#offer4",
           "seller": {
@@ -234,6 +234,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
           }
         },
         {
@@ -253,6 +261,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -272,6 +288,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -291,6 +315,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -310,6 +342,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         },
         {
@@ -329,6 +369,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kelly"
           }
         },
         {
@@ -348,6 +396,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Emi. I am touched by your kind words and appreciate your support.  Onwards to more learning and sharing the journey in photography"
           }
         },
         {
@@ -367,6 +423,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you Mattia.  Hope to see you both again soon"
           }
         },
         {
@@ -386,6 +450,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jeanette, hoping your Lightroom is much easier and less cluttered now."
           }
         },
         {
@@ -405,6 +477,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Nick, really appreciated and look forward to working with you again and troubleshooting your next set of questions"
           }
         },
         {

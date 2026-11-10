@@ -118,6 +118,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thank you though I am slightly concerned at the thought of you in minimalist shorts😂"
           }
         },
         {
@@ -137,6 +145,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Pam, lovely photos too"
           }
         },
         {
@@ -232,6 +248,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Tracey, was lovely to meet you and share some of Suffolk's wonderful coastal scenes"
           }
         }
       ],

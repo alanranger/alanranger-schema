@@ -114,6 +114,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you, this is really kind. What you've said about photography being \"an art mediated by technology, but nonetheless an art\" is exactly how I think about it — and the bit about watching daybreak on the beach being worth the price of admission is the bit most workshop reviews never mention. The local Anglesey confirmation made me laugh, and is a relief; you can never quite be sure you've picked the right locations until someone from the place tells you you have. Best to you and your wife — and if you're ever back in the UK with the camera, you know where to find me."
           }
         },
         {

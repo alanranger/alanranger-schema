@@ -171,6 +171,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Andy, was a pleasure to meet you and have the weekend facing all the challenges with a can-do approach.  Hope to see you back again at some point."
           }
         },
         {
@@ -190,6 +198,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you for the feedback.  Naturally, I feel this is unfair and not representative of the event given the feedback from the other 5 attendees on the Norfolk Workshop.  However, I appreciate you struggled with driving between locations which hampered your participation and enjoyment of the workshop, but to say there was no tuition or guidance is really just not fair or true."
           }
         }
       ],

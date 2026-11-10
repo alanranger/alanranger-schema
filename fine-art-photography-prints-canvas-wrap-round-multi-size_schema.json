@@ -370,6 +370,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thank you Viktoria, hopefully i will see you on a workshop again soon"
           }
         },
         {

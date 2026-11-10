@@ -114,6 +114,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sofia, dont leave it too long before following up so you can see the potential in the shots you took with some basic LR training."
           }
         },
         {
@@ -133,6 +141,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Chris, much appreciated and all your endurance over the weekend too."
           }
         },
         {

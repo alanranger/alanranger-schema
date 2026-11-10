@@ -118,6 +118,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Jo, great to see you again and hopefully you will consider the Lightroom Course for November"
           }
         },
         {
@@ -137,6 +145,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Josh, great to have you on this workshop and on one tonight at Chesterton too.  You seem to be learning quickly and open to new ideas and deepening your understanding of photography"
           }
         },
         {
@@ -156,6 +172,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Matt, good to see you getting motivated with your photography and was a pleasure having you along on the workshop"
           }
         },
         {
@@ -270,6 +294,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Tim.  It was nice to meet you and help you with your camera settings and work through some theory"
           }
         },
         {
@@ -289,6 +321,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Trustpilot"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks for the feedback Lesley but you booked an informal £10 photo walk 3 years ago that was billed as walk and not a tuition session, so maybe you misunderstood what you were attending."
           }
         },
         {

@@ -114,6 +114,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Penny, was lovely to meet you and spend a few days with you and the group discussing all elements of photography and opinions.  Hope you can make it to another one at some point."
           }
         },
         {
@@ -133,6 +141,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Dave, appreciated and it was a great weekend of photography and discussions.   Hope to see you again soon"
           }
         },
         {
@@ -152,6 +168,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Bassam, a lovely review and appreciated.  Hope you can join another adventure sometime soon."
           }
         },
         {
@@ -171,6 +195,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Derek, appreciated"
           }
         },
         {
@@ -190,6 +222,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Phil, appreciated.  Hope to see you again soon on another weekend workshop"
           }
         },
         {
