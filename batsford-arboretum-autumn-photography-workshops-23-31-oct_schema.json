@@ -248,9 +248,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "supriya s m"
+            "name": "Orr Shachar"
           },
-          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
+          "reviewBody": "Great guidance and expertise - highly recommended",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -268,7 +268,7 @@
               "@type": "Organization",
               "name": "Alan Ranger Photography"
             },
-            "text": "Thanks Supriya"
+            "text": "Thanks Orr, appreciated"
           }
         },
         {
@@ -302,9 +302,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Orr Shachar"
+            "name": "supriya s m"
           },
-          "reviewBody": "Great guidance and expertise - highly recommended",
+          "reviewBody": "Great learning experience, Alan has been good guide and help clarify what exactly needed",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -322,7 +322,7 @@
               "@type": "Organization",
               "name": "Alan Ranger Photography"
             },
-            "text": "Thanks Orr, appreciated"
+            "text": "Thanks Supriya"
           }
         },
         {
@@ -653,36 +653,9 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Linda Newbery"
+            "name": "Ian Hardwick"
           },
-          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2021-10-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thank you appreciated"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Nick F"
-          },
-          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
+          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -734,9 +707,36 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ian Hardwick"
+            "name": "Linda Newbery"
           },
-          "reviewBody": "Batsford Arboretum Workshop  I attended the Workshop as a relative novice and by the end of it, whilst there were no competition winners, the standard of pictures I took were a huge improvement  over what I could manage before.  Alan is clearly knowledgeable, has a great eye for a picture, and provides as much or as little interaction as you require.  A very enjoyable morning",
+          "reviewBody": "I've been on several in-person workshops with Alan and have enjoyed all of them. He very generously provides his online Academy too: a wealth of advice on a range of topics, all invaluable for those of us who want to improve our photography skills and feel confident in a range of situations. It's much appreciated.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2021-10-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thank you appreciated"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick F"
+          },
+          "reviewBody": "It was a breath of fresh air to be with Alan, his enthusiasm is addictive. The day definitely taught an old dog new tricks at a beautiful location, Batsford arboretum.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",

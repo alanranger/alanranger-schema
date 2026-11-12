@@ -866,33 +866,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sarah Joyce"
-          },
-          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-04-28",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Mike McMahon"
           },
           "reviewBody": "Did an excellent bluebells workshop with Alan over the weekend . Alan is a great guy and always on hand should you need any advice . The woods alan uses is private so you have no worries of lots of people getting into your shots  . Highly recommended",
@@ -914,6 +887,33 @@
               "name": "Alan Ranger Photography"
             },
             "text": "Thanks Mike, appreciated and hope we cross paths again"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Joyce"
+          },
+          "reviewBody": "Very well organised & enjoyable workshop. Alan provided great information in advance of the day from meeting point arrangements to kit list and suggestions for shots that we might think about beforehand. His workshops are for small groups so there was plenty of opportunity to ask for his advice, demonstration and discuss topics relevant to each participant. Although it was a very overcast day, Alan showed us how to make the best of the conditions.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-04-28",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, shame about the light on the day but hopefully you still got some decent images and more importantly now have a better workflow and approach to composition with landscapes"
           }
         },
         {
@@ -1298,33 +1298,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John Duncombe"
-          },
-          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2024-04-22",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks John, good to see you again"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Stephen Frost"
           },
           "reviewBody": "Well organised photo shoot. Communication was first class with written advice on equipment and camera settings. I would highly recommend this event.",
@@ -1346,6 +1319,33 @@
               "name": "Alan Ranger Photography"
             },
             "text": "Thanks Stephen"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Duncombe"
+          },
+          "reviewBody": "Took part in Alan's recent Bluebell workshop. Weather and location were very good and Alan was helpful as always. Thanks again.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2024-04-22",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, good to see you again"
           }
         },
         {

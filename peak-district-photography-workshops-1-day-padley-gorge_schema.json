@@ -237,33 +237,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "John MacDonald"
-          },
-          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help, then leaving me to put it into practice. Great day with the group and would recommend.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-11-03",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks John, appreciated. I know you had some from great images from what i saw on your camera so remember the mantra about intention first and settings and technique second to deliver the intention"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "sofih16"
           },
           "reviewBody": "Wonderful full days tuition photographing the Peak District, Padley Gorge & Bolehill Quarry.  Although I had had a camera for 10 years and I had been using the bare minimum of functions Alan was able to teach me some technical skills that I will be able to use in my photography going forward.  Alan is incredibly knowledgeable and was able to tailor his teaching to everyone’s individual level, which I was very grateful for.  I am really pleased with the photos I managed to capture on the day. Thank you Alan for a fantastic day and sharing your photography knowledge.",
@@ -285,6 +258,33 @@
               "name": "Alan Ranger Photography"
             },
             "text": "Thanks Sophie, much appreciated and i know you loved the mushrooms (too much lol)  was a pleasure to have you ain the group on the day and i hope you will continue to visit both locations again with new insights and improved visual observation and camera skills"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John MacDonald"
+          },
+          "reviewBody": "Peak District Photography Workshop - Padley Gorge & Bolehill Quarry - Fantastic day out with Alan with fantastic autumn colours. Alan was very helpful in helping with the right exposure settings to really make the most of the locations. The input and help were focussed on where I needed the help, then leaving me to put it into practice. Great day with the group and would recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-03",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks John, appreciated. I know you had some from great images from what i saw on your camera so remember the mantra about intention first and settings and technique second to deliver the intention"
           }
         },
         {
@@ -453,60 +453,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Alex McDonald"
-          },
-          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks Alex, hope you continue to develop your photography knowledge and appreciation of the landscape"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sharon McDonald"
-          },
-          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks Sharon, glad it took you a few steps forwards"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Dave Clarke"
           },
           "reviewBody": "Great advice and a beautiful and interesting location. Recommended....",
@@ -555,6 +501,60 @@
               "name": "Alan Ranger Photography"
             },
             "text": "thanks Colin, appreciated"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon McDonald"
+          },
+          "reviewBody": "Really informative and well paced day of landscape photography, learning to compose shots and get comfortable using a tripod, whatever the weather. Thank you Alan!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sharon, glad it took you a few steps forwards"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex McDonald"
+          },
+          "reviewBody": "Great time in the Peak District, first time using a tripod so received lots of helpful tips even as a beginner.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Alex, hope you continue to develop your photography knowledge and appreciation of the landscape"
           }
         },
         {

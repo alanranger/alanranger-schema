@@ -132,33 +132,6 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Josh"
-          },
-          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-09-09",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          },
-          "comment": {
-            "@type": "Comment",
-            "author": {
-              "@type": "Organization",
-              "name": "Alan Ranger Photography"
-            },
-            "text": "Thanks Josh, great to have you on this workshop and on one tonight at Chesterton too.  You seem to be learning quickly and open to new ideas and deepening your understanding of photography"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
             "name": "Matt G"
           },
           "reviewBody": "Unlocked my camera for me and opened my eyes to composition and the architecture of Coventry.",
@@ -180,6 +153,33 @@
               "name": "Alan Ranger Photography"
             },
             "text": "Thanks Matt, good to see you getting motivated with your photography and was a pleasure having you along on the workshop"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh"
+          },
+          "reviewBody": "I attended the Urban Coventry photography workshop with Alan Ranger. It was very informative and engaging, I learned a lot about camera settings, composition, focus, the experience of photography in general and more (I'm not a complete beginner, but there was still a lot I learned). The timing, pace and length of the session were perfect and we were able to shoot at a good amount of locations. Alan himself is very friendly, knowledgeable and helpful. Overall, great workshop and I would recommend.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-09-09",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Josh, great to have you on this workshop and on one tonight at Chesterton too.  You seem to be learning quickly and open to new ideas and deepening your understanding of photography"
           }
         },
         {
