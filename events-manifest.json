@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T13:09:49.797Z",
-  "totalEvents": 85,
+  "generatedAt": "2026-11-12T14:06:54.915Z",
+  "totalEvents": 86,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -312,6 +312,14 @@
       "group": "workshops",
       "slug": "suffolk-landscape-photography-workshop",
       "schemaFileName": "suffolk-landscape-photography-workshop_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry-htkw6",
+      "pathKey": "/photographic-workshops-near-me/abstract-and-macro-photography-workshop-coventry-htkw6",
+      "group": "workshops",
+      "slug": "abstract-and-macro-photography-workshop-coventry-htkw6",
+      "schemaFileName": "abstract-and-macro-photography-workshop-coventry-htkw6_event_schema.json",
       "faqFileName": ""
     },
     {
