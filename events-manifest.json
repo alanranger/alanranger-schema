@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T10:16:00.147Z",
-  "totalEvents": 83,
+  "generatedAt": "2026-11-12T13:09:49.797Z",
+  "totalEvents": 85,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -315,6 +315,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth-l4bls",
+      "pathKey": "/photographic-workshops-near-me/long-exposure-photo-workshop-sunset-kenilworth-l4bls",
+      "group": "workshops",
+      "slug": "long-exposure-photo-workshop-sunset-kenilworth-l4bls",
+      "schemaFileName": "long-exposure-photo-workshop-sunset-kenilworth-l4bls_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl",
       "pathKey": "/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl",
       "group": "workshops",
@@ -344,6 +352,14 @@
       "group": "workshops",
       "slug": "long-exposure-photography-workshop-kenilworth2",
       "schemaFileName": "long-exposure-photography-workshop-kenilworth2_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
+      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
+      "group": "workshops",
+      "slug": "sunset-chesterton-windmill-spring-7gw7j",
+      "schemaFileName": "sunset-chesterton-windmill-spring-7gw7j_event_schema.json",
       "faqFileName": ""
     },
     {
