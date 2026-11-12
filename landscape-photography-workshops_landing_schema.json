@@ -245,7 +245,7 @@
       "@type": "ItemList",
       "@id": "https://www.alanranger.com/landscape-photography-workshops#itemlist",
       "name": "Landscape Photography Workshops Across the UK | Alan Ranger",
-      "numberOfItems": 14,
+      "numberOfItems": 15,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -316,7 +316,7 @@
         {
           "@type": "ListItem",
           "position": 12,
-          "name": "The Art of GARDEN PHOTOGRAPHY - Coventry - May and July",
+          "name": "The Art of GARDEN PHOTOGRAPHY - Coventry - May Jun Jul",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
         },
         {
@@ -330,6 +330,12 @@
           "position": 14,
           "name": "WARWICKSHIRE Woodland PHOTOGRAPHY WALKS - Monthly - 2hrs",
           "url": "https://www.alanranger.com/photo-workshops-uk/woodland-photography-walk-warwickshire"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "SEZINCOTE Garden Photography Workshop - Gloucs June",
+          "url": "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop"
         }
       ]
     }
