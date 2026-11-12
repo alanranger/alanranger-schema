@@ -55,7 +55,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Sat Nov 28 th 2026 - 10:30 am - 1:30 pm Macro Photography - Sat May 1 st 2027 - 11 am - 2 pm Macro Photography - Sun Sep 29 th 2027 - 2:00 pm - 5:00 pm Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro Photography Workshop Event Details: Macro Photography and...",
+      "description": "Abstract and Macro Photography Workshop . Learn about camera settings, lens use, controlling Do F and composition. Various Dates in Warwickshire | Half Day Summary Location: Warwickshire Dates: Macro Photography Workshops Macro Photography - Sat Nov 28 th 2026 - 10:30 am - 1:30 pm Macro Photography - Sat Feb 13 th 2027 - 10:30 am - 1:30 pm Macro Photography - Sat May 1 st 2027 - 11 am - 2 pm Macro Photography - Sun Aug 29 th 2027 - 2:00 pm - 5:00 pm Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: Digital Camera and Tripod, Zoom or Macro Lens Macro...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/25c550a3-a242-4303-a11b-367dd7055dbe/Abstract%2Band%2BMacro%2BPhotography%2BWorkshops%2B%25282%2529.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
       "offers": [
@@ -100,6 +100,45 @@
         },
         {
           "@type": "Offer",
+          "sku": "SQ5217590",
+          "price": "75.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2019-11-12",
+          "priceValidUntil": "2027-12-31",
+          "name": "Sat Feb 13th 2027 - 10:30am - 1:30pm",
+          "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
           "sku": "SQ2051466",
           "price": "75.00",
           "priceCurrency": "GBP",
@@ -108,7 +147,7 @@
           "priceValidUntil": "2027-12-31",
           "name": "Sat May 1st 2027 - 11am - 2pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer2",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
@@ -145,9 +184,9 @@
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-11-12",
           "priceValidUntil": "2027-12-31",
-          "name": "Sun Sep 29th 2027 - 2:00pm - 5:00pm",
+          "name": "Sun Aug 29th 2027 - 2:00pm - 5:00pm",
           "url": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer3",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/abstract-and-macro-photography-workshops#offer4",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",
