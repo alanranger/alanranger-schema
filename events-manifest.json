@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T22:29:16.757Z",
-  "totalEvents": 84,
+  "generatedAt": "2026-11-14T23:24:40.406Z",
+  "totalEvents": 102,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -291,6 +291,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270109",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270109",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270109",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270109_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter",
       "pathKey": "/photographic-workshops-near-me/secrets-of-woodland-photography-masterclass-winter",
       "group": "workshops",
@@ -331,6 +339,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20270221",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20270221",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20270221",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20270221_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl",
       "pathKey": "/photographic-workshops-near-me/hartland-quay-devon-seascapes-ynfcl",
       "group": "workshops",
@@ -363,6 +379,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270327",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270327_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "pathKey": "/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "group": "workshops",
@@ -376,6 +400,14 @@
       "group": "workshops",
       "slug": "dorset-photography-workshop",
       "schemaFileName": "dorset-photography-workshop_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270413",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270413",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270413",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270413_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -475,6 +507,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270510",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270510",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270510",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270510_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
       "pathKey": "/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
       "group": "workshops",
@@ -523,6 +563,14 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270626",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270626",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270626",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270626_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
       "pathKey": "/photographic-workshops-near-me/lavender-photography-workshop-sunset-19",
       "group": "workshops",
@@ -544,6 +592,14 @@
       "group": "workshops",
       "slug": "garden-photography-workshop",
       "schemaFileName": "garden-photography-workshop_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270717",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270717_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -571,11 +627,27 @@
       "faqFileName": ""
     },
     {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270821",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270821",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270821",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270821_event_schema.json",
+      "faqFileName": ""
+    },
+    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
       "pathKey": "/photographic-workshops-near-me/abstract-and-macro-photography-workshop",
       "group": "workshops",
       "slug": "abstract-and-macro-photography-workshop",
       "schemaFileName": "abstract-and-macro-photography-workshop_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270906",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270906",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20270906",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20270906_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -600,6 +672,14 @@
       "group": "workshops",
       "slug": "lake-district-photography-workshop-late-summer",
       "schemaFileName": "lake-district-photography-workshop-late-summer_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20271002",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20271002",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20271002",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20271002_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -672,6 +752,70 @@
       "group": "workshops",
       "slug": "lake-district-photography-workshop-autumn",
       "schemaFileName": "lake-district-photography-workshop-autumn_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20271120",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20271120",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20271120",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20271120_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20271218",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20271218",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20271218",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20271218_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280115",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280115",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20280115",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20280115_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280219",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280219",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20280219",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20280219_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280318",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280318",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20280318",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20280318_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280422",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280422",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20280422",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20280422_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280513",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunrise-workshop-20280513",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunrise-workshop-20280513",
+      "schemaFileName": "chesterton-windmill-sunrise-workshop-20280513_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280617",
+      "pathKey": "/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20280617",
+      "group": "workshops",
+      "slug": "chesterton-windmill-sunset-workshop-20280617",
+      "schemaFileName": "chesterton-windmill-sunset-workshop-20280617_event_schema.json",
       "faqFileName": ""
     }
   ]

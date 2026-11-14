@@ -60,7 +60,7 @@
       "keywords": "photography course, photography workshop, 2.5hrs-4hrs, Gloucestershire",
       "sameAs": [
         "https://www.alanranger.com/photographic-workshops-near-me/sezincote-garden-photography-workshop",
-        "https://www.alanranger.com/photo-workshops-uk/cotswolds-landscape-photography-workshop"
+        "https://www.alanranger.com/photo-workshops-uk/sezincote-garden-photography-workshop"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -77,7 +77,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "125.00",
+        "price": "75.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
         "url": "https://www.alanranger.com/photographic-workshops-near-me/sezincote-garden-photography-workshop",

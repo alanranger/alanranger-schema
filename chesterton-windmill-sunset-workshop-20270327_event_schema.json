@@ -7,14 +7,14 @@
         "Product",
         "Event"
       ],
-      "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1#event",
-      "identifier": "camera-courses-for-beginners-coventry-oct1",
-      "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 9-11",
-      "description": "09/11/2026 Coventry - 3-week camera courses for beginners - Everything to get off Automatic mode and learn how to be more creative with Composition and Camera",
-      "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1629536412755-A3NEF7ZNBOQ1044I8WVM/beginners-photography-courses.jpg",
-      "startDate": "2026-11-09T19:00:00",
-      "endDate": "2026-11-09T21:00:00",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327#event",
+      "identifier": "chesterton-windmill-sunset-workshop-20270327",
+      "name": "Sunset Photographic Workshop - Chesterton Windmill 27-3",
+      "description": "Mar 27, 2027, 5:00 – 7:00 PMSunset photography at Chesterton Windmill, Warwickshire. Small-group tuition in composition, light and long exposures. £50 per session. Provisional date, confirmed 48 hours beforehand.",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
+      "startDate": "2027-03-27T17:00:00",
+      "endDate": "2027-03-27T19:00:00",
       "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
@@ -41,30 +41,30 @@
       },
       "location": {
         "@type": "Place",
-        "name": "Coventry",
+        "name": "Warwickshire",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "45 Hathaway Road",
-          "addressLocality": "Coventry",
+          "streetAddress": "Windmill Hill Ln",
+          "addressLocality": "England",
           "addressRegion": "West Midlands",
-          "postalCode": "CV4 9HW",
+          "postalCode": "CV33 9LB",
           "addressCountry": "GB"
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 52.4068,
-          "longitude": -1.5197
+          "latitude": 52.2819,
+          "longitude": -1.5845
         }
       },
-      "about": "Photography fundamentals and camera basics",
-      "keywords": "camera-settings, composition, exposure, photo-critiques, dslr-settings, Week-1, beginner photography, photography for beginners, beginners-courses, Coventry",
+      "about": "Photography education and training",
+      "keywords": "2.5hrs-4hrs, Warwickshire",
       "sameAs": [
-        "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-        "https://www.alanranger.com/photography-services-near-me/beginners-photography-course"
+        "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327",
+        "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1"
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327"
       },
       "performer": {
         "@type": "Person",
@@ -77,12 +77,12 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "150.00",
+        "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1",
-        "validFrom": "2026-06-29 12:18:01",
-        "priceValidUntil": "2026-11-09",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327",
+        "validFrom": "2026-11-14 22:04:51",
+        "priceValidUntil": "2027-03-27",
         "seller": {
           "@id": "https://www.alanranger.com/#org"
         },
@@ -97,20 +97,16 @@
       },
       "potentialAction": {
         "@type": "RegisterAction",
-        "target": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1"
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327"
       },
       "subjectOf": {
         "@type": "WebPage",
-        "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1"
-      },
-      "superEvent": {
-        "@type": "EventSeries",
-        "@id": "https://www.alanranger.com#series-camera-course-for-beginners"
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1#breadcrumbs",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -121,14 +117,14 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Photography Services Near Me",
-          "item": "https://www.alanranger.com/photography-services-near-me"
+          "name": "Photo Workshops UK",
+          "item": "https://www.alanranger.com/photo-workshops-uk"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Camera Courses For Beginners - Week 1 of 3 - Coventry 9-11",
-          "item": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct1"
+          "name": "Sunset Photographic Workshop - Chesterton Windmill 27-3",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270327"
         }
       ]
     }
