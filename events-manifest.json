@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T14:06:54.915Z",
-  "totalEvents": 86,
+  "generatedAt": "2026-11-14T22:29:16.757Z",
+  "totalEvents": 84,
   "entries": [
     {
       "url": "https://www.alanranger.com/beginners-photography-lessons/camera-courses-for-beginners-coventry-oct2",
@@ -363,14 +363,6 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
-      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j",
-      "group": "workshops",
-      "slug": "sunset-chesterton-windmill-spring-7gw7j",
-      "schemaFileName": "sunset-chesterton-windmill-spring-7gw7j_event_schema.json",
-      "faqFileName": ""
-    },
-    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "pathKey": "/photographic-workshops-near-me/dartmoor-photography-workshop-woodlands",
       "group": "workshops",
@@ -384,14 +376,6 @@
       "group": "workshops",
       "slug": "dorset-photography-workshop",
       "schemaFileName": "dorset-photography-workshop_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
-      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-spring",
-      "group": "workshops",
-      "slug": "sunset-chesterton-windmill-spring",
-      "schemaFileName": "sunset-chesterton-windmill-spring_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -491,14 +475,6 @@
       "faqFileName": ""
     },
     {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop",
-      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-photography-workshop",
-      "group": "workshops",
-      "slug": "sunset-chesterton-windmill-photography-workshop",
-      "schemaFileName": "sunset-chesterton-windmill-photography-workshop_event_schema.json",
-      "faqFileName": ""
-    },
-    {
       "url": "https://www.alanranger.com/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
       "pathKey": "/photographic-workshops-near-me/fairy-glen-photography-betws-y-coed",
       "group": "workshops",
@@ -528,6 +504,22 @@
       "group": "workshops",
       "slug": "garden-photography-workshop-mxyms",
       "schemaFileName": "garden-photography-workshop-mxyms_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/sezincote-garden-photography-workshop",
+      "pathKey": "/photographic-workshops-near-me/sezincote-garden-photography-workshop",
+      "group": "workshops",
+      "slug": "sezincote-garden-photography-workshop",
+      "schemaFileName": "sezincote-garden-photography-workshop_event_schema.json",
+      "faqFileName": ""
+    },
+    {
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/garden-photography-workshop-mxyms-cnjhm",
+      "pathKey": "/photographic-workshops-near-me/garden-photography-workshop-mxyms-cnjhm",
+      "group": "workshops",
+      "slug": "garden-photography-workshop-mxyms-cnjhm",
+      "schemaFileName": "garden-photography-workshop-mxyms-cnjhm_event_schema.json",
       "faqFileName": ""
     },
     {
@@ -584,14 +576,6 @@
       "group": "workshops",
       "slug": "abstract-and-macro-photography-workshop",
       "schemaFileName": "abstract-and-macro-photography-workshop_event_schema.json",
-      "faqFileName": ""
-    },
-    {
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
-      "pathKey": "/photographic-workshops-near-me/sunset-chesterton-windmill-spring-7gw7j-9akd5",
-      "group": "workshops",
-      "slug": "sunset-chesterton-windmill-spring-7gw7j-9akd5",
-      "schemaFileName": "sunset-chesterton-windmill-spring-7gw7j-9akd5_event_schema.json",
       "faqFileName": ""
     },
     {
