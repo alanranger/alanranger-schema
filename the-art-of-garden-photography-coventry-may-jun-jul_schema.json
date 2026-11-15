@@ -41,7 +41,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "The Art of Garden Photography - Coventry - May and July",
+          "name": "The Art of Garden Photography - Coventry - May Jun Jul",
           "item": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop"
         }
       ],
@@ -49,13 +49,13 @@
     },
     {
       "@type": "Product",
-      "name": "The Art of GARDEN PHOTOGRAPHY  - Coventry -  May and July",
+      "name": "The Art of GARDEN PHOTOGRAPHY  - Coventry -  May Jun Jul",
       "sku": "SQ0939451",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Join us for an unforgettable journey into macro and abstract on this garden photography workshop. Secure your spot today and embark on a transformative learning experience in garden photography.Summary Location: Coventry - CV4 Dates:Sun May 23 rd 2027 - 15:00 - 17:00 Sun Jul 11 th 2027 - 15:00 - 17:00 Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Garden Photography Description: This Garden Photography Workshop is an intimate afternoon in Alan's own private garden in Coventry...",
+      "description": "Join us for an unforgettable journey into macro and abstract on this garden photography workshop. Secure your spot today and embark on a transformative learning experience in garden photography.Summary Location: Coventry - CV4 Dates:Sun May 23 rd 2027 - 15:00 - 17:00 Sun Jun 20 th 2027 - 15:00- 17:00 Sun Jul 11 th 2027 - 15:00 - 17:00 Participants: Max 4 Fitness: 1. Easy Experience Level: Beginner to Advanced Equipment Needed: DSLR or Mirrorless Camera and Tripod Photography Workshop Event Details Garden Photography Description: This Garden Photography Workshop is an intimate afternoon in...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1709974516534-UJBRDOK5RXR4QNLPTECD/_-677.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
       "offers": [
@@ -100,6 +100,45 @@
         },
         {
           "@type": "Offer",
+          "sku": "SQ0868114",
+          "price": "45.00",
+          "priceCurrency": "GBP",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2021-08-29",
+          "priceValidUntil": "2027-12-31",
+          "name": "Sun Jun 20th 2027 - 15:00- 17:00",
+          "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
+          "seller": {
+            "@type": "Organization",
+            "name": "Alan Ranger Photography",
+            "url": "https://www.alanranger.com"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "doesNotShip": true,
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "GB"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "http://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 28,
+            "refundType": "http://schema.org/FullRefund",
+            "applicableCountry": "GB",
+            "returnMethod": "http://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/ReturnShippingFees",
+            "returnShippingFeesAmount": {
+              "@type": "MonetaryAmount",
+              "value": "50.00",
+              "currency": "GBP"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
           "sku": "SQ3644687",
           "price": "45.00",
           "priceCurrency": "GBP",
@@ -108,7 +147,7 @@
           "priceValidUntil": "2027-12-31",
           "name": "Sun Jul 11th 2027 - 15:00 - 17:00",
           "url": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop",
-          "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer2",
+          "@id": "https://www.alanranger.com/photo-workshops-uk/garden-photography-workshop#offer3",
           "seller": {
             "@type": "Organization",
             "name": "Alan Ranger Photography",

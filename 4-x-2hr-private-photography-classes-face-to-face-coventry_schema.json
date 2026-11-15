@@ -106,6 +106,25 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
+            "name": "Viggo Uliana"
+          },
+          "reviewBody": "I’ve just finished a 4-lesson bundle with Alan, a gift from my parents, and I can’t recommend him highly enough.  In the first lesson we went back to basics: the exposure triangle (shutter speed, aperture and ISO), white balance, and how to handle different shooting situations. It was a lot to take in, but it gave me a really solid foundation. Next we covered depth of field and how the f-stop controls how much of the image is sharp. Alan suggested I switch to aperture priority, which felt like relearning my camera, but it made a real difference to my photos. The third lesson was about lighting, with a still life homework project that was challenging but taught me a lot. In the final lesson we looked at the bigger picture: how to tell a story with a photo, what to include and what to leave out, when to take the shot, and how changing the angle or lighting can change the whole story of a scene.  What makes Alan stand out is his feedback. Each lesson started with a review of my homework, and he’s a no-nonsense teacher who tells you honestly what’s working and what isn’t. That has helped me improve more than anything else. I came away far more observant and intentional with my shots.  Thank you, Alan. I hope to come back one day with a portfolio of professional-looking work. Highly recommended to anyone who wants to improve their photography!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-11-11",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
             "name": "Rhia Sutherland"
           },
           "reviewBody": "Had a 1-1 session, found it very informative and tailored to my needs. Alan went through the fundamentals to get me off to a good start",
@@ -669,31 +688,12 @@
             "@type": "Organization",
             "name": "Trustpilot"
           }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Lynseylp"
-          },
-          "reviewBody": "I initially enrolled on an introductory course with Alan through living social deals. His engaging delivery, course materials and open, honest and supportive approach encouraged me to enroll on further workshops and 1-2-1 feedback.   As a service provider the company provides relevant, up to date and comprehensive information relating not just to technical elements of photography but also tips on defeloping personal style and creative intention. The range of classes and workshops is diverse and suits a range of experience. Seasonal and locational workshops are also added often to suit varying interests. These are publicised via website, facebook and email.  I feel that with Alans expert support I am now making the transition from enthusiastic snapper to informed and inspired photographer!   Thank you",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2014-10-11",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Trustpilot"
-          }
         }
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.96",
-        "reviewCount": 25,
+        "reviewCount": 26,
         "bestRating": "5",
         "worstRating": "1"
       },

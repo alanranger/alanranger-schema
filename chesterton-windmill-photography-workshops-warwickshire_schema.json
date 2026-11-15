@@ -55,7 +55,7 @@
         "@type": "Brand",
         "name": "Alan Ranger Photography"
       },
-      "description": "Choose your Chesterton workshop Single session: £50. Select an individual date below.A Year at Chesterton: £480. Select “A Year at Chesterton — 12 monthly workshops — £480” in the same booking dropdown for 12 monthly sessions from your chosen start month. Six annual places. After booking, I will contact you to confirm your start month and mobile number.Annual dates are provisional and confirmed 48 hours beforehand. Flexibility over dates and times is part of joining. Full programme dates and FA Qs appear below.Chesterton windmill is one of Warwickshire's most famous landmarks. Join me in a...",
+      "description": "Choose your Chesterton workshop Single session: £50. Select an individual date below.A Year at Chesterton: £480. Select “A Year at Chesterton — 12 monthly workshops — £480” in the same booking dropdown for 12 monthly sessions from your chosen start month. Six annual places. After booking, I will contact you to confirm your start month and mobile number.Not a fixed date programme. You do not need to be free on every date shown. We will always try to flex each session around weather, light and the availability of clients booked on the 12-month package. After consultation, a session can move to...",
       "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/a31ee13f-f041-41e9-8c87-87db9f0e27fd/card1-12-months-FINAL-1x1.jpg",
       "url": "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill",
       "offers": [
@@ -191,8 +191,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2027-03-27",
-          "name": "Sat 27th Mar 2027 - 17:00 - 19:00",
+          "priceValidUntil": "2027-03-25",
+          "name": "Thu 25th Mar 2027 - 17:30 - 19:30",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -320,8 +320,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2027-06-26",
-          "name": "Sat 26th Jun 2027 - 19:30 - 21:45",
+          "priceValidUntil": "2027-06-24",
+          "name": "Thu 24th Jun 2027 - 19:30 - 21:45",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -363,8 +363,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2027-07-17",
-          "name": "Sat 17th Jul 2027 - 19:15 - 21:45",
+          "priceValidUntil": "2027-07-15",
+          "name": "Thu 15th Jul 2027 - 19:15 - 21:45",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -406,8 +406,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2027-08-21",
-          "name": "Sat 21st Aug 2027 - 18:15 - 20:30",
+          "priceValidUntil": "2027-08-18",
+          "name": "Wed 18th Aug 2027 - 18:15 - 20:30",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -578,8 +578,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2027-12-18",
-          "name": "Sat 18th Dec 2027 - 07:15 - 09:45",
+          "priceValidUntil": "2027-12-19",
+          "name": "Sun 19th Dec 2027 - 07:15 - 09:45",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -621,8 +621,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2028-01-15",
-          "name": "Sat 15th Jan 2028 - 07:15 - 09:30",
+          "priceValidUntil": "2028-01-16",
+          "name": "Sun 16th Jan 2028 - 07:15 - 09:30",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -707,8 +707,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2028-03-18",
-          "name": "Sat 18th Mar 2028 - 05:30 - 08:00",
+          "priceValidUntil": "2028-03-19",
+          "name": "Sun 19th Mar 2028 - 05:30 - 08:00",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -750,8 +750,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2028-04-22",
-          "name": "Sat 22nd Apr 2028 - 18:15 - 20:45",
+          "priceValidUntil": "2028-04-20",
+          "name": "Thu 20th Apr 2028 - 18:15 - 20:45",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -793,8 +793,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2028-05-13",
-          "name": "Sat 13th May 2028 - 04:45 - 07:15",
+          "priceValidUntil": "2028-05-11",
+          "name": "Thu 11th May 2028 - 18:45 - 21:15",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
@@ -836,8 +836,8 @@
           "priceCurrency": "GBP",
           "availability": "https://schema.org/InStock",
           "validFrom": "2019-04-10",
-          "priceValidUntil": "2028-06-17",
-          "name": "Sat 17th Jun 2028 - 19:30 - 21:45",
+          "priceValidUntil": "2028-06-15",
+          "name": "Thu 15th Jun 2028 - 19:30 - 21:45",
           "priceSpecification": {
             "price": "50.00",
             "priceCurrency": "GBP"
