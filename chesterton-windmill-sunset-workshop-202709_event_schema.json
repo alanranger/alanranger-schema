@@ -7,15 +7,15 @@
         "Product",
         "Event"
       ],
-      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717#event",
-      "identifier": "chesterton-windmill-sunset-workshop-20270717",
-      "name": "Sunset Photographic Workshop - Chesterton Windmill 17-7-2027",
-      "description": "Jul 17, 2027, 7:15 – 9:45 PMSunset photography at Chesterton Windmill, Warwickshire. Small-group tuition in composition, light and long exposures. £50 per session. Provisional date, confirmed 48 hours beforehand.",
-      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717",
-      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1546348903737-ZZOPNMPKQI3BIO8NTQJA/chesterton-windmill-photography-workshops.jpg",
-      "startDate": "2027-07-17T19:15:00",
-      "endDate": "2027-07-17T21:45:00",
-      "duration": "PT150M",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709#event",
+      "identifier": "chesterton-windmill-sunset-workshop-202709",
+      "name": "Chesterton Windmill Sunset Photo Workshop | September 2027",
+      "description": "06/09/2027 Photograph Chesterton Windmill at sunset in September 2027. £50 a session. Dates: provisional, with flexibility for weather, light and availability.",
+      "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709",
+      "image": "https://images.squarespace-cdn.com/content/v1/5013f4b2c4aaa4752ac69b17/1794741328230-1T3NPPSN1ILE921U24SJ/card1-12-months-FINAL-1x1.jpg",
+      "startDate": "2027-09-06T18:00:00",
+      "endDate": "2027-09-06T20:00:00",
+      "duration": "PT120M",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": false,
@@ -59,12 +59,12 @@
       "about": "Photography education and training",
       "keywords": "2.5hrs-4hrs, Warwickshire",
       "sameAs": [
-        "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717",
+        "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709",
         "https://www.alanranger.com/photo-workshops-uk/photography-workshops-chesterton-windmill"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717"
+        "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709"
       },
       "performer": {
         "@type": "Person",
@@ -80,9 +80,9 @@
         "price": "50.00",
         "priceCurrency": "GBP",
         "availability": "https://schema.org/InStock",
-        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717",
-        "validFrom": "2026-11-14 22:10:23",
-        "priceValidUntil": "2027-07-17",
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709",
+        "validFrom": "2026-11-15 13:11:55",
+        "priceValidUntil": "2027-09-06",
         "seller": {
           "@id": "https://www.alanranger.com/#org"
         },
@@ -97,16 +97,16 @@
       },
       "potentialAction": {
         "@type": "RegisterAction",
-        "target": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717"
+        "target": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709"
       },
       "subjectOf": {
         "@type": "WebPage",
-        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717"
+        "url": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717#breadcrumbs",
+      "@id": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -123,8 +123,8 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Sunset Photographic Workshop - Chesterton Windmill 17-7-2027",
-          "item": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-20270717"
+          "name": "Chesterton Windmill Sunset Photo Workshop | September 2027",
+          "item": "https://www.alanranger.com/photographic-workshops-near-me/chesterton-windmill-sunset-workshop-202709"
         }
       ]
     }
