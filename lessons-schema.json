@@ -1053,30 +1053,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -1094,6 +1075,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -1113,6 +1129,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -1132,25 +1183,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -1285,30 +1325,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -1326,6 +1347,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -1345,6 +1401,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -1364,25 +1455,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -1517,30 +1597,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -1558,6 +1619,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -1577,6 +1673,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -1596,25 +1727,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -1749,30 +1869,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -1790,6 +1891,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -1809,6 +1945,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -1828,25 +1999,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -1981,30 +2141,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -2022,6 +2163,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -2041,6 +2217,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -2060,25 +2271,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -2187,7 +2387,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-01-12T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2205,7 +2405,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2218,25 +2418,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -2254,6 +2435,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -2273,6 +2489,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -2292,6 +2516,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -2311,6 +2543,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -2445,30 +2685,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -2486,6 +2707,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -2505,6 +2761,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -2524,25 +2815,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -2651,7 +2931,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-01-19T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -2669,7 +2949,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -2682,25 +2962,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -2718,6 +2979,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -2737,6 +3033,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -2756,6 +3060,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -2775,6 +3087,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -2909,30 +3229,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -2950,6 +3251,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -2969,6 +3305,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -2988,25 +3359,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -3115,7 +3475,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-01-26T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -3133,7 +3493,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -3146,25 +3506,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -3182,6 +3523,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -3201,6 +3577,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -3220,6 +3604,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -3239,6 +3631,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -3373,30 +3773,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -3414,6 +3795,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -3433,6 +3849,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -3452,25 +3903,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -3605,30 +4045,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -3646,6 +4067,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -3665,6 +4121,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -3684,25 +4175,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -3837,30 +4317,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -3878,6 +4339,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -3897,6 +4393,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -3916,25 +4447,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -4069,30 +4589,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -4110,6 +4611,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -4129,6 +4665,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -4148,25 +4719,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -4301,30 +4861,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -4342,6 +4883,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -4361,6 +4937,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -4380,25 +4991,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -4533,30 +5133,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -4574,6 +5155,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -4593,6 +5209,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -4612,25 +5263,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -4765,30 +5405,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -4806,6 +5427,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -4825,6 +5481,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -4844,25 +5535,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -4971,7 +5651,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-05-06T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -4989,7 +5669,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -5002,25 +5682,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -5038,6 +5699,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -5057,6 +5753,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -5076,6 +5780,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -5095,6 +5807,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -5229,30 +5949,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -5270,6 +5971,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -5289,6 +6025,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -5308,25 +6079,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -5435,7 +6195,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-05-13T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -5453,7 +6213,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -5466,25 +6226,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -5502,6 +6243,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -5521,6 +6297,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -5540,6 +6324,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -5559,6 +6351,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -5693,30 +6493,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -5734,6 +6515,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -5753,6 +6569,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -5772,25 +6623,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -5899,7 +6739,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-05-20T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -5917,7 +6757,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -5930,25 +6770,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -5966,6 +6787,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -5985,6 +6841,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -6004,6 +6868,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -6023,6 +6895,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -6157,30 +7037,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -6198,6 +7059,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -6217,6 +7113,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -6236,25 +7167,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -6389,30 +7309,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -6430,6 +7331,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -6449,6 +7385,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -6468,25 +7439,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -6621,30 +7581,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -6662,6 +7603,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -6681,6 +7657,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -6700,25 +7711,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -6853,30 +7853,11 @@
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": 163,
+        "reviewCount": 180,
         "bestRating": "5",
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "G Smith"
-          },
-          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-10-01",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -6894,6 +7875,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Toby appreciated and  hope to see you again when you are ready for your next step into photography"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G Smith"
+          },
+          "reviewBody": "I did the beginners camera course, it was the perfect level of detail and information for me. Well paced and Alan was happy to answer any questions as we went and the assignments were interesting.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-10-01",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Gerry, appreciated.  Hope to see you again soon on an event"
           }
         },
         {
@@ -6913,6 +7929,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kiyara, appreciated.  Hopefully you will return for more tuition at some point."
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Kuner"
+          },
+          "reviewBody": "I attended Alan's beginner's photography course to learn about how to fully understand the manual settings on my camera to up my camera game. Alan clearly explained the technical aspects, gave helpful booklet on each week's session,  and it included 2 weeks access to his excellent online course m...",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-07-19",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sarah, I look forward to more sessions with you"
           }
         },
         {
@@ -6932,25 +7983,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harmit Kuner"
           },
-          "reviewBody": "Good, friendly tuition. Highly recommended.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-07-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Kate, looking forward to the next module which for me is the key pivot point to turn snappers into photographers,"
           }
         }
       ],
@@ -7059,7 +8099,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-09-01T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -7077,7 +8117,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -7090,25 +8130,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -7126,6 +8147,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -7145,6 +8201,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -7164,6 +8228,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -7183,6 +8255,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -7291,7 +8371,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-09-08T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -7309,7 +8389,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -7322,25 +8402,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -7358,6 +8419,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -7377,6 +8473,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -7396,6 +8500,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -7415,6 +8527,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -7523,7 +8643,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-09-15T18:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -7541,7 +8661,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -7554,25 +8674,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -7590,6 +8691,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -7609,6 +8745,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -7628,6 +8772,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -7647,6 +8799,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -7755,7 +8915,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-11-08T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -7773,7 +8933,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -7786,25 +8946,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -7822,6 +8963,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -7841,6 +9017,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -7860,6 +9044,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -7879,6 +9071,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -7987,7 +9187,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-11-15T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -8005,7 +9205,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -8018,25 +9218,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -8054,6 +9235,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -8073,6 +9289,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -8092,6 +9316,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -8111,6 +9343,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
@@ -8219,7 +9459,7 @@
             "addressCountry": "GB"
           }
         },
-        "sku": "SQ7526725",
+        "sku": "SQ1021857",
         "availabilityStarts": "2027-11-22T19:00:00.000Z",
         "itemCondition": "https://schema.org/NewCondition",
         "hasMerchantReturnPolicy": {
@@ -8237,7 +9477,7 @@
           }
         }
       },
-      "sku": "SQ7526725",
+      "sku": "SQ1021857",
       "brand": {
         "@type": "Brand",
         "name": "Alan Ranger Photography"
@@ -8250,25 +9490,6 @@
         "worstRating": "1"
       },
       "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sue Green"
-          },
-          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          },
-          "datePublished": "2026-05-27",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Google"
-          }
-        },
         {
           "@type": "Review",
           "author": {
@@ -8286,6 +9507,41 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "thanks Mahmood, pleasure to see you again and i am sure we will continue to liaise when needed"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Green"
+          },
+          "reviewBody": "Lightroom course Excellent. Very informative Very helpful answering our questions",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "datePublished": "2026-05-27",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Sue, appreciated and look forward to working with you more when you are ready"
           }
         },
         {
@@ -8305,6 +9561,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Anisha"
           }
         },
         {
@@ -8324,6 +9588,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Shelly for your review and getting stuck in all weekend in the Lake District.  I am glad you enjoyed the workshop and look forward to helping you further on the next trip"
           }
         },
         {
@@ -8343,6 +9615,14 @@
           "publisher": {
             "@type": "Organization",
             "name": "Google"
+          },
+          "comment": {
+            "@type": "Comment",
+            "author": {
+              "@type": "Organization",
+              "name": "Alan Ranger Photography"
+            },
+            "text": "Thanks Paul, really appreciated and glad i was able to fix your long standing issues with Lightroom and missing photos"
           }
         }
       ],
