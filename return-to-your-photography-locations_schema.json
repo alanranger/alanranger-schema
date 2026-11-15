@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://www.alanranger.com/blog-on-photography/return-to-your-photography-locations#webpage",
+  "url": "https://www.alanranger.com/blog-on-photography/return-to-your-photography-locations",
+  "name": "Your best photography locations are the ones you return to",
+  "description": "The best photography locations aren't the ones you haven't been to yet. They're the ones you keep returning to. Issue 7 of Light &amp; Logic on the return.",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@id": "https://www.alanranger.com/#website"
+  },
+  "about": {
+    "@id": "https://www.alanranger.com/blog-on-photography/return-to-your-photography-locations#blogposting"
+  },
+  "mainEntity": {
+    "@id": "https://www.alanranger.com/blog-on-photography/return-to-your-photography-locations#blogposting"
+  }
+}
