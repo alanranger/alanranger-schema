@@ -1,4 +1,4 @@
-/* alanranger.com code-block styles — content 5ffc8bf7db. Do not edit by hand: rebuilt from the live code blocks
+/* alanranger.com code-block styles — content 5b04bdb918. Do not edit by hand: rebuilt from the live code blocks
    (and their paste files where Squarespace blanked rules). Each rule applies only on its own page(s). */
 /* /photographic-workshops-near-me|block-yui_3_17_2_1_1767984478082_16730|0 */
 :where(#collection-536f5864e4b089f82062c7f7){#arp-pwnm-intro{max-width: 1100px;margin: 0 auto;padding: 10px 0 22px}#arp-pwnm-intro .card{background: #fbf7f2;border: 1px solid rgba(17,24,39,.12);border-radius: 18px;padding: 20px 18px;box-shadow: 0 10px 30px rgba(0,0,0,.04)}#arp-pwnm-intro h2{margin: 0 0 10px;font-size: 22px;line-height: 1.25}#arp-pwnm-intro p{margin: 0 0 12px;line-height: 1.6;color: #111827}#arp-pwnm-intro .pills{display: flex;flex-wrap: wrap;gap: 8px;margin: 12px 0 16px}#arp-pwnm-intro .pill{display: inline-flex;gap: 8px;align-items: center;background: #fff;border: 1px solid rgba(17,24,39,.14);border-radius: 999px;padding: 8px 10px;font-size: 13px;color: #111827}#arp-pwnm-intro .pill b{font-weight: 700}#arp-pwnm-intro .ctaRow{display: flex;flex-wrap: wrap;gap: 10px;margin-top: 10px}#arp-pwnm-intro a.btn{display: inline-flex;align-items: center;justify-content: center;padding: 12px 14px;border-radius: 12px;text-decoration: none;font-weight: 800;border: 1px solid rgba(17,24,39,.14);background: #fff;color: #111827}#arp-pwnm-intro a.btn.primary{background: #E57200;color: #fff;border-color: #E57200}#arp-pwnm-intro .note{margin-top: 12px;padding: 10px 12px;border-radius: 12px;background: #fff;border: 1px solid rgba(17,24,39,.10);color: #111827;font-size: 14px;line-height: 1.5}}
@@ -893,3 +893,33 @@ body:where(#collection-5d10748e7aee470001793f41) .ar-plroute-alt a:hover{text-de
 #collection-5d122431dc40b90001421849 .ar-jlr-close .ar-prop h2 { color: #ffffff; }
 /* the-art-of-slow-photography: the block's own .ll-card .ll-body strong (#20232b) sat inside the dark insight box */
 #item-6acf9aca305f0b3a3a1bfa72 .ll-insight strong { color: inherit; }
+
+/* site-wide fixed rules */
+/* Permanent site-wide rules. Included in every blocks.css rebuild. Not page-scoped. */
+
+/* Blog post titles: Squarespace site.css sets 42px and 0.3em tracking, which overflows phones. Desktop stays as it is. */
+@media (max-width: 640px) {
+  h1.BlogItem-title {
+    font-size: 30px !important;
+    letter-spacing: 0.02em !important;
+    line-height: 1.25em !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Gold "Get all 60 modules" bar: nowrap made it 377px wide. Wrap the words; do not clip them. */
+  #ar-lesson-member-strip {
+    flex: 1 1 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+  #ar-lesson-member-strip .ar-lesson-signup-cta {
+    white-space: normal !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    height: auto;
+    line-height: 1.25;
+  }
+}
