@@ -8,13 +8,17 @@
   window.__arpVisitSource = true;
   var KEY = 'arp_signup_source_v1';
   var API = 'https://alanranger-modules.vercel.app/api/academy/signup-source';
+  var ORDER_API = 'https://ai-geo-audit.vercel.app/api/aigeo/order-visit';
   var TRIAL = 'pln_academy-trial-30-days--wb7v0hbh';
 
   function allowed() {
     try {
       var read = window.getSquarespaceCookies;
-      var cookies = read && read();
-      return !!(cookies && cookies.performance === 'accepted');
+      if (read) {
+        var cookies = read();
+        return !!(cookies && cookies.performance === 'accepted');
+      }
+      return document.cookie.indexOf('ss_performanceCookiesAllowed=true') !== -1;
     } catch (e) {
       return false;
     }
@@ -125,6 +129,59 @@
     if (checkoutTrial() || onLogin) eventOnce('trial_start', {}, id);
     if (/[?&]upgraded=1(?:&|$)/.test(location.search)) eventOnce('academy_upgrade', { value: 79, currency: 'GBP' }, id);
     await flush(person);
+    await postOrder();
+  }
+
+  function readOrderNumber(doc) {
+    var node = doc.querySelector('script#bootstrap-data');
+    if (!node) return null;
+    try {
+      var data = JSON.parse(node.textContent || '');
+      var raw = data && data.order && data.order.orderNumber;
+      return raw == null ? null : String(raw);
+    } catch (e) {
+      return null;
+    }
+  }
+
+  async function orderNumber() {
+    var found = readOrderNumber(document);
+    if (found) return found;
+    try {
+      var res = await fetch(location.href, { credentials: 'same-origin' });
+      var html = await res.text();
+      return readOrderNumber(new DOMParser().parseFromString(html, 'text/html'));
+    } catch (e) {
+      return null;
+    }
+  }
+
+  async function postOrder() {
+    if ((location.pathname || '').indexOf('/commerce/orders/') === -1) return;
+    var stored = readStored();
+    var number = await orderNumber();
+    if (!stored || !number) return;
+    var mark = 'arp_order_' + number;
+    try { if (localStorage.getItem(mark)) return; } catch (e) { return; }
+    try {
+      var res = await fetch(ORDER_API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          order_number: number,
+          signup_source: stored.src,
+          utm_source: stored.utm_source,
+          utm_medium: stored.utm_medium,
+          utm_campaign: stored.utm_campaign,
+          utm_content: stored.utm_content,
+          landing_path: stored.landing_path,
+          captured_at: stored.at
+        }),
+        keepalive: true
+      });
+      var json = await res.json();
+      if (res.ok && json && json.ok) localStorage.setItem(mark, '1');
+    } catch (e) {}
   }
 
   var tries = 0;
