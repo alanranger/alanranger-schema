@@ -211,3 +211,12 @@
     }).catch(function () {});
   }
 })();
+(function () {
+  try {
+    if (window.self !== window.top) return;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://schema.alanranger.com/loaders/visit-source.js';
+    document.head.appendChild(s);
+  } catch (err) {}
+})();

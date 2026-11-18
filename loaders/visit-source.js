@@ -4,6 +4,8 @@
  * Loaded by the site-wide chat embed. Writes nothing until performance cookies are accepted.
  */
 (function () {
+  if (window.__arpVisitSource) return;
+  window.__arpVisitSource = true;
   var KEY = 'arp_signup_source_v1';
   var API = 'https://alanranger-modules.vercel.app/api/academy/signup-source';
   var TRIAL = 'pln_academy-trial-30-days--wb7v0hbh';
