@@ -1,7 +1,7 @@
 /**
  * First-touch ChatGPT ad visit, plus Academy trial and upgrade events.
  * https://schema.alanranger.com/loaders/visit-source.js
- * Loaded by the site-wide chat embed. Writes nothing until performance cookies are accepted.
+ * Loaded from the site header and the landing-page loader. Writes nothing until performance cookies are accepted.
  */
 (function () {
   if (window.__arpVisitSource) return;
@@ -46,13 +46,27 @@
     });
   }
 
-  function eventOnce(name, params) {
-    var mark = 'arp_evt_' + name;
-    if (sessionStorage.getItem(mark)) return;
-    sessionStorage.setItem(mark, '1');
+  function wait(ms) {
+    return new Promise(function (done) { setTimeout(done, ms); });
+  }
+
+  function eventOnce(name, params, memberId) {
+    var mark = 'arp_evt_' + name + (memberId ? '_' + memberId : '');
+    try {
+      if (localStorage.getItem(mark)) return;
+      localStorage.setItem(mark, '1');
+    } catch (e) {
+      return;
+    }
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push(Object.assign({ event: name }, params || {}));
     if (typeof window.gtag === 'function') window.gtag('event', name, params || {});
+  }
+
+  function checkoutTrial() {
+    var path = location.pathname || '';
+    var search = location.search || '';
+    return path.indexOf('/academy/dashboard') !== -1 && /[?&]fromCheckout=true(?:&|$)/.test(search) && /trial/i.test(search);
   }
 
   async function member() {
@@ -91,18 +105,31 @@
     });
   }
 
+  async function memberReady() {
+    var n = 0;
+    while (n < 24) {
+      var person = await member();
+      if (person && (person.id || person.memberId)) return person;
+      n += 1;
+      await wait(500);
+    }
+    return null;
+  }
+
   async function run() {
     if (!allowed()) return;
     capture();
-    var person = await member();
-    if (onTrial(person) && /\/academy\/login/.test(location.pathname)) eventOnce('trial_start');
-    if (/[?&]upgraded=1(?:&|$)/.test(location.search)) eventOnce('academy_upgrade', { value: 79, currency: 'GBP' });
+    var person = await memberReady();
+    var id = person && (person.id || person.memberId);
+    var onLogin = onTrial(person) && /\/academy\/login/.test(location.pathname);
+    if (checkoutTrial() || onLogin) eventOnce('trial_start', {}, id);
+    if (/[?&]upgraded=1(?:&|$)/.test(location.search)) eventOnce('academy_upgrade', { value: 79, currency: 'GBP' }, id);
     await flush(person);
   }
 
   var tries = 0;
   (function tick() {
-    if (allowed() || tries > 16) { run(); return; }
+    if (allowed() || tries > 120) { run(); return; }
     tries += 1;
     setTimeout(tick, 500);
   })();
