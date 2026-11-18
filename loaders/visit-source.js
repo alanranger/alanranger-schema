@@ -365,6 +365,8 @@
     tries += 1;
     setTimeout(tick, 500);
   })();
-  setInterval(pixelTick, 2000);
-  pixelTick();
+  if (pixelPage()) {
+    setInterval(pixelTick, 2000);
+    pixelTick();
+  }
 })();
