@@ -144,7 +144,24 @@
     }
   }
 
+  function onGiftConfirm() {
+    return (location.pathname || '').indexOf('/checkout/gift-card-order-confirmed') !== -1;
+  }
+
+  async function giftOrderNumber() {
+    var n = 0;
+    while (n < 20) {
+      var text = document.body ? document.body.innerText : '';
+      var match = text.match(/Order Number:\s*#?\s*(\d{1,6})/i);
+      if (match) return match[1];
+      n += 1;
+      await wait(500);
+    }
+    return null;
+  }
+
   async function orderNumber() {
+    if (onGiftConfirm()) return giftOrderNumber();
     var found = readOrderNumber(document);
     if (found) return found;
     try {
@@ -157,7 +174,8 @@
   }
 
   async function postOrder() {
-    if ((location.pathname || '').indexOf('/commerce/orders/') === -1) return;
+    var path = location.pathname || '';
+    if (path.indexOf('/commerce/orders/') === -1 && !onGiftConfirm()) return;
     var stored = readStored();
     var number = await orderNumber();
     if (!stored || !number) return;
