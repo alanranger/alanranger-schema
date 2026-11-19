@@ -206,8 +206,23 @@
     for (var i = 0; i < nodes.length; i++) h = Math.max(h, Math.round(nodes[i].getBoundingClientRect().height));
     if (h > 0) document.documentElement.style.setProperty('--ar-header-offset', (h + 12) + 'px');
   }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setHeaderOffset);
-  else setHeaderOffset();
+  var moneyCompact = {
+    '/landscape-photography-workshops': 1,
+    '/photography-workshops': 1,
+    '/photography-workshops-near-me': 1,
+    '/beginners-photography-classes': 1,
+    '/photo-editing-course-coventry': 1,
+    '/private-photography-lessons': 1,
+    '/photography-lessons-online-121': 1,
+    '/rps-courses-mentoring-distinctions': 1,
+    '/photography-payment-plan': 1,
+    '/corporate-photography-training': 1
+  };
+  function markMoneyPage() {
+    if (moneyCompact[path]) document.body.classList.add('ar-money-compact');
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', function () { setHeaderOffset(); markMoneyPage(); });
+  else { setHeaderOffset(); markMoneyPage(); }
 
   if (window.__AR_LANDING_SCHEMA_INLINE) {
     boot(window.__AR_LANDING_SCHEMA_INLINE);
