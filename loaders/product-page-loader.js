@@ -666,17 +666,42 @@
             setInterval(function () { var c = cartCount(); if (c !== _lastCount) { _lastCount = c; renderState(); } }, 1500);
             bookBtn.addEventListener('click', function () { setTimeout(renderState, 1000); });
 
+            var seen = { buy: true, cards: true, dates: true };
+            function inView(el) {
+              if (!el) return false;
+              var r = el.getBoundingClientRect();
+              return r.bottom > 70 && r.top < window.innerHeight - 30;
+            }
             function onScroll() {
-              var nearBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 140);
-              if (window.innerWidth <= 767) {
-                if (nearBottom) bar.classList.remove('ar-show');
-                else bar.classList.add('ar-show');
-                return;
+              if (!window.IntersectionObserver) {
+                seen.buy = inView(bookBtn);
+                seen.cards = inView(cards);
+                seen.dates = inView(datesEl);
               }
-              var r = cards.getBoundingClientRect();
-              var pastCards = r.bottom < 80;
-              if (pastCards && !nearBottom) bar.classList.add('ar-show');
-              else bar.classList.remove('ar-show');
+              var nearBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 140);
+              var onScreen = seen.buy || seen.cards || seen.dates;
+              if (nearBottom || onScreen) bar.classList.remove('ar-show');
+              else bar.classList.add('ar-show');
+            }
+            var datesEl = document.getElementById('ar-workshop-dates');
+            if (window.IntersectionObserver) {
+              var watch = new IntersectionObserver(function (entries) {
+                entries.forEach(function (entry) {
+                  var key = entry.target === bookBtn ? 'buy' : (entry.target === cards ? 'cards' : 'dates');
+                  seen[key] = entry.isIntersecting;
+                });
+                onScroll();
+              }, { threshold: 0.05 });
+              if (bookBtn) watch.observe(bookBtn);
+              if (cards) watch.observe(cards);
+              if (datesEl && datesEl !== cards) watch.observe(datesEl);
+              if (!bookBtn) seen.buy = false;
+              if (!cards) seen.cards = false;
+              if (!datesEl) seen.dates = false;
+            } else {
+              seen.buy = inView(bookBtn);
+              seen.cards = inView(cards);
+              seen.dates = inView(datesEl);
             }
             var ticking = false;
             window.addEventListener('scroll', function () {
@@ -774,13 +799,23 @@
               while ((m = re.exec(s))) {
                 var prev = m.index > 0 ? s.charAt(m.index - 1) : '';
                 if (!/\d/.test(prev)) {
-                  return {
+                  return tidyLabel({
                     date: s.slice(0, m.index).replace(/[\s\-\u2013]+$/, ''),
                     time: s.slice(m.index).trim()
-                  };
+                  });
                 }
               }
-              return { date: s, time: '' };
+              return tidyLabel({ date: s, time: '' });
+            }
+            function tidyLabel(parts) {
+              parts.date = String(parts.date || '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              if (parts.time) return parts;
+              var ex = document.querySelector('.ProductItem-details-excerpt');
+              var text = ex ? ex.innerText || '' : '';
+              var key = parts.date.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+              var found = key && text.match(new RegExp(key + '\\s*[-\u2013]\\s*(\\d{1,2}:\\d{2})\\s*[-\u2013]\\s*(\\d{1,2}:\\d{2})', 'i'));
+              if (found) parts.time = found[1] + '\u2013' + found[2];
+              return parts;
             }
             function summaryDateParts() {
               try {
@@ -981,10 +1016,57 @@
           }
 
           /* Phone first screen: mark the native date selector. The sticky bar reuses the same button. */
+          function openingNode(ex) {
+            var marked = document.querySelector('[data-ar-opening]');
+            if (marked) return marked;
+            if (!ex) return null;
+            var kids = ex.children;
+            for (var i = 0; i < kids.length; i++) {
+              var el = kids[i];
+              var raw = (el.innerText || '').replace(/\s+/g, ' ').trim();
+              if (!raw) continue;
+              if (el.tagName === 'UL' || el.tagName === 'OL' || /^summary$/i.test(raw)) return null;
+              if (/^H[234]$/.test(el.tagName) && raw.length < 40) return null;
+              if (raw.length < 40) continue;
+              return el;
+            }
+            return null;
+          }
+          function placeOpening() {
+            var ex = document.querySelector('.ProductItem-details-excerpt');
+            var node = openingNode(ex);
+            var copy = document.getElementById('ar-open-line');
+            if (!node || !ex) return;
+            if (window.innerWidth > 767) {
+              if (copy) copy.remove();
+              if (node.getAttribute('data-ar-opening') && node.parentNode !== ex) ex.insertBefore(node, ex.firstChild);
+              return;
+            }
+            var price = document.querySelector('.product-price');
+            if (!price || !price.parentNode) return;
+            var text = (node.innerText || '').replace(/\s+/g, ' ').trim();
+            if (text.length > 250) {
+              if (copy) return;
+              var cut = text.slice(0, 250);
+              var dot = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+              var p = document.createElement('p');
+              p.id = 'ar-open-line';
+              p.className = 'ar-open-line';
+              p.setAttribute('aria-hidden', 'true');
+              p.textContent = dot > 80 ? cut.slice(0, dot + 1) : cut.replace(/\s+\S*$/, '');
+              price.parentNode.insertBefore(p, price);
+              return;
+            }
+            if (copy) copy.remove();
+            node.setAttribute('data-ar-opening', '1');
+            if (node.nextElementSibling !== price) price.parentNode.insertBefore(node, price);
+          }
           if (path.indexOf('/photo-workshops-uk/') === 0) {
             document.body.classList.add('ar-ws-product');
             var dateBox = document.querySelector('.product-variants');
             if (dateBox) dateBox.id = 'ar-workshop-dates';
+            placeOpening();
+            window.addEventListener('resize', placeOpening, { passive: true });
           }
           /* fix15: build the sticky bottom CTA bar (bookable pages only). */
           buildStickyCta(item);
@@ -1678,7 +1760,17 @@
                 var prev = m.index > 0 ? s.charAt(m.index - 1) : '';
                 if (!/\d/.test(prev)) { return { date: s.slice(0, m.index).replace(/[\s\-\u2013]+$/, ''), time: s.slice(m.index).trim() }; }
               }
-              return { date: s, time: '' };
+              return tidyLabel({ date: s, time: '' });
+            }
+            function tidyLabel(parts) {
+              parts.date = String(parts.date || '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              if (parts.time) return parts;
+              var ex = document.querySelector('.ProductItem-details-excerpt');
+              var text = ex ? ex.innerText || '' : '';
+              var key = parts.date.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+              var found = key && text.match(new RegExp(key + '\\s*[-\u2013]\\s*(\\d{1,2}:\\d{2})\\s*[-\u2013]\\s*(\\d{1,2}:\\d{2})', 'i'));
+              if (found) parts.time = found[1] + '\u2013' + found[2];
+              return parts;
             }
             function summaryDateParts() {
               try {
