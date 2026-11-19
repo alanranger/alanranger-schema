@@ -983,8 +983,8 @@
           /* Phone first screen: mark the native date selector. The sticky bar reuses the same button. */
           if (path.indexOf('/photo-workshops-uk/') === 0) {
             document.body.classList.add('ar-ws-product');
-            var dateBox = item.querySelector('.product-variants');
-            if (dateBox && !dateBox.id) dateBox.id = 'ar-workshop-dates';
+            var dateBox = document.querySelector('.product-variants');
+            if (dateBox) dateBox.id = 'ar-workshop-dates';
           }
           /* fix15: build the sticky bottom CTA bar (bookable pages only). */
           buildStickyCta(item);
