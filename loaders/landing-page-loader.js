@@ -221,8 +221,93 @@
   function markMoneyPage() {
     if (moneyCompact[path]) document.body.classList.add('ar-money-compact');
   }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', function () { setHeaderOffset(); markMoneyPage(); });
-  else { setHeaderOffset(); markMoneyPage(); }
+  var coursePhonePages = {
+    '/beginners-photography-classes': 1,
+    '/photo-editing-course-coventry': 1,
+    '/private-photography-lessons': 1,
+    '/photography-lessons-online-121': 1,
+    '/rps-courses-mentoring-distinctions': 1
+  };
+  function phoneWidth() {
+    return window.matchMedia('(max-width: 767px)').matches;
+  }
+  function normLabel(value) {
+    return String(value || '').toLowerCase()
+      .replace(/£\s*[\d.]+/g, ' ')
+      .replace(/\d+\s*places left/g, ' ')
+      .replace(/sold out|save\s*\d+%/g, ' ')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  function pickOption(sel, label) {
+    var want = normLabel(label);
+    var best = null;
+    var bestLen = 0;
+    var i, text;
+    if (!want || !sel) return null;
+    for (i = 0; i < sel.options.length; i++) {
+      text = normLabel(sel.options[i].text);
+      if (!text || text.indexOf('select ') === 0) continue;
+      if (want.indexOf(text) === -1 && text.indexOf(want) === -1) continue;
+      if (text.length > bestLen) { best = sel.options[i]; bestLen = text.length; }
+    }
+    return best;
+  }
+  function hideDupDates(root) {
+    var labs = root.querySelectorAll('.ar-ll-lab');
+    Array.prototype.forEach.call(labs, function (lab) {
+      var val;
+      if ((lab.textContent || '').trim().toLowerCase() !== 'dates') return;
+      val = lab.nextElementSibling;
+      if (!val || !val.querySelector('.ar-ll-dchips')) return;
+      lab.classList.add('ar-ll-phone-hide');
+      val.classList.add('ar-ll-phone-hide');
+    });
+  }
+  function chooseTile(tile, sel, tiles) {
+    var opt = pickOption(sel, tile.innerText);
+    var btn;
+    if (!opt || opt.disabled) return false;
+    sel.value = opt.value;
+    sel.dispatchEvent(new Event('change', { bubbles: true }));
+    Array.prototype.forEach.call(tiles, function (item) { item.classList.remove('ar-ll-on'); });
+    tile.classList.add('ar-ll-on');
+    btn = document.querySelector('.sqs-add-to-cart-button');
+    if (btn && btn.scrollIntoView) btn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return true;
+  }
+  function wireCourseTiles(root) {
+    var sel = document.querySelector('.product-variants select');
+    var tiles = root.querySelectorAll('.ar-ll-g .ar-ll-c');
+    if (!sel || !tiles.length || root.getAttribute('data-ar-wired') === '1') return;
+    root.setAttribute('data-ar-wired', '1');
+    Array.prototype.forEach.call(tiles, function (tile) {
+      tile.addEventListener('click', function (ev) {
+        if (!phoneWidth() || tile.classList.contains('out')) return;
+        if (chooseTile(tile, sel, tiles)) ev.preventDefault();
+      });
+    });
+  }
+  function coursePhone() {
+    var root;
+    if (!coursePhonePages[path] || !phoneWidth()) return;
+    root = document.querySelector('#ar-ll');
+    if (!root) return;
+    hideDupDates(root);
+    wireCourseTiles(root);
+  }
+  function startCoursePhone() {
+    coursePhone();
+    setTimeout(coursePhone, 1000);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function () { setHeaderOffset(); markMoneyPage(); startCoursePhone(); });
+  } else {
+    setHeaderOffset();
+    markMoneyPage();
+    startCoursePhone();
+  }
 
   if (window.__AR_LANDING_SCHEMA_INLINE) {
     boot(window.__AR_LANDING_SCHEMA_INLINE);
