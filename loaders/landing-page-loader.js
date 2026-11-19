@@ -331,6 +331,8 @@
     ev.preventDefault();
     setHeaderOffset();
     scrollClear(el);
+    setTimeout(function () { scrollClear(el); }, 80);
+    setTimeout(function () { scrollClear(el); }, 450);
   }
   function fixGiftHash() {
     var el = giftEl(location.hash || '');
