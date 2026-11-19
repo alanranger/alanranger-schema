@@ -329,10 +329,11 @@
     el = giftEl(href);
     if (!el) return;
     ev.preventDefault();
+    ev.stopPropagation();
     setHeaderOffset();
     scrollClear(el);
-    setTimeout(function () { scrollClear(el); }, 80);
-    setTimeout(function () { scrollClear(el); }, 450);
+    setTimeout(function () { scrollClear(el); }, 120);
+    setTimeout(function () { scrollClear(el); }, 700);
   }
   function fixGiftHash() {
     var el = giftEl(location.hash || '');
