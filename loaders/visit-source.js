@@ -207,6 +207,9 @@
   var pixelReady = null;
   var pixelOn = false;
   var pixelBusy = false;
+  var pixelLoaded = false;
+  var triedThisView = false;
+  var SDK_CAP = 3;
 
   function marketingAllowed() {
     try {
@@ -232,13 +235,25 @@
     return /[?&]utm_source=chatgpt(?:&|$)/i.test(search);
   }
 
+  function sdkFails() {
+    try { return parseInt(sessionStorage.getItem('oaiq_sdk_fails') || '0', 10) || 0; } catch (e) { return 0; }
+  }
+
+  function noteSdkFail() {
+    try { sessionStorage.setItem('oaiq_sdk_fails', String(sdkFails() + 1)); } catch (e) {}
+  }
+
   function loadPixel() {
+    if (pixelLoaded) return Promise.resolve(true);
     if (pixelReady) return pixelReady;
+    if (triedThisView || sdkFails() >= SDK_CAP) return Promise.resolve(false);
+    triedThisView = true;
     pixelReady = new Promise(function (resolve) {
       var q = window.oaiq;
       if (!q) {
         q = function () { q.q.push(arguments); };
         q.q = [];
+        q.stub = true;
         window.oaiq = q;
       }
       q('consent', false);
@@ -246,8 +261,12 @@
       var js = document.createElement('script');
       js.async = true;
       js.src = 'https://bzrcdn.openai.com/sdk/oaiq.min.js';
-      js.onload = function () { resolve(); };
-      js.onerror = function () { pixelReady = null; resolve(); };
+      js.onload = function () {
+        if (window.oaiq && window.oaiq.stub) { pixelReady = null; noteSdkFail(); resolve(false); return; }
+        pixelLoaded = true;
+        resolve(true);
+      };
+      js.onerror = function () { pixelReady = null; noteSdkFail(); resolve(false); };
       document.head.appendChild(js);
     });
     return pixelReady;
@@ -304,6 +323,47 @@
     }
   }
 
+  function adsVisit() {
+    var stored = readStored();
+    return !!(stored && stored.src === 'chatgpt-ads');
+  }
+
+  function seen(mark) {
+    try { return !!localStorage.getItem(mark); } catch (e) { return false; }
+  }
+
+  function remember(mark, send) {
+    if (!pixelLoaded || (window.oaiq && window.oaiq.stub) || seen(mark)) return;
+    try { send(); } catch (e) { return; }
+    try { localStorage.setItem(mark, '1'); } catch (e) {}
+  }
+
+  function stamp(value) {
+    if (value == null || value === '') return null;
+    if (typeof value === 'number') return value < 1e12 ? value * 1000 : value;
+    var n = Date.parse(value);
+    return isNaN(n) ? null : n;
+  }
+
+  function trialPlan(person) {
+    var plans = (person && person.planConnections) || [];
+    var i;
+    for (i = 0; i < plans.length; i++) {
+      if (plans[i] && plans[i].planId === TRIAL && plans[i].status !== 'CANCELED') return plans[i];
+    }
+    return null;
+  }
+
+  function triallingBeforeTouch(person) {
+    var stored = readStored();
+    var plan = trialPlan(person);
+    var pay = plan && plan.payment;
+    var start = stamp(plan && (plan.startDate || plan.createdAt)) || stamp(pay && pay.startDate) || stamp(person && person.createdAt);
+    var touch = stamp(stored && stored.at);
+    if (start == null || touch == null) return false;
+    return start + 120000 < touch;
+  }
+
   async function measureOrder() {
     var path = location.pathname || '';
     if (path.indexOf('/commerce/orders/') === -1 && !onGiftConfirm()) return;
@@ -311,10 +371,9 @@
     var amount = found ? minorUnits(found.pounds) : null;
     if (!found || amount == null || amount === 0) return;
     var eventId = 'sq-order-' + String(parseInt(found.number, 10));
-    var mark = 'oaiq_order_' + eventId;
-    try { if (localStorage.getItem(mark)) return; } catch (e) { return; }
-    window.oaiq('measure', 'order_created', { type: 'contents', amount: amount, currency: 'GBP' }, { event_id: eventId });
-    try { localStorage.setItem(mark, '1'); } catch (e) {}
+    remember('oaiq_order_' + eventId, function () {
+      window.oaiq('measure', 'order_created', { type: 'contents', amount: amount, currency: 'GBP' }, { event_id: eventId });
+    });
   }
 
   async function trialEventId(memberId) {
@@ -329,31 +388,35 @@
 
   async function measureTrial(person) {
     var id = person && (person.id || person.memberId);
-    var onLogin = onTrial(person) && /\/academy\/login/.test(location.pathname);
-    if (!id || !(checkoutTrial() || onLogin)) return;
+    if (!adsVisit() || !id || !onTrial(person) || triallingBeforeTouch(person)) return;
     var eventId = await trialEventId(id);
     if (!eventId) return;
-    var mark = 'oaiq_trial_' + eventId;
-    try { if (localStorage.getItem(mark)) return; } catch (e) { return; }
-    window.oaiq('measure', 'trial_started', { type: 'plan_enrollment', plan_id: TRIAL }, { event_id: eventId });
-    try { localStorage.setItem(mark, '1'); } catch (e) {}
+    remember('oaiq_trial_' + eventId, function () {
+      window.oaiq('measure', 'trial_started', { type: 'plan_enrollment', plan_id: TRIAL }, { event_id: eventId });
+    });
+  }
+
+  function personForTrial() {
+    var path = location.pathname || '';
+    if (path.indexOf('/academy/') !== -1) return memberReady();
+    return member();
   }
 
   async function pixelTick() {
     if (pixelBusy) return;
-    if (!pixelPage() || !marketingAllowed()) {
+    if (!(pixelPage() || adsVisit()) || !marketingAllowed()) {
       if (pixelOn && window.oaiq) window.oaiq('consent', false);
       pixelOn = false;
       return;
     }
     pixelBusy = true;
     try {
-      await loadPixel();
-      if (!window.oaiq) return;
+      var loaded = await loadPixel();
+      if (!loaded || !window.oaiq || window.oaiq.stub) return;
       window.oaiq('consent', true);
       pixelOn = true;
       await measureOrder();
-      if (checkoutTrial() || /\/academy\/login/.test(location.pathname)) await measureTrial(await memberReady());
+      await measureTrial(await personForTrial());
     } finally {
       pixelBusy = false;
     }
@@ -365,7 +428,7 @@
     tries += 1;
     setTimeout(tick, 500);
   })();
-  if (pixelPage()) {
+  if (pixelPage() || adsVisit()) {
     setInterval(pixelTick, 2000);
     pixelTick();
   }
