@@ -200,6 +200,15 @@
     inject(originalSchema);
     startClean();
   }
+  function setHeaderOffset() {
+    var nodes = document.querySelectorAll('.Header-inner, header.Header, header');
+    var h = 0;
+    for (var i = 0; i < nodes.length; i++) h = Math.max(h, Math.round(nodes[i].getBoundingClientRect().height));
+    if (h > 0) document.documentElement.style.setProperty('--ar-header-offset', (h + 12) + 'px');
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setHeaderOffset);
+  else setHeaderOffset();
+
   if (window.__AR_LANDING_SCHEMA_INLINE) {
     boot(window.__AR_LANDING_SCHEMA_INLINE);
   } else {

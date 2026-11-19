@@ -667,9 +667,14 @@
             bookBtn.addEventListener('click', function () { setTimeout(renderState, 1000); });
 
             function onScroll() {
+              var nearBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 140);
+              if (window.innerWidth <= 767) {
+                if (nearBottom) bar.classList.remove('ar-show');
+                else bar.classList.add('ar-show');
+                return;
+              }
               var r = cards.getBoundingClientRect();
               var pastCards = r.bottom < 80;
-              var nearBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 140);
               if (pastCards && !nearBottom) bar.classList.add('ar-show');
               else bar.classList.remove('ar-show');
             }
@@ -975,6 +980,12 @@
             }
           }
 
+          /* Phone first screen: mark the native date selector. The sticky bar reuses the same button. */
+          if (path.indexOf('/photo-workshops-uk/') === 0) {
+            document.body.classList.add('ar-ws-product');
+            var dateBox = item.querySelector('.product-variants');
+            if (dateBox && !dateBox.id) dateBox.id = 'ar-workshop-dates';
+          }
           /* fix15: build the sticky bottom CTA bar (bookable pages only). */
           buildStickyCta(item);
         }
