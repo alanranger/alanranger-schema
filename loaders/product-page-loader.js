@@ -823,10 +823,16 @@
                 if (ex) {
                   var m = ex.innerText.match(/Dates?:\s*\n?\s*([^\n]+)/i);
                   if (m) {
-                    var s = m[1].trim();
+                    var s = m[1].trim().replace(/^dates?:\s*/i, '');
+                    var clock = s.match(/(\d{1,2}:\d{2})\s*[-\u2013]\s*(\d{1,2}:\d{2})/i);
+                    if (clock) {
+                      var dateOnly = s.slice(0, clock.index).replace(/^:?\s*/, '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+                      return { date: dateOnly || 'Available option', time: clock[1] + '\u2013' + clock[2] };
+                    }
                     var p = splitLabel(s);
                     if (p.time) return p;
                     s = s.replace(/,?\s*\d{1,2}:\d{2}\s*(am|pm)?/gi, ' ').replace(/\s{2,}/g, ' ').trim();
+                    s = s.replace(/(\s*[-\u2013]\s*)+$/, '').trim();
                     var d = s.match(/^(.*?)[\s\-\u2013]+(\d+\s*Days?(?:\/\d+\s*Nights?)?.*)$/i);
                     if (d) return { date: d[1].replace(/[\s\-\u2013]+$/, ''), time: d[2].trim() };
                     return { date: s, time: '' };
@@ -1778,9 +1784,16 @@
                 if (ex) {
                   var m = ex.innerText.match(/Dates?:\s*\n?\s*([^\n]+)/i);
                   if (m) {
-                    var s = m[1].trim(); var p = splitLabel(s);
+                    var s = m[1].trim().replace(/^dates?:\s*/i, '');
+                    var clock = s.match(/(\d{1,2}:\d{2})\s*[-\u2013]\s*(\d{1,2}:\d{2})/i);
+                    if (clock) {
+                      var dateOnly = s.slice(0, clock.index).replace(/^:?\s*/, '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+                      return { date: dateOnly || 'Available option', time: clock[1] + '\u2013' + clock[2] };
+                    }
+                    var p = splitLabel(s);
                     if (p.time) return p;
                     s = s.replace(/,?\s*\d{1,2}:\d{2}\s*(am|pm)?/gi, ' ').replace(/\s{2,}/g, ' ').trim();
+                    s = s.replace(/(\s*[-\u2013]\s*)+$/, '').trim();
                     var d = s.match(/^(.*?)[\s\-\u2013]+(\d+\s*Days?(?:\/\d+\s*Nights?)?.*)$/i);
                     if (d) return { date: d[1].replace(/[\s\-\u2013]+$/, ''), time: d[2].trim() };
                     return { date: s, time: '' };
