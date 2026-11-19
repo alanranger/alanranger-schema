@@ -808,7 +808,13 @@
               return tidyLabel({ date: s, time: '' });
             }
             function tidyLabel(parts) {
+              var clock;
               parts.date = String(parts.date || '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              clock = parts.date.match(/(\d{1,2}:\d{2})\s*[-\u2013]\s*(\d{1,2}:\d{2})\s*$/);
+              if (!parts.time && clock) {
+                parts.time = clock[1] + '\u2013' + clock[2];
+                parts.date = parts.date.slice(0, clock.index).replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              }
               if (parts.time) return parts;
               var ex = document.querySelector('.ProductItem-details-excerpt');
               var text = ex ? ex.innerText || '' : '';
@@ -1769,7 +1775,13 @@
               return tidyLabel({ date: s, time: '' });
             }
             function tidyLabel(parts) {
+              var clock;
               parts.date = String(parts.date || '').replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              clock = parts.date.match(/(\d{1,2}:\d{2})\s*[-\u2013]\s*(\d{1,2}:\d{2})\s*$/);
+              if (!parts.time && clock) {
+                parts.time = clock[1] + '\u2013' + clock[2];
+                parts.date = parts.date.slice(0, clock.index).replace(/(\s*[-\u2013]\s*)+$/, '').trim();
+              }
               if (parts.time) return parts;
               var ex = document.querySelector('.ProductItem-details-excerpt');
               var text = ex ? ex.innerText || '' : '';

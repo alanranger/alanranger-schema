@@ -201,9 +201,14 @@
     startClean();
   }
   function setHeaderOffset() {
-    var nodes = document.querySelectorAll('.Header-inner, header.Header, header');
+    var nodes = document.querySelectorAll('.Header-inner, header.Header, header, .Header-branding');
     var h = 0;
-    for (var i = 0; i < nodes.length; i++) h = Math.max(h, Math.round(nodes[i].getBoundingClientRect().height));
+    var i, r;
+    for (i = 0; i < nodes.length; i++) {
+      r = nodes[i].getBoundingClientRect();
+      if (r.top < 30 && r.bottom > h && r.bottom < 180) h = Math.round(r.bottom);
+      else if (r.height > h && r.height < 180) h = Math.round(r.height);
+    }
     if (h > 0) document.documentElement.style.setProperty('--ar-header-offset', (h + 12) + 'px');
   }
   var moneyCompact = {
@@ -301,13 +306,48 @@
     coursePhone();
     setTimeout(coursePhone, 1000);
   }
+  var GIFT_BLOCK = 'block-yui_3_17_2_5_1507735009696_8714';
+  function headerGap() {
+    var n = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--ar-header-offset'), 10);
+    return n > 0 ? n : 84;
+  }
+  function scrollClear(el) {
+    var top = el.getBoundingClientRect().top + window.pageYOffset - headerGap();
+    window.scrollTo(0, top > 0 ? top : 0);
+  }
+  function giftEl(href) {
+    var id = href.slice(href.indexOf('#') + 1);
+    if (id !== 'buy-voucher' && id !== GIFT_BLOCK) return null;
+    return document.getElementById(id) || document.getElementById(GIFT_BLOCK);
+  }
+  function onGiftClick(ev) {
+    var a = ev.target && ev.target.closest ? ev.target.closest('a') : null;
+    var href, el;
+    if (!a) return;
+    href = a.getAttribute('href') || '';
+    if (href.indexOf('#buy-voucher') === -1 && href.indexOf('#' + GIFT_BLOCK) === -1) return;
+    el = giftEl(href);
+    if (!el) return;
+    ev.preventDefault();
+    setHeaderOffset();
+    scrollClear(el);
+  }
+  function fixGiftHash() {
+    var el = giftEl(location.hash || '');
+    if (!el) return;
+    setHeaderOffset();
+    scrollClear(el);
+  }
+  document.addEventListener('click', onGiftClick, true);
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function () { setHeaderOffset(); markMoneyPage(); startCoursePhone(); });
+    document.addEventListener('DOMContentLoaded', function () { setHeaderOffset(); markMoneyPage(); startCoursePhone(); fixGiftHash(); });
   } else {
     setHeaderOffset();
     markMoneyPage();
     startCoursePhone();
+    fixGiftHash();
   }
+  setTimeout(fixGiftHash, 700);
 
   if (window.__AR_LANDING_SCHEMA_INLINE) {
     boot(window.__AR_LANDING_SCHEMA_INLINE);
