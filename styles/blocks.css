@@ -1202,3 +1202,7 @@ body:where(#collection-5d10748e7aee470001793f41) .ar-plroute-alt a:hover{text-de
     line-height: 1.15 !important;
   }
 }
+html:not(.ar-cookie-show) .gdpr-cookie-banner {
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
