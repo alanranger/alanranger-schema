@@ -223,8 +223,27 @@
     '/photography-payment-plan': 1,
     '/corporate-photography-training': 1
   };
+  var headingTight = {
+    '/batsford-arboretum-photography': 1,
+    '/beginners-portrait-photography-course': 1,
+    '/bluebell-woods-near-me': 1,
+    '/course-finder-photography-classes-near-me': 1,
+    '/free-online-photography-course': 1,
+    '/hire-a-professional-photographer-in-coventry': 1,
+    '/jaguar-land-rover-els': 1,
+    '/photography-courses-coventry': 1,
+    '/photography-gift-vouchers': 1,
+    '/photography-mentoring-online-assignments': 1,
+    '/photography-services-near-me': 1,
+    '/photography-special-offers': 1,
+    '/photography-tuition-services': 1,
+    '/professional-commercial-photographer-coventry': 1,
+    '/professional-photographer-near-me': 1,
+    '/property-photographer-coventry': 1
+  };
   function markMoneyPage() {
     if (moneyCompact[path]) document.body.classList.add('ar-money-compact');
+    else if (headingTight[path]) document.body.classList.add('ar-heading-tight');
   }
   var coursePhonePages = {
     '/beginners-photography-classes': 1,
