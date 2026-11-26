@@ -1,7 +1,7 @@
 /**
  * First-touch ChatGPT ad visit, plus Academy trial and upgrade events.
  * https://schema.alanranger.com/loaders/visit-source.js
- * Loaded from the site header and the landing-page loader. Writes nothing until performance cookies are accepted.
+ * Loaded from the site header and the landing-page loader. The first touch stays in memory until performance or marketing cookies are accepted.
  * The OpenAI pixel is separate: it loads only after marketing cookies are accepted, and only on ad landings, order confirmations and the Academy trial return.
  */
 (function () {
@@ -11,6 +11,10 @@
   var API = 'https://alanranger-modules.vercel.app/api/academy/signup-source';
   var ORDER_API = 'https://ai-geo-audit.vercel.app/api/aigeo/order-visit';
   var TRIAL = 'pln_academy-trial-30-days--wb7v0hbh';
+  var ANNUAL = 'pln_academy-annual-membership-h57x0h8g';
+  var PAID_PENCE = 7900;
+  var pending = null;
+  var ran = false;
 
   function allowed() {
     try {
@@ -34,13 +38,17 @@
     document.cookie = 'arp_signup_src=' + encodeURIComponent(payload.src) + '; path=/; max-age=2592000; SameSite=Lax';
   }
 
-  function capture() {
+  function consented() {
+    return allowed() || marketingAllowed();
+  }
+
+  function draftVisit() {
+    if (pending || readStored()) return;
     var qp = new URLSearchParams(location.search || '');
     var source = (qp.get('utm_source') || '').trim().toLowerCase();
     if (source !== 'chatgpt') return;
-    if (readStored()) return;
     var medium = (qp.get('utm_medium') || '').trim().toLowerCase();
-    writeStored({
+    pending = {
       src: medium === 'cpc' ? 'chatgpt-ads' : 'chatgpt',
       utm_source: source,
       utm_medium: medium || null,
@@ -48,7 +56,17 @@
       utm_content: qp.get('utm_content') || null,
       landing_path: location.pathname || null,
       at: new Date().toISOString()
-    });
+    };
+  }
+
+  function commitVisit() {
+    if (!consented() || readStored() || !pending) return;
+    writeStored(pending);
+  }
+
+  function capture() {
+    draftVisit();
+    commitVisit();
   }
 
   function wait(ms) {
@@ -122,7 +140,7 @@
   }
 
   async function run() {
-    if (!allowed()) return;
+    if (!consented()) return;
     capture();
     var person = await memberReady();
     var id = person && (person.id || person.memberId);
@@ -396,6 +414,44 @@
     });
   }
 
+  function paidAnnual(person) {
+    var plans = (person && person.planConnections) || [];
+    var i;
+    for (i = 0; i < plans.length; i++) {
+      var plan = plans[i];
+      var pay = plan && plan.payment;
+      if (!plan || plan.planId !== ANNUAL) continue;
+      if (String(plan.type || '').toUpperCase() !== 'SUBSCRIPTION') continue;
+      if (String(plan.status || '').toUpperCase() === 'CANCELED') continue;
+      if (String(pay && pay.status || '').toUpperCase() !== 'PAID') continue;
+      return plan;
+    }
+    return null;
+  }
+
+  function paidTooEarly(plan) {
+    var stored = readStored();
+    var pay = plan && plan.payment;
+    var start = stamp(plan && (plan.startDate || plan.createdAt)) || stamp(pay && pay.startDate);
+    var touch = stamp(stored && stored.at);
+    if (start == null || touch == null) return true;
+    return start + 120000 < touch;
+  }
+
+  async function measurePaid(person) {
+    var id = person && (person.id || person.memberId);
+    var plan = paidAnnual(person);
+    if (!adsVisit() || !id || !plan || paidTooEarly(plan)) return;
+    var eventId = await trialEventId(id);
+    if (!eventId) return;
+    var paidId = eventId.replace('sq-trial-', 'sq-sub-');
+    remember('oaiq_sub_' + paidId, function () {
+      window.oaiq('measure', 'subscription_created', {
+        type: 'plan_enrollment', plan_id: ANNUAL, amount: PAID_PENCE, currency: 'GBP'
+      }, { event_id: paidId });
+    });
+  }
+
   function personForTrial() {
     var path = location.pathname || '';
     if (path.indexOf('/academy/') !== -1) return memberReady();
@@ -416,18 +472,29 @@
       window.oaiq('consent', true);
       pixelOn = true;
       await measureOrder();
-      await measureTrial(await personForTrial());
+      var person = await personForTrial();
+      await measureTrial(person);
+      await measurePaid(person);
     } finally {
       pixelBusy = false;
     }
   }
 
-  var tries = 0;
-  (function tick() {
-    if (allowed() || tries > 120) { run(); return; }
-    tries += 1;
-    setTimeout(tick, 500);
-  })();
+  function onConsent() {
+    if (!consented() || ran) return;
+    ran = true;
+    run();
+  }
+
+  draftVisit();
+  onConsent();
+  document.addEventListener('click', function (ev) {
+    var el = ev.target && ev.target.closest ? ev.target.closest('button, a') : null;
+    if (!el || !el.closest('.gdpr-cookie-banner')) return;
+    setTimeout(onConsent, 100);
+    setTimeout(onConsent, 600);
+  }, true);
+  setInterval(onConsent, 1000);
   if (pixelPage() || adsVisit()) {
     setInterval(pixelTick, 2000);
     pixelTick();
